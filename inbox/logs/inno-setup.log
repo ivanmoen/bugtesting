@@ -1,0 +1,94 @@
+﻿2026-05-10 14:05:30.624   Log opened. (Time zone: UTC+02:00)
+2026-05-10 14:05:30.624   Setup version: Inno Setup version 6.1.2
+2026-05-10 14:05:30.624   Original Setup EXE: C:\Users\Werguru\Downloads\RpgBuildWorker-latest-setup.exe
+2026-05-10 14:05:30.624   Setup command line: /SL5="$1107B6,23062897,780800,C:\Users\Werguru\Downloads\RpgBuildWorker-latest-setup.exe" 
+2026-05-10 14:05:30.624   Compatibility mode: Yes (DetectorsAppHealth Installer)
+2026-05-10 14:05:30.624   Windows version: 10.0.26200  (NT platform: Yes)
+2026-05-10 14:05:30.624   64-bit Windows: Yes
+2026-05-10 14:05:30.624   Processor architecture: x64
+2026-05-10 14:05:30.624   User privileges: Administrative
+2026-05-10 14:05:30.624   Administrative install mode: Yes
+2026-05-10 14:05:30.624   Install mode root key: HKEY_LOCAL_MACHINE
+2026-05-10 14:05:30.624   64-bit install mode: Yes
+2026-05-10 14:05:30.626   Created temporary directory: C:\Users\Werguru\AppData\Local\Temp\is-IDLT8.tmp
+2026-05-10 14:05:55.179   Found 1 files to register with RestartManager.
+2026-05-10 14:05:55.179   Calling RestartManager's RmGetList.
+2026-05-10 14:05:55.187   RmGetList finished successfully.
+2026-05-10 14:05:55.187   RestartManager found no applications using one of our files.
+2026-05-10 14:05:56.296   Starting the installation process.
+2026-05-10 14:05:56.301   Creating directory: D:\Program Files\RPGBuildServer
+2026-05-10 14:05:56.302   Creating directory: C:\ProgramData\RPGBuildServer
+2026-05-10 14:05:56.303   Setting permissions on directory: C:\ProgramData\RPGBuildServer
+2026-05-10 14:05:56.303   Starting 64-bit helper process.
+2026-05-10 14:05:56.379   Helper process PID: 32340
+2026-05-10 14:05:56.395   Creating directory: C:\ProgramData\RPGBuildServer\logs
+2026-05-10 14:05:56.395   Setting permissions on directory: C:\ProgramData\RPGBuildServer\logs
+2026-05-10 14:05:56.395   Creating directory: C:\ProgramData\RPGBuildServer\state
+2026-05-10 14:05:56.395   Setting permissions on directory: C:\ProgramData\RPGBuildServer\state
+2026-05-10 14:05:56.396   Directory for uninstall files: D:\Program Files\RPGBuildServer
+2026-05-10 14:05:56.396   Creating new uninstall log: D:\Program Files\RPGBuildServer\unins000.dat
+2026-05-10 14:05:56.398   -- File entry --
+2026-05-10 14:05:56.398   Dest filename: D:\Program Files\RPGBuildServer\unins000.exe
+2026-05-10 14:05:56.398   Non-default bitness: 32-bit
+2026-05-10 14:05:56.399   Time stamp of our file: 2026-05-10 14:05:29.747
+2026-05-10 14:05:56.399   Installing the file.
+2026-05-10 14:05:56.403   Successfully installed the file.
+2026-05-10 14:05:56.404   -- File entry --
+2026-05-10 14:05:56.404   Dest filename: D:\Program Files\RPGBuildServer\RpgBuildWorker.exe
+2026-05-10 14:05:56.404   Time stamp of our file: 2026-05-10 12:35:50.000
+2026-05-10 14:05:56.404   Installing the file.
+2026-05-10 14:05:57.783   Successfully installed the file.
+2026-05-10 14:05:57.784   -- File entry --
+2026-05-10 14:05:57.784   Dest filename: D:\Program Files\RPGBuildServer\appsettings.json
+2026-05-10 14:05:57.784   Time stamp of our file: 2026-05-08 13:20:54.000
+2026-05-10 14:05:57.784   Installing the file.
+2026-05-10 14:05:57.785   Successfully installed the file.
+2026-05-10 14:05:57.785   -- File entry --
+2026-05-10 14:05:57.785   Dest filename: D:\Program Files\RPGBuildServer\appsettings.Development.json
+2026-05-10 14:05:57.785   Time stamp of our file: 2026-05-08 13:20:54.000
+2026-05-10 14:05:57.785   Installing the file.
+2026-05-10 14:05:57.786   Successfully installed the file.
+2026-05-10 14:05:57.786   -- File entry --
+2026-05-10 14:05:57.786   Dest filename: D:\Program Files\RPGBuildServer\bootstrap-prereqs.ps1
+2026-05-10 14:05:57.786   Time stamp of our file: 2026-05-10 12:16:38.000
+2026-05-10 14:05:57.786   Installing the file.
+2026-05-10 14:05:57.788   Successfully installed the file.
+2026-05-10 14:05:57.789   -- Icon entry --
+2026-05-10 14:05:57.789   Dest filename: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\RPG Build Worker\Configure RPG Build Worker.lnk
+2026-05-10 14:05:57.789   Creating directory: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\RPG Build Worker
+2026-05-10 14:05:57.795   Creating the icon.
+2026-05-10 14:05:59.008   Successfully created the icon.
+2026-05-10 14:05:59.012   -- Icon entry --
+2026-05-10 14:05:59.012   Dest filename: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\RPG Build Worker\Open Worker Logs.lnk
+2026-05-10 14:05:59.013   Creating the icon.
+2026-05-10 14:05:59.014   Successfully created the icon.
+2026-05-10 14:05:59.018   -- Icon entry --
+2026-05-10 14:05:59.018   Dest filename: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\RPG Build Worker\Worker Service Status.lnk
+2026-05-10 14:05:59.019   Creating the icon.
+2026-05-10 14:05:59.022   Successfully created the icon.
+2026-05-10 14:05:59.025   -- Icon entry --
+2026-05-10 14:05:59.025   Dest filename: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\RPG Build Worker\Uninstall RPG Build Worker.lnk
+2026-05-10 14:05:59.025   Creating the icon.
+2026-05-10 14:05:59.038   Successfully created the icon.
+2026-05-10 14:05:59.041   Saving uninstall information.
+2026-05-10 14:05:59.041   Creating new uninstall key: HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\{E504FC05-28BD-43DF-ACC2-0D70AA50202D}_is1
+2026-05-10 14:05:59.042   Writing uninstall key values.
+2026-05-10 14:05:59.042   Detected previous non administrative install? No
+2026-05-10 14:05:59.042   Detected previous administrative 32-bit install? No
+2026-05-10 14:05:59.164   Installation process succeeded.
+2026-05-10 14:08:19.721   Need to restart Windows? No
+2026-05-10 14:08:24.352   -- Run entry --
+2026-05-10 14:08:24.352   Run as: Original user
+2026-05-10 14:08:24.352   Type: Exec
+2026-05-10 14:08:24.352   Filename: D:\Program Files\RPGBuildServer\RpgBuildWorker.exe
+2026-05-10 14:08:24.352   Parameters: --setup
+2026-05-10 14:08:32.713   -- Run entry --
+2026-05-10 14:08:32.713   Run as: Original user
+2026-05-10 14:08:32.713   Type: Exec
+2026-05-10 14:08:32.713   Filename: C:\Windows\system32\sc.exe
+2026-05-10 14:08:32.713   Parameters: start RpgBuildWorker
+2026-05-10 14:08:33.305   Process exit code: 0
+2026-05-10 14:08:33.308   Deinitializing Setup.
+2026-05-10 14:08:33.312   Stopping 64-bit helper process. (PID: 32340)
+2026-05-10 14:08:33.314   Helper process exited.
+2026-05-10 14:08:33.322   Log closed.

@@ -1,0 +1,187 @@
+﻿
+===== date + host =====
+now: 2026-05-10T14:16:51.1645514+02:00
+computer: BMM-PC
+user: Werguru
+
+===== VS install (vswhere) =====
+D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools
+D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools
+
+===== cl.exe =====
+D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.44.35207\bin\Hostx64\x64\cl.exe  exists=True
+
+===== svn (Get-Command) =====
+
+
+Source  : C:\Program Files\TortoiseSVN\bin\svn.exe
+Version : 1.14.5.21638
+
+===== RpgBuildWorker service =====
+
+
+Name              : RpgBuildWorker
+Status            : Stopped
+StartType         : Automatic
+DisplayName       : RPG Build Worker
+DependentServices : {}
+
+===== RpgBuildWorker process(es) =====
+
+   Id ProcessName    StartTime           Path                                              
+   -- -----------    ---------           ----                                              
+30716 RpgBuildWorker 10.05.2026 14:08:32 D:\Program Files\RPGBuildServer\RpgBuildWorker.exe
+
+===== ProgramData\RPGBuildServer listing (recursive, depth 2) =====
+
+FullName                                                 Length LastWriteTime      
+--------                                                 ------ -------------      
+C:\ProgramData\RPGBuildServer\logs                              10.05.2026 14:08:33
+C:\ProgramData\RPGBuildServer\state                             10.05.2026 14:05:56
+C:\ProgramData\RPGBuildServer\logs\bootstrap-prereqs.log 1982   10.05.2026 14:08:19
+C:\ProgramData\RPGBuildServer\logs\worker-20260510.log   23532  10.05.2026 14:16:06
+
+===== worker-config.json (if any) =====
+MISSING: C:\ProgramData\RPGBuildServer\worker-config.json
+
+===== Program Files\RPGBuildServer listing =====
+MISSING: C:\Program Files\RPGBuildServer
+
+===== bootstrap-prereqs.log tail (last 80 lines) =====
+[copied to inbox\logs\bootstrap-prereqs-installer-run.log, 1982 bytes]
+2026-05-10T14:05:59.4972648+02:00 bootstrap-prereqs starting (PID=32712, PSVersion=5.1.26100.8115)
+2026-05-10T14:05:59.5142812+02:00 [INFO] winget found at C:\Users\Werguru\AppData\Local\Microsoft\WindowsApps\winget.exe
+2026-05-10T14:05:59.5289123+02:00 [INFO] TortoiseSVN already present at C:\Program Files\TortoiseSVN\bin\svn.exe -- skipping.
+2026-05-10T14:05:59.5846918+02:00 [INFO] VS install verb: 'install' at 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools' (existing instances found: 0)
+2026-05-10T14:05:59.5866848+02:00 [INFO] Installing VS Build Tools 2022 (~10 GB) into D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools ...
+2026-05-10T14:05:59.5896842+02:00 [INFO] This will take several minutes; the VS Installer UI shows progress.
+2026-05-10T14:05:59.5907286+02:00 [INFO] Downloading VS Build Tools bootstrapper: https://aka.ms/vs/17/release/vs_BuildTools.exe
+2026-05-10T14:06:02.4119383+02:00 [INFO] vs_BuildTools invoking: C:\Users\Werguru\AppData\Local\Temp\vs_BuildTools_32712.exe install --passive --wait --norestart --installPath "D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools" --add Microsoft.VisualStudio.Workload.VCTools --add Microsoft.VisualStudio.Component.VC.Tools.x86.x64 --add Microsoft.VisualStudio.Component.Windows11SDK.22621
+2026-05-10T14:08:19.6654610+02:00 [INFO] vs_BuildTools exit code: 0
+2026-05-10T14:08:19.6694646+02:00 [INFO] vs_BuildTools final exit code: 0
+2026-05-10T14:08:19.7033131+02:00 [INFO] VS Build Tools installed; installation root at D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools
+2026-05-10T14:08:19.7043386+02:00 [INFO] ------ Bootstrap summary ------
+2026-05-10T14:08:19.7053471+02:00 [INFO]   svn.exe      : C:\Program Files\TortoiseSVN\bin\svn.exe
+2026-05-10T14:08:19.7063428+02:00 [INFO]   VS C++ root  : D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools
+2026-05-10T14:08:19.7073420+02:00 [INFO] Bootstrap finished successfully.
+
+===== worker log (today, last 100 lines) =====
+MISSING: C:\ProgramData\RPGBuildServer\logs\worker-2026-05-10.log
+
+===== Inno setup log (latest) =====
+[copied to inbox\logs\inno-setup.log, 6489 bytes, mtime=05/10/2026 14:08:33]
+2026-05-10 14:05:55.179   Calling RestartManager's RmGetList.
+2026-05-10 14:05:55.187   RmGetList finished successfully.
+2026-05-10 14:05:55.187   RestartManager found no applications using one of our files.
+2026-05-10 14:05:56.296   Starting the installation process.
+2026-05-10 14:05:56.301   Creating directory: D:\Program Files\RPGBuildServer
+2026-05-10 14:05:56.302   Creating directory: C:\ProgramData\RPGBuildServer
+2026-05-10 14:05:56.303   Setting permissions on directory: C:\ProgramData\RPGBuildServer
+2026-05-10 14:05:56.303   Starting 64-bit helper process.
+2026-05-10 14:05:56.379   Helper process PID: 32340
+2026-05-10 14:05:56.395   Creating directory: C:\ProgramData\RPGBuildServer\logs
+2026-05-10 14:05:56.395   Setting permissions on directory: C:\ProgramData\RPGBuildServer\logs
+2026-05-10 14:05:56.395   Creating directory: C:\ProgramData\RPGBuildServer\state
+2026-05-10 14:05:56.395   Setting permissions on directory: C:\ProgramData\RPGBuildServer\state
+2026-05-10 14:05:56.396   Directory for uninstall files: D:\Program Files\RPGBuildServer
+2026-05-10 14:05:56.396   Creating new uninstall log: D:\Program Files\RPGBuildServer\unins000.dat
+2026-05-10 14:05:56.398   -- File entry --
+2026-05-10 14:05:56.398   Dest filename: D:\Program Files\RPGBuildServer\unins000.exe
+2026-05-10 14:05:56.398   Non-default bitness: 32-bit
+2026-05-10 14:05:56.399   Time stamp of our file: 2026-05-10 14:05:29.747
+2026-05-10 14:05:56.399   Installing the file.
+2026-05-10 14:05:56.403   Successfully installed the file.
+2026-05-10 14:05:56.404   -- File entry --
+2026-05-10 14:05:56.404   Dest filename: D:\Program Files\RPGBuildServer\RpgBuildWorker.exe
+2026-05-10 14:05:56.404   Time stamp of our file: 2026-05-10 12:35:50.000
+2026-05-10 14:05:56.404   Installing the file.
+2026-05-10 14:05:57.783   Successfully installed the file.
+2026-05-10 14:05:57.784   -- File entry --
+2026-05-10 14:05:57.784   Dest filename: D:\Program Files\RPGBuildServer\appsettings.json
+2026-05-10 14:05:57.784   Time stamp of our file: 2026-05-08 13:20:54.000
+2026-05-10 14:05:57.784   Installing the file.
+2026-05-10 14:05:57.785   Successfully installed the file.
+2026-05-10 14:05:57.785   -- File entry --
+2026-05-10 14:05:57.785   Dest filename: D:\Program Files\RPGBuildServer\appsettings.Development.json
+2026-05-10 14:05:57.785   Time stamp of our file: 2026-05-08 13:20:54.000
+2026-05-10 14:05:57.785   Installing the file.
+2026-05-10 14:05:57.786   Successfully installed the file.
+2026-05-10 14:05:57.786   -- File entry --
+2026-05-10 14:05:57.786   Dest filename: D:\Program Files\RPGBuildServer\bootstrap-prereqs.ps1
+2026-05-10 14:05:57.786   Time stamp of our file: 2026-05-10 12:16:38.000
+2026-05-10 14:05:57.786   Installing the file.
+2026-05-10 14:05:57.788   Successfully installed the file.
+2026-05-10 14:05:57.789   -- Icon entry --
+2026-05-10 14:05:57.789   Dest filename: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\RPG Build Worker\Configure RPG Build Worker.lnk
+2026-05-10 14:05:57.789   Creating directory: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\RPG Build Worker
+2026-05-10 14:05:57.795   Creating the icon.
+2026-05-10 14:05:59.008   Successfully created the icon.
+2026-05-10 14:05:59.012   -- Icon entry --
+2026-05-10 14:05:59.012   Dest filename: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\RPG Build Worker\Open Worker Logs.lnk
+2026-05-10 14:05:59.013   Creating the icon.
+2026-05-10 14:05:59.014   Successfully created the icon.
+2026-05-10 14:05:59.018   -- Icon entry --
+2026-05-10 14:05:59.018   Dest filename: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\RPG Build Worker\Worker Service Status.lnk
+2026-05-10 14:05:59.019   Creating the icon.
+2026-05-10 14:05:59.022   Successfully created the icon.
+2026-05-10 14:05:59.025   -- Icon entry --
+2026-05-10 14:05:59.025   Dest filename: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\RPG Build Worker\Uninstall RPG Build Worker.lnk
+2026-05-10 14:05:59.025   Creating the icon.
+2026-05-10 14:05:59.038   Successfully created the icon.
+2026-05-10 14:05:59.041   Saving uninstall information.
+2026-05-10 14:05:59.041   Creating new uninstall key: HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Uninstall\{E504FC05-28BD-43DF-ACC2-0D70AA50202D}_is1
+2026-05-10 14:05:59.042   Writing uninstall key values.
+2026-05-10 14:05:59.042   Detected previous non administrative install? No
+2026-05-10 14:05:59.042   Detected previous administrative 32-bit install? No
+2026-05-10 14:05:59.164   Installation process succeeded.
+2026-05-10 14:08:19.721   Need to restart Windows? No
+2026-05-10 14:08:24.352   -- Run entry --
+2026-05-10 14:08:24.352   Run as: Original user
+2026-05-10 14:08:24.352   Type: Exec
+2026-05-10 14:08:24.352   Filename: D:\Program Files\RPGBuildServer\RpgBuildWorker.exe
+2026-05-10 14:08:24.352   Parameters: --setup
+2026-05-10 14:08:32.713   -- Run entry --
+2026-05-10 14:08:32.713   Run as: Original user
+2026-05-10 14:08:32.713   Type: Exec
+2026-05-10 14:08:32.713   Filename: C:\Windows\system32\sc.exe
+2026-05-10 14:08:32.713   Parameters: start RpgBuildWorker
+2026-05-10 14:08:33.305   Process exit code: 0
+2026-05-10 14:08:33.308   Deinitializing Setup.
+2026-05-10 14:08:33.312   Stopping 64-bit helper process. (PID: 32340)
+2026-05-10 14:08:33.314   Helper process exited.
+2026-05-10 14:08:33.322   Log closed.
+
+===== wizard HTTP probe (127.0.0.1:7891) =====
+HTTP 200 OK
+Content-Type: text/html; charset=utf-8
+Content-Length: 30429
+first 500 chars of body:
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>RPG Build Worker — setup</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  :root {
+    color-scheme: light;
+    --bg:#f5f6f7; --card:#fff; --border:#e5e7eb; --border-strong:#d1d5db;
+    --fg:#111827; --muted:#6b7280; --muted-2:#9ca3af;
+    --accent:#3b5bdb; --accent-bg:#eef2ff;
+    --ok:#16a34a; --ok-bg:#dcfce7; --fail:#dc2626; --fail-bg:#fee2e2;
+    --shadow:0 1px 2px rgba(0,0,0,.04);
+  }
+
+===== wizard API probes (likely autofill endpoints) =====
+GET /api/host -> Den eksterne serveren returnerte feilen (403) Forbudt.
+GET /api/probe -> Den eksterne serveren returnerte feilen (403) Forbudt.
+GET /api/autofill -> Den eksterne serveren returnerte feilen (403) Forbudt.
+GET /api/hello -> Den eksterne serveren returnerte feilen (403) Forbudt.
+GET /api/projects -> Den eksterne serveren returnerte feilen (403) Forbudt.
+GET /api/tools -> Den eksterne serveren returnerte feilen (403) Forbudt.
+GET /api/svn -> Den eksterne serveren returnerte feilen (403) Forbudt.
+GET /api/state -> Den eksterne serveren returnerte feilen (403) Forbudt.
+
+===== TCP listeners on 7891 =====
+127.0.0.1:7891  pid=4 (System)
+

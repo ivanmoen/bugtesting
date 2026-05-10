@@ -1,0 +1,691 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>RPG Build Worker — setup</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  :root {
+    color-scheme: light;
+    --bg:#f5f6f7; --card:#fff; --border:#e5e7eb; --border-strong:#d1d5db;
+    --fg:#111827; --muted:#6b7280; --muted-2:#9ca3af;
+    --accent:#3b5bdb; --accent-bg:#eef2ff;
+    --ok:#16a34a; --ok-bg:#dcfce7; --fail:#dc2626; --fail-bg:#fee2e2;
+    --shadow:0 1px 2px rgba(0,0,0,.04);
+  }
+  * { box-sizing: border-box; }
+  html, body { height: 100%; }
+  body {
+    margin: 0; font: 14px/1.5 system-ui, -apple-system, "Segoe UI", Inter, Roboto, sans-serif;
+    background: #ececef; color: var(--fg);
+    display: flex; justify-content: center; padding: 32px 16px;
+  }
+  .wrap { width: 100%; max-width: 920px; }
+  .brand { display: flex; align-items: center; gap: 10px; margin-bottom: 20px; }
+  .brand .mark {
+    width: 32px; height: 32px; border-radius: 7px;
+    background: var(--accent); color: #fff;
+    display: grid; place-items: center; font-weight: 700;
+  }
+  .brand h1 { margin: 0; font-size: 20px; font-weight: 600; }
+  .brand .sub { color: var(--muted); font-size: 13px; }
+  .mode-pill {
+    display: inline-block; margin-left: 10px; padding: 1px 8px;
+    border-radius: 999px; font-size: 11px; font-weight: 600;
+    background: var(--accent-bg); color: var(--accent);
+    text-transform: uppercase; letter-spacing: .05em;
+    vertical-align: 2px;
+  }
+
+  .card {
+    background: var(--card); border: 1px solid var(--border);
+    border-radius: 10px; box-shadow: var(--shadow);
+    margin-bottom: 18px;
+  }
+  .card .head {
+    padding: 14px 18px; border-bottom: 1px solid var(--border);
+    display: flex; align-items: center; justify-content: space-between;
+  }
+  .card .head h2 { margin: 0; font-size: 15px; font-weight: 600; }
+  .card .head .hint { color: var(--muted); font-size: 12px; }
+  .card .body { padding: 18px; }
+  .card.dim { opacity: .55; }
+  .card.dim .body { pointer-events: none; }
+
+  label { display: block; font-size: 12px; color: var(--muted); margin-bottom: 4px; font-weight: 500; }
+  input[type=text], input[type=password], select {
+    width: 100%; padding: 8px 10px; font: inherit; color: var(--fg);
+    border: 1px solid var(--border-strong); border-radius: 6px;
+    background: #fff;
+  }
+  input:focus, select:focus { outline: 2px solid var(--accent-bg); border-color: var(--accent); }
+  .row { display: grid; gap: 12px; grid-template-columns: 1fr 1fr; }
+  .row.three { grid-template-columns: 1fr 1fr 1fr; }
+  .row.full { grid-template-columns: 1fr; }
+  .stack > * + * { margin-top: 12px; }
+
+  button {
+    background: #fff; color: var(--fg);
+    border: 1px solid var(--border-strong); border-radius: 6px;
+    padding: 6px 12px; font: inherit; cursor: pointer;
+  }
+  button:hover { background: #f9fafb; }
+  button.primary { background: var(--accent); color: #fff; border-color: var(--accent); padding: 8px 18px; font-weight: 500; }
+  button.primary:hover { background: #2f4cc1; }
+  button.primary[disabled] { background: var(--muted-2); border-color: var(--muted-2); cursor: not-allowed; }
+  button.danger { color: var(--fail); border: 0; background: transparent; padding: 4px 8px; }
+  button.danger:hover { background: var(--fail-bg); }
+
+  .actions { display: flex; justify-content: flex-end; gap: 12px; align-items: center; margin-top: 24px; }
+  .actions .status { color: var(--muted); font-size: 13px; margin-right: auto; }
+  .actions .status.err { color: var(--fail); }
+  .actions .status.ok  { color: var(--ok); }
+
+  .ue-row { display: grid; grid-template-columns: 80px 1fr 32px; gap: 8px; align-items: center; margin-bottom: 6px; }
+  .muted { color: var(--muted); font-size: 12px; }
+  .pill {
+    display: inline-block; padding: 1px 8px; border-radius: 999px;
+    font-size: 11px; font-weight: 600;
+    background: var(--ok-bg); color: var(--ok);
+  }
+  .pill.warn { background: var(--fail-bg); color: var(--fail); }
+
+  /* Project cards */
+  .project {
+    border: 1px solid var(--border); border-radius: 8px;
+    background: #fafafb;
+    margin-bottom: 14px;
+  }
+  .project .ph {
+    display: flex; align-items: center; justify-content: space-between;
+    padding: 10px 14px; border-bottom: 1px solid var(--border);
+    background: #fff; border-radius: 8px 8px 0 0;
+  }
+  .project .ph .label { color: var(--muted); margin: 0; font-weight: 600; }
+  .project .ph .label .slug { color: var(--fg); font-family: ui-monospace, Menlo, monospace; font-size: 13px; margin-left: 6px; }
+  .project .pb { padding: 14px; }
+  .project .pb input[type=text], .project .pb select { padding: 6px 8px; font-size: 13px; }
+  .project .pb .stack > * + * { margin-top: 10px; }
+
+  /* Auth mode toggle (Phase 2C) */
+  .auth-toggle { display: inline-flex; border: 1px solid var(--border-strong); border-radius: 6px; overflow: hidden; }
+  .auth-tab    { background: #fff; border: 0; border-right: 1px solid var(--border-strong); padding: 6px 14px; cursor: pointer; font: inherit; color: var(--fg); }
+  .auth-tab:last-child { border-right: 0; }
+  .auth-tab.active { background: var(--accent); color: #fff; }
+
+  /* Browse… buttons next to file-path inputs */
+  .browse-row { display: grid; grid-template-columns: 1fr auto; gap: 8px; align-items: center; }
+  .browse-btn { white-space: nowrap; }
+  .browse-btn:disabled { opacity: .5; cursor: wait; }
+
+  /* Available-project rows (Phase 1B click-to-subscribe) */
+  .avail-row {
+    display: grid; grid-template-columns: auto 1fr auto; gap: 10px;
+    align-items: center; padding: 10px 12px;
+    border: 1px solid var(--border); border-radius: 8px;
+    background: #fff; margin-bottom: 8px;
+  }
+  .avail-row.subscribed { border-color: var(--accent); background: var(--accent-bg); }
+  .avail-row .meta { color: var(--muted); font-size: 12px; }
+  .avail-row .meta .slug { font-family: ui-monospace, Menlo, monospace; color: var(--fg); }
+  .avail-row .uproject { display: none; grid-column: 1 / -1; }
+  .avail-row.subscribed .uproject { display: block; }
+  .avail-row .uproject input { width: 100%; }
+  .avail-row .badge {
+    font-size: 11px; padding: 1px 8px; border-radius: 999px;
+    background: #eef2ff; color: var(--accent); font-weight: 600;
+  }
+
+  /* Done overlay */
+  .done {
+    background: var(--ok-bg); color: var(--ok);
+    padding: 28px; border-radius: 10px; text-align: center;
+    border: 1px solid #bbf7d0;
+  }
+  .done h2 { margin: 0 0 6px; color: var(--ok); }
+  .done .sub { color: #166534; }
+  .done code { background: rgba(22,163,74,.12); padding: 1px 6px; border-radius: 4px; }
+</style>
+</head>
+<body>
+<div class="wrap" id="wrap">
+  <div class="brand">
+    <div class="mark">B</div>
+    <div>
+      <h1>RPG Build Worker — setup<span id="modePill" class="mode-pill" hidden></span></h1>
+      <div class="sub" id="brandSub">Configure this build PC and register it with the panel.</div>
+    </div>
+  </div>
+
+  <form id="setup">
+    <!-- Identity -->
+    <div class="card">
+      <div class="head">
+        <h2>1 · Worker identity</h2>
+        <span class="hint">Where the worker reports to and how it's labeled in the panel.</span>
+      </div>
+      <div class="body stack">
+        <div class="row">
+          <div>
+            <label for="panelApiUrl">Panel API URL</label>
+            <input id="panelApiUrl" name="panelApiUrl" type="text" required />
+          </div>
+          <div>
+            <label for="workerName">Worker display name</label>
+            <input id="workerName" name="workerName" type="text" required />
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Registration key (hidden in re-config mode) -->
+    <div class="card" id="card-key">
+      <div class="head">
+        <h2>2 · Authenticate</h2>
+        <span class="hint">Either paste a registration key, or sign in with your panel account to mint one.</span>
+      </div>
+      <div class="body stack">
+        <div class="auth-toggle">
+          <button type="button" class="auth-tab active" data-mode="key">I have a key</button>
+          <button type="button" class="auth-tab"        data-mode="login">Sign in with panel account</button>
+        </div>
+        <div class="auth-pane" data-pane="key">
+          <label for="registrationKey">Registration key</label>
+          <input id="registrationKey" name="registrationKey" type="text" autocomplete="off" placeholder="paste the key here" />
+        </div>
+        <div class="auth-pane" data-pane="login" hidden>
+          <div class="row">
+            <div>
+              <label for="loginEmail">Panel email</label>
+              <input id="loginEmail" type="text" autocomplete="username" placeholder="you@example.com" />
+            </div>
+            <div>
+              <label for="loginPassword">Panel password</label>
+              <input id="loginPassword" type="password" autocomplete="current-password" placeholder="" />
+            </div>
+          </div>
+          <p class="muted" style="margin:8px 0 0;font-size:12px">
+            The panel mints a fresh single-use registration key for this worker. Same as the
+            <code>+ Mint key</code> button on <code>/admin/settings</code>, just without the trip to a browser.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Toolchain -->
+    <div class="card">
+      <div class="head">
+        <h2>2 · Toolchain</h2>
+        <span class="hint" id="probeStatus">probing local installs…</span>
+      </div>
+      <div class="body stack">
+        <div class="row">
+          <div>
+            <label for="svnPath">SVN executable</label>
+            <input id="svnPath" type="text" placeholder="C:\Program Files\TortoiseSVN\bin\svn.exe" />
+          </div>
+          <div>
+            <label for="steamCmdPath">SteamCMD executable</label>
+            <input id="steamCmdPath" type="text" placeholder="C:\BuildTools\Steam\steamcmd.exe" />
+          </div>
+        </div>
+        <div class="row">
+          <div>
+            <label for="logsRoot">Logs root <span class="muted">(blank → %ProgramData%\RPGBuildServer\logs)</span></label>
+            <input id="logsRoot" type="text" placeholder="" />
+          </div>
+          <div></div>
+        </div>
+        <div>
+          <label>Unreal Engine installs <span class="muted">(version → install root)</span></label>
+          <div id="ueRows"></div>
+          <button type="button" id="addUe">+ Add Unreal version</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Projects -->
+    <div class="card">
+      <div class="head">
+        <h2>3 · Projects</h2>
+        <span class="hint" id="projectsHint">SVN URL, credentials, and Steam settings live on the panel — this worker only needs to know where each project's <code>.uproject</code> file lives locally.</span>
+      </div>
+      <div class="body stack">
+        <!-- Available projects from the panel (re-config mode only) -->
+        <div id="availableWrap" hidden>
+          <label>Available projects in your studio <span class="muted">— check to subscribe</span></label>
+          <div id="available"></div>
+        </div>
+        <div id="manualWrap">
+          <div id="projects"></div>
+          <button type="button" id="addProject" class="primary" style="background:#fff;color:var(--accent);border-color:var(--accent);font-weight:500">+ Add project</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Credentials -->
+    <div class="card">
+      <div class="head">
+        <h2>4 · Credentials <span style="color:var(--muted);font-weight:400;font-size:13px">(optional)</span></h2>
+        <span class="hint" id="credsStatus">Saved DPAPI-sealed at <code>%ProgramData%\RPGBuildServer\credentials.dat</code> (machine-scope; service can read).</span>
+      </div>
+      <div class="body stack">
+        <div class="row">
+          <div>
+            <label for="svnUsername">SVN username</label>
+            <input id="svnUsername" type="text" autocomplete="off" placeholder="leave blank to use existing / env var" />
+          </div>
+          <div>
+            <label for="svnPassword">SVN password</label>
+            <input id="svnPassword" type="password" autocomplete="new-password" placeholder="leave blank to keep existing" />
+          </div>
+        </div>
+        <div class="row">
+          <div>
+            <label for="steamUsername">Steam username <span class="muted">(only when uploading to Steam)</span></label>
+            <input id="steamUsername" type="text" autocomplete="off" placeholder="leave blank to use existing / env var" />
+          </div>
+          <div></div>
+        </div>
+        <p class="muted" style="margin:0;font-size:12px;color:var(--muted)">
+          Steam's password flow goes through a cached Steam Guard sentry — only the username is stored.
+          Run <code>steamcmd +login &lt;user&gt;</code> once on the build PC to seed the sentry.
+        </p>
+      </div>
+    </div>
+
+    <div class="actions">
+      <span id="status" class="status"></span>
+      <button type="button" id="cancel">Cancel</button>
+      <button type="submit" id="save" class="primary">Save and register</button>
+    </div>
+  </form>
+</div>
+
+<template id="ueRowTpl">
+  <div class="ue-row">
+    <input type="text" class="ue-version" placeholder="5.7" />
+    <input type="text" class="ue-path"    placeholder="D:\Program Files\Epic Games\UE_5.7" />
+    <button type="button" class="danger" data-act="rm-ue" title="Remove">✕</button>
+  </div>
+</template>
+
+<template id="projectTpl">
+  <div class="project">
+    <div class="ph">
+      <div class="label">Project<span class="slug pj-slug-ph"></span></div>
+      <button type="button" class="danger" data-act="rm-project" title="Remove project">✕ Remove project</button>
+    </div>
+    <div class="pb stack">
+      <div class="row">
+        <div>
+          <label>Project slug <span class="muted">(matches the panel — e.g. <code>outsail_the_sun</code>)</span></label>
+          <input type="text" class="pj-slug" placeholder="outsail_the_sun" required />
+        </div>
+        <div>
+          <label>Unreal Engine version</label>
+          <select class="pj-ue"></select>
+        </div>
+      </div>
+      <div class="row full">
+        <div>
+          <label>.uproject path <span class="muted">(working copy is the parent folder)</span></label>
+          <div class="browse-row">
+            <input type="text" class="pj-uproject" placeholder="F:\Projects\rpg-prototyping-01\OutsailTheSun.uproject" required />
+            <button type="button" class="browse-btn" data-act="browse" data-target="pj-uproject">Browse…</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</template>
+
+<template id="availableTpl">
+  <div class="avail-row">
+    <input type="checkbox" class="av-toggle" />
+    <div>
+      <div><strong class="av-name"></strong> <span class="badge av-ue"></span></div>
+      <div class="meta">Slug <span class="slug av-slug"></span> · Engine <span class="av-ue-text"></span> · Platform <span class="av-platform"></span></div>
+    </div>
+    <span class="muted av-state">not subscribed</span>
+    <div class="uproject">
+      <label>.uproject path on this PC <span class="muted">(working copy is the parent folder)</span></label>
+      <div class="browse-row">
+        <input type="text" class="av-uproject" placeholder="F:\Projects\..\YourGame.uproject" />
+        <button type="button" class="browse-btn" data-act="browse" data-target="av-uproject">Browse…</button>
+      </div>
+    </div>
+  </div>
+</template>
+
+<script>
+(() => {
+  const NONCE = new URLSearchParams(window.location.search).get('n') || '';
+  const $  = sel => document.querySelector(sel);
+  const status = $('#status');
+
+  const ueRows  = $('#ueRows');
+  const projects = $('#projects');
+  const available = $('#available');
+
+  let reconfigMode = false;
+  let availableMeta = {}; // slug -> { displayName, ue, platform }
+  let authMode = 'key';   // 'key' | 'login' — toggled by the auth tabs
+
+  // ---- Auth toggle --------------------------------------------------------
+  document.querySelectorAll('.auth-tab').forEach(tab => {
+    tab.addEventListener('click', () => {
+      authMode = tab.dataset.mode;
+      document.querySelectorAll('.auth-tab').forEach(t => t.classList.toggle('active', t === tab));
+      document.querySelectorAll('.auth-pane').forEach(p => p.hidden = (p.dataset.pane !== authMode));
+    });
+  });
+
+  // ---- Toolchain UE rows --------------------------------------------------
+  const addUeRow = (version = '', path = '') => {
+    const node = document.getElementById('ueRowTpl').content.firstElementChild.cloneNode(true);
+    node.querySelector('.ue-version').value = version;
+    node.querySelector('.ue-path').value    = path;
+    ueRows.appendChild(node);
+    refreshUeOptions();
+  };
+  const refreshUeOptions = () => {
+    const versions = [...ueRows.querySelectorAll('.ue-version')]
+      .map(i => i.value.trim()).filter(Boolean);
+    document.querySelectorAll('select.pj-ue').forEach(sel => {
+      const cur = sel.value;
+      sel.innerHTML = versions.map(v => `<option value="${v}"${v === cur ? ' selected' : ''}>${v}</option>`).join('');
+    });
+  };
+
+  // ---- Projects (manual / fallback form) ----------------------------------
+  const addProject = (slug = '', spec = {}) => {
+    const node = document.getElementById('projectTpl').content.firstElementChild.cloneNode(true);
+    const slugInput = node.querySelector('.pj-slug');
+    const slugPh    = node.querySelector('.pj-slug-ph');
+    slugInput.value = slug;
+    node.querySelector('.pj-uproject').value = spec.uprojectPath ?? '';
+    slugPh.textContent = slug ? ` · ${slug}` : '';
+    slugInput.addEventListener('input', () => { slugPh.textContent = slugInput.value ? ` · ${slugInput.value}` : ''; });
+
+    projects.appendChild(node);
+    refreshUeOptions();
+    if (spec.unrealEngineVersion) node.querySelector('.pj-ue').value = spec.unrealEngineVersion;
+  };
+
+  // ---- Projects (click-to-subscribe from panel list) ----------------------
+  const renderAvailable = (panelProjects, existing) => {
+    available.innerHTML = '';
+    if (!panelProjects.length) {
+      $('#availableWrap').hidden = true;
+      return;
+    }
+    $('#availableWrap').hidden = false;
+    for (const p of panelProjects) {
+      availableMeta[p.slug] = { displayName: p.displayName, ue: p.unrealEngineVersion, platform: p.platform };
+      const node = document.getElementById('availableTpl').content.firstElementChild.cloneNode(true);
+      node.dataset.slug = p.slug;
+      node.querySelector('.av-name').textContent     = p.displayName;
+      node.querySelector('.av-slug').textContent     = p.slug;
+      node.querySelector('.av-ue').textContent       = `UE ${p.unrealEngineVersion}`;
+      node.querySelector('.av-ue-text').textContent  = p.unrealEngineVersion;
+      node.querySelector('.av-platform').textContent = p.platform;
+
+      const toggle    = node.querySelector('.av-toggle');
+      const upInput   = node.querySelector('.av-uproject');
+      const stateText = node.querySelector('.av-state');
+      const ex = existing[p.slug];
+      if (ex) {
+        toggle.checked = true;
+        node.classList.add('subscribed');
+        stateText.textContent = 'subscribed';
+        upInput.value = ex.uprojectPath ?? '';
+      }
+      toggle.addEventListener('change', () => {
+        node.classList.toggle('subscribed', toggle.checked);
+        stateText.textContent = toggle.checked ? 'subscribed' : 'not subscribed';
+        if (toggle.checked && !upInput.value) upInput.focus();
+      });
+      available.appendChild(node);
+    }
+  };
+
+  $('#addUe').addEventListener('click', () => addUeRow());
+  $('#addProject').addEventListener('click', () => addProject());
+  ueRows.addEventListener('input', refreshUeOptions);
+
+  // Bubbling delete + browse
+  document.body.addEventListener('click', async e => {
+    const btn = e.target.closest('[data-act]');
+    if (!btn) return;
+    if (btn.dataset.act === 'rm-ue')      { btn.closest('.ue-row').remove(); refreshUeOptions(); return; }
+    if (btn.dataset.act === 'rm-project') { btn.closest('.project').remove(); refreshUeOptions(); return; }
+    if (btn.dataset.act === 'browse') {
+      const targetClass = btn.dataset.target;
+      const input = btn.closest('.browse-row, .project, .avail-row').querySelector('.' + targetClass);
+      if (!input) return;
+      btn.disabled = true;
+      const oldLabel = btn.textContent;
+      btn.textContent = '…';
+      try {
+        // Seed initialDir from any path already typed in the field, or fall
+        // back to the parent dir if it's a full file path.
+        const cur = (input.value || '').trim();
+        let dir = '';
+        if (cur) {
+          const sep = Math.max(cur.lastIndexOf('\\\\'), cur.lastIndexOf('/'));
+          dir = sep > 0 ? cur.slice(0, sep) : '';
+        }
+        const params = new URLSearchParams({
+          n: NONCE,
+          filter: '*.uproject',
+          label: 'Unreal projects (*.uproject)',
+          title: 'Select the project\\'s .uproject file',
+        });
+        if (dir) params.set('dir', dir);
+        const res = await fetch('/api/browse-file?' + params.toString(), { method: 'POST' });
+        const data = await res.json();
+        if (data.ok && !data.cancelled && data.path) {
+          input.value = data.path;
+          input.dispatchEvent(new Event('input', { bubbles: true }));
+        }
+      } catch (err) {
+        // Non-fatal: operator can still type the path. Surface in status.
+        if (status) { status.className = 'status err'; status.textContent = 'Browse failed: ' + err.message; }
+      } finally {
+        btn.disabled = false;
+        btn.textContent = oldLabel;
+      }
+    }
+  });
+
+  // ---- Cancel -------------------------------------------------------------
+  $('#cancel').addEventListener('click', async () => {
+    try { await fetch(`/api/cancel?n=${NONCE}`, { method: 'POST' }); }
+    finally { window.close(); document.body.innerHTML = '<p style="padding:32px;font:14px system-ui">Cancelled. You can close this window.</p>'; }
+  });
+
+  // ---- Save ---------------------------------------------------------------
+  $('#setup').addEventListener('submit', async e => {
+    e.preventDefault();
+    status.className = 'status';
+    status.textContent = reconfigMode ? 'Saving updated config…' : 'Registering with panel…';
+    $('#save').disabled = true;
+
+    // Toolchain
+    const unrealVersions = {};
+    for (const row of ueRows.querySelectorAll('.ue-row')) {
+      const v = row.querySelector('.ue-version').value.trim();
+      const p = row.querySelector('.ue-path').value.trim();
+      if (v && p) unrealVersions[v] = p;
+    }
+
+    const projectsMap = {};
+    let invalid = null;
+
+    // Subscriptions from the panel-driven "Available projects" list.
+    // Server derives workingCopyPath = parent dir of uprojectPath.
+    for (const row of available.querySelectorAll('.avail-row')) {
+      const toggle = row.querySelector('.av-toggle');
+      if (!toggle.checked) continue;
+      const slug = row.dataset.slug;
+      const meta = availableMeta[slug] || {};
+      const up   = row.querySelector('.av-uproject').value.trim();
+      if (!up) { invalid = `Project ${slug}: .uproject path is required.`; break; }
+      projectsMap[slug] = {
+        displayName:         meta.displayName || slug,
+        uprojectPath:        up,
+        unrealEngineVersion: meta.ue || (Object.keys(unrealVersions)[0] || '5.7'),
+        platform:            meta.platform || 'Win64',
+      };
+    }
+
+    // Manual entries (used when the panel doesn't expose a project list yet,
+    // or to add a project the operator knows is coming).
+    if (!invalid) {
+      for (const pj of projects.querySelectorAll('.project')) {
+        const slug = pj.querySelector('.pj-slug').value.trim();
+        if (!slug) { invalid = 'Every project needs a slug.'; break; }
+        const uproject = pj.querySelector('.pj-uproject').value.trim();
+        const ue       = pj.querySelector('.pj-ue').value || Object.keys(unrealVersions)[0] || '5.7';
+        if (!uproject) { invalid = `Project ${slug}: .uproject path is required.`; break; }
+        if (projectsMap[slug]) { invalid = `Duplicate project slug ${slug}.`; break; }
+        projectsMap[slug] = {
+          displayName:         slug,
+          uprojectPath:        uproject,
+          unrealEngineVersion: ue,
+          platform:            'Win64',
+        };
+      }
+    }
+
+    if (invalid) {
+      status.className = 'status err';
+      status.textContent = invalid;
+      $('#save').disabled = false;
+      return;
+    }
+
+    // Credentials: only include fields the operator actually filled in.
+    // Empty = "leave existing alone" (CredentialStore merges by null).
+    const credPairs = [
+      ['svnUsername',   $('#svnUsername').value],
+      ['svnPassword',   $('#svnPassword').value],
+      ['steamUsername', $('#steamUsername').value],
+    ];
+    const credsObj = {};
+    for (const [k, v] of credPairs) {
+      if (v && v.length > 0) credsObj[k] = v;
+    }
+    const body = {
+      panelApiUrl:     $('#panelApiUrl').value.trim(),
+      workerName:      $('#workerName').value.trim(),
+      authMode:        reconfigMode ? 'key' : authMode,
+      registrationKey: reconfigMode ? '' : (authMode === 'key' ? $('#registrationKey').value.trim() : ''),
+      email:           reconfigMode ? '' : (authMode === 'login' ? $('#loginEmail').value.trim() : ''),
+      password:        reconfigMode ? '' : (authMode === 'login' ? $('#loginPassword').value : ''),
+      paths: {
+        svnPath:       $('#svnPath').value.trim(),
+        steamCmdPath:  $('#steamCmdPath').value.trim(),
+        logsRoot:      $('#logsRoot').value.trim(),
+        unrealVersions,
+      },
+      projects: projectsMap,
+    };
+    if (Object.keys(credsObj).length > 0) body.credentials = credsObj;
+
+    try {
+      const res = await fetch(`/api/save?n=${NONCE}`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(body),
+      });
+      const data = await res.json();
+      if (!res.ok || !data.ok) {
+        status.className = 'status err';
+        status.textContent = `Error: ${data.message || data.error || 'unknown'}`;
+        $('#save').disabled = false;
+        return;
+      }
+      $('#wrap').innerHTML = `
+        <div class="done">
+          <h2>${reconfigMode ? '✓ Configuration updated' : '✓ Worker registered'}</h2>
+          <div class="sub">workerId <code>${data.workerId}</code> — ${reconfigMode ? 'config saved.' : 'config + bearer token saved.'}</div>
+          <p style="margin-top:14px;color:#166534">
+            ${reconfigMode
+              ? 'Restart the service to pick up the new projects:<br><code>net stop RpgBuildWorker &amp;&amp; net start RpgBuildWorker</code><br><span class="muted">…or, if running interactively, Ctrl+C the <code>dotnet run</code> process and re-launch it.</span>'
+              : 'Start the Windows service to begin polling:<br><code>net start RpgBuildWorker</code><br><span class="muted">…or, if running interactively, launch the <code>dotnet run</code> process.</span>'}
+          </p>
+          <p class="muted" style="margin-top:14px">You can close this window.</p>
+        </div>`;
+    } catch (err) {
+      status.className = 'status err';
+      status.textContent = `Error: ${err.message}`;
+      $('#save').disabled = false;
+    }
+  });
+
+  // ---- Boot: fetch probe + populate --------------------------------------
+  fetch(`/api/probe?n=${NONCE}`)
+    .then(r => r.json())
+    .then(p => {
+      // Identity
+      $('#panelApiUrl').value     = p.defaultPanelUrl ?? '';
+      $('#workerName').value      = p.defaultWorkerName ?? '';
+      $('#svnPath').value         = p.svnPath ?? '';
+      $('#steamCmdPath').value    = p.steamCmdPath ?? '';
+
+      // Toolchain UE installs (probe + any existing config entries merged server-side)
+      const ues = p.unrealVersions || {};
+      const versions = Object.keys(ues).sort();
+      if (versions.length === 0) addUeRow();
+      else for (const v of versions) addUeRow(v, ues[v]);
+      $('#probeStatus').innerHTML = versions.length
+        ? `<span class="pill">${versions.length} UE install${versions.length > 1 ? 's' : ''} found</span>`
+        : `<span class="pill warn">no UE installs found — add one manually</span>`;
+
+      // Re-config mode: pre-populate projects from existing config + hide
+      // the registration key card.
+      const ex = p.existing || {};
+      reconfigMode = !!(ex.hasConfig && ex.workerId);
+      const existingProjects = ex.projects || {};
+      const availList = p.availableProjects || [];
+
+      if (reconfigMode) {
+        $('#modePill').hidden = false;
+        $('#modePill').textContent = 'Reconfigure';
+        $('#brandSub').textContent = `Editing the existing configuration for workerId ${ex.workerId.slice(0, 8)}…`;
+        $('#card-key').hidden = true;
+        $('#save').textContent = 'Save changes';
+        if (ex.paths?.logsRoot) $('#logsRoot').value = ex.paths.logsRoot;
+      }
+
+      // Render panel-side available projects (re-config + token only).
+      // Existing subscriptions stay checked with their prior .uproject path.
+      renderAvailable(availList, existingProjects);
+
+      // Manual entries: anything in the existing config that the panel
+      // didn't echo back (deleted upstream, slug mismatch, etc.) so the
+      // operator can fix it before saving. Plus an empty row when both
+      // lists are empty (first-run mode).
+      const availSlugs = new Set(availList.map(a => a.slug));
+      const manualSlugs = Object.keys(existingProjects).filter(s => !availSlugs.has(s));
+      if (manualSlugs.length === 0 && availList.length === 0) {
+        addProject();
+      } else {
+        for (const slug of manualSlugs) addProject(slug, existingProjects[slug]);
+      }
+
+      if (p.availableProjectsError) {
+        $('#projectsHint').innerHTML =
+          `Couldn't fetch project list from panel: <span class="muted">${p.availableProjectsError}</span> — add projects manually below.`;
+      } else if (availList.length > 0) {
+        $('#projectsHint').textContent =
+          'Pick the projects this worker should build. Working copy is the parent folder of the .uproject. SVN URL, credentials, and Steam settings come from the panel on each job.';
+      }
+    })
+    .catch(err => { $('#probeStatus').textContent = `probe failed: ${err.message}`; });
+})();
+</script>
+</body>
+</html>
