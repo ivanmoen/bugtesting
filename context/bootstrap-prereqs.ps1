@@ -14,6 +14,19 @@
 #   2. VS Build Tools 2022    (~10 GB)  -- MSVC v143 + Windows SDK + C++ build chain
 #                                          required by Unreal RunUAT BuildCookRun
 #
+# VS install detection (vswhere) decides between four outcomes:
+#   - C++ already installed somewhere (any VS flavor)  -> SKIP
+#   - VS Build Tools exists, missing C++              -> MODIFY (add C++)
+#   - Full VS IDE (Community/Pro/Enterprise) exists,
+#     missing C++                                     -> MODIFY (add C++ to IDE)
+#                                                        unless -PreferFreshBuildTools
+#   - Nothing                                         -> INSTALL fresh BuildTools
+#                                                        at -VsInstallPath
+# Modifying an existing IDE is preferred over a parallel BuildTools install
+# because (a) it saves ~3 GB of duplicated payload and (b) multi-instance
+# VS confuses build scripts and `vswhere` consumers. Pass
+# -PreferFreshBuildTools to force a separate BuildTools install instead.
+#
 # What it does NOT install:
 #   - Unreal Engine (Epic Games Launcher needs an account; install separately)
 #   - SteamCMD       (only needed for Steam upload, not part of this script)
@@ -37,6 +50,14 @@ param(
     # Skip flags for re-runs / partial setups.
     [switch] $SkipSvn,
     [switch] $SkipVs,
+
+    # By default, if a Visual Studio install (any flavor -- Community / Pro
+    # / Enterprise / BuildTools) exists without the C++ workload, the
+    # bootstrap MODIFIES that install to add C++ rather than creating a
+    # parallel Build Tools instance. Saves disk + avoids multi-instance
+    # confusion. Pass this switch to force a fresh Build Tools install at
+    # -VsInstallPath even when an IDE could be modified instead.
+    [switch] $PreferFreshBuildTools,
 
     # Log destination. Defaults to %ProgramData%\RPGBuildServer\logs\.
     [string] $LogPath = (Join-Path $env:ProgramData 'RPGBuildServer\logs\bootstrap-prereqs.log')
@@ -241,23 +262,49 @@ function Test-MsvcPresent {
     return $null
 }
 
-# Find every VS Build Tools 2022 instance the system knows about. We
-# explicitly filter to the BuildTools product so a Community / Pro install
-# (which the operator might have for unrelated dev work) doesn't get
-# modified or counted. Returns a list of installation paths, possibly
-# empty.
+# Returns one PSCustomObject per VS install vswhere knows about (any
+# product -- BuildTools, Community, Pro, Enterprise). Used to decide
+# whether to (a) skip because C++ is already there, (b) MODIFY an
+# existing install (BuildTools OR full IDE) to add the C++ workload,
+# or (c) install a fresh BuildTools instance because there's nothing
+# to modify.
 #
-# Why we don't just check the target path: VS supports multiple
-# side-by-side instances at different paths, named "(2)", "(3)" etc.
-# If we run `install` while a Build Tools instance already exists
-# elsewhere, the bootstrapper happily adds a second one. We've now
-# discovered this the hard way; this helper is here to prevent it.
-function Get-VsBuildToolsPaths {
+# Object shape:
+#   .Path         -- installationPath (string)
+#   .ProductId    -- e.g. Microsoft.VisualStudio.Product.Community
+#   .DisplayName  -- e.g. "Visual Studio Community 2022"
+#   .IsBuildTools -- true iff ProductId ends in .BuildTools
+#
+# The default behaviour prefers modifying an existing install -- including
+# a Community / Pro / Enterprise IDE that lacks C++ -- over creating a
+# parallel BuildTools instance. Two reasons:
+#   1. Adding the C++ workload to an existing VS install costs ~3 GB once;
+#      a parallel BuildTools install costs ~3 GB on top of the existing IDE.
+#   2. Multi-instance VS confuses devs and tools (vswhere returns multiple
+#      paths, build scripts pick the wrong one, etc.).
+# Operators who explicitly want a separate BuildTools install can pass
+# -PreferFreshBuildTools to opt out of the modify-existing-IDE behaviour.
+function Get-AllVsInstalls {
     if (-not (Test-Path $vswhere)) { return @() }
-    $paths = & $vswhere -products Microsoft.VisualStudio.Product.BuildTools `
-        -property installationPath 2>$null
-    if (-not $paths) { return @() }
-    return @($paths | ForEach-Object { $_.Trim() } | Where-Object { $_ })
+    $raw = & $vswhere -all -prerelease -products * -format json 2>$null
+    if (-not $raw) { return @() }
+    if ($raw -is [array]) { $raw = $raw -join "`n" }
+    try { $items = $raw | ConvertFrom-Json } catch { return @() }
+    if ($null -eq $items) { return @() }
+    if ($items -isnot [array]) { $items = @($items) }
+    $out = @()
+    foreach ($i in $items) {
+        $path = "$($i.installationPath)".Trim()
+        if (-not $path) { continue }
+        $product = "$($i.productId)"
+        $out += [PSCustomObject]@{
+            Path         = $path
+            ProductId    = $product
+            DisplayName  = "$($i.displayName)"
+            IsBuildTools = ($product -eq 'Microsoft.VisualStudio.Product.BuildTools')
+        }
+    }
+    return @($out)
 }
 
 if ($SkipVs) {
@@ -268,34 +315,72 @@ if ($SkipVs) {
     if ($vs) {
         Log "VS with C++ workload already present at $vs -- skipping."
     } else {
-        # Path + verb resolution. If ANY VS Build Tools 2022 instance is
-        # already registered (anywhere), use `modify` against THAT instance's
-        # path -- never spawn a parallel one. Multi-instance is supported
-        # by the VS Installer ("(2)", "(3)" suffixes) but it's never what we
-        # actually want from a build worker bootstrap.
-        $existing = Get-VsBuildToolsPaths
+        # Path + verb resolution. Priority (highest first):
+        #   A. Existing BuildTools at chosen path             -> modify it
+        #   B. Existing BuildTools elsewhere                  -> modify it (warn)
+        #   C. Existing IDE (Community/Pro/Ent.) at chosen pt -> modify it
+        #   D. Existing IDE anywhere                          -> modify it (warn)
+        #   E. Nothing                                        -> fresh BuildTools install
+        # Pass -PreferFreshBuildTools to force E even when D applies.
+        # Multi-instance VS is supported by the installer ("(2)", "(3)"
+        # suffixes) but never what we actually want from a build worker
+        # bootstrap.
+        $allVs         = @(Get-AllVsInstalls)
         $effectivePath = $VsInstallPath
         $verb          = 'install'
-        if ($existing.Count -gt 0) {
-            $verb = 'modify'
-            # Prefer the one matching the operator's chosen path; fall back
-            # to the first one if there's no match.
-            $match = $existing | Where-Object {
-                ($_.TrimEnd('\') + '\').ToLowerInvariant() -eq
+        $modifyTarget  = $null
+
+        if ($allVs.Count -gt 0) {
+            $bt   = @($allVs | Where-Object { $_.IsBuildTools })
+            $ides = @($allVs | Where-Object { -not $_.IsBuildTools })
+            $pathsEqual = {
+                param($p)
+                ($p.TrimEnd('\') + '\').ToLowerInvariant() -eq
                 ($VsInstallPath.TrimEnd('\') + '\').ToLowerInvariant()
-            } | Select-Object -First 1
-            if ($match) {
-                $effectivePath = $match
-            } else {
-                $effectivePath = $existing[0]
-                Log "Existing VS Build Tools install found at '$effectivePath'; ignoring requested path '$VsInstallPath' to avoid creating a parallel instance." 'WARN'
             }
-            if ($existing.Count -gt 1) {
-                Log "Multiple VS Build Tools 2022 instances detected: $($existing -join ', '). Modifying '$effectivePath'. Consider uninstalling the others." 'WARN'
+
+            # A: BuildTools at chosen path (best case -- exactly what the
+            # operator asked for).
+            $modifyTarget = $bt | Where-Object { & $pathsEqual $_.Path } | Select-Object -First 1
+
+            # B: any other BuildTools (avoid parallel install).
+            if (-not $modifyTarget -and $bt.Count -gt 0) {
+                $modifyTarget = $bt[0]
+                Log "Existing VS Build Tools install found at '$($modifyTarget.Path)'; ignoring requested path '$VsInstallPath' to avoid creating a parallel instance." 'WARN'
+            }
+
+            # C / D: an IDE exists. Adding the C++ workload to it is
+            # cheaper than a parallel BuildTools install, so default to
+            # that. -PreferFreshBuildTools opts out.
+            if (-not $modifyTarget -and -not $PreferFreshBuildTools -and $ides.Count -gt 0) {
+                $idePathMatch = $ides | Where-Object { & $pathsEqual $_.Path } | Select-Object -First 1
+                if ($idePathMatch) {
+                    $modifyTarget = $idePathMatch
+                    Log "Adding C++ workload to existing $($modifyTarget.DisplayName) at '$($modifyTarget.Path)' (matches the requested install path)."
+                } else {
+                    $modifyTarget = $ides[0]
+                    Log "Existing $($modifyTarget.DisplayName) at '$($modifyTarget.Path)' is missing the C++ workload. Adding it to that install instead of creating a parallel Build Tools instance at '$VsInstallPath'. Pass -PreferFreshBuildTools to force the parallel install instead." 'WARN'
+                }
+            }
+
+            if ($modifyTarget) {
+                $verb          = 'modify'
+                $effectivePath = $modifyTarget.Path
+            }
+
+            if ($bt.Count -gt 1) {
+                $btPaths = ($bt | ForEach-Object { $_.Path }) -join ', '
+                Log "Multiple VS Build Tools 2022 instances detected: $btPaths. Modifying '$effectivePath'. Consider uninstalling the others." 'WARN'
             }
         }
-        Log "VS install verb: '$verb' at '$effectivePath' (existing instances found: $($existing.Count))"
-        Log "Installing VS Build Tools 2022 (~10 GB) into $effectivePath ..."
+
+        Log "VS install verb: '$verb' at '$effectivePath' (vswhere reports $($allVs.Count) existing VS install(s))"
+        if ($verb -eq 'install') {
+            Log "Installing VS Build Tools 2022 (~10 GB) into $effectivePath ..."
+        } else {
+            $tag = if ($modifyTarget) { $modifyTarget.DisplayName } else { 'existing VS install' }
+            Log "Modifying $tag at $effectivePath to add the C++ workload (no parallel install will be created) ..."
+        }
         Log 'This will take several minutes; the VS Installer UI shows progress.'
 
         # Skip winget here. winget's --override would be ideal but PS 5.1's
@@ -354,15 +439,20 @@ VS Build Tools install did not register the C++ workload. vs_BuildTools.exe
 exited $code but vswhere can't find Microsoft.VisualStudio.Component.VC.Tools.x86.x64
 under any installed instance.
 
+Resolution chosen this run: verb='$verb' against '$effectivePath'.
+$(if ($verb -eq 'modify') { "(That instance was an existing $($modifyTarget.DisplayName) -- it was modified to add the C++ workload, but vswhere doesn't see VC.Tools.x86.x64 afterwards. The modify either hit an error or the engine refused to add the component to that product family. Try -PreferFreshBuildTools to install a separate Build Tools instance instead.)" })
+
 Likely causes:
   - VS Installer hit an error it couldn't recover from silently
   - --passive UI was closed before the install completed
   - Bootstrapper short-circuited because of leftover VS Installer state
+  - (modify path only) the existing VS install rejected the component
+    addition for licensing or product-family reasons; rerun with
+    -PreferFreshBuildTools to install a separate Build Tools instance
 
-(If this runs after the script's known fix landed for the missing
-'--add VC.Tools.x86.x64' arg, please capture
-%TEMP%\dd_installer_elevated_*.log and the latest %TEMP%\dd_setup_*.log
-before retrying. Those tell us what the install plan actually was.)
+Capture %TEMP%\dd_installer_elevated_*.log and the latest
+%TEMP%\dd_setup_*.log before retrying -- those tell us what the
+install plan actually was.
 
 Recovery options (any one works):
   A) Open 'Visual Studio Installer' from the Start menu, find
