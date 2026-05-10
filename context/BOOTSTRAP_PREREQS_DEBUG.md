@@ -1,4 +1,66 @@
-# Bootstrap prereqs — investigation log (2026-05-09 → 2026-05-10)
+# Bootstrap prereqs — investigation log (2026-05-09 → 2026-05-11)
+
+## Resolution (2026-05-11)
+
+**Root cause: the `--add Microsoft.VisualStudio.Workload.VCTools` arg
+alone does not pull in `Microsoft.VisualStudio.Component.VC.Tools.x86.x64`
+(the actual MSVC `cl.exe` compiler).** The compiler is in the
+workload's *recommended* component set, not its *required* set, and
+`--passive` installs required-only by default. So every yesterday's
+attempts completed successfully (~5 GB on disk) — they just installed
+the workload's scaffolding without the compiler the worker needs.
+
+`vswhere -requires VC.Tools.x86.x64` correctly returned nothing, the
+script reported failure, and we spent ~6 hours debugging the wrong
+hypothesis space.
+
+**Fix (one line in `bootstrap-prereqs.ps1`):**
+
+```diff
+             '--add', 'Microsoft.VisualStudio.Workload.VCTools',
++            '--add', 'Microsoft.VisualStudio.Component.VC.Tools.x86.x64',
+             '--add', 'Microsoft.VisualStudio.Component.Windows11SDK.22621'
+```
+
+**Verified 2026-05-11** in two rounds:
+
+- **Round 02 (modify)**: `vs_BuildTools.exe modify` against the test
+  PC's existing 0240ddbe instance with the corrected arg list. Result:
+  `cl.exe` v19.44.35226.0 landed at
+  `<installPath>\VC\Tools\MSVC\14.44.35207\bin\Host{x64,x86}\{x64,x86}\cl.exe`,
+  vswhere `-products * -requires VC.Tools.x86.x64` finds the install.
+  ~42 s wall clock (because the payload was already on disk from
+  yesterday's failed runs).
+- **Round 04 (fresh install)**: full uninstall + scrub, then patched
+  `bootstrap-prereqs.ps1` ran with `verb=install` against an empty
+  state. Result: same `cl.exe` v19.44.35226.0 in the same paths, +3 GB
+  on target drive, ~2.27 min wall clock (most of that drawn from the
+  package cache; a genuinely-cold cache would be 10-20 min). Confirms
+  the engine's required-vs-recommended logic is verb-agnostic — the
+  fix lands correctly on both the modify path AND the install path.
+
+`--includeRecommended` would have worked too but pulls in
+ATL/MFC/Spectre we don't need; the explicit `--add` is cleaner.
+
+**Diagnostic logs are preserved** in the `bugtesting` repo at
+`inbox/logs/dd_installer_elevated_20260510020313.log` (the failed
+install) and `inbox/logs/dd_installer_elevated_20260510120236.log`
+(the successful modify). Smoking-gun lines in the failed log:
+- L144: `InstallationPackages` enumerates planned components — `VC.Tools.x86.x64` is conspicuously absent
+- L5913: `Non-installable Package: Microsoft.VisualStudio.Component.VC.Tools.x86.x64 ... PlannedAction: None.`
+
+The hypothesis section below is preserved for posterity, but #1-#5
+were all wrong — none were the actual cause. `bootstrap-prereqs.ps1`
+is fixed; the rest of this doc is historical record.
+
+Manual GUI install always worked because the GUI defaults to "include
+recommended" being checked. We'd have caught this faster if we'd
+diffed the GUI's install plan against ours instead of theorizing about
+encoding / quoting / OS quirks.
+
+---
+
+## Original investigation (2026-05-09 → 2026-05-10)
 
 Honest accounting of `worker/installer/bootstrap-prereqs.ps1` and what
 happened during the first end-to-end test on a clean-ish Windows 11 24H2
