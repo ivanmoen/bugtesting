@@ -1,0 +1,15 @@
+﻿2026-05-10T12:47:39.7221072+02:00 bootstrap-prereqs starting (PID=31484, PSVersion=5.1.26100.8115)
+2026-05-10T12:47:39.7371088+02:00 [INFO] winget found at C:\Users\Werguru\AppData\Local\Microsoft\WindowsApps\winget.exe
+2026-05-10T12:47:39.7531151+02:00 [INFO] TortoiseSVN already present at C:\Program Files\TortoiseSVN\bin\svn.exe -- skipping.
+2026-05-10T12:47:39.8081946+02:00 [INFO] VS install verb: 'install' at 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools' (existing instances found: 0)
+2026-05-10T12:47:39.8091878+02:00 [INFO] Installing VS Build Tools 2022 (~10 GB) into D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools ...
+2026-05-10T12:47:39.8101877+02:00 [INFO] This will take several minutes; the VS Installer UI shows progress.
+2026-05-10T12:47:39.8111880+02:00 [INFO] Downloading VS Build Tools bootstrapper: https://aka.ms/vs/17/release/vs_BuildTools.exe
+2026-05-10T12:47:42.7214367+02:00 [INFO] vs_BuildTools invoking: C:\Users\Werguru\AppData\Local\Temp\vs_BuildTools_31484.exe install --passive --wait --norestart --installPath "D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools" --add Microsoft.VisualStudio.Workload.VCTools --add Microsoft.VisualStudio.Component.VC.Tools.x86.x64 --add Microsoft.VisualStudio.Component.Windows11SDK.22621
+2026-05-10T12:49:55.8767660+02:00 [INFO] vs_BuildTools exit code: 0
+2026-05-10T12:49:55.8807714+02:00 [INFO] vs_BuildTools final exit code: 0
+2026-05-10T12:49:55.9113007+02:00 [INFO] VS Build Tools installed; installation root at D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools
+2026-05-10T12:49:55.9122990+02:00 [INFO] ------ Bootstrap summary ------
+2026-05-10T12:49:55.9142966+02:00 [INFO]   svn.exe      : C:\Program Files\TortoiseSVN\bin\svn.exe
+2026-05-10T12:49:55.9142966+02:00 [INFO]   VS C++ root  : D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools
+2026-05-10T12:49:55.9152947+02:00 [INFO] Bootstrap finished successfully.

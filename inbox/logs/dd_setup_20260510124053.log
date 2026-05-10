@@ -1,0 +1,60 @@
+[57bc:0014][2026-05-10T12:40:53] Setup Engine v4.5.35, Microsoft Windows NT 10.0.26200.0
+[57bc:0014][2026-05-10T12:40:53] Command line: "C:\Program Files (x86)\Microsoft Visual Studio\Installer\setup.exe" /finalizeInstall install --in "C:\ProgramData\Microsoft\VisualStudio\Packages\_bootstrapper\vs_setup_bootstrapper_202605101240507511.json" install --passive --norestart --installPath "D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools" --add Microsoft.VisualStudio.Workload.VCTools --add Microsoft.VisualStudio.Component.VC.Tools.x86.x64 --add Microsoft.VisualStudio.Component.Windows11SDK.22621 --locale en-US --activityId "cc90dd03-9467-4484-9d61-45878055d4c4" --pipe "86f68f03-d765-411f-a776-74aab61725d3"
+[57bc:0014][2026-05-10T12:40:53] ManifestVerifier Result: Success
+[57bc:0014][2026-05-10T12:40:53] Catalog load operation correlation: {"id":"01693475-e0ce-4376-b8a7-2bc2fd377437"}
+[57bc:0014][2026-05-10T12:40:54] Resetting dependency graph
+[57bc:0014][2026-05-10T12:40:54] Loading catalog 'VisualStudio/17.14.31+37216.2.-april.2026-' into engine session '1e3de254'.
+[57bc:0014][2026-05-10T12:40:54] Compatible ProductCode '{D331F4E7-BC3B-47BE-BB56-5F33895F9347}' found for package 'Microsoft.Build.FileTracker.Msi,version=17.14.36015.10'
+[57bc:0014][2026-05-10T12:40:54] Compatible package is not installed. Code '{D331F4E7-BC3B-47BE-BB56-5F33895F9347}' will not be used for repair/uninstall attempts.
+[57bc:0014][2026-05-10T12:40:54] Compatible ProductCode '{D07657AA-968C-4629-BD6C-1B52AF825EA7}' found for package 'Microsoft.VisualStudio.Setup.Configuration,version=3.12.2140.44225'
+[57bc:0014][2026-05-10T12:40:54] Compatible package is not installed. Code '{D07657AA-968C-4629-BD6C-1B52AF825EA7}' will not be used for repair/uninstall attempts.
+[57bc:0014][2026-05-10T12:40:54] Compatible ProductCode '{49727420-70BA-4495-9405-31F8D711CB5A}' found for package 'Microsoft.VisualStudio.Setup.WMIProvider,version=3.12.2140.44225'
+[57bc:0014][2026-05-10T12:40:54] Compatible package is not installed. Code '{49727420-70BA-4495-9405-31F8D711CB5A}' will not be used for repair/uninstall attempts.
+[57bc:0014][2026-05-10T12:40:54] Compatible ProductCode '{F5796163-6EC6-488A-B2DE-E1E94477F6AD}' found for package 'Microsoft.VisualStudio.Debugger.Script.Msi,version=17.14.36015.10,machinearch=x64'
+[57bc:0014][2026-05-10T12:40:54] Compatible package is not installed. Code '{F5796163-6EC6-488A-B2DE-E1E94477F6AD}' will not be used for repair/uninstall attempts.
+[57bc:0014][2026-05-10T12:40:54] Compatible ProductCode '{C762588C-06DE-496A-8ADF-EBDBD49E37B5}' found for package 'Microsoft.DiagnosticsHub.Collection.Service,version=17.14.36412.1,productarch=neutral,machinearch=x64'
+[57bc:0014][2026-05-10T12:40:54] Compatible package is not installed. Code '{C762588C-06DE-496A-8ADF-EBDBD49E37B5}' will not be used for repair/uninstall attempts.
+[57bc:0014][2026-05-10T12:40:54] Compatible ProductCode '{D331F4E7-BC3B-47BE-BB56-5F33895F9347}' found for package 'Microsoft.Build.FileTracker.Msi,version=17.14.36015.10'
+[57bc:0014][2026-05-10T12:40:54] Compatible package is not installed. Code '{D331F4E7-BC3B-47BE-BB56-5F33895F9347}' will not be used for repair/uninstall attempts.
+[57bc:0014][2026-05-10T12:40:54] Compatible ProductCode '{D07657AA-968C-4629-BD6C-1B52AF825EA7}' found for package 'Microsoft.VisualStudio.Setup.Configuration,version=3.12.2140.44225'
+[57bc:0014][2026-05-10T12:40:54] Compatible package is not installed. Code '{D07657AA-968C-4629-BD6C-1B52AF825EA7}' will not be used for repair/uninstall attempts.
+[57bc:0014][2026-05-10T12:40:54] Compatible ProductCode '{49727420-70BA-4495-9405-31F8D711CB5A}' found for package 'Microsoft.VisualStudio.Setup.WMIProvider,version=3.12.2140.44225'
+[57bc:0014][2026-05-10T12:40:54] Compatible package is not installed. Code '{49727420-70BA-4495-9405-31F8D711CB5A}' will not be used for repair/uninstall attempts.
+[57bc:0014][2026-05-10T12:40:54] Package Microsoft.Windows.UniversalCRT.Msu.7 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[6.1,6.2)'.
+[57bc:0014][2026-05-10T12:40:54] Package Microsoft.Windows.UniversalCRT.Msu.8 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[6.2,6.3)'.
+[57bc:0014][2026-05-10T12:40:54] Package Microsoft.Windows.UniversalCRT.Msu.81 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[6.3,6.4)'.
+[57bc:0014][2026-05-10T12:40:54] Package Microsoft.VisualStudio.Debugger.DbgHelp.Win8 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[6.1,6.3]'.
+[57bc:0014][2026-05-10T12:40:54] Package Microsoft.VisualStudio.Debugger.Remote.DbgHelp.Win8 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[6.1,6.3]'.
+[57bc:0014][2026-05-10T12:40:54] Package Microsoft.VisualStudio.Debugger.Remote.DbgHelp.Win8 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[6.1,6.3]'.
+[57bc:0014][2026-05-10T12:40:54] Compatible ProductCode '{F5796163-6EC6-488A-B2DE-E1E94477F6AD}' found for package 'Microsoft.VisualStudio.Debugger.Script.Msi,version=17.14.36015.10,machinearch=x64'
+[57bc:0014][2026-05-10T12:40:54] Compatible package is not installed. Code '{F5796163-6EC6-488A-B2DE-E1E94477F6AD}' will not be used for repair/uninstall attempts.
+[57bc:0014][2026-05-10T12:40:54] Compatible ProductCode '{C762588C-06DE-496A-8ADF-EBDBD49E37B5}' found for package 'Microsoft.DiagnosticsHub.Collection.Service,version=17.14.36412.1,productarch=neutral,machinearch=x64'
+[57bc:0014][2026-05-10T12:40:54] Compatible package is not installed. Code '{C762588C-06DE-496A-8ADF-EBDBD49E37B5}' will not be used for repair/uninstall attempts.
+[57bc:0014][2026-05-10T12:40:54] Package Microsoft.Net.4.8.FullRedist.20H2 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[10.0.19042,10.0.22000]'.
+[57bc:0014][2026-05-10T12:40:54] Package Microsoft.Net.4.8.FullRedist is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[6.1.1,10.0.17763]'.
+[57bc:0014][2026-05-10T12:40:54] Package Microsoft.Net.4.8.KB5003306 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[10.0.18362,10.0.18363]'.
+[57bc:0014][2026-05-10T12:40:54] Package Microsoft.Net.4.8.KB5003304 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[10.0.19041,10.0.19042)'.
+[57bc:0014][2026-05-10T12:40:54] Package Microsoft.Net.4.8.1.FullRedist is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[10.0.19042,10.0.22000]'.
+[57bc:0014][2026-05-10T12:40:54] Package Microsoft.VisualStudio.NuGet.PowershellBindingRedirect is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[6.1,6.2)'.
+[57bc:0014][2026-05-10T12:40:54] Compatible ProductCode '{D331F4E7-BC3B-47BE-BB56-5F33895F9347}' found for package 'Microsoft.Build.FileTracker.Msi,version=17.14.36015.10'
+[57bc:0014][2026-05-10T12:40:54] Compatible package is not installed. Code '{D331F4E7-BC3B-47BE-BB56-5F33895F9347}' will not be used for repair/uninstall attempts.
+[57bc:0014][2026-05-10T12:40:54] Compatible ProductCode '{D07657AA-968C-4629-BD6C-1B52AF825EA7}' found for package 'Microsoft.VisualStudio.Setup.Configuration,version=3.12.2140.44225'
+[57bc:0014][2026-05-10T12:40:54] Compatible package is not installed. Code '{D07657AA-968C-4629-BD6C-1B52AF825EA7}' will not be used for repair/uninstall attempts.
+[57bc:0014][2026-05-10T12:40:54] Compatible ProductCode '{49727420-70BA-4495-9405-31F8D711CB5A}' found for package 'Microsoft.VisualStudio.Setup.WMIProvider,version=3.12.2140.44225'
+[57bc:0014][2026-05-10T12:40:54] Compatible package is not installed. Code '{49727420-70BA-4495-9405-31F8D711CB5A}' will not be used for repair/uninstall attempts.
+[57bc:0014][2026-05-10T12:40:54] Package Microsoft.Windows.UniversalCRT.Msu.7 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[6.1,6.2)'.
+[57bc:0014][2026-05-10T12:40:54] Package Microsoft.Windows.UniversalCRT.Msu.8 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[6.2,6.3)'.
+[57bc:0014][2026-05-10T12:40:54] Package Microsoft.Windows.UniversalCRT.Msu.81 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[6.3,6.4)'.
+[57bc:0014][2026-05-10T12:40:54] Package Microsoft.VisualStudio.Debugger.DbgHelp.Win8 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[6.1,6.3]'.
+[57bc:0014][2026-05-10T12:40:54] Package Microsoft.VisualStudio.Debugger.Remote.DbgHelp.Win8 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[6.1,6.3]'.
+[57bc:0014][2026-05-10T12:40:54] Package Microsoft.VisualStudio.Debugger.Remote.DbgHelp.Win8 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[6.1,6.3]'.
+[57bc:0014][2026-05-10T12:40:54] Compatible ProductCode '{F5796163-6EC6-488A-B2DE-E1E94477F6AD}' found for package 'Microsoft.VisualStudio.Debugger.Script.Msi,version=17.14.36015.10,machinearch=x64'
+[57bc:0014][2026-05-10T12:40:54] Compatible package is not installed. Code '{F5796163-6EC6-488A-B2DE-E1E94477F6AD}' will not be used for repair/uninstall attempts.
+[57bc:0014][2026-05-10T12:40:54] Compatible ProductCode '{C762588C-06DE-496A-8ADF-EBDBD49E37B5}' found for package 'Microsoft.DiagnosticsHub.Collection.Service,version=17.14.36412.1,productarch=neutral,machinearch=x64'
+[57bc:0014][2026-05-10T12:40:54] Compatible package is not installed. Code '{C762588C-06DE-496A-8ADF-EBDBD49E37B5}' will not be used for repair/uninstall attempts.
+[57bc:0014][2026-05-10T12:40:54] Package Microsoft.Net.4.8.FullRedist.20H2 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[10.0.19042,10.0.22000]'.
+[57bc:0014][2026-05-10T12:40:54] Package Microsoft.Net.4.8.FullRedist is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[6.1.1,10.0.17763]'.
+[57bc:0014][2026-05-10T12:40:54] Package Microsoft.Net.4.8.KB5003306 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[10.0.18362,10.0.18363]'.
+[57bc:0014][2026-05-10T12:40:54] Package Microsoft.Net.4.8.KB5003304 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[10.0.19041,10.0.19042)'.
+[57bc:0014][2026-05-10T12:40:54] Package Microsoft.Net.4.8.1.FullRedist is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[10.0.19042,10.0.22000]'.
+[57bc:0014][2026-05-10T12:40:54] Package Microsoft.VisualStudio.NuGet.PowershellBindingRedirect is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[6.1,6.2)'.

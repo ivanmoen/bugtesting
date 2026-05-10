@@ -1,0 +1,195 @@
+﻿# Snapshot raw output (outbox/04 fresh-install validation)
+# Generated: 2026-05-10T12:49:56.7627634+02:00
+# Repo root: D:\Projects\Bugtesting\Bug testing\bugtesting
+# Script:    D:\Projects\Bugtesting\Bug testing\bugtesting\_helpers\fresh-install-validation.ps1
+
+===== Patched bootstrap script presence + VC.Tools.x86.x64 grep =====
+PATH:   D:\Projects\Bugtesting\Bug testing\bugtesting\context\bootstrap-prereqs.ps1
+SIZE:   18509 bytes
+SHA256: E6A6B475704F75C324526C67FBA9133F7565815B0125B6B98AB032FF7E3A08AE
+
+--- lines containing 'VC.Tools.x86.x64' (expect at least one in --add args) ---
+  L 235: # -requires VC.Tools.x86.x64 ensures the C++ workload is actually present
+  L 238: -requires Microsoft.VisualStudio.Component.VC.Tools.x86.x64 `
+  L 326: # IMPORTANT -- the explicit '--add VC.Tools.x86.x64' is load-bearing.
+  L 339: '--add', 'Microsoft.VisualStudio.Component.VC.Tools.x86.x64',
+  L 354: exited $code but vswhere can't find Microsoft.VisualStudio.Component.VC.Tools.x86.x64
+  L 363: '--add VC.Tools.x86.x64' arg, please capture
+  L 378: --add Microsoft.VisualStudio.Component.VC.Tools.x86.x64 ``
+
+===== Pre-tear-down: vswhere -all -prerelease -products * =====
+D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools
+
+===== Pre-tear-down: install folder + _Instances state =====
+install folder: EXISTS (D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools, entries=12385)
+_Instances entries: e191933d
+
+===== vs_installer.exe uninstall result =====
+Command line: C:\Program Files (x86)\Microsoft Visual Studio\Installer\vs_installer.exe uninstall --installPath "D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools" --passive --norestart
+Started:  2026-05-10T12:46:05.7226742+02:00
+Ended:    2026-05-10T12:47:39.4002618+02:00
+Duration: 1.56 min
+Exit code: 0
+Polled for install folder removal: 0 s (cap 1200 s)
+Install folder still present after wait: False
+
+--- vs_installer stdout/stderr (combined) ---
+
+--- end output ---
+
+===== Post-uninstall verify + scrub =====
+vswhere after uninstall: empty (good)
+scrub _Instances\*: nothing to remove (uninstall handled it)
+scrub install folder: not present (uninstall handled it)
+clean state: vswhere empty (good)
+clean state: _Instances empty (good)
+clean state: install folder exists = False
+
+===== Patched bootstrap-prereqs.ps1 run =====
+Command line: powershell.exe -NoProfile -ExecutionPolicy Bypass -File D:\Projects\Bugtesting\Bug testing\bugtesting\context\bootstrap-prereqs.ps1 -VsInstallPath "D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools"
+Started:  2026-05-10T12:47:39.5304772+02:00
+Ended:    2026-05-10T12:49:55.9283197+02:00
+Duration: 2.27 min
+Exit code: 0
+
+--- bootstrap stdout/stderr (combined) ---
+2026-05-10T12:47:39.7371088+02:00 [INFO] winget found at C:\Users\Werguru\AppData\Local\Microsoft\WindowsApps\winget.exe
+2026-05-10T12:47:39.7531151+02:00 [INFO] TortoiseSVN already present at C:\Program Files\TortoiseSVN\bin\svn.exe -- skipping.
+2026-05-10T12:47:39.8081946+02:00 [INFO] VS install verb: 'install' at 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools' (existing instances found: 0)
+2026-05-10T12:47:39.8091878+02:00 [INFO] Installing VS Build Tools 2022 (~10 GB) into D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools ...
+2026-05-10T12:47:39.8101877+02:00 [INFO] This will take several minutes; the VS Installer UI shows progress.
+2026-05-10T12:47:39.8111880+02:00 [INFO] Downloading VS Build Tools bootstrapper: https://aka.ms/vs/17/release/vs_BuildTools.exe
+2026-05-10T12:47:42.7214367+02:00 [INFO] vs_BuildTools invoking: C:\Users\Werguru\AppData\Local\Temp\vs_BuildTools_31484.exe install --passive --wait --norestart --installPath "D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools" --add Microsoft.VisualStudio.Workload.VCTools --add Microsoft.VisualStudio.Component.VC.Tools.x86.x64 --add Microsoft.VisualStudio.Component.Windows11SDK.22621
+2026-05-10T12:49:55.8767660+02:00 [INFO] vs_BuildTools exit code: 0
+2026-05-10T12:49:55.8807714+02:00 [INFO] vs_BuildTools final exit code: 0
+2026-05-10T12:49:55.9113007+02:00 [INFO] VS Build Tools installed; installation root at D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools
+2026-05-10T12:49:55.9122990+02:00 [INFO] ------ Bootstrap summary ------
+2026-05-10T12:49:55.9142966+02:00 [INFO]   svn.exe      : C:\Program Files\TortoiseSVN\bin\svn.exe
+2026-05-10T12:49:55.9142966+02:00 [INFO]   VS C++ root  : D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools
+2026-05-10T12:49:55.9152947+02:00 [INFO] Bootstrap finished successfully.
+--- end output ---
+
+===== vswhere -all -prerelease -products * -requires VC.Tools.x86.x64 =====
+D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools
+
+===== vswhere -all -prerelease -products * (no requires filter) =====
+D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools
+
+===== cl.exe search under installPath =====
+FOUND  D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.44.35207\bin\Hostx64\x64\cl.exe  (FileVersion=19.44.35226.0, Length=677968)
+FOUND  D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.44.35207\bin\Hostx64\x86\cl.exe  (FileVersion=19.44.35226.0, Length=678000)
+FOUND  D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.44.35207\bin\Hostx86\x64\cl.exe  (FileVersion=19.44.35226.0, Length=599624)
+FOUND  D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Tools\MSVC\14.44.35207\bin\Hostx86\x86\cl.exe  (FileVersion=19.44.35226.0, Length=598608)
+
+===== Install folder summary =====
+EXISTS: D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools
+Recursive entries: 12385
+Total size: 2.83 GB
+
+===== _Instances state (post-install) =====
+
+Name     LastWriteTime      
+----     -------------      
+bebbd951 10.05.2026 12:49:52
+
+===== Copy new top-level dd_*.log files to inbox\logs =====
+OK   dd_bootstrapper_20260510124744.log  (5940 bytes)
+OK   dd_installer_20260510124746.log  (46870 bytes)
+OK   dd_installer_elevated_20260510124750.log  (5646697 bytes)
+OK   dd_setup_20260510124952.log  (9104 bytes)
+OK   dd_setup_20260510124952_errors.log  (0 bytes)
+OK   dd_setup_20260510124750.log  (4881852 bytes)
+OK   dd_setup_20260510124750_errors.log  (0 bytes)
+OK   dd_setup_20260510124748.log  (11119 bytes)
+OK   dd_setup_20260510124748_errors.log  (0 bytes)
+OK   dd_installer_20260510124605.log  (22666 bytes)
+OK   dd_installer_elevated_20260510124607.log  (3429886 bytes)
+OK   dd_setup_20260510124610.log  (3420201 bytes)
+OK   dd_setup_20260510124610_errors.log  (0 bytes)
+OK   dd_setup_20260510124607.log  (8694 bytes)
+OK   dd_setup_20260510124607_errors.log  (0 bytes)
+
+===== Copy bootstrap-prereqs.log (renamed to *-fresh-install.log) =====
+OK   Copied C:\ProgramData\RPGBuildServer\logs\bootstrap-prereqs.log -> D:\Projects\Bugtesting\Bug testing\bugtesting\inbox\logs\bootstrap-prereqs-fresh-install.log (1982 bytes)
+
+--- last 80 lines ---
+2026-05-10T12:47:39.7221072+02:00 bootstrap-prereqs starting (PID=31484, PSVersion=5.1.26100.8115)
+2026-05-10T12:47:39.7371088+02:00 [INFO] winget found at C:\Users\Werguru\AppData\Local\Microsoft\WindowsApps\winget.exe
+2026-05-10T12:47:39.7531151+02:00 [INFO] TortoiseSVN already present at C:\Program Files\TortoiseSVN\bin\svn.exe -- skipping.
+2026-05-10T12:47:39.8081946+02:00 [INFO] VS install verb: 'install' at 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools' (existing instances found: 0)
+2026-05-10T12:47:39.8091878+02:00 [INFO] Installing VS Build Tools 2022 (~10 GB) into D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools ...
+2026-05-10T12:47:39.8101877+02:00 [INFO] This will take several minutes; the VS Installer UI shows progress.
+2026-05-10T12:47:39.8111880+02:00 [INFO] Downloading VS Build Tools bootstrapper: https://aka.ms/vs/17/release/vs_BuildTools.exe
+2026-05-10T12:47:42.7214367+02:00 [INFO] vs_BuildTools invoking: C:\Users\Werguru\AppData\Local\Temp\vs_BuildTools_31484.exe install --passive --wait --norestart --installPath "D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools" --add Microsoft.VisualStudio.Workload.VCTools --add Microsoft.VisualStudio.Component.VC.Tools.x86.x64 --add Microsoft.VisualStudio.Component.Windows11SDK.22621
+2026-05-10T12:49:55.8767660+02:00 [INFO] vs_BuildTools exit code: 0
+2026-05-10T12:49:55.8807714+02:00 [INFO] vs_BuildTools final exit code: 0
+2026-05-10T12:49:55.9113007+02:00 [INFO] VS Build Tools installed; installation root at D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools
+2026-05-10T12:49:55.9122990+02:00 [INFO] ------ Bootstrap summary ------
+2026-05-10T12:49:55.9142966+02:00 [INFO]   svn.exe      : C:\Program Files\TortoiseSVN\bin\svn.exe
+2026-05-10T12:49:55.9142966+02:00 [INFO]   VS C++ root  : D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools
+2026-05-10T12:49:55.9152947+02:00 [INFO] Bootstrap finished successfully.
+
+===== Tail of newest dd_installer_elevated_*.log (last 60 lines) =====
+FROM: C:\Users\Werguru\AppData\Local\Temp\dd_installer_elevated_20260510124750.log
+
+[2e10:0015][2026-05-10T12:49:52] Policy setting: CachePath, value: C:\ProgramData\Microsoft\VisualStudio\Packages
+[2e10:0015][2026-05-10T12:49:52] Policy setting: ChannelUpdateDisabled, value: False
+[2e10:0015][2026-05-10T12:49:52] Policy setting: CompatibilityInstallationPath, value: C:\Program Files (x86)\Microsoft Visual Studio\Compatibility
+[2e10:0015][2026-05-10T12:49:52] Policy setting: ConcurrentDownloads, value: 6
+[2e10:0015][2026-05-10T12:49:52] Policy setting: DiagnosticMode, value: False
+[2e10:0015][2026-05-10T12:49:52] Policy setting: DisableBlockedOSCheck, value: False
+[2e10:0015][2026-05-10T12:49:52] Policy setting: DisableMicrosoftChannelFeed, value: False
+[2e10:0015][2026-05-10T12:49:52] Policy setting: DisableRollback, value: False
+[2e10:0015][2026-05-10T12:49:52] Policy setting: DisableSound, value: False
+[2e10:0015][2026-05-10T12:49:52] Policy setting: ElevationServiceSupport, value: Blocked
+[2e10:0015][2026-05-10T12:49:52] Policy setting: HideAvailableTab, value: False
+[2e10:0015][2026-05-10T12:49:52] Policy setting: IgnoreChannelFeedProductRestriction, value: False
+[2e10:0015][2026-05-10T12:49:52] Policy setting: IsCachePathSettable, value: False
+[2e10:0015][2026-05-10T12:49:52] Policy setting: KeepDownloadedPayloads, value: True
+[2e10:0015][2026-05-10T12:49:52] Policy setting: PreviewAutomaticUpdates, value: False
+[2e10:0015][2026-05-10T12:49:52] Policy setting: ProductFeedbackDisabled, value: False
+[2e10:0015][2026-05-10T12:49:52] Policy setting: RemoveOos, value: False
+[2e10:0015][2026-05-10T12:49:52] Policy setting: SharedInstallationPath, value: C:\Program Files (x86)\Microsoft Visual Studio\Shared
+[2e10:0015][2026-05-10T12:49:52] Policy setting: SkipNgenAfterSetup, value: False
+[2e10:0015][2026-05-10T12:49:52] Policy setting: SurveysDisabled, value: False
+[2e10:0015][2026-05-10T12:49:52] Policy setting: UpdateConfigurationFile, value: C:\ProgramData\Microsoft\VisualStudio\updates.config
+[2e10:0015][2026-05-10T12:49:52] Policy setting: UpdateNotificationsOptOut, value: False
+[2e10:0015][2026-05-10T12:49:52] Policy setting: VSthroughMUUpdatesOptOut, value: False
+[2e10:0015][2026-05-10T12:49:52] Completed install
+[2e10:0015][2026-05-10T12:49:52] System Measurement for 'InstallOperation': 'System Drive Delta (Before - After)': 3978833920
+[2e10:0015][2026-05-10T12:49:52] System Measurement for 'InstallOperation': 'System Drive Space (After)': 908444483584
+[2e10:0015][2026-05-10T12:49:52] System Measurement for 'InstallOperation': 'Target Drive Delta (Before - After)': 3057389568
+[2e10:0015][2026-05-10T12:49:52] System Measurement for 'InstallOperation': 'Target Drive Space (After)': 1951103381504
+[2e10:0015][2026-05-10T12:49:52] Compatible ProductCode '{F73D5EBA-D2A0-9F65-ADA6-2CCFDF44EA70}' found for package 'Microsoft.Windows.UniversalCRT.Tools.Msi,version=10.0.26624,chip=x64'
+[2e10:0015][2026-05-10T12:49:52] Releasing singleton lock.
+[2e10:0015][2026-05-10T12:49:52] Releasing singleton lock succeed.
+[2e10:0015][2026-05-10T12:49:52] Removed telemetry property VS.SetupEngine.SharedWillowInstallSessionId
+[2e10:0015][2026-05-10T12:49:52] Telemetry property MachineId : 5af82217-2f88-4bc5-9127-97d7c7b7c423
+[2e10:0015][2026-05-10T12:49:52] Telemetry property SessionId : 273e38ce-719c-4fa1-beb5-dc2b90a578e5
+[2e10:0015][2026-05-10T12:49:52] Removed telemetry property VS.SetupEngine.UserRequestedOperation
+[2e10:0015][2026-05-10T12:49:52] Synchronizing read only channels after operation completion.
+[2e10:0015][2026-05-10T12:49:52] Warning: Setup expects one or more channel manifest in the repository.
+[2e10:0015][2026-05-10T12:49:52] Warning: Setup expects one or more channel manifest in the repository.
+[2e10:0015][2026-05-10T12:49:52] Synchronizing readonly channel: https://aka.ms/vs/17/release/channel
+[2e10:006e][2026-05-10T12:49:54] RPC Disconnected: RemotePartyTerminated, Description: Reached end of stream.
+[2e10:006e][2026-05-10T12:49:54] RPC Disconnected: RemotePartyTerminated, Description: Reached end of stream.
+[2e10:006e][2026-05-10T12:49:54] RPC Disconnected: RemotePartyTerminated, Description: Reached end of stream.
+[2e10:006e][2026-05-10T12:49:54] RPC Disconnected: RemotePartyTerminated, Description: Reached end of stream.
+[2e10:006e][2026-05-10T12:49:54] RPC Disconnected: RemotePartyTerminated, Description: Reached end of stream.
+[2e10:006e][2026-05-10T12:49:54] RPC Disconnected: RemotePartyTerminated, Description: Reached end of stream.
+[2e10:006e][2026-05-10T12:49:54] RPC Disconnected: RemotePartyTerminated, Description: Reached end of stream.
+[2e10:006e][2026-05-10T12:49:54] RPC Disconnected: RemotePartyTerminated, Description: Reached end of stream.
+[2e10:006e][2026-05-10T12:49:54] RPC Disconnected: RemotePartyTerminated, Description: Reached end of stream.
+[2e10:006e][2026-05-10T12:49:54] RPC Disconnected: RemotePartyTerminated, Description: Reached end of stream.
+[2e10:006e][2026-05-10T12:49:54] RPC Disconnected: RemotePartyTerminated, Description: Reached end of stream.
+[2e10:006e][2026-05-10T12:49:54] RPC Disconnected: RemotePartyTerminated, Description: Reached end of stream.
+[2e10:006e][2026-05-10T12:49:54] RPC Disconnected: RemotePartyTerminated, Description: Reached end of stream.
+[2e10:006e][2026-05-10T12:49:54] RPC Disconnected: RemotePartyTerminated, Description: Reached end of stream.
+[2e10:0001][2026-05-10T12:49:54] ManifestVerifier Result: Success
+[2e10:0001][2026-05-10T12:49:54] Closing the installer with exit code 0
+[2e10:0001][2026-05-10T12:49:54] Exit Code: 0
+[2e10:0001][2026-05-10T12:49:54] ManifestVerifier Result: Success
+[2e10:0001][2026-05-10T12:49:54] ManifestVerifier Result: Success
+[2e10:0001][2026-05-10T12:49:54] Releasing singleton lock.
+[2e10:0001][2026-05-10T12:49:54] Singleton lock does not exist. Releasing singleton lock skipped.
+

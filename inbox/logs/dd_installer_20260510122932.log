@@ -1,0 +1,50 @@
+[7524:0001][2026-05-10T12:29:32] Saving the current locale (en-US) to user.json.
+[7524:0001][2026-05-10T12:29:32] Setting the telemetry services
+[7524:0005][2026-05-10T12:29:32] Creating a new telemetry service.
+[7524:0001][2026-05-10T12:29:32] Visual Studio Installer Version: 4.5.35+8a285335fc
+[7524:0001][2026-05-10T12:29:32] Raw Command line: "C:\Program Files (x86)\Microsoft Visual Studio\Installer\setup.exe" uninstall --installPath "D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools" --passive --wait --norestart
+[7524:0001][2026-05-10T12:29:32] Warning: Closing the installer with exit code 87
+[7524:0009][2026-05-10T12:29:32] Warning: Command line errors:
+Option 'wait' is unknown.
+[7524:0001][2026-05-10T12:29:32] Warning: Failed to parse the command line arguments: Option 'wait' is unknown. Usage: setup.exe uninstall [options]
+Command: --installPath. Usage: The path to the installation to uninstall
+Command: --path. Usage: Sets the custom path using a key=value pair e.g. --path cache=C:\\cachePath
+Command: --passive, --p. Usage: The command executes immediately without user interaction, showing UI
+Command: --quiet, --q. Usage: The command executes immediately without user interaction, without creating UI
+Command: --norestart. Usage: Prevents a quiet/passive operation from rebooting automatically, if required
+Command: --channelUri. Usage: The URI or path to the channel manifest to use for updates
+Command: --installChannelUri. Usage: The URI or path to the channel manifest to use for the installation
+Command: --channelId. Usage: The ID of the channel containing the product to install
+Command: --productId. Usage: The ID of the product to install
+Command: --layoutPath. Usage: The path to the layout to use for installation packages
+Command: --layoutUri. Usage: The URI for layouts which are hosted on web to use for installation packages
+Command: --config. Usage: The path to a configuration file to use for selection
+Command: --in. Usage: The path to the response file to use for the operation
+Command: --noUpdateInstaller. Usage: Prevents the installer from automatically updating if an update is required
+Command: --cache. Usage: Specifies that payloads should be cached on the system
+Command: --nocache. Usage: Specifies that payloads should be deleted from the system
+Command: --noWeb. Usage: Prevents the installer from downloading any payloads over HTTP
+Command: --force. Usage: Forces any running, blocking exes to shutdown before starting the operation
+Command: --theme. Usage: Changes the color theme of the installer. The options are Light, Dark and HighContrast
+Command: --locale. Usage: Sets the UI locale
+[7524:0001][2026-05-10T12:29:32] Warning: Shutting down the application with exit code 87
+[7524:0001][2026-05-10T12:29:32] Closing the installer with exit code 87
+[7524:0005][2026-05-10T12:29:33] Telemetry session ID: 36283512-9b9c-4cda-bd01-d8c8bcc03868
+[7524:0004][2026-05-10T12:29:33] Creating new ExperimentationService
+[7524:0004][2026-05-10T12:29:33] Telemetry property VS.ABExp.Flights : lazytoolboxinit;fwlargebuffer;refactoring;spmoretempsbtn1;asloff;keybindgoldbarext;asynccsproj;vsfricheditor;completionapi;4f604693:30775293
+[7524:0005][2026-05-10T12:29:33] Telemetry property vs.willow.source : WPF
+[7524:0005][2026-05-10T12:29:33] Telemetry property vs.willow.locale : en-US
+[7524:0005][2026-05-10T12:29:33] Telemetry property vs.willow.installerversion : 4.5.35.35368
+[7524:0005][2026-05-10T12:29:33] Telemetry property vs.willow.startmethod : direct
+[7524:0005][2026-05-10T12:29:33] Telemetry property vs.willow.activityid : 6b78a938-c430-4860-a291-3e73148c7085
+[7524:0005][2026-05-10T12:29:33] Telemetry property vs.willow.campaign : 
+[7524:0005][2026-05-10T12:29:33] Telemetry property vs.willow.passive : False
+[7524:0005][2026-05-10T12:29:33] Telemetry property vs.willow.quiet : False
+[7524:0005][2026-05-10T12:29:33] Telemetry property vs.willow.processtype : ui
+[7524:0005][2026-05-10T12:29:33] Telemetry property vs.willow.iselevated : True
+[7524:0005][2026-05-10T12:29:33] Telemetry property vs.willow.issystem : False
+[7524:0005][2026-05-10T12:29:33] Telemetry property vs.willow.isadmin : True
+[7524:0001][2026-05-10T12:29:33] Exit Code: 87
+[7524:0001][2026-05-10T12:29:33] Cleared previous session ID.
+[7524:0001][2026-05-10T12:29:33] Releasing singleton lock.
+[7524:0001][2026-05-10T12:29:33] Singleton lock does not exist. Releasing singleton lock skipped.
