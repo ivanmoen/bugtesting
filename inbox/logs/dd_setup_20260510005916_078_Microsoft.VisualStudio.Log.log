@@ -1,0 +1,34 @@
+[bd94:0009][2026-05-10T01:00:50] Using cached package manifest as the embedded manifest
+[bd94:0009][2026-05-10T01:00:50] Processing file /Contents/Common7/IDE/msdia140.dll
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\msdia140.dll file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /Contents/Common7/IDE/VsLog.dll
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\VsLog.dll file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /Contents/Common7/IDE/VSReliability.dll
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\VSReliability.dll file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /Contents/Common7/IDE/x64/VSReliability.dll
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\x64\VSReliability.dll file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VSLog/Microsoft.VisualStudio.PerfWatson.Provider.pkgdef
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\CommonExtensions\Microsoft\VSLog\Microsoft.VisualStudio.PerfWatson.Provider.pkgdef file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VSReliability/VsReliability.pkgdef
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\CommonExtensions\Microsoft\VSReliability\VsReliability.pkgdef file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.PerfWatson.dll
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\Microsoft.VisualStudio.PerfWatson.dll file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /Contents/Common7/IDE/PerfWatson2.exe
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\PerfWatson2.exe file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /Contents/Common7/IDE/PerfWatson2.exe.config
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\PerfWatson2.exe.config file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /Contents/Common7/IDE/ResponsivenessTrackingManifest.xml
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\ResponsivenessTrackingManifest.xml file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /Contents/Common7/IDE/CodeMarkersEtw.man
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\CodeMarkersEtw.man file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /Contents/Common7/IDE/CodeMarkersEtwRc.dll
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\CodeMarkersEtwRc.dll file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.CodeMarkers.dll
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\Microsoft.VisualStudio.CodeMarkers.dll file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VSLog/VSLog.pkgdef
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\CommonExtensions\Microsoft\VSLog\VSLog.pkgdef file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.PerfWatson.Provider.dll
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.PerfWatson.Provider.dll file deleted.
+[bd94:0009][2026-05-10T01:00:50] Started: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:50] Completed: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:50] Package executed successfully. Return code: 0

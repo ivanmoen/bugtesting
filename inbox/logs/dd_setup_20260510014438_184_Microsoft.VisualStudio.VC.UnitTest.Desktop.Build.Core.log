@@ -1,0 +1,36 @@
+[0c48:0003][2026-05-10T01:44:48] Using cached package manifest as the embedded manifest
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/VC/Auxiliary/VS/UnitTest/include/CppUnitTest.h
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\include\CppUnitTest.h file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/VC/Auxiliary/VS/UnitTest/include/CppUnitTestAssert.h
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\include\CppUnitTestAssert.h file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/VC/Auxiliary/VS/UnitTest/include/CppUnitTestCommon.h
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\include\CppUnitTestCommon.h file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/VC/Auxiliary/VS/UnitTest/include/CppUnitTestException.h
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\include\CppUnitTestException.h file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/VC/Auxiliary/VS/UnitTest/include/CppUnitTestLogger.h
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\include\CppUnitTestLogger.h file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/VC/Auxiliary/VS/UnitTest/include/v150/CppUnitTest.h
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\include\v150\CppUnitTest.h file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/VC/Auxiliary/VS/UnitTest/include/v150/CppUnitTestAssert.h
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\include\v150\CppUnitTestAssert.h file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/VC/Auxiliary/VS/UnitTest/include/v150/CppUnitTestCommon.h
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\include\v150\CppUnitTestCommon.h file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/VC/Auxiliary/VS/UnitTest/include/v150/CppUnitTestException.h
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\include\v150\CppUnitTestException.h file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/VC/Auxiliary/VS/UnitTest/include/v150/CppUnitTestLogger.h
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\include\v150\CppUnitTestLogger.h file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/VC/Auxiliary/VS/UnitTest/lib/x86/Microsoft.VisualStudio.TestTools.CppUnitTestFramework.lib
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\lib\x86\Microsoft.VisualStudio.TestTools.CppUnitTestFramework.lib file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/VC/Auxiliary/VS/UnitTest/lib/x64/Microsoft.VisualStudio.TestTools.CppUnitTestFramework.lib
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\lib\x64\Microsoft.VisualStudio.TestTools.CppUnitTestFramework.lib file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/VC/Auxiliary/VS/UnitTest/lib/ARM/Microsoft.VisualStudio.TestTools.CppUnitTestFramework.lib
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\lib\ARM\Microsoft.VisualStudio.TestTools.CppUnitTestFramework.lib file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/VC/Auxiliary/VS/UnitTest/lib/ARM64/Microsoft.VisualStudio.TestTools.CppUnitTestFramework.lib
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\lib\ARM64\Microsoft.VisualStudio.TestTools.CppUnitTestFramework.lib file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Msbuild/Microsoft/VC/v150/Microsoft.Cpp.UnitTest.props
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v150\Microsoft.Cpp.UnitTest.props file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Msbuild/Microsoft/VC/v160/Microsoft.Cpp.UnitTest.props
+[0c48:0003][2026-05-10T01:44:48] 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v160\Microsoft.Cpp.UnitTest.props' file is already deleted.
+[0c48:0003][2026-05-10T01:44:48] Started: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:48] Completed: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:48] Package executed successfully. Return code: 0

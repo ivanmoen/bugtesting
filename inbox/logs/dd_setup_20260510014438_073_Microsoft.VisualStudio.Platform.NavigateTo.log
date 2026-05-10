@@ -1,0 +1,16 @@
+[0c48:0003][2026-05-10T01:44:45] Using cached package manifest as the embedded manifest
+[0c48:0003][2026-05-10T01:44:45] Processing file /extension.vsixmanifest
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\NavigateTo\extension.vsixmanifest file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Microsoft.VisualStudio.Language.NavigateTo.Interfaces.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\NavigateTo\Microsoft.VisualStudio.Language.NavigateTo.Interfaces.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Microsoft.VisualStudio.Platform.NavigateTo.pkgdef
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\NavigateTo\Microsoft.VisualStudio.Platform.NavigateTo.pkgdef file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Microsoft.VisualStudio.Language.NavigateTo.Implementation.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\NavigateTo\Microsoft.VisualStudio.Language.NavigateTo.Implementation.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /manifest.json
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\NavigateTo\manifest.json file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /catalog.json
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\NavigateTo\catalog.json file deleted.
+[0c48:0003][2026-05-10T01:44:45] Started: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:45] Completed: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:45] Package executed successfully. Return code: 0

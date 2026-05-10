@@ -1,0 +1,12 @@
+[c9c4:0009][2026-05-10T01:01:49] Opening the package for processing
+[c9c4:0009][2026-05-10T01:01:49] Using package payload to get the embedded manifest
+[c9c4:0009][2026-05-10T01:01:49] Getting list of files within the package
+[c9c4:0009][2026-05-10T01:01:49] Processing file /Contents/MSBuild/Microsoft/VC/v170/Platforms/ARM/PlatformToolsets/v143/Toolset.props
+[c9c4:0009][2026-05-10T01:01:49] Started: Copying file /Contents/MSBuild/Microsoft/VC/v170/Platforms/ARM/PlatformToolsets/v143/Toolset.props to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VC\v170\Platforms\ARM\PlatformToolsets\v143\Toolset.props
+[c9c4:0009][2026-05-10T01:01:49] Completed: Copying file /Contents/MSBuild/Microsoft/VC/v170/Platforms/ARM/PlatformToolsets/v143/Toolset.props to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VC\v170\Platforms\ARM\PlatformToolsets\v143\Toolset.props
+[c9c4:0009][2026-05-10T01:01:49] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VC\v170\Platforms\ARM\PlatformToolsets\v143\Toolset.props'.
+[c9c4:0009][2026-05-10T01:01:49] Processing file /Contents/MSBuild/Microsoft/VC/v170/Platforms/ARM/PlatformToolsets/v143/Toolset.targets
+[c9c4:0009][2026-05-10T01:01:49] Started: Copying file /Contents/MSBuild/Microsoft/VC/v170/Platforms/ARM/PlatformToolsets/v143/Toolset.targets to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VC\v170\Platforms\ARM\PlatformToolsets\v143\Toolset.targets
+[c9c4:0009][2026-05-10T01:01:49] Completed: Copying file /Contents/MSBuild/Microsoft/VC/v170/Platforms/ARM/PlatformToolsets/v143/Toolset.targets to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VC\v170\Platforms\ARM\PlatformToolsets\v143\Toolset.targets
+[c9c4:0009][2026-05-10T01:01:49] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VC\v170\Platforms\ARM\PlatformToolsets\v143\Toolset.targets'.
+[c9c4:0009][2026-05-10T01:01:49] Package executed successfully. Return code: 0

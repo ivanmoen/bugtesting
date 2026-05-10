@@ -1,0 +1,274 @@
+[0c48:0003][2026-05-10T01:44:46] Using cached package manifest as the embedded manifest
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/ImageContentTask.props
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\ImageContentTask.props file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/ImageContentTask.targets
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\ImageContentTask.targets file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/MeshContentTask.props
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\MeshContentTask.props file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/MeshContentTask.targets
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\MeshContentTask.targets file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/ShaderGraphContentTask.props
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\ShaderGraphContentTask.props file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/ShaderGraphContentTask.targets
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\ShaderGraphContentTask.targets file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Cursors/cross.cur
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Cursors\cross.cur file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Cursors/cursor_pan.cur
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Cursors\cursor_pan.cur file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Cursors/cursor_pencil.cur
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Cursors\cursor_pencil.cur file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Cursors/fill.cur
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Cursors\fill.cur file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Cursors/magicwand.cur
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Cursors\magicwand.cur file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Cursors/pickup.cur
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Cursors\pickup.cur file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Effects/BlackAndWhite.dgsl
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Effects\BlackAndWhite.dgsl file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Effects/Blur.dgsl
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Effects\Blur.dgsl file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Effects/Brighten.dgsl
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Effects\Brighten.dgsl file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Effects/Darken.dgsl
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Effects\Darken.dgsl file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Effects/EdgeDetection.dgsl
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Effects\EdgeDetection.dgsl file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Effects/Emboss.dgsl
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Effects\Emboss.dgsl file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Effects/lambert.dgsl
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Effects\lambert.dgsl file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Effects/phong.dgsl
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Effects\phong.dgsl file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Effects/Ripple.dgsl
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Effects\Ripple.dgsl file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Effects/SepiaTone.dgsl
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Effects\SepiaTone.dgsl file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Effects/Sharpen.dgsl
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Effects\Sharpen.dgsl file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Effects/unlit.dgsl
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Effects\unlit.dgsl file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/checkerboard.png
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\checkerboard.png file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/DefaultShaderEffectGraphTexture.png
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\DefaultShaderEffectGraphTexture.png file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdadd.bmp
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdadd.bmp file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdadd.dds
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdadd.dds file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdalphaport.dds
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdalphaport.dds file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdconstant.bmp
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdconstant.bmp file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdconstant.dds
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdconstant.dds file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsddot.bmp
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsddot.bmp file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsddot.dds
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsddot.dds file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdfilters.bmp
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdfilters.bmp file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdmath.bmp
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdmath.bmp file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdmul.bmp
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdmul.bmp file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdmul.dds
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdmul.dds file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdmuladd.bmp
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdmuladd.bmp file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdmuladd.dds
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdmuladd.dds file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdnormalize.bmp
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdnormalize.bmp file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdnormalize.dds
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdnormalize.dds file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdparam.bmp
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdparam.bmp file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdpow.bmp
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdpow.bmp file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdpow.dds
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdpow.dds file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdsaturate.bmp
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdsaturate.bmp file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdsaturate.dds
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdsaturate.dds file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdterminal.bmp
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdterminal.bmp file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdterminal.dds
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdterminal.dds file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdtexsample.bmp
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdtexsample.bmp file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdtexsample.dds
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdtexsample.dds file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdtextures.bmp
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdtextures.bmp file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdutil.bmp
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdutil.bmp file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/lassoants.png
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\lassoants.png file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/materialmissing.png
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\materialmissing.png file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/resizehandle.png
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\resizehandle.png file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/tregrid.dds
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\tregrid.dds file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/addsubdivisions.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\addsubdivisions.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/cone.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\cone.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/copy.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\copy.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/creategroup.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\creategroup.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/createnewobjectfrompolygonselection.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\createnewobjectfrompolygonselection.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/cube.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\cube.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/cut.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\cut.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/cylinder.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\cylinder.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/decmip.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\decmip.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/delete.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\delete.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/disc.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\disc.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/exportdirect3deffect.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\exportdirect3deffect.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/extrude.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\extrude.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/flippolygons.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\flippolygons.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/frameobject.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\frameobject.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/incmip.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\incmip.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/mergeobjects.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\mergeobjects.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/mreorthographic.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\mreorthographic.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/mreperspective.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\mreperspective.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/openscriptfolder.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\openscriptfolder.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/orbit.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\orbit.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/pan.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\pan.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/paste.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\paste.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/plane.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\plane.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/redo.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\redo.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/registerdsdnodes.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\registerdsdnodes.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/remove all animation.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\remove all animation.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/remove materials.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\remove materials.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/removeparent.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\removeparent.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/reset.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\reset.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/rotate.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\rotate.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/save.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\save.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/scale.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\scale.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/selectall.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\selectall.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/setparent.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\setparent.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/show fps.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\show fps.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/showall.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\showall.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/showemptynodes.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\showemptynodes.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/showfacenormals.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\showfacenormals.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/showpivot.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\showpivot.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/showvertexnormals.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\showvertexnormals.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/snap.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\snap.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/sphere.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\sphere.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/teapot.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\teapot.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/togglealpha.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\togglealpha.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/toggleblue.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\toggleblue.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/toggleembedmediaonexport.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\toggleembedmediaonexport.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/toggleexportastext.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\toggleexportastext.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/togglegreen.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\togglegreen.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/togglegrid.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\togglegrid.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/togglepivot.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\togglepivot.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/togglered.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\togglered.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/toggleworldmode.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\toggleworldmode.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/translate.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\translate.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/triangulate.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\triangulate.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/undo.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\undo.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/viewback.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\viewback.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/viewbottom.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\viewbottom.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/viewfront.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\viewfront.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/viewleft.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\viewleft.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/viewmaterialerrors.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\viewmaterialerrors.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/viewright.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\viewright.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/viewtop.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\viewtop.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/vsgCommands.xml
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\vsgCommands.xml file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/zoom.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\zoom.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/zoomtofit.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\zoomtofit.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/zoomtoscreenwidth.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\zoomtoscreenwidth.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/callbacks/undoableelementname.js
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\callbacks\undoableelementname.js file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/hlsl/commonpixelshaderhelpers.ps
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\hlsl\commonpixelshaderhelpers.ps file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/hlsl/sm5_pixelshaderhelpers.ps
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\hlsl\sm5_pixelshaderhelpers.ps file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualC.VSCodeParser.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualC.VSCodeParser.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualC.VSCodeProvider.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualC.VSCodeProvider.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/PublicAssemblies/CppCodeProvider.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\CppCodeProvider.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/VC/vcpackages/concrt140.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\concrt140.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/VC/vcpackages/msvcp140.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\msvcp140.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/VC/vcpackages/vcruntime140.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\vcruntime140.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/VC/vcpackages/platform.winmd
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\platform.winmd file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/VC/VCProjectDefaults/Microsoft.AppX.VCFrameworkReferences.xml
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectDefaults\Microsoft.AppX.VCFrameworkReferences.xml file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/VC/VCProjectDefaults/VCMergeModules.xml
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectDefaults\VCMergeModules.xml file deleted.
+[0c48:0003][2026-05-10T01:44:46] Started: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:46] Completed: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:46] Package executed successfully. Return code: 0

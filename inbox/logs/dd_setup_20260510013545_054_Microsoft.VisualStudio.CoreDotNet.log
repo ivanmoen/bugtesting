@@ -1,0 +1,317 @@
+[3c7c:000c][2026-05-10T01:35:56] Opening the package for processing
+[3c7c:000c][2026-05-10T01:35:56] Using package payload to get the embedded manifest
+[3c7c:000c][2026-05-10T01:35:56] Getting list of files within the package
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.ServiceHub.Framework.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.ServiceHub.Framework.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.ServiceHub.Framework.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.ServiceHub.Framework.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.ServiceHub.Framework.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.ServiceHub.Framework.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.ServiceHub.Framework.dll for X86 ngen
+[3c7c:000c][2026-05-10T01:35:56] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.ServiceHub.Framework.dll for X64 ngen
+[3c7c:000c][2026-05-10T01:35:56] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/Microsoft.ServiceHub.Framework.dll' for ngen
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Composition.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Composition.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Composition.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Composition.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Composition.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Composition.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Composition.dll for X86 ngen
+[3c7c:000c][2026-05-10T01:35:56] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Composition.dll for X64 ngen
+[3c7c:000c][2026-05-10T01:35:56] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Composition.dll' for ngen
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Validation.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Validation.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Validation.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Validation.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Validation.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Validation.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Validation.dll for X86 ngen
+[3c7c:000c][2026-05-10T01:35:56] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Validation.dll for X64 ngen
+[3c7c:000c][2026-05-10T01:35:56] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Validation.dll' for ngen
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PrivateAssemblies/Nerdbank.NetStandardBridge.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Nerdbank.NetStandardBridge.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Nerdbank.NetStandardBridge.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Nerdbank.NetStandardBridge.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Nerdbank.NetStandardBridge.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Nerdbank.NetStandardBridge.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PrivateAssemblies/System.IO.FileSystem.AccessControl.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/System.IO.FileSystem.AccessControl.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\System.IO.FileSystem.AccessControl.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/System.IO.FileSystem.AccessControl.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\System.IO.FileSystem.AccessControl.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\System.IO.FileSystem.AccessControl.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\System.IO.FileSystem.AccessControl.dll for X86 ngen
+[3c7c:000c][2026-05-10T01:35:56] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/System.IO.FileSystem.AccessControl.dll' for ngen
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PrivateAssemblies/System.IO.Packaging.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/System.IO.Packaging.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\System.IO.Packaging.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/System.IO.Packaging.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\System.IO.Packaging.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\System.IO.Packaging.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\System.IO.Packaging.dll for X86 ngen
+[3c7c:000c][2026-05-10T01:35:56] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/System.IO.Packaging.dll' for ngen
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PrivateAssemblies/System.Security.Cryptography.ProtectedData.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/System.Security.Cryptography.ProtectedData.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\System.Security.Cryptography.ProtectedData.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/System.Security.Cryptography.ProtectedData.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\System.Security.Cryptography.ProtectedData.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\System.Security.Cryptography.ProtectedData.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\System.Security.Cryptography.ProtectedData.dll for X86 ngen
+[3c7c:000c][2026-05-10T01:35:56] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/System.Security.Cryptography.ProtectedData.dll' for ngen
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Bcl.AsyncInterfaces.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Bcl.AsyncInterfaces.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Bcl.AsyncInterfaces.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Bcl.AsyncInterfaces.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Bcl.AsyncInterfaces.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Bcl.AsyncInterfaces.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Bcl.AsyncInterfaces.dll for X86 ngen
+[3c7c:000c][2026-05-10T01:35:56] Successfully queued file '/Contents/Common7/IDE/PublicAssemblies/Microsoft.Bcl.AsyncInterfaces.dll' for ngen
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Bcl.HashCode.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Bcl.HashCode.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Bcl.HashCode.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Bcl.HashCode.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Bcl.HashCode.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Bcl.HashCode.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.Configuration.Abstractions.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.Configuration.Abstractions.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.Configuration.Abstractions.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.Configuration.Abstractions.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.Configuration.Abstractions.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.Configuration.Abstractions.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.Configuration.Abstractions.dll for X86 ngen
+[3c7c:000c][2026-05-10T01:35:56] Successfully queued file '/Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.Configuration.Abstractions.dll' for ngen
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.Configuration.Binder.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.Configuration.Binder.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.Configuration.Binder.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.Configuration.Binder.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.Configuration.Binder.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.Configuration.Binder.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.Configuration.Binder.dll for X86 ngen
+[3c7c:000c][2026-05-10T01:35:56] Successfully queued file '/Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.Configuration.Binder.dll' for ngen
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.Configuration.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.Configuration.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.Configuration.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.Configuration.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.Configuration.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.Configuration.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.Configuration.dll for X86 ngen
+[3c7c:000c][2026-05-10T01:35:56] Successfully queued file '/Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.Configuration.dll' for ngen
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.DependencyInjection.Abstractions.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.DependencyInjection.Abstractions.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.DependencyInjection.Abstractions.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.DependencyInjection.Abstractions.dll for X86 ngen
+[3c7c:000c][2026-05-10T01:35:56] Successfully queued file '/Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.DependencyInjection.Abstractions.dll' for ngen
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.DependencyInjection.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.DependencyInjection.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.DependencyInjection.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.DependencyInjection.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.DependencyInjection.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.DependencyInjection.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.DependencyModel.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.DependencyModel.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.DependencyModel.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.DependencyModel.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.DependencyModel.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.DependencyModel.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.DependencyModel.dll for X86 ngen
+[3c7c:000c][2026-05-10T01:35:56] Successfully queued file '/Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.DependencyModel.dll' for ngen
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.Diagnostics.Abstractions.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.Diagnostics.Abstractions.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.Diagnostics.Abstractions.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.Diagnostics.Abstractions.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.Diagnostics.Abstractions.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.Diagnostics.Abstractions.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.Diagnostics.Abstractions.dll for X86 ngen
+[3c7c:000c][2026-05-10T01:35:56] Successfully queued file '/Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.Diagnostics.Abstractions.dll' for ngen
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.FileProviders.Abstractions.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.FileProviders.Abstractions.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.FileProviders.Abstractions.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.FileProviders.Abstractions.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.FileProviders.Abstractions.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.FileProviders.Abstractions.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.FileProviders.Abstractions.dll for X86 ngen
+[3c7c:000c][2026-05-10T01:35:56] Successfully queued file '/Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.FileProviders.Abstractions.dll' for ngen
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.FileSystemGlobbing.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.FileSystemGlobbing.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.FileSystemGlobbing.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.FileSystemGlobbing.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.FileSystemGlobbing.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.FileSystemGlobbing.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.FileSystemGlobbing.dll for X86 ngen
+[3c7c:000c][2026-05-10T01:35:56] Successfully queued file '/Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.FileSystemGlobbing.dll' for ngen
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.Logging.Abstractions.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.Logging.Abstractions.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.Logging.Abstractions.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.Logging.Abstractions.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.Logging.Abstractions.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.Logging.Abstractions.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.Logging.Abstractions.dll for X86 ngen
+[3c7c:000c][2026-05-10T01:35:56] Successfully queued file '/Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.Logging.Abstractions.dll' for ngen
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.Logging.Configuration.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.Logging.Configuration.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.Logging.Configuration.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.Logging.Configuration.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.Logging.Configuration.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.Logging.Configuration.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.Logging.Configuration.dll for X86 ngen
+[3c7c:000c][2026-05-10T01:35:56] Successfully queued file '/Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.Logging.Configuration.dll' for ngen
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.Logging.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.Logging.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.Logging.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.Logging.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.Logging.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.Logging.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.Logging.dll for X86 ngen
+[3c7c:000c][2026-05-10T01:35:56] Successfully queued file '/Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.Logging.dll' for ngen
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.ObjectPool.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.ObjectPool.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.ObjectPool.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.ObjectPool.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.ObjectPool.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.ObjectPool.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.ObjectPool.dll for X86 ngen
+[3c7c:000c][2026-05-10T01:35:56] Successfully queued file '/Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.ObjectPool.dll' for ngen
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.Options.ConfigurationExtensions.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.Options.ConfigurationExtensions.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.Options.ConfigurationExtensions.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.Options.ConfigurationExtensions.dll for X86 ngen
+[3c7c:000c][2026-05-10T01:35:56] Successfully queued file '/Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.Options.ConfigurationExtensions.dll' for ngen
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.Options.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.Options.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.Options.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.Options.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.Options.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.Options.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.Options.dll for X86 ngen
+[3c7c:000c][2026-05-10T01:35:56] Successfully queued file '/Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.Options.dll' for ngen
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.Primitives.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.Primitives.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.Primitives.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.Primitives.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.Primitives.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.Primitives.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.Primitives.dll for X86 ngen
+[3c7c:000c][2026-05-10T01:35:56] Successfully queued file '/Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.Primitives.dll' for ngen
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.IO.Redist.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.IO.Redist.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.IO.Redist.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.IO.Redist.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.IO.Redist.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.IO.Redist.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.IO.Redist.dll for X86 ngen
+[3c7c:000c][2026-05-10T01:35:56] Successfully queued file '/Contents/Common7/IDE/PublicAssemblies/Microsoft.IO.Redist.dll' for ngen
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Threading.17.x/Microsoft.VisualStudio.Threading.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Threading.17.x/Microsoft.VisualStudio.Threading.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Threading.17.x\Microsoft.VisualStudio.Threading.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Threading.17.x/Microsoft.VisualStudio.Threading.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Threading.17.x\Microsoft.VisualStudio.Threading.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Threading.17.x\Microsoft.VisualStudio.Threading.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Threading.17.x\Microsoft.VisualStudio.Threading.dll for X86 ngen
+[3c7c:000c][2026-05-10T01:35:56] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Threading.17.x\Microsoft.VisualStudio.Threading.dll for X64 ngen
+[3c7c:000c][2026-05-10T01:35:56] Successfully queued file '/Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Threading.17.x/Microsoft.VisualStudio.Threading.dll' for ngen
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Win32.Registry.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Win32.Registry.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Win32.Registry.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Win32.Registry.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Win32.Registry.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Win32.Registry.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PublicAssemblies/Rx/System.Reactive.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Rx/System.Reactive.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Rx\System.Reactive.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Rx/System.Reactive.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Rx\System.Reactive.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Rx\System.Reactive.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Rx\System.Reactive.dll for X86 ngen
+[3c7c:000c][2026-05-10T01:35:56] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Rx\System.Reactive.dll for X64 ngen
+[3c7c:000c][2026-05-10T01:35:56] Successfully queued file '/Contents/Common7/IDE/PublicAssemblies/Rx/System.Reactive.dll' for ngen
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PublicAssemblies/System.Buffers.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/System.Buffers.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Buffers.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/System.Buffers.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Buffers.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Buffers.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Buffers.dll for X86 ngen
+[3c7c:000c][2026-05-10T01:35:56] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Buffers.dll for X64 ngen
+[3c7c:000c][2026-05-10T01:35:56] Successfully queued file '/Contents/Common7/IDE/PublicAssemblies/System.Buffers.dll' for ngen
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PublicAssemblies/System.Collections.Immutable.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/System.Collections.Immutable.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Collections.Immutable.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/System.Collections.Immutable.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Collections.Immutable.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Collections.Immutable.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Collections.Immutable.dll for X86 ngen
+[3c7c:000c][2026-05-10T01:35:56] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Collections.Immutable.dll for X64 ngen
+[3c7c:000c][2026-05-10T01:35:56] Successfully queued file '/Contents/Common7/IDE/PublicAssemblies/System.Collections.Immutable.dll' for ngen
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PublicAssemblies/System.Composition.AttributedModel.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/System.Composition.AttributedModel.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Composition.AttributedModel.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/System.Composition.AttributedModel.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Composition.AttributedModel.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Composition.AttributedModel.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PublicAssemblies/System.Composition.Convention.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/System.Composition.Convention.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Composition.Convention.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/System.Composition.Convention.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Composition.Convention.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Composition.Convention.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PublicAssemblies/System.Composition.Hosting.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/System.Composition.Hosting.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Composition.Hosting.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/System.Composition.Hosting.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Composition.Hosting.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Composition.Hosting.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PublicAssemblies/System.Composition.Runtime.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/System.Composition.Runtime.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Composition.Runtime.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/System.Composition.Runtime.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Composition.Runtime.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Composition.Runtime.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PublicAssemblies/System.Composition.TypedParts.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/System.Composition.TypedParts.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Composition.TypedParts.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/System.Composition.TypedParts.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Composition.TypedParts.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Composition.TypedParts.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PublicAssemblies/System.Diagnostics.DiagnosticSource.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/System.Diagnostics.DiagnosticSource.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Diagnostics.DiagnosticSource.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/System.Diagnostics.DiagnosticSource.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Diagnostics.DiagnosticSource.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Diagnostics.DiagnosticSource.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PublicAssemblies/System.IO.Pipelines.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/System.IO.Pipelines.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.IO.Pipelines.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/System.IO.Pipelines.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.IO.Pipelines.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.IO.Pipelines.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.IO.Pipelines.dll for X86 ngen
+[3c7c:000c][2026-05-10T01:35:56] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.IO.Pipelines.dll for X64 ngen
+[3c7c:000c][2026-05-10T01:35:56] Successfully queued file '/Contents/Common7/IDE/PublicAssemblies/System.IO.Pipelines.dll' for ngen
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PublicAssemblies/System.Memory.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/System.Memory.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Memory.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/System.Memory.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Memory.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Memory.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Memory.dll for X86 ngen
+[3c7c:000c][2026-05-10T01:35:56] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Memory.dll for X64 ngen
+[3c7c:000c][2026-05-10T01:35:56] Successfully queued file '/Contents/Common7/IDE/PublicAssemblies/System.Memory.dll' for ngen
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PublicAssemblies/System.Net.Http.Formatting.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/System.Net.Http.Formatting.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Net.Http.Formatting.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/System.Net.Http.Formatting.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Net.Http.Formatting.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Net.Http.Formatting.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PublicAssemblies/System.Numerics.Vectors.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/System.Numerics.Vectors.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Numerics.Vectors.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/System.Numerics.Vectors.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Numerics.Vectors.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Numerics.Vectors.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Numerics.Vectors.dll for X86 ngen
+[3c7c:000c][2026-05-10T01:35:56] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Numerics.Vectors.dll for X64 ngen
+[3c7c:000c][2026-05-10T01:35:56] Successfully queued file '/Contents/Common7/IDE/PublicAssemblies/System.Numerics.Vectors.dll' for ngen
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PublicAssemblies/System.Reflection.Metadata.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/System.Reflection.Metadata.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Reflection.Metadata.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/System.Reflection.Metadata.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Reflection.Metadata.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Reflection.Metadata.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Reflection.Metadata.dll for X86 ngen
+[3c7c:000c][2026-05-10T01:35:56] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Reflection.Metadata.dll for X64 ngen
+[3c7c:000c][2026-05-10T01:35:56] Successfully queued file '/Contents/Common7/IDE/PublicAssemblies/System.Reflection.Metadata.dll' for ngen
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PublicAssemblies/System.Reflection.MetadataLoadContext.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/System.Reflection.MetadataLoadContext.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Reflection.MetadataLoadContext.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/System.Reflection.MetadataLoadContext.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Reflection.MetadataLoadContext.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Reflection.MetadataLoadContext.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PublicAssemblies/System.Reflection.TypeExtensions.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/System.Reflection.TypeExtensions.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Reflection.TypeExtensions.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/System.Reflection.TypeExtensions.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Reflection.TypeExtensions.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Reflection.TypeExtensions.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PublicAssemblies/System.Runtime.CompilerServices.Unsafe.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/System.Runtime.CompilerServices.Unsafe.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Runtime.CompilerServices.Unsafe.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/System.Runtime.CompilerServices.Unsafe.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Runtime.CompilerServices.Unsafe.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Runtime.CompilerServices.Unsafe.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Runtime.CompilerServices.Unsafe.dll for X86 ngen
+[3c7c:000c][2026-05-10T01:35:56] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Runtime.CompilerServices.Unsafe.dll for X64 ngen
+[3c7c:000c][2026-05-10T01:35:56] Successfully queued file '/Contents/Common7/IDE/PublicAssemblies/System.Runtime.CompilerServices.Unsafe.dll' for ngen
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PublicAssemblies/System.Security.AccessControl.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/System.Security.AccessControl.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Security.AccessControl.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/System.Security.AccessControl.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Security.AccessControl.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Security.AccessControl.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PublicAssemblies/System.Security.Principal.Windows.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/System.Security.Principal.Windows.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Security.Principal.Windows.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/System.Security.Principal.Windows.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Security.Principal.Windows.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Security.Principal.Windows.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PublicAssemblies/System.Spatial.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/System.Spatial.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Spatial.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/System.Spatial.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Spatial.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Spatial.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PublicAssemblies/System.Text.Encoding.CodePages.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/System.Text.Encoding.CodePages.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Text.Encoding.CodePages.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/System.Text.Encoding.CodePages.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Text.Encoding.CodePages.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Text.Encoding.CodePages.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Text.Encoding.CodePages.dll for X86 ngen
+[3c7c:000c][2026-05-10T01:35:56] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Text.Encoding.CodePages.dll for X64 ngen
+[3c7c:000c][2026-05-10T01:35:56] Successfully queued file '/Contents/Common7/IDE/PublicAssemblies/System.Text.Encoding.CodePages.dll' for ngen
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PublicAssemblies/System.Text.Encodings.Web.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/System.Text.Encodings.Web.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Text.Encodings.Web.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/System.Text.Encodings.Web.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Text.Encodings.Web.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Text.Encodings.Web.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PublicAssemblies/System.Text.Json.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/System.Text.Json.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Text.Json.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/System.Text.Json.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Text.Json.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Text.Json.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Text.Json.dll for X86 ngen
+[3c7c:000c][2026-05-10T01:35:56] Successfully queued file '/Contents/Common7/IDE/PublicAssemblies/System.Text.Json.dll' for ngen
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PublicAssemblies/System.Threading.AccessControl.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/System.Threading.AccessControl.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Threading.AccessControl.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/System.Threading.AccessControl.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Threading.AccessControl.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Threading.AccessControl.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PublicAssemblies/System.Threading.Channels.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/System.Threading.Channels.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Threading.Channels.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/System.Threading.Channels.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Threading.Channels.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Threading.Channels.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Threading.Channels.dll for X86 ngen
+[3c7c:000c][2026-05-10T01:35:56] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Threading.Channels.dll for X64 ngen
+[3c7c:000c][2026-05-10T01:35:56] Successfully queued file '/Contents/Common7/IDE/PublicAssemblies/System.Threading.Channels.dll' for ngen
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PublicAssemblies/System.Threading.Tasks.Extensions.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/System.Threading.Tasks.Extensions.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Threading.Tasks.Extensions.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/System.Threading.Tasks.Extensions.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Threading.Tasks.Extensions.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Threading.Tasks.Extensions.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Threading.Tasks.Extensions.dll for X86 ngen
+[3c7c:000c][2026-05-10T01:35:56] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Threading.Tasks.Extensions.dll for X64 ngen
+[3c7c:000c][2026-05-10T01:35:56] Successfully queued file '/Contents/Common7/IDE/PublicAssemblies/System.Threading.Tasks.Extensions.dll' for ngen
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/PublicAssemblies/System.ValueTuple.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/System.ValueTuple.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.ValueTuple.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/System.ValueTuple.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.ValueTuple.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.ValueTuple.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Processing file /Contents/Common7/IDE/System.Threading.Tasks.Dataflow.dll
+[3c7c:000c][2026-05-10T01:35:56] Started: Copying file /Contents/Common7/IDE/System.Threading.Tasks.Dataflow.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\System.Threading.Tasks.Dataflow.dll
+[3c7c:000c][2026-05-10T01:35:56] Completed: Copying file /Contents/Common7/IDE/System.Threading.Tasks.Dataflow.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\System.Threading.Tasks.Dataflow.dll
+[3c7c:000c][2026-05-10T01:35:56] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\System.Threading.Tasks.Dataflow.dll'.
+[3c7c:000c][2026-05-10T01:35:56] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\System.Threading.Tasks.Dataflow.dll for X86 ngen
+[3c7c:000c][2026-05-10T01:35:56] Successfully queued file '/Contents/Common7/IDE/System.Threading.Tasks.Dataflow.dll' for ngen
+[3c7c:000c][2026-05-10T01:35:56] Package executed successfully. Return code: 0

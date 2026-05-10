@@ -1,0 +1,12 @@
+[3474:0009][2026-05-10T01:46:24] Using cached package manifest as the embedded manifest
+[3474:0009][2026-05-10T01:46:24] Processing file /Contents/VC/Redist/MSVC/14.44.35112/Auxiliary/Microsoft.VC.ServicingVersion.Redist.props
+[3474:0009][2026-05-10T01:46:24] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Redist\MSVC\14.44.35112\Auxiliary\Microsoft.VC.ServicingVersion.Redist.props file deleted.
+[3474:0009][2026-05-10T01:46:24] Processing file /Contents/VC/Auxiliary/Build/Microsoft.VCRedistVersion.v143.default.props
+[3474:0009][2026-05-10T01:46:24] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\Build\Microsoft.VCRedistVersion.v143.default.props file deleted.
+[3474:0009][2026-05-10T01:46:24] Processing file /Contents/VC/Auxiliary/Build/Microsoft.VCRedistVersion.default.txt
+[3474:0009][2026-05-10T01:46:24] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\Build\Microsoft.VCRedistVersion.default.txt file deleted.
+[3474:0009][2026-05-10T01:46:24] Processing file /Contents/VC/Auxiliary/Build/Microsoft.VCRedistVersion.default.props
+[3474:0009][2026-05-10T01:46:24] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\Build\Microsoft.VCRedistVersion.default.props file deleted.
+[3474:0009][2026-05-10T01:46:24] Started: Deleting empty directories
+[3474:0009][2026-05-10T01:46:24] Completed: Deleting empty directories
+[3474:0009][2026-05-10T01:46:24] Package executed successfully. Return code: 0

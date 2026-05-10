@@ -1,0 +1,57 @@
+[da4c:0007][2026-05-10T00:49:48] Opening the package for processing
+[da4c:0007][2026-05-10T00:49:48] Using package payload to get the embedded manifest
+[da4c:0007][2026-05-10T00:49:48] Getting list of files within the package
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/1033/cmddefui.dll
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/1033/cmddefui.dll to D:\Program\Common7\IDE\1033\cmddefui.dll
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/1033/cmddefui.dll to D:\Program\Common7\IDE\1033\cmddefui.dll
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\1033\cmddefui.dll'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/1033/Microsoft.VisualStudioUI.dll
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/1033/Microsoft.VisualStudioUI.dll to D:\Program\Common7\IDE\1033\Microsoft.VisualStudioUI.dll
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/1033/Microsoft.VisualStudioUI.dll to D:\Program\Common7\IDE\1033\Microsoft.VisualStudioUI.dll
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\1033\Microsoft.VisualStudioUI.dll'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/1033/msenvui.dll
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/1033/msenvui.dll to D:\Program\Common7\IDE\1033\msenvui.dll
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/1033/msenvui.dll to D:\Program\Common7\IDE\1033\msenvui.dll
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\1033\msenvui.dll'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Search/en/Microsoft.VisualStudio.Platform.SearchProviders.resources.dll
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Search/en/Microsoft.VisualStudio.Platform.SearchProviders.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Search\en\Microsoft.VisualStudio.Platform.SearchProviders.resources.dll
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Search/en/Microsoft.VisualStudio.Platform.SearchProviders.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Search\en\Microsoft.VisualStudio.Platform.SearchProviders.resources.dll
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\Search\en\Microsoft.VisualStudio.Platform.SearchProviders.resources.dll'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Search/en/Microsoft.VisualStudio.Search.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Search/en/Microsoft.VisualStudio.Search.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Search\en\Microsoft.VisualStudio.Search.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Search/en/Microsoft.VisualStudio.Search.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Search\en\Microsoft.VisualStudio.Search.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\Search\en\Microsoft.VisualStudio.Search.Implementation.resources.dll'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/TreeNavigation/en/Microsoft.VisualStudio.Shell.TreeNavigation.HierarchyProvider.resources.dll
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/TreeNavigation/en/Microsoft.VisualStudio.Shell.TreeNavigation.HierarchyProvider.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Platform\TreeNavigation\en\Microsoft.VisualStudio.Shell.TreeNavigation.HierarchyProvider.resources.dll
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/TreeNavigation/en/Microsoft.VisualStudio.Shell.TreeNavigation.HierarchyProvider.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Platform\TreeNavigation\en\Microsoft.VisualStudio.Shell.TreeNavigation.HierarchyProvider.resources.dll
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\TreeNavigation\en\Microsoft.VisualStudio.Shell.TreeNavigation.HierarchyProvider.resources.dll'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/en/Microsoft.VisualStudio.ProductKeyDialog.resources.dll
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/en/Microsoft.VisualStudio.ProductKeyDialog.resources.dll to D:\Program\Common7\IDE\en\Microsoft.VisualStudio.ProductKeyDialog.resources.dll
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/en/Microsoft.VisualStudio.ProductKeyDialog.resources.dll to D:\Program\Common7\IDE\en\Microsoft.VisualStudio.ProductKeyDialog.resources.dll
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\en\Microsoft.VisualStudio.ProductKeyDialog.resources.dll'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/ShellExtensions/Platform/1033/appenvmui.dll
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/ShellExtensions/Platform/1033/appenvmui.dll to D:\Program\Common7\IDE\ShellExtensions\Platform\1033\appenvmui.dll
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/ShellExtensions/Platform/1033/appenvmui.dll to D:\Program\Common7\IDE\ShellExtensions\Platform\1033\appenvmui.dll
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\ShellExtensions\Platform\1033\appenvmui.dll'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/ServiceHub/SharedAssemblies/en/Microsoft.VisualStudio.Utilities.resources.dll
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/ServiceHub/SharedAssemblies/en/Microsoft.VisualStudio.Utilities.resources.dll to D:\Program\Common7\ServiceHub\SharedAssemblies\en\Microsoft.VisualStudio.Utilities.resources.dll
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/ServiceHub/SharedAssemblies/en/Microsoft.VisualStudio.Utilities.resources.dll to D:\Program\Common7\ServiceHub\SharedAssemblies\en\Microsoft.VisualStudio.Utilities.resources.dll
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\ServiceHub\SharedAssemblies\en\Microsoft.VisualStudio.Utilities.resources.dll'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Licenses/1033/Redist.txt
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Licenses/1033/Redist.txt to D:\Program\Licenses\1033\Redist.txt
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Licenses/1033/Redist.txt to D:\Program\Licenses\1033\Redist.txt
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Licenses\1033\Redist.txt'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Licenses/1033/ThirdPartyNotices.txt
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Licenses/1033/ThirdPartyNotices.txt to D:\Program\Licenses\1033\ThirdPartyNotices.txt
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Licenses/1033/ThirdPartyNotices.txt to D:\Program\Licenses\1033\ThirdPartyNotices.txt
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Licenses\1033\ThirdPartyNotices.txt'.
+[da4c:0007][2026-05-10T00:49:48] Installing ProgId: VisualStudio.git-client.efe54760
+[da4c:0007][2026-05-10T00:49:48] Installing ProgId: VisualStudio.vsweb.efe54760
+[da4c:0007][2026-05-10T00:49:48] Installing ProgId: VisualStudio.vstfs.efe54760
+[da4c:0007][2026-05-10T00:49:48] Installing URL protocol 'git-client'
+[da4c:0007][2026-05-10T00:49:48] RegistrationPath: Software\Microsoft\VisualStudio_efe54760\Capabilities\UrlAssociations
+[da4c:0007][2026-05-10T00:49:48] Installing URL protocol 'vsweb'
+[da4c:0007][2026-05-10T00:49:48] RegistrationPath: Software\Microsoft\VisualStudio_efe54760\Capabilities\UrlAssociations
+[da4c:0007][2026-05-10T00:49:48] Installing URL protocol 'vstfs'
+[da4c:0007][2026-05-10T00:49:48] RegistrationPath: Software\Microsoft\VisualStudio_efe54760\Capabilities\UrlAssociations
+[da4c:0007][2026-05-10T00:49:48] Package executed successfully. Return code: 0

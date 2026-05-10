@@ -322,11 +322,21 @@ if ($SkipVs) {
         # We deliberately use this rather than --quiet so the operator can
         # see the actual install activity (silent failures are too easy
         # to miss otherwise).
+        #
+        # IMPORTANT -- the explicit '--add VC.Tools.x86.x64' is load-bearing.
+        # The VCTools workload's REQUIRED components do not include the
+        # MSVC compiler (it's in the workload's RECOMMENDED set). Under
+        # --passive we get required-only by default, so a bare workload
+        # install completes successfully but ships zero `cl.exe` -- and
+        # the post-install vswhere check correctly flags that as a
+        # failure. Empirically verified on Win11 24H2 build 26200,
+        # 2026-05-10. (See BOOTSTRAP_PREREQS_DEBUG.md "Resolution".)
         $code = Invoke-Native -Label 'vs_BuildTools' -FilePath $bootstrapper -ArgumentList @(
             $verb,
             '--passive', '--wait', '--norestart',
             '--installPath',  $effectivePath,
             '--add', 'Microsoft.VisualStudio.Workload.VCTools',
+            '--add', 'Microsoft.VisualStudio.Component.VC.Tools.x86.x64',
             '--add', 'Microsoft.VisualStudio.Component.Windows11SDK.22621'
         )
         Remove-Item -Path $bootstrapper -ErrorAction SilentlyContinue
@@ -345,9 +355,14 @@ exited $code but vswhere can't find Microsoft.VisualStudio.Component.VC.Tools.x8
 under any installed instance.
 
 Likely causes:
-  - Bootstrapper short-circuited because of leftover VS Installer state
-  - --passive UI was closed before the install completed
   - VS Installer hit an error it couldn't recover from silently
+  - --passive UI was closed before the install completed
+  - Bootstrapper short-circuited because of leftover VS Installer state
+
+(If this runs after the script's known fix landed for the missing
+'--add VC.Tools.x86.x64' arg, please capture
+%TEMP%\dd_installer_elevated_*.log and the latest %TEMP%\dd_setup_*.log
+before retrying. Those tell us what the install plan actually was.)
 
 Recovery options (any one works):
   A) Open 'Visual Studio Installer' from the Start menu, find
@@ -360,6 +375,7 @@ Recovery options (any one works):
        https://aka.ms/vs/17/release/vs_BuildTools.exe modify ``
          --installPath "$VsInstallPath" ``
          --add Microsoft.VisualStudio.Workload.VCTools ``
+         --add Microsoft.VisualStudio.Component.VC.Tools.x86.x64 ``
          --add Microsoft.VisualStudio.Component.Windows11SDK.22621
 
 Diagnostic logs:

@@ -1,0 +1,32 @@
+[2e2c:0007][2026-05-10T01:24:01] Opening the package for processing
+[2e2c:0007][2026-05-10T01:24:01] Using package payload to get the embedded manifest
+[2e2c:0007][2026-05-10T01:24:01] Getting list of files within the package
+[2e2c:0007][2026-05-10T01:24:01] Processing file /Contents/Common7/IDE/Profiles/CSharp.vssettings
+[2e2c:0007][2026-05-10T01:24:01] Started: Copying file /Contents/Common7/IDE/Profiles/CSharp.vssettings to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Profiles\CSharp.vssettings
+[2e2c:0007][2026-05-10T01:24:01] Completed: Copying file /Contents/Common7/IDE/Profiles/CSharp.vssettings to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Profiles\CSharp.vssettings
+[2e2c:0007][2026-05-10T01:24:01] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Profiles\CSharp.vssettings'.
+[2e2c:0007][2026-05-10T01:24:01] Processing file /Contents/Common7/IDE/Profiles/General.vssettings
+[2e2c:0007][2026-05-10T01:24:01] Started: Copying file /Contents/Common7/IDE/Profiles/General.vssettings to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Profiles\General.vssettings
+[2e2c:0007][2026-05-10T01:24:01] Completed: Copying file /Contents/Common7/IDE/Profiles/General.vssettings to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Profiles\General.vssettings
+[2e2c:0007][2026-05-10T01:24:01] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Profiles\General.vssettings'.
+[2e2c:0007][2026-05-10T01:24:01] Processing file /Contents/Common7/IDE/Profiles/JavaScript.vssettings
+[2e2c:0007][2026-05-10T01:24:01] Started: Copying file /Contents/Common7/IDE/Profiles/JavaScript.vssettings to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Profiles\JavaScript.vssettings
+[2e2c:0007][2026-05-10T01:24:01] Completed: Copying file /Contents/Common7/IDE/Profiles/JavaScript.vssettings to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Profiles\JavaScript.vssettings
+[2e2c:0007][2026-05-10T01:24:01] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Profiles\JavaScript.vssettings'.
+[2e2c:0007][2026-05-10T01:24:01] Processing file /Contents/Common7/IDE/Profiles/VB.vssettings
+[2e2c:0007][2026-05-10T01:24:01] Started: Copying file /Contents/Common7/IDE/Profiles/VB.vssettings to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Profiles\VB.vssettings
+[2e2c:0007][2026-05-10T01:24:01] Completed: Copying file /Contents/Common7/IDE/Profiles/VB.vssettings to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Profiles\VB.vssettings
+[2e2c:0007][2026-05-10T01:24:01] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Profiles\VB.vssettings'.
+[2e2c:0007][2026-05-10T01:24:01] Processing file /Contents/Common7/IDE/Profiles/VC.vssettings
+[2e2c:0007][2026-05-10T01:24:01] Started: Copying file /Contents/Common7/IDE/Profiles/VC.vssettings to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Profiles\VC.vssettings
+[2e2c:0007][2026-05-10T01:24:01] Completed: Copying file /Contents/Common7/IDE/Profiles/VC.vssettings to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Profiles\VC.vssettings
+[2e2c:0007][2026-05-10T01:24:01] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Profiles\VC.vssettings'.
+[2e2c:0007][2026-05-10T01:24:01] Processing file /Contents/Common7/IDE/Profiles/Web.vssettings
+[2e2c:0007][2026-05-10T01:24:01] Started: Copying file /Contents/Common7/IDE/Profiles/Web.vssettings to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Profiles\Web.vssettings
+[2e2c:0007][2026-05-10T01:24:01] Completed: Copying file /Contents/Common7/IDE/Profiles/Web.vssettings to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Profiles\Web.vssettings
+[2e2c:0007][2026-05-10T01:24:01] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Profiles\Web.vssettings'.
+[2e2c:0007][2026-05-10T01:24:01] Processing file /Contents/Common7/IDE/Profiles/WebCode.vssettings
+[2e2c:0007][2026-05-10T01:24:01] Started: Copying file /Contents/Common7/IDE/Profiles/WebCode.vssettings to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Profiles\WebCode.vssettings
+[2e2c:0007][2026-05-10T01:24:01] Completed: Copying file /Contents/Common7/IDE/Profiles/WebCode.vssettings to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Profiles\WebCode.vssettings
+[2e2c:0007][2026-05-10T01:24:01] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Profiles\WebCode.vssettings'.
+[2e2c:0007][2026-05-10T01:24:01] Package executed successfully. Return code: 0

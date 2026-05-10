@@ -1,0 +1,340 @@
+[e32c:0001][2026-05-10T01:01:37] Setting the locale to en-US.
+[e32c:0001][2026-05-10T01:01:37] Saving the current locale (en-US) to user.json.
+[e32c:0001][2026-05-10T01:01:37] Setting the telemetry services
+[e32c:0005][2026-05-10T01:01:37] Creating a new telemetry service.
+[e32c:0001][2026-05-10T01:01:37] Visual Studio Installer Version: 4.5.35+8a285335fc
+[e32c:0001][2026-05-10T01:01:37] Raw Command line: "C:\Program Files (x86)\Microsoft Visual Studio\Installer\setup.exe" /finalizeInstall install --in "C:\ProgramData\Microsoft\VisualStudio\Packages\_bootstrapper\vs_setup_bootstrapper_202605100101370312.json" --quiet --norestart --installPath "D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools" --add Microsoft.VisualStudio.Workload.VCTools --add Microsoft.VisualStudio.Component.Windows11SDK.22621 --locale en-US --activityId "2f96546c-7df0-43e3-8c54-c2053231730c"
+[e32c:0001][2026-05-10T01:01:37] Parsed command line options: install --activityId 2f96546c-7df0-43e3-8c54-c2053231730c --add Microsoft.VisualStudio.Workload.VCTools Microsoft.VisualStudio.Component.Windows11SDK.22621 --channelId VisualStudio.17.Release --channelUri https://aka.ms/vs/17/release/channel --installPath "D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools" --locale en-US --norestart --productId Microsoft.VisualStudio.Product.BuildTools --quiet
+[e32c:0001][2026-05-10T01:01:37] Using registry value of (0) to theme installer.
+[e32c:0001][2026-05-10T01:01:37] Getting singleton lock. Mutex name: DevdivInstallerUI
+[e32c:0001][2026-05-10T01:01:37] Getting singleton lock succeed.
+[e32c:0005][2026-05-10T01:01:37] Telemetry session ID: 08c93bd2-2a8a-4f50-8029-8e4f014a8c09
+[e32c:0001][2026-05-10T01:01:37] Creating new ExperimentationService
+[e32c:0001][2026-05-10T01:01:37] Telemetry property VS.ABExp.Flights : lazytoolboxinit;fwlargebuffer;refactoring;spmoretempsbtn1;asloff;keybindgoldbarext;asynccsproj;vsfricheditor;completionapi;4f604693:30775293
+[e32c:0005][2026-05-10T01:01:37] Telemetry property vs.willow.source : WPF
+[e32c:0005][2026-05-10T01:01:37] Telemetry property vs.willow.locale : en-US
+[e32c:0005][2026-05-10T01:01:37] Telemetry property vs.willow.installerversion : 4.5.35.35368
+[e32c:0005][2026-05-10T01:01:37] Telemetry property vs.willow.startmethod : indirect
+[e32c:0005][2026-05-10T01:01:37] Telemetry property vs.willow.activityid : 2f96546c-7df0-43e3-8c54-c2053231730c
+[e32c:0005][2026-05-10T01:01:37] Telemetry property vs.willow.campaign : 
+[e32c:0005][2026-05-10T01:01:37] Telemetry property vs.willow.passive : False
+[e32c:0005][2026-05-10T01:01:37] Telemetry property vs.willow.quiet : True
+[e32c:0005][2026-05-10T01:01:37] Telemetry property vs.willow.processtype : ui
+[e32c:0005][2026-05-10T01:01:37] Telemetry property vs.willow.force : False
+[e32c:0005][2026-05-10T01:01:37] Telemetry property vs.willow.noweb : False
+[e32c:0005][2026-05-10T01:01:37] Telemetry property vs.willow.iselevated : True
+[e32c:0005][2026-05-10T01:01:37] Telemetry property vs.willow.issystem : False
+[e32c:0005][2026-05-10T01:01:37] Telemetry property vs.willow.isadmin : True
+[e32c:0001][2026-05-10T01:01:38] Navigation requested from ApplicationViewModel to MainPageViewModel
+[e32c:001f][2026-05-10T01:01:38] Telemetry property vs.setup.WorkloadOverrides.DidReceiveOverride : False
+[e32c:001f][2026-05-10T01:01:38] Telemetry property vs.setup.WorkloadOverrides.RuleId : None
+[e32c:0021][2026-05-10T01:01:38] Uri 'https://go.microsoft.com/fwlink/?linkid=857708' redirected to 'https://sendvsfeedback2.azurewebsites.net/api'
+[e32c:001c][2026-05-10T01:01:38] Telemetry property VS.SetupEngine.ChannelUpdateDisabled : False
+[e32c:001c][2026-05-10T01:01:38] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:001c][2026-05-10T01:01:38] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:001c][2026-05-10T01:01:38] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:001c][2026-05-10T01:01:38] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:001c][2026-05-10T01:01:38] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:001c][2026-05-10T01:01:38] Authentication Environment variable setting value: null
+[e32c:001c][2026-05-10T01:01:38] Authenticate: True
+[e32c:0022][2026-05-10T01:01:38] Download requested: https://download.visualstudio.microsoft.com/download/pr/d9ce9498-b5ec-4730-a7b2-b0589eab2d27/69777cd5629ba69549b3c4bc765447d1afed17a3895d36bdd336da8f4fea71a6/VisualStudio.17.Release.chman
+[e32c:0023][2026-05-10T01:01:38] Attempting download 'https://download.visualstudio.microsoft.com/download/pr/d9ce9498-b5ec-4730-a7b2-b0589eab2d27/69777cd5629ba69549b3c4bc765447d1afed17a3895d36bdd336da8f4fea71a6/VisualStudio.17.Release.chman' using engine 'WebClient'
+[e32c:0023][2026-05-10T01:01:39] ManifestVerifier Result: Success
+[e32c:0023][2026-05-10T01:01:39] Download of 'https://download.visualstudio.microsoft.com/download/pr/d9ce9498-b5ec-4730-a7b2-b0589eab2d27/69777cd5629ba69549b3c4bc765447d1afed17a3895d36bdd336da8f4fea71a6/VisualStudio.17.Release.chman' succeeded using engine 'WebClient'
+[e32c:0014][2026-05-10T01:01:39] Downloading installable manifest from "https://download.visualstudio.microsoft.com/download/pr/d9ce9498-b5ec-4730-a7b2-b0589eab2d27/87fb870c97726281f9535be9f3a9df97bdf5edbb0d0b2dc2071ccc8d6d13993e/VisualStudio.vsman" and using the channel URI "https://aka.ms/vs/17/release/channel".
+[e32c:0014][2026-05-10T01:01:39] Download requested: https://download.visualstudio.microsoft.com/download/pr/d9ce9498-b5ec-4730-a7b2-b0589eab2d27/87fb870c97726281f9535be9f3a9df97bdf5edbb0d0b2dc2071ccc8d6d13993e/VisualStudio.vsman
+[e32c:0023][2026-05-10T01:01:39] Attempting download 'https://download.visualstudio.microsoft.com/download/pr/d9ce9498-b5ec-4730-a7b2-b0589eab2d27/87fb870c97726281f9535be9f3a9df97bdf5edbb0d0b2dc2071ccc8d6d13993e/VisualStudio.vsman' using engine 'WebClient'
+[e32c:0023][2026-05-10T01:01:39] ManifestVerifier Result: Success
+[e32c:0023][2026-05-10T01:01:39] Download of 'https://download.visualstudio.microsoft.com/download/pr/d9ce9498-b5ec-4730-a7b2-b0589eab2d27/87fb870c97726281f9535be9f3a9df97bdf5edbb0d0b2dc2071ccc8d6d13993e/VisualStudio.vsman' succeeded using engine 'WebClient'
+[e32c:0010][2026-05-10T01:01:39] Telemetry property VS.SetupEngine.ChannelUpdateDisabled : False
+[e32c:0010][2026-05-10T01:01:39] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:001f][2026-05-10T01:01:39] Status changed to NoUpdate
+[e32c:001d][2026-05-10T01:01:39] Created shortcut: C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Visual Studio Installer.lnk
+[e32c:001d][2026-05-10T01:01:39] VSInstallerElevationService is already registered. Updating the register.
+[e32c:0010][2026-05-10T01:01:39] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:0021][2026-05-10T01:01:39] Download requested: https://go.microsoft.com/fwlink/?linkid=2066144
+[e32c:0026][2026-05-10T01:01:39] Attempting download 'https://go.microsoft.com/fwlink/?linkid=2066144' using engine 'WebClient'
+[e32c:001d][2026-05-10T01:01:39] Successfully updated the registered service VSInstallerElevationService.
+[e32c:001d][2026-05-10T01:01:39] Starting C:\Program Files (x86)\Microsoft Visual Studio\Installer\vs_installer.windows.exe with arguments /finalizeinstall 6F320B93-EE3C-4826-85E0-ADF79F8D4C61 "Visual Studio Installer" "Microsoft Visual Studio Installer" 4.5.35.35368 0 "C:\Program Files (x86)\Microsoft Visual Studio\Installer\setup.exe"
+[e32c:0010][2026-05-10T01:01:39] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:0010][2026-05-10T01:01:39] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:0010][2026-05-10T01:01:39] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:0010][2026-05-10T01:01:39] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:0010][2026-05-10T01:01:39] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:0010][2026-05-10T01:01:39] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:0010][2026-05-10T01:01:39] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:0010][2026-05-10T01:01:39] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:0010][2026-05-10T01:01:39] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:0010][2026-05-10T01:01:39] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:0010][2026-05-10T01:01:39] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:0010][2026-05-10T01:01:39] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:0010][2026-05-10T01:01:39] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:0010][2026-05-10T01:01:39] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:0010][2026-05-10T01:01:39] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:0010][2026-05-10T01:01:39] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:0010][2026-05-10T01:01:39] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:001d][2026-05-10T01:01:39] Finalizer completed successfully
+[e32c:0010][2026-05-10T01:01:39] ManifestVerifier Result: Success
+[e32c:0001][2026-05-10T01:01:39] No eligible source products found for automatic migration to target major version 18.
+[e32c:0001][2026-05-10T01:01:39] No eligible source products found for automatic migration to target major version 18.
+[e32c:0001][2026-05-10T01:01:39] No eligible source products found for automatic migration to target major version 18.
+[e32c:0001][2026-05-10T01:01:39] No eligible source products found for automatic migration to target major version 18.
+[e32c:0001][2026-05-10T01:01:39] No eligible source products found for automatic migration to target major version 18.
+[e32c:0001][2026-05-10T01:01:39] No eligible source products found for automatic migration to target major version 18.
+[e32c:0001][2026-05-10T01:01:39] No eligible source products found for automatic migration to target major version 22.
+[e32c:000b][2026-05-10T01:01:39] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:000b][2026-05-10T01:01:39] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:000b][2026-05-10T01:01:39] The automatic migration cannot be started in quiet or passive mode.
+[e32c:0005][2026-05-10T01:01:39] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:0005][2026-05-10T01:01:39] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:0005][2026-05-10T01:01:39] Setup Engine v4.5.35, Microsoft Windows NT 10.0.26200.0
+[e32c:0005][2026-05-10T01:01:39] Command line: "C:\Program Files (x86)\Microsoft Visual Studio\Installer\setup.exe" /finalizeInstall install --in "C:\ProgramData\Microsoft\VisualStudio\Packages\_bootstrapper\vs_setup_bootstrapper_202605100101370312.json" --quiet --norestart --installPath "D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools" --add Microsoft.VisualStudio.Workload.VCTools --add Microsoft.VisualStudio.Component.Windows11SDK.22621 --locale en-US --activityId "2f96546c-7df0-43e3-8c54-c2053231730c"
+[e32c:0005][2026-05-10T01:01:39] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:0026][2026-05-10T01:01:40] Uri 'https://go.microsoft.com/fwlink/?linkid=2066144' redirected to 'https://newsfeed.visualstudio.microsoft.com/news/vs'
+[e32c:0026][2026-05-10T01:01:40] Download of 'https://go.microsoft.com/fwlink/?linkid=2066144' succeeded using engine 'WebClient'
+[e32c:0005][2026-05-10T01:01:40] ManifestVerifier Result: Success
+[e32c:0005][2026-05-10T01:01:40] Catalog load operation correlation: {"id":"03667a0f-e8e4-45a4-a5a7-44e91f042a61"}
+[e32c:0005][2026-05-10T01:01:40] Resetting dependency graph
+[e32c:0005][2026-05-10T01:01:40] Loading catalog 'VisualStudio/17.14.31+37216.2.-april.2026-' into engine session 'e9cfa8c7'.
+[e32c:0005][2026-05-10T01:01:40] Telemetry property VS.SetupEngine.Id : VisualStudio/17.14.31+37216.2.-april.2026-
+[e32c:0005][2026-05-10T01:01:40] Telemetry property VS.SetupEngine.Branch : d17.14
+[e32c:0005][2026-05-10T01:01:40] Telemetry property VS.SetupEngine.BuildNumber : 17.14.37216.2
+[e32c:0005][2026-05-10T01:01:40] Telemetry property VS.SetupEngine.EngineVersion : 4.5.35.35368
+[e32c:0005][2026-05-10T01:01:40] Telemetry property VS.SetupEngine.InstanceId : e9cfa8c7
+[e32c:0005][2026-05-10T01:01:40] Compatible ProductCode '{D331F4E7-BC3B-47BE-BB56-5F33895F9347}' found for package 'Microsoft.Build.FileTracker.Msi,version=17.14.36015.10'
+[e32c:0005][2026-05-10T01:01:40] Compatible package is not installed. Code '{D331F4E7-BC3B-47BE-BB56-5F33895F9347}' will not be used for repair/uninstall attempts.
+[e32c:0005][2026-05-10T01:01:40] Compatible ProductCode '{D07657AA-968C-4629-BD6C-1B52AF825EA7}' found for package 'Microsoft.VisualStudio.Setup.Configuration,version=3.12.2140.44225'
+[e32c:0005][2026-05-10T01:01:40] Compatible package is not installed. Code '{D07657AA-968C-4629-BD6C-1B52AF825EA7}' will not be used for repair/uninstall attempts.
+[e32c:0005][2026-05-10T01:01:40] Compatible ProductCode '{49727420-70BA-4495-9405-31F8D711CB5A}' found for package 'Microsoft.VisualStudio.Setup.WMIProvider,version=3.12.2140.44225'
+[e32c:0005][2026-05-10T01:01:40] Compatible package is not installed. Code '{49727420-70BA-4495-9405-31F8D711CB5A}' will not be used for repair/uninstall attempts.
+[e32c:0005][2026-05-10T01:01:40] Compatible ProductCode '{F5796163-6EC6-488A-B2DE-E1E94477F6AD}' found for package 'Microsoft.VisualStudio.Debugger.Script.Msi,version=17.14.36015.10,machinearch=x64'
+[e32c:0005][2026-05-10T01:01:40] Compatible package is not installed. Code '{F5796163-6EC6-488A-B2DE-E1E94477F6AD}' will not be used for repair/uninstall attempts.
+[e32c:0005][2026-05-10T01:01:40] Compatible ProductCode '{C762588C-06DE-496A-8ADF-EBDBD49E37B5}' found for package 'Microsoft.DiagnosticsHub.Collection.Service,version=17.14.36412.1,productarch=neutral,machinearch=x64'
+[e32c:0005][2026-05-10T01:01:40] Compatible package is not installed. Code '{C762588C-06DE-496A-8ADF-EBDBD49E37B5}' will not be used for repair/uninstall attempts.
+[e32c:0005][2026-05-10T01:01:40] Compatible ProductCode '{D331F4E7-BC3B-47BE-BB56-5F33895F9347}' found for package 'Microsoft.Build.FileTracker.Msi,version=17.14.36015.10'
+[e32c:0005][2026-05-10T01:01:40] Compatible package is not installed. Code '{D331F4E7-BC3B-47BE-BB56-5F33895F9347}' will not be used for repair/uninstall attempts.
+[e32c:0005][2026-05-10T01:01:40] Compatible ProductCode '{D07657AA-968C-4629-BD6C-1B52AF825EA7}' found for package 'Microsoft.VisualStudio.Setup.Configuration,version=3.12.2140.44225'
+[e32c:0005][2026-05-10T01:01:40] Compatible package is not installed. Code '{D07657AA-968C-4629-BD6C-1B52AF825EA7}' will not be used for repair/uninstall attempts.
+[e32c:0005][2026-05-10T01:01:40] Compatible ProductCode '{49727420-70BA-4495-9405-31F8D711CB5A}' found for package 'Microsoft.VisualStudio.Setup.WMIProvider,version=3.12.2140.44225'
+[e32c:0005][2026-05-10T01:01:40] Compatible package is not installed. Code '{49727420-70BA-4495-9405-31F8D711CB5A}' will not be used for repair/uninstall attempts.
+[e32c:0005][2026-05-10T01:01:40] Package Microsoft.Windows.UniversalCRT.Msu.7 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[6.1,6.2)'.
+[e32c:0005][2026-05-10T01:01:40] Package Microsoft.Windows.UniversalCRT.Msu.8 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[6.2,6.3)'.
+[e32c:0005][2026-05-10T01:01:40] Package Microsoft.Windows.UniversalCRT.Msu.81 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[6.3,6.4)'.
+[e32c:0005][2026-05-10T01:01:40] Package Microsoft.VisualStudio.Debugger.DbgHelp.Win8 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[6.1,6.3]'.
+[e32c:0005][2026-05-10T01:01:40] Package Microsoft.VisualStudio.Debugger.Remote.DbgHelp.Win8 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[6.1,6.3]'.
+[e32c:0005][2026-05-10T01:01:40] Package Microsoft.VisualStudio.Debugger.Remote.DbgHelp.Win8 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[6.1,6.3]'.
+[e32c:0005][2026-05-10T01:01:40] Compatible ProductCode '{F5796163-6EC6-488A-B2DE-E1E94477F6AD}' found for package 'Microsoft.VisualStudio.Debugger.Script.Msi,version=17.14.36015.10,machinearch=x64'
+[e32c:0005][2026-05-10T01:01:40] Compatible package is not installed. Code '{F5796163-6EC6-488A-B2DE-E1E94477F6AD}' will not be used for repair/uninstall attempts.
+[e32c:0005][2026-05-10T01:01:40] Compatible ProductCode '{C762588C-06DE-496A-8ADF-EBDBD49E37B5}' found for package 'Microsoft.DiagnosticsHub.Collection.Service,version=17.14.36412.1,productarch=neutral,machinearch=x64'
+[e32c:0005][2026-05-10T01:01:40] Compatible package is not installed. Code '{C762588C-06DE-496A-8ADF-EBDBD49E37B5}' will not be used for repair/uninstall attempts.
+[e32c:0005][2026-05-10T01:01:40] Package Microsoft.Net.4.8.FullRedist.20H2 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[10.0.19042,10.0.22000]'.
+[e32c:0005][2026-05-10T01:01:40] Package Microsoft.Net.4.8.FullRedist is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[6.1.1,10.0.17763]'.
+[e32c:0005][2026-05-10T01:01:40] Package Microsoft.Net.4.8.KB5003306 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[10.0.18362,10.0.18363]'.
+[e32c:0005][2026-05-10T01:01:40] Package Microsoft.Net.4.8.KB5003304 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[10.0.19041,10.0.19042)'.
+[e32c:0005][2026-05-10T01:01:40] Package Microsoft.Net.4.8.1.FullRedist is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[10.0.19042,10.0.22000]'.
+[e32c:0005][2026-05-10T01:01:40] Package Microsoft.VisualStudio.NuGet.PowershellBindingRedirect is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[6.1,6.2)'.
+[e32c:0005][2026-05-10T01:01:41] Compatible ProductCode '{D331F4E7-BC3B-47BE-BB56-5F33895F9347}' found for package 'Microsoft.Build.FileTracker.Msi,version=17.14.36015.10'
+[e32c:0005][2026-05-10T01:01:41] Compatible package is not installed. Code '{D331F4E7-BC3B-47BE-BB56-5F33895F9347}' will not be used for repair/uninstall attempts.
+[e32c:0005][2026-05-10T01:01:41] Compatible ProductCode '{D07657AA-968C-4629-BD6C-1B52AF825EA7}' found for package 'Microsoft.VisualStudio.Setup.Configuration,version=3.12.2140.44225'
+[e32c:0005][2026-05-10T01:01:41] Compatible package is not installed. Code '{D07657AA-968C-4629-BD6C-1B52AF825EA7}' will not be used for repair/uninstall attempts.
+[e32c:0005][2026-05-10T01:01:41] Compatible ProductCode '{49727420-70BA-4495-9405-31F8D711CB5A}' found for package 'Microsoft.VisualStudio.Setup.WMIProvider,version=3.12.2140.44225'
+[e32c:0005][2026-05-10T01:01:41] Compatible package is not installed. Code '{49727420-70BA-4495-9405-31F8D711CB5A}' will not be used for repair/uninstall attempts.
+[e32c:0005][2026-05-10T01:01:41] Package Microsoft.Windows.UniversalCRT.Msu.7 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[6.1,6.2)'.
+[e32c:0005][2026-05-10T01:01:41] Package Microsoft.Windows.UniversalCRT.Msu.8 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[6.2,6.3)'.
+[e32c:0005][2026-05-10T01:01:41] Package Microsoft.Windows.UniversalCRT.Msu.81 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[6.3,6.4)'.
+[e32c:0005][2026-05-10T01:01:41] Package Microsoft.VisualStudio.Debugger.DbgHelp.Win8 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[6.1,6.3]'.
+[e32c:0005][2026-05-10T01:01:41] Package Microsoft.VisualStudio.Debugger.Remote.DbgHelp.Win8 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[6.1,6.3]'.
+[e32c:0005][2026-05-10T01:01:41] Package Microsoft.VisualStudio.Debugger.Remote.DbgHelp.Win8 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[6.1,6.3]'.
+[e32c:0005][2026-05-10T01:01:41] Compatible ProductCode '{F5796163-6EC6-488A-B2DE-E1E94477F6AD}' found for package 'Microsoft.VisualStudio.Debugger.Script.Msi,version=17.14.36015.10,machinearch=x64'
+[e32c:0005][2026-05-10T01:01:41] Compatible package is not installed. Code '{F5796163-6EC6-488A-B2DE-E1E94477F6AD}' will not be used for repair/uninstall attempts.
+[e32c:0005][2026-05-10T01:01:41] Compatible ProductCode '{C762588C-06DE-496A-8ADF-EBDBD49E37B5}' found for package 'Microsoft.DiagnosticsHub.Collection.Service,version=17.14.36412.1,productarch=neutral,machinearch=x64'
+[e32c:0005][2026-05-10T01:01:41] Compatible package is not installed. Code '{C762588C-06DE-496A-8ADF-EBDBD49E37B5}' will not be used for repair/uninstall attempts.
+[e32c:0005][2026-05-10T01:01:41] Package Microsoft.Net.4.8.FullRedist.20H2 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[10.0.19042,10.0.22000]'.
+[e32c:0005][2026-05-10T01:01:41] Package Microsoft.Net.4.8.FullRedist is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[6.1.1,10.0.17763]'.
+[e32c:0005][2026-05-10T01:01:41] Package Microsoft.Net.4.8.KB5003306 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[10.0.18362,10.0.18363]'.
+[e32c:0005][2026-05-10T01:01:41] Package Microsoft.Net.4.8.KB5003304 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[10.0.19041,10.0.19042)'.
+[e32c:0005][2026-05-10T01:01:41] Package Microsoft.Net.4.8.1.FullRedist is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[10.0.19042,10.0.22000]'.
+[e32c:0005][2026-05-10T01:01:41] Package Microsoft.VisualStudio.NuGet.PowershellBindingRedirect is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[6.1,6.2)'.
+[e32c:0005][2026-05-10T01:01:41] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:0005][2026-05-10T01:01:41] Added 'en-us'
+[e32c:0005][2026-05-10T01:01:41] Adding packages from --add
+[e32c:0013][2026-05-10T01:01:41] Planning graph selection
+[e32c:0013][2026-05-10T01:01:41] Graph.PlanSelection completed in 2ms
+[e32c:0013][2026-05-10T01:01:41] Building the required chain
+[e32c:0013][2026-05-10T01:01:41] Committing graph selection
+[e32c:0013][2026-05-10T01:01:41] Graph.CommitSelection completed in 2ms
+[e32c:0013][2026-05-10T01:01:41] Updating graph selection
+[e32c:0013][2026-05-10T01:01:41] Graph.UpdateSelection completed in 4ms
+[e32c:0013][2026-05-10T01:01:41] Notifying VMs with the updated selections: GroupSelected - Microsoft.VisualStudio.Workload.VCTools Microsoft.VisualStudio.Component.VC.CoreBuildTools Microsoft.VisualStudio.Component.VC.Redist.14.Latest Microsoft.VisualStudio.ComponentGroup.NativeDesktop.Core Microsoft.VisualStudio.Component.Windows10SDK Microsoft.VisualStudio.Component.TextTemplating Microsoft.VisualStudio.Component.VC.CoreIde 
+[e32c:0013][2026-05-10T01:01:41] Planning graph selection
+[e32c:0013][2026-05-10T01:01:41] Graph.PlanSelection completed in 0ms
+[e32c:0013][2026-05-10T01:01:41] Building the required chain
+[e32c:0013][2026-05-10T01:01:41] Committing graph selection
+[e32c:0013][2026-05-10T01:01:41] Graph.CommitSelection completed in 1ms
+[e32c:0013][2026-05-10T01:01:41] Updating graph selection
+[e32c:0013][2026-05-10T01:01:41] Graph.UpdateSelection completed in 4ms
+[e32c:0013][2026-05-10T01:01:41] Notifying VMs with the updated selections: IndividuallySelected - Microsoft.VisualStudio.Component.Windows11SDK.22621 
+[e32c:001c][2026-05-10T01:01:41] Extension signature validation returned 0 unsigned extensions and 0 invalidly signed extensions.
+[e32c:000f][2026-05-10T01:01:41] ManifestVerifier Result: Success
+[e32c:000f][2026-05-10T01:01:41] Created a UnelevatedProductInstaller
+[e32c:000f][2026-05-10T01:01:41] Decorating UnelevatedProductInstaller with UnelevatedInstallerTelemetryDecorator
+[e32c:000f][2026-05-10T01:01:41] ManifestVerifier Result: Success
+[e32c:0004][2026-05-10T01:01:41] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:0005][2026-05-10T01:01:41] Warning: The operation was canceled.
+[e32c:000e][2026-05-10T01:01:41] ManifestVerifier Result: Success
+[e32c:0001][2026-05-10T01:01:41] No eligible source products found for automatic migration to target major version 18.
+[e32c:0001][2026-05-10T01:01:41] No eligible source products found for automatic migration to target major version 18.
+[e32c:0001][2026-05-10T01:01:41] No eligible source products found for automatic migration to target major version 18.
+[e32c:0001][2026-05-10T01:01:41] No eligible source products found for automatic migration to target major version 18.
+[e32c:0001][2026-05-10T01:01:41] No eligible source products found for automatic migration to target major version 18.
+[e32c:0001][2026-05-10T01:01:41] No eligible source products found for automatic migration to target major version 18.
+[e32c:0001][2026-05-10T01:01:41] No eligible source products found for automatic migration to target major version 22.
+[e32c:0005][2026-05-10T01:01:41] ManifestVerifier Result: Success
+[e32c:0023][2026-05-10T01:01:41] WebClient error 'RequestCanceled' with 'https://aka.ms/vs/channels' - ExecuteWithRetryAsync failed along with a cancellation request
+[e32c:0023][2026-05-10T01:01:41] Warning: Failed to get the HttpWebResponse while invoking a HEAD request against https://aka.ms/vs/channels:System.OperationCanceledException: The operation was canceled.
+   at System.Threading.CancellationToken.ThrowOperationCanceledException()
+   at System.Threading.CancellationToken.ThrowIfCancellationRequested()
+   at Microsoft.VisualStudio.Setup.Download.WebRequestService.<>c__DisplayClass9_0.<ExecuteWithRetryAsync>b__0(Object _)
+   at System.Threading.Tasks.Task`1.InnerInvoke()
+   at System.Threading.Tasks.Task.Execute()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.Setup.Download.DownloadManagerAuthenticationProxy.<MungeUriAsync>d__16.MoveNext()
+[e32c:0023][2026-05-10T01:01:41] Download requested: https://aka.ms/vs/channels
+[e32c:0026][2026-05-10T01:01:41] Warning: Failed to download channels file from https://aka.ms/vs/channels: A task was canceled.
+[e32c:0027][2026-05-10T01:01:41] WebClient error 'RequestCanceled' with 'https://aka.ms/vs/installer/latest/feed' - ExecuteWithRetryAsync failed along with a cancellation request
+[e32c:0027][2026-05-10T01:01:41] Warning: Failed to get the HttpWebResponse while invoking a HEAD request against https://aka.ms/vs/installer/latest/feed:System.OperationCanceledException: The operation was canceled.
+   at System.Threading.CancellationToken.ThrowOperationCanceledException()
+   at System.Threading.CancellationToken.ThrowIfCancellationRequested()
+   at Microsoft.VisualStudio.Setup.Download.WebRequestService.<>c__DisplayClass9_0.<ExecuteWithRetryAsync>b__0(Object _)
+   at System.Threading.Tasks.Task`1.InnerInvoke()
+   at System.Threading.Tasks.Task.Execute()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.VisualStudio.Setup.Download.DownloadManagerAuthenticationProxy.<MungeUriAsync>d__16.MoveNext()
+[e32c:0027][2026-05-10T01:01:41] Download requested: https://aka.ms/vs/installer/latest/feed
+[e32c:0028][2026-05-10T01:01:41] Warning: Failed to update the latest installer feed A task was canceled.
+[e32c:0028][2026-05-10T01:01:41] ManifestVerifier Result: Success
+[e32c:001e][2026-05-10T01:01:41] Status changed to NoUpdate
+[e32c:001f][2026-05-10T01:01:41] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:001f][2026-05-10T01:01:41] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:001f][2026-05-10T01:01:41] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:001f][2026-05-10T01:01:41] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:001f][2026-05-10T01:01:41] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:001f][2026-05-10T01:01:41] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:001f][2026-05-10T01:01:41] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:001f][2026-05-10T01:01:41] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:001f][2026-05-10T01:01:41] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:001f][2026-05-10T01:01:41] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:001f][2026-05-10T01:01:41] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:001f][2026-05-10T01:01:41] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:001f][2026-05-10T01:01:41] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:001f][2026-05-10T01:01:41] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:001f][2026-05-10T01:01:41] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:001f][2026-05-10T01:01:41] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:001f][2026-05-10T01:01:41] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:001f][2026-05-10T01:01:41] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:001f][2026-05-10T01:01:41] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:0014][2026-05-10T01:01:41] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:0014][2026-05-10T01:01:41] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:0014][2026-05-10T01:01:41] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:0014][2026-05-10T01:01:41] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:0014][2026-05-10T01:01:41] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:0014][2026-05-10T01:01:41] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:0014][2026-05-10T01:01:41] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:0014][2026-05-10T01:01:41] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:0014][2026-05-10T01:01:41] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:0014][2026-05-10T01:01:41] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:0014][2026-05-10T01:01:41] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:0014][2026-05-10T01:01:41] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:0014][2026-05-10T01:01:41] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:0014][2026-05-10T01:01:41] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:0014][2026-05-10T01:01:41] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:0014][2026-05-10T01:01:41] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:0014][2026-05-10T01:01:41] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:0014][2026-05-10T01:01:41] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:0014][2026-05-10T01:01:41] Warning: Setup expects one or more channel manifest in the repository.
+[e32c:001f][2026-05-10T01:01:41] ManifestVerifier Result: Success
+[e32c:0001][2026-05-10T01:01:41] No eligible source products found for automatic migration to target major version 18.
+[e32c:0001][2026-05-10T01:01:41] No eligible source products found for automatic migration to target major version 18.
+[e32c:0001][2026-05-10T01:01:41] No eligible source products found for automatic migration to target major version 18.
+[e32c:0001][2026-05-10T01:01:41] No eligible source products found for automatic migration to target major version 18.
+[e32c:0001][2026-05-10T01:01:41] No eligible source products found for automatic migration to target major version 18.
+[e32c:0001][2026-05-10T01:01:41] No eligible source products found for automatic migration to target major version 18.
+[e32c:0001][2026-05-10T01:01:41] No eligible source products found for automatic migration to target major version 22.
+[e32c:0014][2026-05-10T01:01:41] ManifestVerifier Result: Success
+[e32c:0001][2026-05-10T01:01:41] No eligible source products found for automatic migration to target major version 18.
+[e32c:0001][2026-05-10T01:01:41] No eligible source products found for automatic migration to target major version 18.
+[e32c:0001][2026-05-10T01:01:41] No eligible source products found for automatic migration to target major version 18.
+[e32c:0001][2026-05-10T01:01:41] No eligible source products found for automatic migration to target major version 18.
+[e32c:0001][2026-05-10T01:01:41] No eligible source products found for automatic migration to target major version 18.
+[e32c:0001][2026-05-10T01:01:41] No eligible source products found for automatic migration to target major version 18.
+[e32c:0001][2026-05-10T01:01:41] No eligible source products found for automatic migration to target major version 22.
+[e32c:001c][2026-05-10T01:01:41] Authenticode verification returned 0x00000000 for path: C:\Program Files (x86)\Microsoft Visual Studio\Installer\setup.exe.
+[e32c:002b][2026-05-10T01:03:34] Warning: No previous catalog found at 'C:\ProgramData\Microsoft\VisualStudio\Packages\_Instances\e00ab787\catalog.previous.json'
+[e32c:002b][2026-05-10T01:03:34] Setup Engine v4.5.35, Microsoft Windows NT 10.0.26200.0
+[e32c:002b][2026-05-10T01:03:34] Command line: "C:\Program Files (x86)\Microsoft Visual Studio\Installer\setup.exe" /finalizeInstall install --in "C:\ProgramData\Microsoft\VisualStudio\Packages\_bootstrapper\vs_setup_bootstrapper_202605100101370312.json" --quiet --norestart --installPath "D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools" --add Microsoft.VisualStudio.Workload.VCTools --add Microsoft.VisualStudio.Component.Windows11SDK.22621 --locale en-US --activityId "2f96546c-7df0-43e3-8c54-c2053231730c"
+[e32c:002b][2026-05-10T01:03:34] Loading packages for instance 'e00ab787'
+[e32c:002b][2026-05-10T01:03:34] DependencyComparer was created without a productArch. productArch will be ignored for dependency comparison.
+[e32c:002b][2026-05-10T01:03:35] Switching package detection state from 'Superseded' to 'Absent' since package version '17.14.36015.10' is greater than installed version '17.0.157.0'
+[e32c:002b][2026-05-10T01:03:35] Compatible ProductCode '{6AAEB5DD-FFFE-4CA1-9FE2-38A44B6B4477}' found for package 'Microsoft.VisualStudio.MinShell.Msi,version=17.14.36301.6,productarch=arm64'
+[e32c:002b][2026-05-10T01:03:35] Compatible package version is less than or equal to the package version. Code '{6AAEB5DD-FFFE-4CA1-9FE2-38A44B6B4477}' will not be used for repair/uninstall attempts.
+[e32c:002b][2026-05-10T01:03:35] Compatible ProductCode '{6AAEB5DD-FFFE-4CA1-9FE2-38A44B6B4477}' found for package 'Microsoft.VisualStudio.MinShell.Msi,version=17.14.36301.6,productarch=x64'
+[e32c:002b][2026-05-10T01:03:35] Compatible package version is less than or equal to the package version. Code '{6AAEB5DD-FFFE-4CA1-9FE2-38A44B6B4477}' will not be used for repair/uninstall attempts.
+[e32c:002b][2026-05-10T01:03:35] Warning: Windows Installer found the package 'Microsoft.VisualStudio.Community.Msi,version=17.14.36024.20,machinearch=arm64' superseded but corresponding compatible package information was not found. Attempts to repair will be skipped and that to uninstall may leave the cache behind.
+[e32c:002b][2026-05-10T01:03:35] Compatible ProductCode '{71498EE6-F94E-4061-9DD5-55925CA8A74F}' found for package 'Microsoft.VisualStudio.Community.Msi,version=17.14.36025.13,machinearch=x86'
+[e32c:002b][2026-05-10T01:03:35] Compatible package version is less than or equal to the package version. Code '{71498EE6-F94E-4061-9DD5-55925CA8A74F}' will not be used for repair/uninstall attempts.
+[e32c:002b][2026-05-10T01:03:35] Compatible ProductCode '{F73D5EBA-D2A0-9F65-ADA6-2CCFDF44EA70}' found for package 'Microsoft.Windows.UniversalCRT.Tools.Msi,version=10.0.26624,chip=x64'
+[e32c:002b][2026-05-10T01:03:35] Compatible ProductCode '{964DFB51-5193-2688-7E0A-45CC35B69748}' found for package 'Microsoft.Windows.UniversalCRT.Tools.Msi,version=10.0.26624,chip=x86'
+[e32c:002b][2026-05-10T01:03:35] Loaded existing instance for product 'Microsoft.VisualStudio.Product.BuildTools,version=17.14.37216.2'
+[e32c:002b][2026-05-10T01:03:35] Telemetry property VS.SetupEngine.Id : VisualStudio/17.14.31+37216.2.-april.2026-
+[e32c:002b][2026-05-10T01:03:35] Telemetry property VS.SetupEngine.Branch : d17.14
+[e32c:002b][2026-05-10T01:03:35] Telemetry property VS.SetupEngine.BuildNumber : 17.14.37216.2
+[e32c:002b][2026-05-10T01:03:35] Telemetry property VS.SetupEngine.InstanceId : e00ab787
+[e32c:002b][2026-05-10T01:03:35] Telemetry property VS.SetupEngine.EngineVersion : 4.5.35.35368
+[e32c:002b][2026-05-10T01:03:35] Compatible ProductCode '{F73D5EBA-D2A0-9F65-ADA6-2CCFDF44EA70}' found for package 'Microsoft.Windows.UniversalCRT.Tools.Msi,version=10.0.26624,chip=x64'
+[e32c:002b][2026-05-10T01:03:35] Package Microsoft.Windows.UniversalCRT.Msu.7 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[6.1,6.2)'.
+[e32c:002b][2026-05-10T01:03:35] Package Microsoft.Windows.UniversalCRT.Msu.8 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[6.2,6.3)'.
+[e32c:002b][2026-05-10T01:03:35] Package Microsoft.Windows.UniversalCRT.Msu.81 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[6.3,6.4)'.
+[e32c:002b][2026-05-10T01:03:35] Package Microsoft.VisualStudio.Debugger.DbgHelp.Win8 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[6.1,6.3]'.
+[e32c:002b][2026-05-10T01:03:35] Package Microsoft.VisualStudio.Debugger.Remote.DbgHelp.Win8 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[6.1,6.3]'.
+[e32c:002b][2026-05-10T01:03:35] Package Microsoft.VisualStudio.Debugger.Remote.DbgHelp.Win8 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[6.1,6.3]'.
+[e32c:002b][2026-05-10T01:03:35] Compatible ProductCode '{F73D5EBA-D2A0-9F65-ADA6-2CCFDF44EA70}' found for package 'Microsoft.Windows.UniversalCRT.Tools.Msi,version=10.0.26624,chip=x64'
+[e32c:002b][2026-05-10T01:03:35] Package Microsoft.Net.4.8.FullRedist.20H2 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[10.0.19042,10.0.22000]'.
+[e32c:002b][2026-05-10T01:03:35] Package Microsoft.Net.4.8.FullRedist is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[6.1.1,10.0.17763]'.
+[e32c:002b][2026-05-10T01:03:35] Package Microsoft.Net.4.8.KB5003306 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[10.0.18362,10.0.18363]'.
+[e32c:002b][2026-05-10T01:03:35] Package Microsoft.Net.4.8.KB5003304 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[10.0.19041,10.0.19042)'.
+[e32c:002b][2026-05-10T01:03:35] Package Microsoft.Net.4.8.1.FullRedist is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[10.0.19042,10.0.22000]'.
+[e32c:002b][2026-05-10T01:03:35] Package Microsoft.VisualStudio.NuGet.PowershellBindingRedirect is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[6.1,6.2)'.
+[e32c:002b][2026-05-10T01:03:35] Package Microsoft.Windows.UniversalCRT.Msu.7 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[6.1,6.2)'.
+[e32c:002b][2026-05-10T01:03:35] Package Microsoft.Windows.UniversalCRT.Msu.8 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[6.2,6.3)'.
+[e32c:002b][2026-05-10T01:03:35] Package Microsoft.Windows.UniversalCRT.Msu.81 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[6.3,6.4)'.
+[e32c:002b][2026-05-10T01:03:35] Package Microsoft.VisualStudio.Debugger.DbgHelp.Win8 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[6.1,6.3]'.
+[e32c:002b][2026-05-10T01:03:35] Package Microsoft.VisualStudio.Debugger.Remote.DbgHelp.Win8 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[6.1,6.3]'.
+[e32c:002b][2026-05-10T01:03:35] Package Microsoft.VisualStudio.Debugger.Remote.DbgHelp.Win8 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[6.1,6.3]'.
+[e32c:002b][2026-05-10T01:03:35] Compatible ProductCode '{F73D5EBA-D2A0-9F65-ADA6-2CCFDF44EA70}' found for package 'Microsoft.Windows.UniversalCRT.Tools.Msi,version=10.0.26624,chip=x64'
+[e32c:002b][2026-05-10T01:03:35] Package Microsoft.Net.4.8.FullRedist.20H2 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[10.0.19042,10.0.22000]'.
+[e32c:002b][2026-05-10T01:03:35] Package Microsoft.Net.4.8.FullRedist is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[6.1.1,10.0.17763]'.
+[e32c:002b][2026-05-10T01:03:35] Package Microsoft.Net.4.8.KB5003306 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[10.0.18362,10.0.18363]'.
+[e32c:002b][2026-05-10T01:03:35] Package Microsoft.Net.4.8.KB5003304 is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[10.0.19041,10.0.19042)'.
+[e32c:002b][2026-05-10T01:03:35] Package Microsoft.Net.4.8.1.FullRedist is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[10.0.19042,10.0.22000]'.
+[e32c:002b][2026-05-10T01:03:35] Package Microsoft.VisualStudio.NuGet.PowershellBindingRedirect is not applicable: The current OS Version '10.0.26200.0' is not in the supported version range '[6.1,6.2)'.
+[e32c:002b][2026-05-10T01:03:35] Warning: No previous catalog found at 'C:\ProgramData\Microsoft\VisualStudio\Packages\_Instances\e00ab787\catalog.previous.json'
+[e32c:002b][2026-05-10T01:03:35] Shutting down the application with exit code 0
+[e32c:0001][2026-05-10T01:03:35] Releasing singleton lock.
+[e32c:0001][2026-05-10T01:03:35] Releasing singleton lock succeed.
+[e32c:0001][2026-05-10T01:03:35] Releasing singleton lock.
+[e32c:0001][2026-05-10T01:03:35] Singleton lock does not exist. Releasing singleton lock skipped.
+[e32c:0029][2026-05-10T01:03:35] Warning: No previous catalog found at 'C:\ProgramData\Microsoft\VisualStudio\Packages\_Instances\e00ab787\catalog.previous.json'
+[e32c:0029][2026-05-10T01:03:35] Status changed to NoUpdate
+[e32c:0028][2026-05-10T01:03:35] ManifestVerifier Result: Success
+[e32c:0001][2026-05-10T01:03:35] ManifestVerifier Result: Success
+[e32c:0001][2026-05-10T01:03:35] Closing the installer with exit code 0
+[e32c:0001][2026-05-10T01:03:35] Exit Code: 0
+[e32c:0001][2026-05-10T01:03:35] Cleared previous session ID.
+[e32c:0001][2026-05-10T01:03:35] Trying to remove channel manifest: C:\Users\Werguru\AppData\Local\Microsoft\VisualStudio\Packages\_Channels\39c8bb92\installChannelManifest.json
+[e32c:0001][2026-05-10T01:03:35] Trying to remove product manifest: C:\Users\Werguru\AppData\Local\Microsoft\VisualStudio\Packages\_Channels\39c8bb92\install_catalog.json
+[e32c:0001][2026-05-10T01:03:35] ManifestVerifier Result: Success
+[e32c:0001][2026-05-10T01:03:35] ManifestVerifier Result: Success

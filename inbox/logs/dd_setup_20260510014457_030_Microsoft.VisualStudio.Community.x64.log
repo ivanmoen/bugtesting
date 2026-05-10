@@ -1,0 +1,12 @@
+[3474:0009][2026-05-10T01:46:00] Using cached package manifest as the embedded manifest
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/Script Diagnostics/amd64/DiagnosticsRemoteHelper.dll
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Script Diagnostics\amd64\DiagnosticsRemoteHelper.dll file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/Script Diagnostics/amd64/DiagnosticsTap.dll
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Script Diagnostics\amd64\DiagnosticsTap.dll file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/Xml/Microsoft.XslDebugger.dll
+[3474:0009][2026-05-10T01:46:00] 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Xml\Microsoft.XslDebugger.dll' file is already deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/Xml/Microsoft.XslDebugger.Host.exe
+[3474:0009][2026-05-10T01:46:00] 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Xml\Microsoft.XslDebugger.Host.exe' file is already deleted.
+[3474:0009][2026-05-10T01:46:00] Started: Deleting empty directories
+[3474:0009][2026-05-10T01:46:00] Completed: Deleting empty directories
+[3474:0009][2026-05-10T01:46:00] Package executed successfully. Return code: 0

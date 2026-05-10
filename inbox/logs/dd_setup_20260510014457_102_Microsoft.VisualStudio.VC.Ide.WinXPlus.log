@@ -1,0 +1,48 @@
+[3474:0009][2026-05-10T01:46:13] Using cached package manifest as the embedded manifest
+[3474:0009][2026-05-10T01:46:13] Processing file /Contents/Common7/IDE/VCGraphicsWizard.dll
+[3474:0009][2026-05-10T01:46:13] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VCGraphicsWizard.dll file deleted.
+[3474:0009][2026-05-10T01:46:13] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/mreCone.bmp
+[3474:0009][2026-05-10T01:46:13] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\mreCone.bmp file deleted.
+[3474:0009][2026-05-10T01:46:13] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/mreCube.bmp
+[3474:0009][2026-05-10T01:46:13] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\mreCube.bmp file deleted.
+[3474:0009][2026-05-10T01:46:13] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/mreCylinder.bmp
+[3474:0009][2026-05-10T01:46:13] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\mreCylinder.bmp file deleted.
+[3474:0009][2026-05-10T01:46:13] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/mreDisc.bmp
+[3474:0009][2026-05-10T01:46:13] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\mreDisc.bmp file deleted.
+[3474:0009][2026-05-10T01:46:13] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/mrePlane.bmp
+[3474:0009][2026-05-10T01:46:13] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\mrePlane.bmp file deleted.
+[3474:0009][2026-05-10T01:46:13] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/mreSphere.bmp
+[3474:0009][2026-05-10T01:46:13] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\mreSphere.bmp file deleted.
+[3474:0009][2026-05-10T01:46:13] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/mreTeapot.bmp
+[3474:0009][2026-05-10T01:46:13] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\mreTeapot.bmp file deleted.
+[3474:0009][2026-05-10T01:46:13] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/shaderLambert.bmp
+[3474:0009][2026-05-10T01:46:13] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\shaderLambert.bmp file deleted.
+[3474:0009][2026-05-10T01:46:13] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/shaderOthers.bmp
+[3474:0009][2026-05-10T01:46:13] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\shaderOthers.bmp file deleted.
+[3474:0009][2026-05-10T01:46:13] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/shaderPhong.bmp
+[3474:0009][2026-05-10T01:46:13] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\shaderPhong.bmp file deleted.
+[3474:0009][2026-05-10T01:46:13] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/shaderUnlit.bmp
+[3474:0009][2026-05-10T01:46:13] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\shaderUnlit.bmp file deleted.
+[3474:0009][2026-05-10T01:46:13] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/TemplateDefaults/defaultfile.bmp
+[3474:0009][2026-05-10T01:46:13] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\TemplateDefaults\defaultfile.bmp file deleted.
+[3474:0009][2026-05-10T01:46:13] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/TemplateDefaults/defaultfile.dds
+[3474:0009][2026-05-10T01:46:13] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\TemplateDefaults\defaultfile.dds file deleted.
+[3474:0009][2026-05-10T01:46:13] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/TemplateDefaults/defaultfile.dgsl
+[3474:0009][2026-05-10T01:46:13] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\TemplateDefaults\defaultfile.dgsl file deleted.
+[3474:0009][2026-05-10T01:46:13] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/TemplateDefaults/defaultfile.obj
+[3474:0009][2026-05-10T01:46:13] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\TemplateDefaults\defaultfile.obj file deleted.
+[3474:0009][2026-05-10T01:46:13] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/TemplateDefaults/defaultfile.gif
+[3474:0009][2026-05-10T01:46:13] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\TemplateDefaults\defaultfile.gif file deleted.
+[3474:0009][2026-05-10T01:46:13] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/TemplateDefaults/defaultfile.jpg
+[3474:0009][2026-05-10T01:46:13] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\TemplateDefaults\defaultfile.jpg file deleted.
+[3474:0009][2026-05-10T01:46:13] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/TemplateDefaults/defaultfile.png
+[3474:0009][2026-05-10T01:46:13] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\TemplateDefaults\defaultfile.png file deleted.
+[3474:0009][2026-05-10T01:46:13] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/TemplateDefaults/defaultfile.tga
+[3474:0009][2026-05-10T01:46:13] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\TemplateDefaults\defaultfile.tga file deleted.
+[3474:0009][2026-05-10T01:46:13] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/TemplateDefaults/defaultfile.tif
+[3474:0009][2026-05-10T01:46:13] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\TemplateDefaults\defaultfile.tif file deleted.
+[3474:0009][2026-05-10T01:46:13] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Templates/addnewitems.vsdir
+[3474:0009][2026-05-10T01:46:13] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\Templates\addnewitems.vsdir file deleted.
+[3474:0009][2026-05-10T01:46:13] Started: Deleting empty directories
+[3474:0009][2026-05-10T01:46:13] Completed: Deleting empty directories
+[3474:0009][2026-05-10T01:46:13] Package executed successfully. Return code: 0

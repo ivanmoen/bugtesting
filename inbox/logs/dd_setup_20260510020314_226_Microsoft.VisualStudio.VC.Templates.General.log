@@ -1,0 +1,236 @@
+[18d4:0007][2026-05-10T02:03:56] Opening the package for processing
+[18d4:0007][2026-05-10T02:03:56] Using package payload to get the embedded manifest
+[18d4:0007][2026-05-10T02:03:56] Getting list of files within the package
+[18d4:0007][2026-05-10T02:03:56] Processing file /contents/Common7/IDE/ItemTemplates/Microsoft.VisualStudio.VC.Templates.General.Item..vstman
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /contents/Common7/IDE/ItemTemplates/Microsoft.VisualStudio.VC.Templates.General.Item..vstman to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\Microsoft.VisualStudio.VC.Templates.General.Item..vstman
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /contents/Common7/IDE/ItemTemplates/Microsoft.VisualStudio.VC.Templates.General.Item..vstman to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\Microsoft.VisualStudio.VC.Templates.General.Item..vstman
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\Microsoft.VisualStudio.VC.Templates.General.Item..vstman'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/ItemTemplates/VC/Code/AddClass/AddClass.vstemplate
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/ItemTemplates/VC/Code/AddClass/AddClass.vstemplate to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\VC\Code\AddClass\AddClass.vstemplate
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/ItemTemplates/VC/Code/AddClass/AddClass.vstemplate to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\VC\Code\AddClass\AddClass.vstemplate
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\VC\Code\AddClass\AddClass.vstemplate'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/ItemTemplates/VC/Code/AddClass/OpenFolderAddClass.vstemplate
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/ItemTemplates/VC/Code/AddClass/OpenFolderAddClass.vstemplate to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\VC\Code\AddClass\OpenFolderAddClass.vstemplate
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/ItemTemplates/VC/Code/AddClass/OpenFolderAddClass.vstemplate to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\VC\Code\AddClass\OpenFolderAddClass.vstemplate
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\VC\Code\AddClass\OpenFolderAddClass.vstemplate'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/ItemTemplates/VC/Code/Code.VSTDIR
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/ItemTemplates/VC/Code/Code.VSTDIR to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\VC\Code\Code.VSTDIR
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/ItemTemplates/VC/Code/Code.VSTDIR to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\VC\Code\Code.VSTDIR
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\VC\Code\Code.VSTDIR'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/ItemTemplates/VC/Code/Module/Module.ixx
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/ItemTemplates/VC/Code/Module/Module.ixx to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\VC\Code\Module\Module.ixx
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/ItemTemplates/VC/Code/Module/Module.ixx to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\VC\Code\Module\Module.ixx
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\VC\Code\Module\Module.ixx'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/ItemTemplates/VC/Code/Module/Module.vstemplate
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/ItemTemplates/VC/Code/Module/Module.vstemplate to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\VC\Code\Module\Module.vstemplate
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/ItemTemplates/VC/Code/Module/Module.vstemplate to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\VC\Code\Module\Module.vstemplate
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\VC\Code\Module\Module.vstemplate'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/ItemTemplates/VC/Formatting/ClangFormat/ClangFormat.vstemplate
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/ItemTemplates/VC/Formatting/ClangFormat/ClangFormat.vstemplate to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\VC\Formatting\ClangFormat\ClangFormat.vstemplate
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/ItemTemplates/VC/Formatting/ClangFormat/ClangFormat.vstemplate to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\VC\Formatting\ClangFormat\ClangFormat.vstemplate
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\VC\Formatting\ClangFormat\ClangFormat.vstemplate'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/ItemTemplates/VC/Formatting/Formatting.vstdir
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/ItemTemplates/VC/Formatting/Formatting.vstdir to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\VC\Formatting\Formatting.vstdir
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/ItemTemplates/VC/Formatting/Formatting.vstdir to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\VC\Formatting\Formatting.vstdir
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\VC\Formatting\Formatting.vstdir'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/HLSL.VSTDIR
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/HLSL.VSTDIR to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\VC\HLSL\HLSL.VSTDIR
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/HLSL.VSTDIR to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\VC\HLSL\HLSL.VSTDIR
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\VC\HLSL\HLSL.VSTDIR'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /contents/Common7/IDE/ProjectTemplates/Microsoft.VisualStudio.VC.Templates.General.Project..vstman
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /contents/Common7/IDE/ProjectTemplates/Microsoft.VisualStudio.VC.Templates.General.Project..vstman to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ProjectTemplates\Microsoft.VisualStudio.VC.Templates.General.Project..vstman
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /contents/Common7/IDE/ProjectTemplates/Microsoft.VisualStudio.VC.Templates.General.Project..vstman to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ProjectTemplates\Microsoft.VisualStudio.VC.Templates.General.Project..vstman
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ProjectTemplates\Microsoft.VisualStudio.VC.Templates.General.Project..vstman'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/Other/Other.VSTDIR
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/ProjectTemplates/VC/Other/Other.VSTDIR to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ProjectTemplates\VC\Other\Other.VSTDIR
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/ProjectTemplates/VC/Other/Other.VSTDIR to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ProjectTemplates\VC\Other\Other.VSTDIR
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ProjectTemplates\VC\Other\Other.VSTDIR'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/Other/sharedvcxitems/shared.ico
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/ProjectTemplates/VC/Other/sharedvcxitems/shared.ico to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ProjectTemplates\VC\Other\sharedvcxitems\shared.ico
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/ProjectTemplates/VC/Other/sharedvcxitems/shared.ico to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ProjectTemplates\VC\Other\sharedvcxitems\shared.ico
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ProjectTemplates\VC\Other\sharedvcxitems\shared.ico'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/Other/sharedvcxitems/shared.vcxitems
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/ProjectTemplates/VC/Other/sharedvcxitems/shared.vcxitems to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ProjectTemplates\VC\Other\sharedvcxitems\shared.vcxitems
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/ProjectTemplates/VC/Other/sharedvcxitems/shared.vcxitems to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ProjectTemplates\VC\Other\sharedvcxitems\shared.vcxitems
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ProjectTemplates\VC\Other\sharedvcxitems\shared.vcxitems'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/Other/sharedvcxitems/shared.vstemplate
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/ProjectTemplates/VC/Other/sharedvcxitems/shared.vstemplate to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ProjectTemplates\VC\Other\sharedvcxitems\shared.vstemplate
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/ProjectTemplates/VC/Other/sharedvcxitems/shared.vstemplate to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ProjectTemplates\VC\Other\sharedvcxitems\shared.vstemplate
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ProjectTemplates\VC\Other\sharedvcxitems\shared.vstemplate'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/VC/VCContextItems/AddFunction.vstemplate
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/VC/VCContextItems/AddFunction.vstemplate to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\AddFunction.vstemplate
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/VC/VCContextItems/AddFunction.vstemplate to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\AddFunction.vstemplate
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\AddFunction.vstemplate'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/VC/VCContextItems/AddMethod.vstemplate
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/VC/VCContextItems/AddMethod.vstemplate to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\AddMethod.vstemplate
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/VC/VCContextItems/AddMethod.vstemplate to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\AddMethod.vstemplate
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\AddMethod.vstemplate'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/VC/VCContextItems/AddProperty.vstemplate
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/VC/VCContextItems/AddProperty.vstemplate to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\AddProperty.vstemplate
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/VC/VCContextItems/AddProperty.vstemplate to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\AddProperty.vstemplate
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\AddProperty.vstemplate'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/VC/VCContextItems/addresource.vsz
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/VC/VCContextItems/addresource.vsz to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\addresource.vsz
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/VC/VCContextItems/addresource.vsz to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\addresource.vsz
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\addresource.vsz'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/VC/VCContextItems/AddVariable.vstemplate
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/VC/VCContextItems/AddVariable.vstemplate to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\AddVariable.vstemplate
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/VC/VCContextItems/AddVariable.vstemplate to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\AddVariable.vstemplate
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\AddVariable.vstemplate'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/VC/VCContextItems/DlgClassWiz.vsz
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/VC/VCContextItems/DlgClassWiz.vsz to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\DlgClassWiz.vsz
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/VC/VCContextItems/DlgClassWiz.vsz to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\DlgClassWiz.vsz
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\DlgClassWiz.vsz'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/VC/VCContextItems/IDLMethod.vstemplate
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/VC/VCContextItems/IDLMethod.vstemplate to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\IDLMethod.vstemplate
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/VC/VCContextItems/IDLMethod.vstemplate to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\IDLMethod.vstemplate
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\IDLMethod.vstemplate'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/VC/VCContextItems/IDLProperty.vstemplate
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/VC/VCContextItems/IDLProperty.vstemplate to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\IDLProperty.vstemplate
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/VC/VCContextItems/IDLProperty.vstemplate to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\IDLProperty.vstemplate
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\IDLProperty.vstemplate'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Code/code.vsdir
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Code/code.vsdir to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Code\code.vsdir
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Code/code.vsdir to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Code\code.vsdir
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Code\code.vsdir'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Code/deffile.vsz
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Code/deffile.vsz to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Code\deffile.vsz
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Code/deffile.vsz to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Code\deffile.vsz
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Code\deffile.vsz'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Code/idlfile.idl
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Code/idlfile.idl to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Code\idlfile.idl
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Code/idlfile.idl to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Code\idlfile.idl
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Code\idlfile.idl'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Data/addxmlschema.vsz
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Data/addxmlschema.vsz to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Data\addxmlschema.vsz
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Data/addxmlschema.vsz to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Data\addxmlschema.vsz
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Data\addxmlschema.vsz'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Data/data.vsdir
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Data/data.vsdir to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Data\data.vsdir
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Data/data.vsdir to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Data\data.vsdir
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Data\data.vsdir'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Data/script.sql
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Data/script.sql to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Data\script.sql
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Data/script.sql to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Data\script.sql
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Data\script.sql'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/VC/VCProjectItems/hfile.h
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/hfile.h to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\hfile.h
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/hfile.h to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\hfile.h
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\hfile.h'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/VC/VCProjectItems/newc++file.cpp
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/newc++file.cpp to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\newc++file.cpp
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/newc++file.cpp to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\newc++file.cpp
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\newc++file.cpp'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/VC/VCProjectItems/PropertySheets/propertysheets.vsdir
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/PropertySheets/propertysheets.vsdir to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\PropertySheets\propertysheets.vsdir
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/PropertySheets/propertysheets.vsdir to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\PropertySheets\propertysheets.vsdir
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\PropertySheets\propertysheets.vsdir'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/VC/VCProjectItems/PropertySheets/propertysheets.vsz
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/PropertySheets/propertysheets.vsz to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\PropertySheets\propertysheets.vsz
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/PropertySheets/propertysheets.vsz to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\PropertySheets\propertysheets.vsz
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\PropertySheets\propertysheets.vsz'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Resource/bitmap.bmp
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Resource/bitmap.bmp to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Resource\bitmap.bmp
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Resource/bitmap.bmp to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Resource\bitmap.bmp
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Resource\bitmap.bmp'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Resource/cursor.cur
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Resource/cursor.cur to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Resource\cursor.cur
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Resource/cursor.cur to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Resource\cursor.cur
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Resource\cursor.cur'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Resource/icon.ico
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Resource/icon.ico to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Resource\icon.ico
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Resource/icon.ico to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Resource\icon.ico
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Resource\icon.ico'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Resource/newresx.resx
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Resource/newresx.resx to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Resource\newresx.resx
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Resource/newresx.resx to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Resource\newresx.resx
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Resource\newresx.resx'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Resource/rcfile.vsz
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Resource/rcfile.vsz to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Resource\rcfile.vsz
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Resource/rcfile.vsz to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Resource\rcfile.vsz
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Resource\rcfile.vsz'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Resource/resource.vsdir
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Resource/resource.vsdir to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Resource\resource.vsdir
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Resource/resource.vsdir to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Resource\resource.vsdir
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Resource\resource.vsdir'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Resource/resource_extra.vsdir
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Resource/resource_extra.vsdir to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Resource\resource_extra.vsdir
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Resource/resource_extra.vsdir to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Resource\resource_extra.vsdir
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Resource\resource_extra.vsdir'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Resource/restempl.rct
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Resource/restempl.rct to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Resource\restempl.rct
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Resource/restempl.rct to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Resource\restempl.rct
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Resource\restempl.rct'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Resource/rgsfile.rgs
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Resource/rgsfile.rgs to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Resource\rgsfile.rgs
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Resource/rgsfile.rgs to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Resource\rgsfile.rgs
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Resource\rgsfile.rgs'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Utility/app.config
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Utility/app.config to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Utility\app.config
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Utility/app.config to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Utility\app.config
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Utility\app.config'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Utility/ClassDiagram.cd
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Utility/ClassDiagram.cd to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Utility\ClassDiagram.cd
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Utility/ClassDiagram.cd to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Utility\ClassDiagram.cd
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Utility\ClassDiagram.cd'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Utility/natvis.natvis
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Utility/natvis.natvis to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Utility\natvis.natvis
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Utility/natvis.natvis to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Utility\natvis.natvis
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Utility\natvis.natvis'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Utility/rgsfile.rgs
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Utility/rgsfile.rgs to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Utility\rgsfile.rgs
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Utility/rgsfile.rgs to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Utility\rgsfile.rgs
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Utility\rgsfile.rgs'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Utility/RuleSet.ruleset
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Utility/RuleSet.ruleset to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Utility\RuleSet.ruleset
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Utility/RuleSet.ruleset to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Utility\RuleSet.ruleset
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Utility\RuleSet.ruleset'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Utility/text.txt
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Utility/text.txt to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Utility\text.txt
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Utility/text.txt to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Utility\text.txt
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Utility\text.txt'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Utility/VCUtilityItems.vsdir
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Utility/VCUtilityItems.vsdir to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Utility\VCUtilityItems.vsdir
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Utility/VCUtilityItems.vsdir to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Utility\VCUtilityItems.vsdir
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Utility\VCUtilityItems.vsdir'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/VC/VCProjectItems/VCProjectItems.vsdir
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/VCProjectItems.vsdir to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\VCProjectItems.vsdir
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/VCProjectItems.vsdir to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\VCProjectItems.vsdir
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\VCProjectItems.vsdir'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Web/NewHtmlPage.htm
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Web/NewHtmlPage.htm to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Web\NewHtmlPage.htm
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Web/NewHtmlPage.htm to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Web\NewHtmlPage.htm
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Web\NewHtmlPage.htm'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Web/newstylesheet.css
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Web/newstylesheet.css to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Web\newstylesheet.css
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Web/newstylesheet.css to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Web\newstylesheet.css
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Web\newstylesheet.css'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Web/newxmlpage.xml
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Web/newxmlpage.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Web\newxmlpage.xml
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Web/newxmlpage.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Web\newxmlpage.xml
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Web\newxmlpage.xml'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Web/VCWebItems.vsdir
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Web/VCWebItems.vsdir to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Web\VCWebItems.vsdir
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Web/VCWebItems.vsdir to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Web\VCWebItems.vsdir
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Web\VCWebItems.vsdir'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Web/xsltfile.xslt
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Web/xsltfile.xslt to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Web\xsltfile.xslt
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Web/xsltfile.xslt to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Web\xsltfile.xslt
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Web\xsltfile.xslt'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/VC/VCProjectItemsCMake/Code/Code.vsdir
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItemsCMake/Code/Code.vsdir to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItemsCMake\Code\Code.vsdir
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItemsCMake/Code/Code.vsdir to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItemsCMake\Code\Code.vsdir
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItemsCMake\Code\Code.vsdir'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/VC/VCProjectItemsCMake/Code/Module.ixx
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItemsCMake/Code/Module.ixx to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItemsCMake\Code\Module.ixx
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItemsCMake/Code/Module.ixx to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItemsCMake\Code\Module.ixx
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItemsCMake\Code\Module.ixx'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/VC/VCProjectItemsCMake/VCProjectItemsCMake.vsdir
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItemsCMake/VCProjectItemsCMake.vsdir to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItemsCMake\VCProjectItemsCMake.vsdir
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItemsCMake/VCProjectItemsCMake.vsdir to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItemsCMake\VCProjectItemsCMake.vsdir
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItemsCMake\VCProjectItemsCMake.vsdir'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/VC/VCWizards/1033/Images/spacer.gif
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/VC/VCWizards/1033/Images/spacer.gif to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCWizards\1033\Images\spacer.gif
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/VC/VCWizards/1033/Images/spacer.gif to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCWizards\1033\Images\spacer.gif
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCWizards\1033\Images\spacer.gif'.
+[18d4:0007][2026-05-10T02:03:56] Package executed successfully. Return code: 0

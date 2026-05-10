@@ -1,0 +1,82 @@
+[bd94:0009][2026-05-10T01:00:40] Using cached package manifest as the embedded manifest
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.ConfigurationUI.dll
+[bd94:0009][2026-05-10T01:00:40] D:\Program\Common7\IDE\Microsoft.VisualStudio.ConfigurationUI.dll file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/Common7/IDE/compluslm.dll
+[bd94:0009][2026-05-10T01:00:40] D:\Program\Common7\IDE\compluslm.dll file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/Common7/IDE/vssln.dll
+[bd94:0009][2026-05-10T01:00:40] D:\Program\Common7\IDE\vssln.dll file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/Common7/IDE/adodb.manifest
+[bd94:0009][2026-05-10T01:00:40] D:\Program\Common7\IDE\adodb.manifest file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.ManagedInterfaces.manifest
+[bd94:0009][2026-05-10T01:00:40] D:\Program\Common7\IDE\Microsoft.VisualStudio.ManagedInterfaces.manifest file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.QualityTools.Wizard.TestProjectWizards.manifest
+[bd94:0009][2026-05-10T01:00:40] D:\Program\Common7\IDE\Microsoft.VisualStudio.QualityTools.Wizard.TestProjectWizards.manifest file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/Common7/IDE/vshost32.exe
+[bd94:0009][2026-05-10T01:00:40] D:\Program\Common7\IDE\vshost32.exe file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/Common7/IDE/vshost32-clr2.exe
+[bd94:0009][2026-05-10T01:00:40] D:\Program\Common7\IDE\vshost32-clr2.exe file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/Common7/IDE/Automation/clientbuildmgr.tlb
+[bd94:0009][2026-05-10T01:00:40] D:\Program\Common7\IDE\Automation\clientbuildmgr.tlb file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/Common7/IDE/Automation/wfinterop.tlb
+[bd94:0009][2026-05-10T01:00:40] D:\Program\Common7\IDE\Automation\wfinterop.tlb file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/Common7/IDE/Automation/msdia140.dll
+[bd94:0009][2026-05-10T01:00:40] D:\Program\Common7\IDE\Automation\msdia140.dll file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/Common7/IDE/Automation/clientbuildmgr.tlb.manifest
+[bd94:0009][2026-05-10T01:00:40] D:\Program\Common7\IDE\Automation\clientbuildmgr.tlb.manifest file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/Common7/IDE/Automation/msdia140.dll.manifest
+[bd94:0009][2026-05-10T01:00:40] D:\Program\Common7\IDE\Automation\msdia140.dll.manifest file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/Common7/IDE/Automation/wfinterop.tlb.manifest
+[bd94:0009][2026-05-10T01:00:40] D:\Program\Common7\IDE\Automation\wfinterop.tlb.manifest file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Alm.Shared.Remoting.RemoteContainer.dll
+[bd94:0009][2026-05-10T01:00:40] D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.Alm.Shared.Remoting.RemoteContainer.dll file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/Common7/IDE/PrivateAssemblies/DDConfig.dll
+[bd94:0009][2026-05-10T01:00:40] D:\Program\Common7\IDE\PrivateAssemblies\DDConfig.dll file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/Common7/IDE/VS SCC/msemp.dll
+[bd94:0009][2026-05-10T01:00:40] D:\Program\Common7\IDE\VS SCC\msemp.dll file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/Common7/IDE/VS SCC/msemp.dll.manifest
+[bd94:0009][2026-05-10T01:00:40] D:\Program\Common7\IDE\VS SCC\msemp.dll.manifest file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/Common7/IDE/VS SCC/VssProvider.dll
+[bd94:0009][2026-05-10T01:00:40] D:\Program\Common7\IDE\VS SCC\VssProvider.dll file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/Common7/IDE/VS SCC/VssProviderStub.dll
+[bd94:0009][2026-05-10T01:00:40] D:\Program\Common7\IDE\VS SCC\VssProviderStub.dll file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/Common7/IDE/Remote Debugger/x64/VsDebugEng.Xaml.dll
+[bd94:0009][2026-05-10T01:00:40] D:\Program\Common7\IDE\Remote Debugger\x64\VsDebugEng.Xaml.dll file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/Common7/IDE/Remote Debugger/x64/GpuEnvSetup.dll
+[bd94:0009][2026-05-10T01:00:40] D:\Program\Common7\IDE\Remote Debugger\x64\GpuEnvSetup.dll file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/Common7/IDE/Remote Debugger/x64/GpuDebugEngine.dll
+[bd94:0009][2026-05-10T01:00:40] D:\Program\Common7\IDE\Remote Debugger\x64\GpuDebugEngine.dll file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/Common7/IDE/Remote Debugger/x64/D3DCompiler_47.dll
+[bd94:0009][2026-05-10T01:00:40] D:\Program\Common7\IDE\Remote Debugger\x64\D3DCompiler_47.dll file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/Common7/IDE/Remote Debugger/x64/concrt140.dll
+[bd94:0009][2026-05-10T01:00:40] D:\Program\Common7\IDE\Remote Debugger\x64\concrt140.dll file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/Common7/IDE/Remote Debugger/x86/VsDebugEng.Xaml.dll
+[bd94:0009][2026-05-10T01:00:40] D:\Program\Common7\IDE\Remote Debugger\x86\VsDebugEng.Xaml.dll file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/Common7/IDE/Remote Debugger/x86/GpuEnvSetup.dll
+[bd94:0009][2026-05-10T01:00:40] D:\Program\Common7\IDE\Remote Debugger\x86\GpuEnvSetup.dll file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/Common7/IDE/Remote Debugger/x86/GpuDebugEngine.dll
+[bd94:0009][2026-05-10T01:00:40] D:\Program\Common7\IDE\Remote Debugger\x86\GpuDebugEngine.dll file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/Common7/IDE/Remote Debugger/x86/D3DCompiler_47.dll
+[bd94:0009][2026-05-10T01:00:40] D:\Program\Common7\IDE\Remote Debugger\x86\D3DCompiler_47.dll file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/Common7/IDE/Remote Debugger/x86/concrt140.dll
+[bd94:0009][2026-05-10T01:00:40] D:\Program\Common7\IDE\Remote Debugger\x86\concrt140.dll file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/Common7/Packages/CompSvcsPkg.dll
+[bd94:0009][2026-05-10T01:00:40] D:\Program\Common7\Packages\CompSvcsPkg.dll file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/Common7/Packages/dirprj.dll
+[bd94:0009][2026-05-10T01:00:40] D:\Program\Common7\Packages\dirprj.dll file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/Common7/Packages/Debugger/GpuEnvSetup.dll
+[bd94:0009][2026-05-10T01:00:40] D:\Program\Common7\Packages\Debugger\GpuEnvSetup.dll file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/Common7/Packages/Debugger/GpuEnvSetup.vsdconfig
+[bd94:0009][2026-05-10T01:00:40] D:\Program\Common7\Packages\Debugger\GpuEnvSetup.vsdconfig file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/Common7/Packages/Debugger/HlslEE.dll
+[bd94:0009][2026-05-10T01:00:40] D:\Program\Common7\Packages\Debugger\HlslEE.dll file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/Common7/Packages/Debugger/HlslEE.vsdconfig
+[bd94:0009][2026-05-10T01:00:40] D:\Program\Common7\Packages\Debugger\HlslEE.vsdconfig file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/Common7/Packages/Debugger/jsee.dll
+[bd94:0009][2026-05-10T01:00:40] D:\Program\Common7\Packages\Debugger\jsee.dll file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/Common7/IDE/Automation/DiagnosticsTap.dll
+[bd94:0009][2026-05-10T01:00:40] D:\Program\Common7\IDE\Automation\DiagnosticsTap.dll file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/Common7/IDE/Automation/DiagnosticsTap.dll.manifest
+[bd94:0009][2026-05-10T01:00:40] D:\Program\Common7\IDE\Automation\DiagnosticsTap.dll.manifest file deleted.
+[bd94:0009][2026-05-10T01:00:40] Started: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:40] Completed: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:40] Package executed successfully. Return code: 0

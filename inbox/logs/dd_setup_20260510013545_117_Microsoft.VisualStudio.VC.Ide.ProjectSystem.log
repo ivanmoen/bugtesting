@@ -1,0 +1,96 @@
+[3c7c:000c][2026-05-10T01:36:01] Opening the package for processing
+[3c7c:000c][2026-05-10T01:36:01] Using package payload to get the embedded manifest
+[3c7c:000c][2026-05-10T01:36:01] Getting list of files within the package
+[3c7c:000c][2026-05-10T01:36:01] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Project/Microsoft.VisualStudio.Project.VisualC.VCProjectEngine.dll
+[3c7c:000c][2026-05-10T01:36:01] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Project/Microsoft.VisualStudio.Project.VisualC.VCProjectEngine.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Project\Microsoft.VisualStudio.Project.VisualC.VCProjectEngine.dll
+[3c7c:000c][2026-05-10T01:36:01] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Project/Microsoft.VisualStudio.Project.VisualC.VCProjectEngine.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Project\Microsoft.VisualStudio.Project.VisualC.VCProjectEngine.dll
+[3c7c:000c][2026-05-10T01:36:01] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Project\Microsoft.VisualStudio.Project.VisualC.VCProjectEngine.dll'.
+[3c7c:000c][2026-05-10T01:36:01] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Project\Microsoft.VisualStudio.Project.VisualC.VCProjectEngine.dll for X86 ngen
+[3c7c:000c][2026-05-10T01:36:01] Successfully queued file '/Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Project/Microsoft.VisualStudio.Project.VisualC.VCProjectEngine.dll' for ngen
+[3c7c:000c][2026-05-10T01:36:01] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Project/Microsoft.VisualStudio.Project.VisualC.VCProjectEngine.pkgdef
+[3c7c:000c][2026-05-10T01:36:01] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Project/Microsoft.VisualStudio.Project.VisualC.VCProjectEngine.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Project\Microsoft.VisualStudio.Project.VisualC.VCProjectEngine.pkgdef
+[3c7c:000c][2026-05-10T01:36:01] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Project/Microsoft.VisualStudio.Project.VisualC.VCProjectEngine.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Project\Microsoft.VisualStudio.Project.VisualC.VCProjectEngine.pkgdef
+[3c7c:000c][2026-05-10T01:36:01] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Project\Microsoft.VisualStudio.Project.VisualC.VCProjectEngine.pkgdef'.
+[3c7c:000c][2026-05-10T01:36:01] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/VCProject_Common_Registry.pkgdef
+[3c7c:000c][2026-05-10T01:36:01] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/VCProject_Common_Registry.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\VCProject_Common_Registry.pkgdef
+[3c7c:000c][2026-05-10T01:36:01] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/VCProject_Common_Registry.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\VCProject_Common_Registry.pkgdef
+[3c7c:000c][2026-05-10T01:36:01] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\VCProject_Common_Registry.pkgdef'.
+[3c7c:000c][2026-05-10T01:36:01] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/VCProject_Pro_Registry.pkgdef
+[3c7c:000c][2026-05-10T01:36:01] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/VCProject_Pro_Registry.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\VCProject_Pro_Registry.pkgdef
+[3c7c:000c][2026-05-10T01:36:01] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/VCProject_Pro_Registry.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\VCProject_Pro_Registry.pkgdef
+[3c7c:000c][2026-05-10T01:36:01] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\VCProject_Pro_Registry.pkgdef'.
+[3c7c:000c][2026-05-10T01:36:01] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.VCProjectUI.dll
+[3c7c:000c][2026-05-10T01:36:01] Started: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.VCProjectUI.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.VCProjectUI.dll
+[3c7c:000c][2026-05-10T01:36:01] Completed: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.VCProjectUI.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.VCProjectUI.dll
+[3c7c:000c][2026-05-10T01:36:01] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.VCProjectUI.dll'.
+[3c7c:000c][2026-05-10T01:36:01] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.VCProjectUI.dll for X86 ngen
+[3c7c:000c][2026-05-10T01:36:01] Successfully queued file '/Contents/Common7/IDE/Microsoft.VisualStudio.VCProjectUI.dll' for ngen
+[3c7c:000c][2026-05-10T01:36:01] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.VCProject.dll
+[3c7c:000c][2026-05-10T01:36:01] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.VCProject.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.VCProject.dll
+[3c7c:000c][2026-05-10T01:36:01] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.VCProject.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.VCProject.dll
+[3c7c:000c][2026-05-10T01:36:01] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.VCProject.dll'.
+[3c7c:000c][2026-05-10T01:36:01] Processing file /Contents/Common7/IDE/VC/vcpackages/MacroPicker.dll
+[3c7c:000c][2026-05-10T01:36:01] Started: Copying file /Contents/Common7/IDE/VC/vcpackages/MacroPicker.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\MacroPicker.dll
+[3c7c:000c][2026-05-10T01:36:01] Completed: Copying file /Contents/Common7/IDE/VC/vcpackages/MacroPicker.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\MacroPicker.dll
+[3c7c:000c][2026-05-10T01:36:01] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\MacroPicker.dll'.
+[3c7c:000c][2026-05-10T01:36:01] Processing file /Contents/Common7/IDE/VC/vcpackages/Microsoft.VisualC.ProjectControls.dll
+[3c7c:000c][2026-05-10T01:36:01] Started: Copying file /Contents/Common7/IDE/VC/vcpackages/Microsoft.VisualC.ProjectControls.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\Microsoft.VisualC.ProjectControls.dll
+[3c7c:000c][2026-05-10T01:36:01] Completed: Copying file /Contents/Common7/IDE/VC/vcpackages/Microsoft.VisualC.ProjectControls.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\Microsoft.VisualC.ProjectControls.dll
+[3c7c:000c][2026-05-10T01:36:01] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\Microsoft.VisualC.ProjectControls.dll'.
+[3c7c:000c][2026-05-10T01:36:01] Processing file /Contents/Common7/IDE/VC/vcpackages/Microsoft.VisualC.ProjectStore.Implementation.dll
+[3c7c:000c][2026-05-10T01:36:01] Started: Copying file /Contents/Common7/IDE/VC/vcpackages/Microsoft.VisualC.ProjectStore.Implementation.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\Microsoft.VisualC.ProjectStore.Implementation.dll
+[3c7c:000c][2026-05-10T01:36:01] Completed: Copying file /Contents/Common7/IDE/VC/vcpackages/Microsoft.VisualC.ProjectStore.Implementation.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\Microsoft.VisualC.ProjectStore.Implementation.dll
+[3c7c:000c][2026-05-10T01:36:01] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\Microsoft.VisualC.ProjectStore.Implementation.dll'.
+[3c7c:000c][2026-05-10T01:36:01] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\Microsoft.VisualC.ProjectStore.Implementation.dll for X86 ngen
+[3c7c:000c][2026-05-10T01:36:01] Successfully queued file '/Contents/Common7/IDE/VC/vcpackages/Microsoft.VisualC.ProjectStore.Implementation.dll' for ngen
+[3c7c:000c][2026-05-10T01:36:01] Processing file /Contents/Common7/IDE/VC/vcpackages/vcbuild.dll
+[3c7c:000c][2026-05-10T01:36:01] Started: Copying file /Contents/Common7/IDE/VC/vcpackages/vcbuild.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\vcbuild.dll
+[3c7c:000c][2026-05-10T01:36:01] Completed: Copying file /Contents/Common7/IDE/VC/vcpackages/vcbuild.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\vcbuild.dll
+[3c7c:000c][2026-05-10T01:36:01] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\vcbuild.dll'.
+[3c7c:000c][2026-05-10T01:36:01] Processing file /Contents/Common7/IDE/VC/vcpackages/VCProject.dll
+[3c7c:000c][2026-05-10T01:36:01] Started: Copying file /Contents/Common7/IDE/VC/vcpackages/VCProject.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\VCProject.dll
+[3c7c:000c][2026-05-10T01:36:01] Completed: Copying file /Contents/Common7/IDE/VC/vcpackages/VCProject.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\VCProject.dll
+[3c7c:000c][2026-05-10T01:36:01] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\VCProject.dll'.
+[3c7c:000c][2026-05-10T01:36:01] Processing file /Contents/Common7/IDE/VC/VCWizards/default.props
+[3c7c:000c][2026-05-10T01:36:01] Started: Copying file /Contents/Common7/IDE/VC/VCWizards/default.props to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCWizards\default.props
+[3c7c:000c][2026-05-10T01:36:01] Completed: Copying file /Contents/Common7/IDE/VC/VCWizards/default.props to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCWizards\default.props
+[3c7c:000c][2026-05-10T01:36:01] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCWizards\default.props'.
+[3c7c:000c][2026-05-10T01:36:01] Processing file /Contents/Common7/IDE/VC/VCWizards/default.vcxproj
+[3c7c:000c][2026-05-10T01:36:01] Started: Copying file /Contents/Common7/IDE/VC/VCWizards/default.vcxproj to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCWizards\default.vcxproj
+[3c7c:000c][2026-05-10T01:36:01] Completed: Copying file /Contents/Common7/IDE/VC/VCWizards/default.vcxproj to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCWizards\default.vcxproj
+[3c7c:000c][2026-05-10T01:36:01] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCWizards\default.vcxproj'.
+[3c7c:000c][2026-05-10T01:36:01] Processing file /Contents/Common7/IDE/VC/VCWizards/DefaultCLRNetCore.vcxproj
+[3c7c:000c][2026-05-10T01:36:01] Started: Copying file /Contents/Common7/IDE/VC/VCWizards/DefaultCLRNetCore.vcxproj to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCWizards\DefaultCLRNetCore.vcxproj
+[3c7c:000c][2026-05-10T01:36:01] Completed: Copying file /Contents/Common7/IDE/VC/VCWizards/DefaultCLRNetCore.vcxproj to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCWizards\DefaultCLRNetCore.vcxproj
+[3c7c:000c][2026-05-10T01:36:01] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCWizards\DefaultCLRNetCore.vcxproj'.
+[3c7c:000c][2026-05-10T01:36:01] Processing file /Contents/Common7/IDE/VC/VCWizards/default_arm64.vcxproj
+[3c7c:000c][2026-05-10T01:36:01] Started: Copying file /Contents/Common7/IDE/VC/VCWizards/default_arm64.vcxproj to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCWizards\default_arm64.vcxproj
+[3c7c:000c][2026-05-10T01:36:01] Completed: Copying file /Contents/Common7/IDE/VC/VCWizards/default_arm64.vcxproj to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCWizards\default_arm64.vcxproj
+[3c7c:000c][2026-05-10T01:36:01] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCWizards\default_arm64.vcxproj'.
+[3c7c:000c][2026-05-10T01:36:01] Processing file /Contents/Common7/IDE/VC/VCWizards/Shared.vcxproj
+[3c7c:000c][2026-05-10T01:36:01] Started: Copying file /Contents/Common7/IDE/VC/VCWizards/Shared.vcxproj to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCWizards\Shared.vcxproj
+[3c7c:000c][2026-05-10T01:36:01] Completed: Copying file /Contents/Common7/IDE/VC/VCWizards/Shared.vcxproj to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCWizards\Shared.vcxproj
+[3c7c:000c][2026-05-10T01:36:01] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCWizards\Shared.vcxproj'.
+[3c7c:000c][2026-05-10T01:36:01] Processing file /Contents/Common7/IDE/VC/VCWizards/vcupgradedefault.vcxproj
+[3c7c:000c][2026-05-10T01:36:01] Started: Copying file /Contents/Common7/IDE/VC/VCWizards/vcupgradedefault.vcxproj to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCWizards\vcupgradedefault.vcxproj
+[3c7c:000c][2026-05-10T01:36:01] Completed: Copying file /Contents/Common7/IDE/VC/VCWizards/vcupgradedefault.vcxproj to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCWizards\vcupgradedefault.vcxproj
+[3c7c:000c][2026-05-10T01:36:01] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCWizards\vcupgradedefault.vcxproj'.
+[3c7c:000c][2026-05-10T01:36:01] Processing file /Contents/Common7/IDE/VcxprojReader.exe
+[3c7c:000c][2026-05-10T01:36:01] Started: Copying file /Contents/Common7/IDE/VcxprojReader.exe to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VcxprojReader.exe
+[3c7c:000c][2026-05-10T01:36:01] Completed: Copying file /Contents/Common7/IDE/VcxprojReader.exe to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VcxprojReader.exe
+[3c7c:000c][2026-05-10T01:36:01] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VcxprojReader.exe'.
+[3c7c:000c][2026-05-10T01:36:01] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VcxprojReader.exe for X86 ngen
+[3c7c:000c][2026-05-10T01:36:01] Successfully queued file '/Contents/Common7/IDE/VcxprojReader.exe' for ngen
+[3c7c:000c][2026-05-10T01:36:01] Processing file /Contents/Common7/IDE/VcxprojReader.exe.config
+[3c7c:000c][2026-05-10T01:36:01] Started: Copying file /Contents/Common7/IDE/VcxprojReader.exe.config to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VcxprojReader.exe.config
+[3c7c:000c][2026-05-10T01:36:01] Completed: Copying file /Contents/Common7/IDE/VcxprojReader.exe.config to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VcxprojReader.exe.config
+[3c7c:000c][2026-05-10T01:36:01] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VcxprojReader.exe.config'.
+[3c7c:000c][2026-05-10T01:36:01] Processing file /Contents/Common7/Tools/vcconvertengine.dll
+[3c7c:000c][2026-05-10T01:36:01] Started: Copying file /Contents/Common7/Tools/vcconvertengine.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\vcconvertengine.dll
+[3c7c:000c][2026-05-10T01:36:01] Completed: Copying file /Contents/Common7/Tools/vcconvertengine.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\vcconvertengine.dll
+[3c7c:000c][2026-05-10T01:36:01] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\vcconvertengine.dll'.
+[3c7c:000c][2026-05-10T01:36:01] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Project/extension.vsixmanifest
+[3c7c:000c][2026-05-10T01:36:01] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Project/extension.vsixmanifest to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Project\extension.vsixmanifest
+[3c7c:000c][2026-05-10T01:36:01] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Project/extension.vsixmanifest to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Project\extension.vsixmanifest
+[3c7c:000c][2026-05-10T01:36:01] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Project\extension.vsixmanifest'.
+[3c7c:000c][2026-05-10T01:36:01] Package executed successfully. Return code: 0

@@ -1,0 +1,12 @@
+[c9c4:0009][2026-05-10T01:01:50] Opening the package for processing
+[c9c4:0009][2026-05-10T01:01:50] Using package payload to get the embedded manifest
+[c9c4:0009][2026-05-10T01:01:50] Getting list of files within the package
+[c9c4:0009][2026-05-10T01:01:50] Processing file /Contents/Common7/Tools/vsdevcmd/ext/vcvars.bat
+[c9c4:0009][2026-05-10T01:01:50] Started: Copying file /Contents/Common7/Tools/vsdevcmd/ext/vcvars.bat to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\vsdevcmd\ext\vcvars.bat
+[c9c4:0009][2026-05-10T01:01:50] Completed: Copying file /Contents/Common7/Tools/vsdevcmd/ext/vcvars.bat to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\vsdevcmd\ext\vcvars.bat
+[c9c4:0009][2026-05-10T01:01:50] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\vsdevcmd\ext\vcvars.bat'.
+[c9c4:0009][2026-05-10T01:01:50] Processing file /Contents/Common7/Tools/vsdevcmd/ext/vcvars/vcvars140.bat
+[c9c4:0009][2026-05-10T01:01:50] Started: Copying file /Contents/Common7/Tools/vsdevcmd/ext/vcvars/vcvars140.bat to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\vsdevcmd\ext\vcvars\vcvars140.bat
+[c9c4:0009][2026-05-10T01:01:50] Completed: Copying file /Contents/Common7/Tools/vsdevcmd/ext/vcvars/vcvars140.bat to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\vsdevcmd\ext\vcvars\vcvars140.bat
+[c9c4:0009][2026-05-10T01:01:50] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\vsdevcmd\ext\vcvars\vcvars140.bat'.
+[c9c4:0009][2026-05-10T01:01:50] Package executed successfully. Return code: 0

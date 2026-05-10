@@ -1,0 +1,16 @@
+[2e2c:0007][2026-05-10T01:24:13] Opening the package for processing
+[2e2c:0007][2026-05-10T01:24:13] Using package payload to get the embedded manifest
+[2e2c:0007][2026-05-10T01:24:13] Getting list of files within the package
+[2e2c:0007][2026-05-10T01:24:13] Processing file /Contents/Common7/IDE/PublicAssemblies/VsWebSite.Interop.dll
+[2e2c:0007][2026-05-10T01:24:13] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/VsWebSite.Interop.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VsWebSite.Interop.dll
+[2e2c:0007][2026-05-10T01:24:13] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/VsWebSite.Interop.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VsWebSite.Interop.dll
+[2e2c:0007][2026-05-10T01:24:13] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VsWebSite.Interop.dll'.
+[2e2c:0007][2026-05-10T01:24:13] Processing file /Contents/Common7/IDE/PublicAssemblies/VsWebSite.Interop100.dll
+[2e2c:0007][2026-05-10T01:24:13] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/VsWebSite.Interop100.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VsWebSite.Interop100.dll
+[2e2c:0007][2026-05-10T01:24:13] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/VsWebSite.Interop100.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VsWebSite.Interop100.dll
+[2e2c:0007][2026-05-10T01:24:13] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VsWebSite.Interop100.dll'.
+[2e2c:0007][2026-05-10T01:24:13] Processing file /Contents/Common7/IDE/PublicAssemblies/VsWebSite.Interop90.dll
+[2e2c:0007][2026-05-10T01:24:13] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/VsWebSite.Interop90.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VsWebSite.Interop90.dll
+[2e2c:0007][2026-05-10T01:24:13] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/VsWebSite.Interop90.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VsWebSite.Interop90.dll
+[2e2c:0007][2026-05-10T01:24:13] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VsWebSite.Interop90.dll'.
+[2e2c:0007][2026-05-10T01:24:13] Package executed successfully. Return code: 0

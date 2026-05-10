@@ -1,0 +1,16 @@
+[3c7c:000c][2026-05-10T01:35:58] Opening the package for processing
+[3c7c:000c][2026-05-10T01:35:58] Using package payload to get the embedded manifest
+[3c7c:000c][2026-05-10T01:35:58] Getting list of files within the package
+[3c7c:000c][2026-05-10T01:35:58] Processing file /Contents/Common7/IDE/Remote%20Debugger/x64/1033/msdbgui.dll
+[3c7c:000c][2026-05-10T01:35:58] Started: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/1033/msdbgui.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\1033\msdbgui.dll
+[3c7c:000c][2026-05-10T01:35:58] Completed: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/1033/msdbgui.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\1033\msdbgui.dll
+[3c7c:000c][2026-05-10T01:35:58] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\1033\msdbgui.dll'.
+[3c7c:000c][2026-05-10T01:35:58] Processing file /Contents/Common7/IDE/Remote%20Debugger/x64/1033/msvsmon.html
+[3c7c:000c][2026-05-10T01:35:58] Started: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/1033/msvsmon.html to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\1033\msvsmon.html
+[3c7c:000c][2026-05-10T01:35:58] Completed: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/1033/msvsmon.html to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\1033\msvsmon.html
+[3c7c:000c][2026-05-10T01:35:58] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\1033\msvsmon.html'.
+[3c7c:000c][2026-05-10T01:35:58] Processing file /Contents/Common7/IDE/Remote%20Debugger/x64/1033/symbollocator.resources.dll
+[3c7c:000c][2026-05-10T01:35:58] Started: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/1033/symbollocator.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\1033\symbollocator.resources.dll
+[3c7c:000c][2026-05-10T01:35:58] Completed: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/1033/symbollocator.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\1033\symbollocator.resources.dll
+[3c7c:000c][2026-05-10T01:35:58] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\1033\symbollocator.resources.dll'.
+[3c7c:000c][2026-05-10T01:35:58] Package executed successfully. Return code: 0

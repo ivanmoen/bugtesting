@@ -1,0 +1,26 @@
+[bd94:0009][2026-05-10T01:00:52] Using cached package manifest as the embedded manifest
+[bd94:0009][2026-05-10T01:00:52] Processing file /extension.vsixmanifest
+[bd94:0009][2026-05-10T01:00:52] D:\Program\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\extension.vsixmanifest file deleted.
+[bd94:0009][2026-05-10T01:00:52] Processing file /Microsoft.VisualStudio.Copilot.dll
+[bd94:0009][2026-05-10T01:00:52] D:\Program\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Microsoft.VisualStudio.Copilot.dll file deleted.
+[bd94:0009][2026-05-10T01:00:52] Processing file /Microsoft.VisualStudio.Extensibility.Copilot.dll
+[bd94:0009][2026-05-10T01:00:52] D:\Program\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Microsoft.VisualStudio.Extensibility.Copilot.dll file deleted.
+[bd94:0009][2026-05-10T01:00:52] Processing file /Microsoft.VisualStudio.Extensibility.Copilot.Configuration.dll
+[bd94:0009][2026-05-10T01:00:52] D:\Program\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Microsoft.VisualStudio.Extensibility.Copilot.Configuration.dll file deleted.
+[bd94:0009][2026-05-10T01:00:52] Processing file /Microsoft.VisualStudio.Copilot.pdb
+[bd94:0009][2026-05-10T01:00:52] D:\Program\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Microsoft.VisualStudio.Copilot.pdb file deleted.
+[bd94:0009][2026-05-10T01:00:52] Processing file /Microsoft.VisualStudio.Copilot.xml
+[bd94:0009][2026-05-10T01:00:52] D:\Program\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Microsoft.VisualStudio.Copilot.xml file deleted.
+[bd94:0009][2026-05-10T01:00:52] Processing file /Microsoft.VisualStudio.Copilot.Contracts.pkgdef
+[bd94:0009][2026-05-10T01:00:52] D:\Program\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Microsoft.VisualStudio.Copilot.Contracts.pkgdef file deleted.
+[bd94:0009][2026-05-10T01:00:52] Processing file /Copilot.png
+[bd94:0009][2026-05-10T01:00:52] D:\Program\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Copilot.png file deleted.
+[bd94:0009][2026-05-10T01:00:52] Processing file /LICENSE.md
+[bd94:0009][2026-05-10T01:00:52] D:\Program\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\LICENSE.md file deleted.
+[bd94:0009][2026-05-10T01:00:52] Processing file /manifest.json
+[bd94:0009][2026-05-10T01:00:52] D:\Program\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\manifest.json file deleted.
+[bd94:0009][2026-05-10T01:00:52] Processing file /catalog.json
+[bd94:0009][2026-05-10T01:00:52] D:\Program\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\catalog.json file deleted.
+[bd94:0009][2026-05-10T01:00:52] Started: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:52] Completed: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:52] Package executed successfully. Return code: 0

@@ -1,0 +1,34 @@
+[0c48:0003][2026-05-10T01:44:47] Using cached package manifest as the embedded manifest
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/msvcdis120.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\msvcdis120.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/msobj120.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\msobj120.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/mspdb140.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\mspdb140.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/mspdbcore.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\mspdbcore.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/mspdbsrv.exe
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\mspdbsrv.exe file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/tbbmalloc.dll
+[0c48:0003][2026-05-10T01:44:47] 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\tbbmalloc.dll' file is already deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/VC_DirControl_Registry.pkgdef
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\VC_DirControl_Registry.pkgdef file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Debugger/x86/mspdbst.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Debugger\x86\mspdbst.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Debugger/x86/tbbmalloc.dll
+[0c48:0003][2026-05-10T01:44:47] 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Debugger\x86\tbbmalloc.dll' file is already deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Debugger/x86/msvcp140_atomic_wait.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Debugger\x86\msvcp140_atomic_wait.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Debugger/x64/mspdbst.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Debugger\x64\mspdbst.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Debugger/x64/tbbmalloc.dll
+[0c48:0003][2026-05-10T01:44:47] 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Debugger\x64\tbbmalloc.dll' file is already deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Debugger/x64/msvcp140_atomic_wait.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Debugger\x64\msvcp140_atomic_wait.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/VC/dircontrol.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\dircontrol.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/VC/vcpackages/DirControl.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\DirControl.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Started: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:47] Completed: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:47] Package executed successfully. Return code: 0

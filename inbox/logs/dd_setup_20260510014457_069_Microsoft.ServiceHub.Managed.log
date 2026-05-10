@@ -1,0 +1,100 @@
+[3474:0009][2026-05-10T01:46:09] Using cached package manifest as the embedded manifest
+[3474:0009][2026-05-10T01:46:09] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ServiceHub/Microsoft.ServiceHub.Client.dll
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ServiceHub\Microsoft.ServiceHub.Client.dll file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ServiceHub/Microsoft.ServiceHub.HostLib.dll
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ServiceHub\Microsoft.ServiceHub.HostLib.dll file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ServiceHub/Microsoft.ServiceHub.HostStub.dll
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ServiceHub\Microsoft.ServiceHub.HostStub.dll file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ServiceHub/ServiceHubClient.pkgdef
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ServiceHub\ServiceHubClient.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ServiceHub/System.Text.Encodings.Web.dll
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ServiceHub\System.Text.Encodings.Web.dll file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ServiceHub/System.Text.Json.dll
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ServiceHub\System.Text.Json.dll file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Contents/Common7/IDE/PrivateAssemblies/cs/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\cs\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Contents/Common7/IDE/PrivateAssemblies/de/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\de\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Contents/Common7/IDE/PrivateAssemblies/es/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\es\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Contents/Common7/IDE/PrivateAssemblies/fr/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\fr\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Contents/Common7/IDE/PrivateAssemblies/it/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\it\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Contents/Common7/IDE/PrivateAssemblies/ja/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\ja\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Contents/Common7/IDE/PrivateAssemblies/ko/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\ko\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Contents/Common7/IDE/PrivateAssemblies/pl/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\pl\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Contents/Common7/IDE/PrivateAssemblies/pt-BR/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\pt-BR\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Contents/Common7/IDE/PrivateAssemblies/ru/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\ru\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Contents/Common7/IDE/PrivateAssemblies/tr/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\tr\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Contents/Common7/IDE/PrivateAssemblies/zh-Hans/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\zh-Hans\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Contents/Common7/IDE/PrivateAssemblies/zh-Hant/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\zh-Hant\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x64/desktopClr.x64.DataWarehouseHost.servicehub.host.json
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\desktopClr.x64.DataWarehouseHost.servicehub.host.json file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x64/desktopClr.x64.IntellicodeModelService.servicehub.host.json
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\desktopClr.x64.IntellicodeModelService.servicehub.host.json file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x64/desktopClr.x64.servicehub.host.json
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\desktopClr.x64.servicehub.host.json file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x64/netfx.x64.DataWarehouseHost.servicehub.host.json
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\netfx.x64.DataWarehouseHost.servicehub.host.json file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x64/netfx.x64.IntellicodeModelService.servicehub.host.json
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\netfx.x64.IntellicodeModelService.servicehub.host.json file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x64/netfx.x64.servicehub.host.json
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\netfx.x64.servicehub.host.json file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x64/ServiceHub.DataWarehouseHost.exe
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\ServiceHub.DataWarehouseHost.exe file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x64/ServiceHub.DataWarehouseHost.exe.config
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\ServiceHub.DataWarehouseHost.exe.config file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x64/ServiceHub.Host.netfx.x64.exe
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\ServiceHub.Host.netfx.x64.exe file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x64/ServiceHub.Host.netfx.x64.exe.config
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\ServiceHub.Host.netfx.x64.exe.config file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x64/ServiceHub.IntellicodeModelService.exe
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\ServiceHub.IntellicodeModelService.exe file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x64/ServiceHub.IntellicodeModelService.exe.config
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\ServiceHub.IntellicodeModelService.exe.config file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x86/desktopClr.x86.DataWarehouseHost.servicehub.host.json
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\desktopClr.x86.DataWarehouseHost.servicehub.host.json file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x86/desktopClr.x86.IdentityHost.servicehub.host.json
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\desktopClr.x86.IdentityHost.servicehub.host.json file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x86/desktopClr.x86.servicehub.host.json
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\desktopClr.x86.servicehub.host.json file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x86/netfx.x86.DataWarehouseHost.servicehub.host.json
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\netfx.x86.DataWarehouseHost.servicehub.host.json file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x86/netfx.x86.IdentityHost.servicehub.host.json
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\netfx.x86.IdentityHost.servicehub.host.json file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x86/netfx.x86.servicehub.host.json
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\netfx.x86.servicehub.host.json file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x86/ServiceHub.DataWarehouseHost.exe
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\ServiceHub.DataWarehouseHost.exe file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x86/ServiceHub.DataWarehouseHost.exe.config
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\ServiceHub.DataWarehouseHost.exe.config file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x86/ServiceHub.Host.netfx.x86.exe
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\ServiceHub.Host.netfx.x86.exe file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x86/ServiceHub.Host.netfx.x86.exe.config
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\ServiceHub.Host.netfx.x86.exe.config file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x86/ServiceHub.IdentityHost.exe
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\ServiceHub.IdentityHost.exe file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x86/ServiceHub.IdentityHost.exe.config
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\ServiceHub.IdentityHost.exe.config file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Contents/Common7/ServiceHub/Services/Microsoft.ServiceHub.Framework.AlwaysUnauthorizedService/Microsoft.ServiceHub.Framework.AlwaysUnauthorizedService.dll
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\ServiceHub\Services\Microsoft.ServiceHub.Framework.AlwaysUnauthorizedService\Microsoft.ServiceHub.Framework.AlwaysUnauthorizedService.dll file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Contents/Common7/ServiceHub/Services/Microsoft.ServiceHub.Framework.AlwaysUnauthorizedService/Microsoft.ServiceHub.Framework.AuthorizationService.servicehub.service.json
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\ServiceHub\Services\Microsoft.ServiceHub.Framework.AlwaysUnauthorizedService\Microsoft.ServiceHub.Framework.AuthorizationService.servicehub.service.json file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Contents/Common7/ServiceHub/Services/Microsoft.ServiceHub.Framework.AlwaysUnauthorizedService/System.Text.Encodings.Web.dll
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\ServiceHub\Services\Microsoft.ServiceHub.Framework.AlwaysUnauthorizedService\System.Text.Encodings.Web.dll file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Contents/Common7/ServiceHub/Services/Microsoft.ServiceHub.Framework.AlwaysUnauthorizedService/System.Text.Json.dll
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\ServiceHub\Services\Microsoft.ServiceHub.Framework.AlwaysUnauthorizedService\System.Text.Json.dll file deleted.
+[3474:0009][2026-05-10T01:46:09] Started: Deleting empty directories
+[3474:0009][2026-05-10T01:46:09] Completed: Deleting empty directories
+[3474:0009][2026-05-10T01:46:09] Package executed successfully. Return code: 0

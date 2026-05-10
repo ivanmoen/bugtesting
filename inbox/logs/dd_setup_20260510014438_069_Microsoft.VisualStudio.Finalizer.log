@@ -1,0 +1,32 @@
+[0c48:0003][2026-05-10T01:44:45] Using cached package manifest as the embedded manifest
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/VSFinalizer.exe
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSFinalizer.exe file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/VSFinalizer.exe.config
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSFinalizer.exe.config file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/VSInitializer.exe
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSInitializer.exe file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/VSInitializer.exe.config
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSInitializer.exe.config file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/VSFinalizerDependencies/Microsoft.Bcl.AsyncInterfaces.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSFinalizerDependencies\Microsoft.Bcl.AsyncInterfaces.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/VSFinalizerDependencies/System.Buffers.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSFinalizerDependencies\System.Buffers.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/VSFinalizerDependencies/System.IO.Pipelines.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSFinalizerDependencies\System.IO.Pipelines.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/VSFinalizerDependencies/System.Memory.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSFinalizerDependencies\System.Memory.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/VSFinalizerDependencies/System.Numerics.Vectors.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSFinalizerDependencies\System.Numerics.Vectors.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/VSFinalizerDependencies/System.Runtime.CompilerServices.Unsafe.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSFinalizerDependencies\System.Runtime.CompilerServices.Unsafe.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/VSFinalizerDependencies/System.Text.Encodings.Web.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSFinalizerDependencies\System.Text.Encodings.Web.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/VSFinalizerDependencies/System.Text.Json.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSFinalizerDependencies\System.Text.Json.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/VSFinalizerDependencies/System.Threading.Tasks.Extensions.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSFinalizerDependencies\System.Threading.Tasks.Extensions.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/VSFinalizerDependencies/System.ValueTuple.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSFinalizerDependencies\System.ValueTuple.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Started: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:45] Completed: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:45] Package executed successfully. Return code: 0

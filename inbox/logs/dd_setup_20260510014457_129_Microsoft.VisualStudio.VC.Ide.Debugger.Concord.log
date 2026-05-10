@@ -1,0 +1,12 @@
+[3474:0009][2026-05-10T01:46:16] Using cached package manifest as the embedded manifest
+[3474:0009][2026-05-10T01:46:16] Processing file /Contents/Common7/Packages/Debugger/AsyncStackWalk.natvis
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\AsyncStackWalk.natvis file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /Contents/Common7/Packages/Debugger/Visualizers/default.natjmc
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\Visualizers\default.natjmc file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Debugger/x86/MSEnc.dll
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Debugger\x86\MSEnc.dll file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Debugger/x64/MSEnc.dll
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Debugger\x64\MSEnc.dll file deleted.
+[3474:0009][2026-05-10T01:46:16] Started: Deleting empty directories
+[3474:0009][2026-05-10T01:46:16] Completed: Deleting empty directories
+[3474:0009][2026-05-10T01:46:16] Package executed successfully. Return code: 0

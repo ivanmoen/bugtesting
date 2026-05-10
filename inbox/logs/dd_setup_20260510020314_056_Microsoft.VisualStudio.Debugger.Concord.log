@@ -1,0 +1,112 @@
+[18d4:0007][2026-05-10T02:03:30] Opening the package for processing
+[18d4:0007][2026-05-10T02:03:30] Using package payload to get the embedded manifest
+[18d4:0007][2026-05-10T02:03:30] Getting list of files within the package
+[18d4:0007][2026-05-10T02:03:30] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/MemoryAnalyzer.dll
+[18d4:0007][2026-05-10T02:03:30] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/MemoryAnalyzer.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\MemoryAnalyzer.dll
+[18d4:0007][2026-05-10T02:03:30] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/MemoryAnalyzer.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\MemoryAnalyzer.dll
+[18d4:0007][2026-05-10T02:03:30] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\MemoryAnalyzer.dll'.
+[18d4:0007][2026-05-10T02:03:30] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/Microsoft.VisualStudio.Debugger.TerminalLauncher.dll
+[18d4:0007][2026-05-10T02:03:30] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/Microsoft.VisualStudio.Debugger.TerminalLauncher.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\Microsoft.VisualStudio.Debugger.TerminalLauncher.dll
+[18d4:0007][2026-05-10T02:03:30] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/Microsoft.VisualStudio.Debugger.TerminalLauncher.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\Microsoft.VisualStudio.Debugger.TerminalLauncher.dll
+[18d4:0007][2026-05-10T02:03:30] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\Microsoft.VisualStudio.Debugger.TerminalLauncher.dll'.
+[18d4:0007][2026-05-10T02:03:30] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/Microsoft.VisualStudio.Debugger.TerminalLauncher.pkgdef
+[18d4:0007][2026-05-10T02:03:30] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/Microsoft.VisualStudio.Debugger.TerminalLauncher.pkgdef to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\Microsoft.VisualStudio.Debugger.TerminalLauncher.pkgdef
+[18d4:0007][2026-05-10T02:03:30] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/Microsoft.VisualStudio.Debugger.TerminalLauncher.pkgdef to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\Microsoft.VisualStudio.Debugger.TerminalLauncher.pkgdef
+[18d4:0007][2026-05-10T02:03:30] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\Microsoft.VisualStudio.Debugger.TerminalLauncher.pkgdef'.
+[18d4:0007][2026-05-10T02:03:30] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/ReflectionBDM.pkgdef
+[18d4:0007][2026-05-10T02:03:30] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/ReflectionBDM.pkgdef to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\ReflectionBDM.pkgdef
+[18d4:0007][2026-05-10T02:03:30] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/ReflectionBDM.pkgdef to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\ReflectionBDM.pkgdef
+[18d4:0007][2026-05-10T02:03:30] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\ReflectionBDM.pkgdef'.
+[18d4:0007][2026-05-10T02:03:30] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VSDbg_Engine.pkgdef
+[18d4:0007][2026-05-10T02:03:30] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VSDbg_Engine.pkgdef to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\VSDbg_Engine.pkgdef
+[18d4:0007][2026-05-10T02:03:30] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VSDbg_Engine.pkgdef to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\VSDbg_Engine.pkgdef
+[18d4:0007][2026-05-10T02:03:30] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\VSDbg_Engine.pkgdef'.
+[18d4:0007][2026-05-10T02:03:30] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VsDebugConsole.exe
+[18d4:0007][2026-05-10T02:03:30] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VsDebugConsole.exe to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\VsDebugConsole.exe
+[18d4:0007][2026-05-10T02:03:30] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VsDebugConsole.exe to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\VsDebugConsole.exe
+[18d4:0007][2026-05-10T02:03:30] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\VsDebugConsole.exe'.
+[18d4:0007][2026-05-10T02:03:30] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VsDebugConsole.pkgdef
+[18d4:0007][2026-05-10T02:03:30] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VsDebugConsole.pkgdef to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\VsDebugConsole.pkgdef
+[18d4:0007][2026-05-10T02:03:30] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VsDebugConsole.pkgdef to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\VsDebugConsole.pkgdef
+[18d4:0007][2026-05-10T02:03:30] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\VsDebugConsole.pkgdef'.
+[18d4:0007][2026-05-10T02:03:30] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/vsdebugeng.windockertransport.dll
+[18d4:0007][2026-05-10T02:03:30] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/vsdebugeng.windockertransport.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\vsdebugeng.windockertransport.dll
+[18d4:0007][2026-05-10T02:03:30] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/vsdebugeng.windockertransport.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\vsdebugeng.windockertransport.dll
+[18d4:0007][2026-05-10T02:03:30] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\vsdebugeng.windockertransport.dll'.
+[18d4:0007][2026-05-10T02:03:30] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/vsdebugeng.windockertransport.pkgdef
+[18d4:0007][2026-05-10T02:03:30] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/vsdebugeng.windockertransport.pkgdef to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\vsdebugeng.windockertransport.pkgdef
+[18d4:0007][2026-05-10T02:03:30] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/vsdebugeng.windockertransport.pkgdef to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\vsdebugeng.windockertransport.pkgdef
+[18d4:0007][2026-05-10T02:03:30] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\vsdebugeng.windockertransport.pkgdef'.
+[18d4:0007][2026-05-10T02:03:30] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VSDebugEng_Impl_Core.pkgdef
+[18d4:0007][2026-05-10T02:03:30] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VSDebugEng_Impl_Core.pkgdef to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\VSDebugEng_Impl_Core.pkgdef
+[18d4:0007][2026-05-10T02:03:30] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VSDebugEng_Impl_Core.pkgdef to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\VSDebugEng_Impl_Core.pkgdef
+[18d4:0007][2026-05-10T02:03:30] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\VSDebugEng_Impl_Core.pkgdef'.
+[18d4:0007][2026-05-10T02:03:30] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VSDebugEng_Impl_Engine.pkgdef
+[18d4:0007][2026-05-10T02:03:30] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VSDebugEng_Impl_Engine.pkgdef to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\VSDebugEng_Impl_Engine.pkgdef
+[18d4:0007][2026-05-10T02:03:30] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VSDebugEng_Impl_Engine.pkgdef to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\VSDebugEng_Impl_Engine.pkgdef
+[18d4:0007][2026-05-10T02:03:30] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\VSDebugEng_Impl_Engine.pkgdef'.
+[18d4:0007][2026-05-10T02:03:30] Processing file /Contents/Common7/IDE/iisresolver.dll
+[18d4:0007][2026-05-10T02:03:30] Started: Copying file /Contents/Common7/IDE/iisresolver.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\iisresolver.dll
+[18d4:0007][2026-05-10T02:03:30] Completed: Copying file /Contents/Common7/IDE/iisresolver.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\iisresolver.dll
+[18d4:0007][2026-05-10T02:03:30] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\iisresolver.dll'.
+[18d4:0007][2026-05-10T02:03:30] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.Debugger.Engine.dll
+[18d4:0007][2026-05-10T02:03:30] Started: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Debugger.Engine.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.Debugger.Engine.dll
+[18d4:0007][2026-05-10T02:03:31] Completed: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Debugger.Engine.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.Debugger.Engine.dll
+[18d4:0007][2026-05-10T02:03:31] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.Debugger.Engine.dll'.
+[18d4:0007][2026-05-10T02:03:31] Queueing D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.Debugger.Engine.dll for X86 ngen
+[18d4:0007][2026-05-10T02:03:31] Successfully queued file '/Contents/Common7/IDE/Microsoft.VisualStudio.Debugger.Engine.dll' for ngen
+[18d4:0007][2026-05-10T02:03:31] Processing file /Contents/Common7/IDE/PrivateAssemblies/MemoryAnalyzer.Extensions.dll
+[18d4:0007][2026-05-10T02:03:31] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/MemoryAnalyzer.Extensions.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\MemoryAnalyzer.Extensions.dll
+[18d4:0007][2026-05-10T02:03:31] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/MemoryAnalyzer.Extensions.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\MemoryAnalyzer.Extensions.dll
+[18d4:0007][2026-05-10T02:03:31] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\MemoryAnalyzer.Extensions.dll'.
+[18d4:0007][2026-05-10T02:03:31] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.DiagnosticAnalysis.Types.dll
+[18d4:0007][2026-05-10T02:03:31] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.DiagnosticAnalysis.Types.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.DiagnosticAnalysis.Types.dll
+[18d4:0007][2026-05-10T02:03:31] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.DiagnosticAnalysis.Types.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.DiagnosticAnalysis.Types.dll
+[18d4:0007][2026-05-10T02:03:31] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.DiagnosticAnalysis.Types.dll'.
+[18d4:0007][2026-05-10T02:03:31] Processing file /Contents/Common7/IDE/PrivateAssemblies/vsdebugeng.manimpl.45.dll
+[18d4:0007][2026-05-10T02:03:31] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/vsdebugeng.manimpl.45.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\vsdebugeng.manimpl.45.dll
+[18d4:0007][2026-05-10T02:03:31] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/vsdebugeng.manimpl.45.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\vsdebugeng.manimpl.45.dll
+[18d4:0007][2026-05-10T02:03:31] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\vsdebugeng.manimpl.45.dll'.
+[18d4:0007][2026-05-10T02:03:31] Processing file /Contents/Common7/IDE/PrivateAssemblies/vsdebugeng.manimpl.dll
+[18d4:0007][2026-05-10T02:03:31] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/vsdebugeng.manimpl.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\vsdebugeng.manimpl.dll
+[18d4:0007][2026-05-10T02:03:31] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/vsdebugeng.manimpl.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\vsdebugeng.manimpl.dll
+[18d4:0007][2026-05-10T02:03:31] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\vsdebugeng.manimpl.dll'.
+[18d4:0007][2026-05-10T02:03:31] Queueing D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\vsdebugeng.manimpl.dll for X86 ngen
+[18d4:0007][2026-05-10T02:03:31] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/vsdebugeng.manimpl.dll' for ngen
+[18d4:0007][2026-05-10T02:03:31] Processing file /Contents/Common7/IDE/PrivateAssemblies/vsdebugeng.manimpl.netstandard.dll
+[18d4:0007][2026-05-10T02:03:31] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/vsdebugeng.manimpl.netstandard.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\vsdebugeng.manimpl.netstandard.dll
+[18d4:0007][2026-05-10T02:03:31] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/vsdebugeng.manimpl.netstandard.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\vsdebugeng.manimpl.netstandard.dll
+[18d4:0007][2026-05-10T02:03:31] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\vsdebugeng.manimpl.netstandard.dll'.
+[18d4:0007][2026-05-10T02:03:31] Processing file /Contents/Common7/IDE/vsdebugeng.dll
+[18d4:0007][2026-05-10T02:03:31] Started: Copying file /Contents/Common7/IDE/vsdebugeng.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\vsdebugeng.dll
+[18d4:0007][2026-05-10T02:03:31] Completed: Copying file /Contents/Common7/IDE/vsdebugeng.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\vsdebugeng.dll
+[18d4:0007][2026-05-10T02:03:31] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\vsdebugeng.dll'.
+[18d4:0007][2026-05-10T02:03:31] Processing file /Contents/Common7/IDE/VsDebugWERHelper.exe
+[18d4:0007][2026-05-10T02:03:31] Started: Copying file /Contents/Common7/IDE/VsDebugWERHelper.exe to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VsDebugWERHelper.exe
+[18d4:0007][2026-05-10T02:03:31] Completed: Copying file /Contents/Common7/IDE/VsDebugWERHelper.exe to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VsDebugWERHelper.exe
+[18d4:0007][2026-05-10T02:03:31] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VsDebugWERHelper.exe'.
+[18d4:0007][2026-05-10T02:03:31] Processing file /Contents/Common7/Packages/Debugger/vsdebugeng.impl.dll
+[18d4:0007][2026-05-10T02:03:31] Started: Copying file /Contents/Common7/Packages/Debugger/vsdebugeng.impl.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\vsdebugeng.impl.dll
+[18d4:0007][2026-05-10T02:03:31] Completed: Copying file /Contents/Common7/Packages/Debugger/vsdebugeng.impl.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\vsdebugeng.impl.dll
+[18d4:0007][2026-05-10T02:03:31] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\vsdebugeng.impl.dll'.
+[18d4:0007][2026-05-10T02:03:31] Processing file /Contents/Common7/Packages/Debugger/vsdebugeng.impl.vsdconfig
+[18d4:0007][2026-05-10T02:03:31] Started: Copying file /Contents/Common7/Packages/Debugger/vsdebugeng.impl.vsdconfig to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\vsdebugeng.impl.vsdconfig
+[18d4:0007][2026-05-10T02:03:31] Completed: Copying file /Contents/Common7/Packages/Debugger/vsdebugeng.impl.vsdconfig to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\vsdebugeng.impl.vsdconfig
+[18d4:0007][2026-05-10T02:03:31] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\vsdebugeng.impl.vsdconfig'.
+[18d4:0007][2026-05-10T02:03:31] Processing file /Contents/Common7/Packages/Debugger/vsdebugeng.manimpl.45.vsdconfig
+[18d4:0007][2026-05-10T02:03:31] Started: Copying file /Contents/Common7/Packages/Debugger/vsdebugeng.manimpl.45.vsdconfig to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\vsdebugeng.manimpl.45.vsdconfig
+[18d4:0007][2026-05-10T02:03:31] Completed: Copying file /Contents/Common7/Packages/Debugger/vsdebugeng.manimpl.45.vsdconfig to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\vsdebugeng.manimpl.45.vsdconfig
+[18d4:0007][2026-05-10T02:03:31] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\vsdebugeng.manimpl.45.vsdconfig'.
+[18d4:0007][2026-05-10T02:03:31] Processing file /Contents/Common7/Packages/Debugger/vsdebugeng.manimpl.netstandard.vsdconfig
+[18d4:0007][2026-05-10T02:03:31] Started: Copying file /Contents/Common7/Packages/Debugger/vsdebugeng.manimpl.netstandard.vsdconfig to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\vsdebugeng.manimpl.netstandard.vsdconfig
+[18d4:0007][2026-05-10T02:03:31] Completed: Copying file /Contents/Common7/Packages/Debugger/vsdebugeng.manimpl.netstandard.vsdconfig to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\vsdebugeng.manimpl.netstandard.vsdconfig
+[18d4:0007][2026-05-10T02:03:31] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\vsdebugeng.manimpl.netstandard.vsdconfig'.
+[18d4:0007][2026-05-10T02:03:31] Processing file /Contents/Common7/Packages/Debugger/vsdebugeng.manimpl.vsdconfig
+[18d4:0007][2026-05-10T02:03:31] Started: Copying file /Contents/Common7/Packages/Debugger/vsdebugeng.manimpl.vsdconfig to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\vsdebugeng.manimpl.vsdconfig
+[18d4:0007][2026-05-10T02:03:31] Completed: Copying file /Contents/Common7/Packages/Debugger/vsdebugeng.manimpl.vsdconfig to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\vsdebugeng.manimpl.vsdconfig
+[18d4:0007][2026-05-10T02:03:31] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\vsdebugeng.manimpl.vsdconfig'.
+[18d4:0007][2026-05-10T02:03:31] Processing file /Contents/Common7/Packages/Debugger/VsDebugLaunchNotify.exe
+[18d4:0007][2026-05-10T02:03:31] Started: Copying file /Contents/Common7/Packages/Debugger/VsDebugLaunchNotify.exe to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\VsDebugLaunchNotify.exe
+[18d4:0007][2026-05-10T02:03:31] Completed: Copying file /Contents/Common7/Packages/Debugger/VsDebugLaunchNotify.exe to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\VsDebugLaunchNotify.exe
+[18d4:0007][2026-05-10T02:03:31] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\VsDebugLaunchNotify.exe'.
+[18d4:0007][2026-05-10T02:03:31] Package executed successfully. Return code: 0

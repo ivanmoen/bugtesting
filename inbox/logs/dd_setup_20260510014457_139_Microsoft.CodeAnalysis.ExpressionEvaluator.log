@@ -1,0 +1,92 @@
+[3474:0009][2026-05-10T01:46:16] Using cached package manifest as the embedded manifest
+[3474:0009][2026-05-10T01:46:16] Processing file /extension.vsixmanifest
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VBCSharp\ExpressionEvaluators\extension.vsixmanifest file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /ExpressionEvaluatorPackage.pkgdef
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VBCSharp\ExpressionEvaluators\ExpressionEvaluatorPackage.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /EULA.rtf
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VBCSharp\ExpressionEvaluators\EULA.rtf file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /ThirdPartyNotices.rtf
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VBCSharp\ExpressionEvaluators\ThirdPartyNotices.rtf file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /Microsoft.CodeAnalysis.ExpressionEvaluator.ExpressionCompiler.dll
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VBCSharp\ExpressionEvaluators\Microsoft.CodeAnalysis.ExpressionEvaluator.ExpressionCompiler.dll file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /Microsoft.CodeAnalysis.ExpressionEvaluator.ResultProvider.dll
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VBCSharp\ExpressionEvaluators\Microsoft.CodeAnalysis.ExpressionEvaluator.ResultProvider.dll file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /cs/Microsoft.CodeAnalysis.ExpressionEvaluator.ResultProvider.resources.dll
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VBCSharp\ExpressionEvaluators\cs\Microsoft.CodeAnalysis.ExpressionEvaluator.ResultProvider.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /de/Microsoft.CodeAnalysis.ExpressionEvaluator.ResultProvider.resources.dll
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VBCSharp\ExpressionEvaluators\de\Microsoft.CodeAnalysis.ExpressionEvaluator.ResultProvider.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /es/Microsoft.CodeAnalysis.ExpressionEvaluator.ResultProvider.resources.dll
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VBCSharp\ExpressionEvaluators\es\Microsoft.CodeAnalysis.ExpressionEvaluator.ResultProvider.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /fr/Microsoft.CodeAnalysis.ExpressionEvaluator.ResultProvider.resources.dll
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VBCSharp\ExpressionEvaluators\fr\Microsoft.CodeAnalysis.ExpressionEvaluator.ResultProvider.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /it/Microsoft.CodeAnalysis.ExpressionEvaluator.ResultProvider.resources.dll
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VBCSharp\ExpressionEvaluators\it\Microsoft.CodeAnalysis.ExpressionEvaluator.ResultProvider.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /ja/Microsoft.CodeAnalysis.ExpressionEvaluator.ResultProvider.resources.dll
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VBCSharp\ExpressionEvaluators\ja\Microsoft.CodeAnalysis.ExpressionEvaluator.ResultProvider.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /ko/Microsoft.CodeAnalysis.ExpressionEvaluator.ResultProvider.resources.dll
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VBCSharp\ExpressionEvaluators\ko\Microsoft.CodeAnalysis.ExpressionEvaluator.ResultProvider.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /pl/Microsoft.CodeAnalysis.ExpressionEvaluator.ResultProvider.resources.dll
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VBCSharp\ExpressionEvaluators\pl\Microsoft.CodeAnalysis.ExpressionEvaluator.ResultProvider.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /pt-BR/Microsoft.CodeAnalysis.ExpressionEvaluator.ResultProvider.resources.dll
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VBCSharp\ExpressionEvaluators\pt-BR\Microsoft.CodeAnalysis.ExpressionEvaluator.ResultProvider.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /ru/Microsoft.CodeAnalysis.ExpressionEvaluator.ResultProvider.resources.dll
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VBCSharp\ExpressionEvaluators\ru\Microsoft.CodeAnalysis.ExpressionEvaluator.ResultProvider.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /tr/Microsoft.CodeAnalysis.ExpressionEvaluator.ResultProvider.resources.dll
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VBCSharp\ExpressionEvaluators\tr\Microsoft.CodeAnalysis.ExpressionEvaluator.ResultProvider.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /zh-Hans/Microsoft.CodeAnalysis.ExpressionEvaluator.ResultProvider.resources.dll
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VBCSharp\ExpressionEvaluators\zh-Hans\Microsoft.CodeAnalysis.ExpressionEvaluator.ResultProvider.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /zh-Hant/Microsoft.CodeAnalysis.ExpressionEvaluator.ResultProvider.resources.dll
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VBCSharp\ExpressionEvaluators\zh-Hant\Microsoft.CodeAnalysis.ExpressionEvaluator.ResultProvider.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /Microsoft.CodeAnalysis.ExpressionEvaluator.FunctionResolver.vsdconfig
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VBCSharp\ExpressionEvaluators\Microsoft.CodeAnalysis.ExpressionEvaluator.FunctionResolver.vsdconfig file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /Microsoft.CodeAnalysis.ExpressionEvaluator.FunctionResolver.dll
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VBCSharp\ExpressionEvaluators\Microsoft.CodeAnalysis.ExpressionEvaluator.FunctionResolver.dll file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /Microsoft.CodeAnalysis.CSharp.ExpressionEvaluator.ExpressionCompiler.vsdconfig
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VBCSharp\ExpressionEvaluators\Microsoft.CodeAnalysis.CSharp.ExpressionEvaluator.ExpressionCompiler.vsdconfig file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /Microsoft.CodeAnalysis.CSharp.ExpressionEvaluator.ExpressionCompiler.dll
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VBCSharp\ExpressionEvaluators\Microsoft.CodeAnalysis.CSharp.ExpressionEvaluator.ExpressionCompiler.dll file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /Microsoft.CodeAnalysis.CSharp.ExpressionEvaluator.ResultProvider.vsdconfig
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VBCSharp\ExpressionEvaluators\Microsoft.CodeAnalysis.CSharp.ExpressionEvaluator.ResultProvider.vsdconfig file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /Microsoft.CodeAnalysis.CSharp.ExpressionEvaluator.ResultProvider.dll
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VBCSharp\ExpressionEvaluators\Microsoft.CodeAnalysis.CSharp.ExpressionEvaluator.ResultProvider.dll file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /Microsoft.CodeAnalysis.VisualBasic.ExpressionEvaluator.ExpressionCompiler.vsdconfig
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VBCSharp\ExpressionEvaluators\Microsoft.CodeAnalysis.VisualBasic.ExpressionEvaluator.ExpressionCompiler.vsdconfig file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /Microsoft.CodeAnalysis.VisualBasic.ExpressionEvaluator.ExpressionCompiler.dll
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VBCSharp\ExpressionEvaluators\Microsoft.CodeAnalysis.VisualBasic.ExpressionEvaluator.ExpressionCompiler.dll file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /cs/Microsoft.CodeAnalysis.VisualBasic.ExpressionEvaluator.ExpressionCompiler.resources.dll
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VBCSharp\ExpressionEvaluators\cs\Microsoft.CodeAnalysis.VisualBasic.ExpressionEvaluator.ExpressionCompiler.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /de/Microsoft.CodeAnalysis.VisualBasic.ExpressionEvaluator.ExpressionCompiler.resources.dll
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VBCSharp\ExpressionEvaluators\de\Microsoft.CodeAnalysis.VisualBasic.ExpressionEvaluator.ExpressionCompiler.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /es/Microsoft.CodeAnalysis.VisualBasic.ExpressionEvaluator.ExpressionCompiler.resources.dll
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VBCSharp\ExpressionEvaluators\es\Microsoft.CodeAnalysis.VisualBasic.ExpressionEvaluator.ExpressionCompiler.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /fr/Microsoft.CodeAnalysis.VisualBasic.ExpressionEvaluator.ExpressionCompiler.resources.dll
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VBCSharp\ExpressionEvaluators\fr\Microsoft.CodeAnalysis.VisualBasic.ExpressionEvaluator.ExpressionCompiler.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /it/Microsoft.CodeAnalysis.VisualBasic.ExpressionEvaluator.ExpressionCompiler.resources.dll
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VBCSharp\ExpressionEvaluators\it\Microsoft.CodeAnalysis.VisualBasic.ExpressionEvaluator.ExpressionCompiler.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /ja/Microsoft.CodeAnalysis.VisualBasic.ExpressionEvaluator.ExpressionCompiler.resources.dll
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VBCSharp\ExpressionEvaluators\ja\Microsoft.CodeAnalysis.VisualBasic.ExpressionEvaluator.ExpressionCompiler.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /ko/Microsoft.CodeAnalysis.VisualBasic.ExpressionEvaluator.ExpressionCompiler.resources.dll
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VBCSharp\ExpressionEvaluators\ko\Microsoft.CodeAnalysis.VisualBasic.ExpressionEvaluator.ExpressionCompiler.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /pl/Microsoft.CodeAnalysis.VisualBasic.ExpressionEvaluator.ExpressionCompiler.resources.dll
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VBCSharp\ExpressionEvaluators\pl\Microsoft.CodeAnalysis.VisualBasic.ExpressionEvaluator.ExpressionCompiler.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /pt-BR/Microsoft.CodeAnalysis.VisualBasic.ExpressionEvaluator.ExpressionCompiler.resources.dll
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VBCSharp\ExpressionEvaluators\pt-BR\Microsoft.CodeAnalysis.VisualBasic.ExpressionEvaluator.ExpressionCompiler.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /ru/Microsoft.CodeAnalysis.VisualBasic.ExpressionEvaluator.ExpressionCompiler.resources.dll
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VBCSharp\ExpressionEvaluators\ru\Microsoft.CodeAnalysis.VisualBasic.ExpressionEvaluator.ExpressionCompiler.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /tr/Microsoft.CodeAnalysis.VisualBasic.ExpressionEvaluator.ExpressionCompiler.resources.dll
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VBCSharp\ExpressionEvaluators\tr\Microsoft.CodeAnalysis.VisualBasic.ExpressionEvaluator.ExpressionCompiler.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /zh-Hans/Microsoft.CodeAnalysis.VisualBasic.ExpressionEvaluator.ExpressionCompiler.resources.dll
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VBCSharp\ExpressionEvaluators\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.ExpressionEvaluator.ExpressionCompiler.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /zh-Hant/Microsoft.CodeAnalysis.VisualBasic.ExpressionEvaluator.ExpressionCompiler.resources.dll
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VBCSharp\ExpressionEvaluators\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.ExpressionEvaluator.ExpressionCompiler.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /Microsoft.CodeAnalysis.VisualBasic.ExpressionEvaluator.ResultProvider.vsdconfig
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VBCSharp\ExpressionEvaluators\Microsoft.CodeAnalysis.VisualBasic.ExpressionEvaluator.ResultProvider.vsdconfig file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /Microsoft.CodeAnalysis.VisualBasic.ExpressionEvaluator.ResultProvider.dll
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VBCSharp\ExpressionEvaluators\Microsoft.CodeAnalysis.VisualBasic.ExpressionEvaluator.ResultProvider.dll file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /manifest.json
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VBCSharp\ExpressionEvaluators\manifest.json file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /catalog.json
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VBCSharp\ExpressionEvaluators\catalog.json file deleted.
+[3474:0009][2026-05-10T01:46:16] Started: Deleting empty directories
+[3474:0009][2026-05-10T01:46:16] Completed: Deleting empty directories
+[3474:0009][2026-05-10T01:46:16] Package executed successfully. Return code: 0

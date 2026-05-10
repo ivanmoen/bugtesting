@@ -1,0 +1,6 @@
+[3474:0009][2026-05-10T01:46:00] Using cached package manifest as the embedded manifest
+[3474:0009][2026-05-10T01:46:00] Warning: Microsoft.VisualStudio.ProjectSystem.Full package has no files per the cached manifest.
+[3474:0009][2026-05-10T01:46:00] Uninstalling ProgId: VisualStudio.shproj.[InstanceId]
+[3474:0009][2026-05-10T01:46:00] Uninstalling file association: .shproj
+[3474:0009][2026-05-10T01:46:00] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:00] Package executed successfully. Return code: 0

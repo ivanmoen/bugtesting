@@ -1,0 +1,38 @@
+[bd94:0009][2026-05-10T01:00:39] Using cached package manifest as the embedded manifest
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/VC/VCWizards/CodeWiz/.NET/Installer/scripts/1033/default.js
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\VC\VCWizards\CodeWiz\.NET\Installer\scripts\1033\default.js file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/VC/VCWizards/CodeWiz/.NET/Installer/templates/1033/newinstaller.cpp
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\VC\VCWizards\CodeWiz\.NET\Installer\templates\1033\newinstaller.cpp file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/VC/VCWizards/CodeWiz/.NET/Installer/templates/1033/templates.inf
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\VC\VCWizards\CodeWiz\.NET\Installer\templates\1033\templates.inf file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/VC/VCWizards/CodeWiz/.NET/Installer/templates/1033/newinstaller.h
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\VC\VCWizards\CodeWiz\.NET\Installer\templates\1033\newinstaller.h file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/VC/VCWizards/CodeWiz/.NET/XMLSchema/Scripts/1033/default.js
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\VC\VCWizards\CodeWiz\.NET\XMLSchema\Scripts\1033\default.js file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/VC/VCWizards/CodeWiz/.NET/XMLSchema/Templates/1033/newxmlschema.xsd
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\VC\VCWizards\CodeWiz\.NET\XMLSchema\Templates\1033\newxmlschema.xsd file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/VC/VCWizards/CodeWiz/.NET/XMLSchema/Templates/1033/templates.inf
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\VC\VCWizards\CodeWiz\.NET\XMLSchema\Templates\1033\templates.inf file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/VC/VCWizards/CodeWiz/Generic/DEFFile/Scripts/1033/default.js
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\VC\VCWizards\CodeWiz\Generic\DEFFile\Scripts\1033\default.js file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/VC/VCWizards/CodeWiz/Generic/DEFFile/Templates/1033/empty.def
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\VC\VCWizards\CodeWiz\Generic\DEFFile\Templates\1033\empty.def file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/VC/VCWizards/CodeWiz/Generic/DEFFile/Templates/1033/root.def
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\VC\VCWizards\CodeWiz\Generic\DEFFile\Templates\1033\root.def file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/VC/VCWizards/CodeWiz/Generic/RCFile/Scripts/1033/default.js
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\VC\VCWizards\CodeWiz\Generic\RCFile\Scripts\1033\default.js file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/VC/VCWizards/CodeWiz/Generic/RCFile/Templates/1033/templates.inf
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\VC\VCWizards\CodeWiz\Generic\RCFile\Templates\1033\templates.inf file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/VC/VCWizards/CodeWiz/Generic/RCFile/Templates/1033/rcfile.rc
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\VC\VCWizards\CodeWiz\Generic\RCFile\Templates\1033\rcfile.rc file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/VC/VCWizards/CodeWiz/Generic/RCFile/Templates/1033/resource.h
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\VC\VCWizards\CodeWiz\Generic\RCFile\Templates\1033\resource.h file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/VC/VCWizards/CodeWiz/Generic/ResourceScript/scripts/1033/default.js
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\VC\VCWizards\CodeWiz\Generic\ResourceScript\scripts\1033\default.js file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/VC/VCWizards/CodeWiz/Generic/ResourceScript/Templates/1033/rcfile.rc
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\VC\VCWizards\CodeWiz\Generic\ResourceScript\Templates\1033\rcfile.rc file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/VC/VCWizards/CodeWiz/Generic/ResourceScript/Templates/1033/resource.h
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\VC\VCWizards\CodeWiz\Generic\ResourceScript\Templates\1033\resource.h file deleted.
+[bd94:0009][2026-05-10T01:00:39] Started: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:39] Completed: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:39] Package executed successfully. Return code: 0

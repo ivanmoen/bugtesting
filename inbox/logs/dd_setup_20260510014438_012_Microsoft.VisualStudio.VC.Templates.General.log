@@ -1,0 +1,120 @@
+[0c48:0003][2026-05-10T01:44:43] Using cached package manifest as the embedded manifest
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/ItemTemplates/VC/Code/Code.VSTDIR
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\VC\Code\Code.VSTDIR file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/ItemTemplates/VC/Code/AddClass/AddClass.vstemplate
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\VC\Code\AddClass\AddClass.vstemplate file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/ItemTemplates/VC/Code/AddClass/OpenFolderAddClass.vstemplate
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\VC\Code\AddClass\OpenFolderAddClass.vstemplate file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/ItemTemplates/VC/Code/Module/Module.vstemplate
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\VC\Code\Module\Module.vstemplate file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/ItemTemplates/VC/Code/Module/Module.ixx
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\VC\Code\Module\Module.ixx file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/ItemTemplates/VC/Formatting/Formatting.vstdir
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\VC\Formatting\Formatting.vstdir file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/ItemTemplates/VC/Formatting/ClangFormat/ClangFormat.vstemplate
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\VC\Formatting\ClangFormat\ClangFormat.vstemplate file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/HLSL.VSTDIR
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\VC\HLSL\HLSL.VSTDIR file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/Other/Other.VSTDIR
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ProjectTemplates\VC\Other\Other.VSTDIR file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/Other/sharedvcxitems/shared.ico
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ProjectTemplates\VC\Other\sharedvcxitems\shared.ico file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/Other/sharedvcxitems/shared.vcxitems
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ProjectTemplates\VC\Other\sharedvcxitems\shared.vcxitems file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/Other/sharedvcxitems/shared.vstemplate
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ProjectTemplates\VC\Other\sharedvcxitems\shared.vstemplate file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCContextItems/AddFunction.vstemplate
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\AddFunction.vstemplate file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCContextItems/AddMethod.vstemplate
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\AddMethod.vstemplate file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCContextItems/AddProperty.vstemplate
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\AddProperty.vstemplate file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCContextItems/AddVariable.vstemplate
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\AddVariable.vstemplate file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCContextItems/DlgClassWiz.vsz
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\DlgClassWiz.vsz file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCContextItems/addresource.vsz
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\addresource.vsz file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCContextItems/IDLMethod.vstemplate
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\IDLMethod.vstemplate file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCContextItems/IDLProperty.vstemplate
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\IDLProperty.vstemplate file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCProjectItems/hfile.h
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\hfile.h file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCProjectItems/newc++file.cpp
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\newc++file.cpp file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCProjectItems/VCProjectItems.vsdir
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\VCProjectItems.vsdir file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCProjectItems/PropertySheets/propertysheets.vsz
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\PropertySheets\propertysheets.vsz file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCProjectItems/PropertySheets/propertysheets.vsdir
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\PropertySheets\propertysheets.vsdir file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Code/idlfile.idl
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Code\idlfile.idl file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Code/code.vsdir
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Code\code.vsdir file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Code/deffile.vsz
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Code\deffile.vsz file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Data/data.vsdir
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Data\data.vsdir file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Data/script.sql
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Data\script.sql file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Data/addxmlschema.vsz
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Data\addxmlschema.vsz file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Resource/newresx.resx
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Resource\newresx.resx file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Resource/resource.vsdir
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Resource\resource.vsdir file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Resource/rgsfile.rgs
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Resource\rgsfile.rgs file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Resource/bitmap.bmp
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Resource\bitmap.bmp file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Resource/cursor.cur
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Resource\cursor.cur file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Resource/icon.ico
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Resource\icon.ico file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Resource/rcfile.vsz
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Resource\rcfile.vsz file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Resource/resource_extra.vsdir
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Resource\resource_extra.vsdir file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Resource/restempl.rct
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Resource\restempl.rct file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Utility/RuleSet.ruleset
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Utility\RuleSet.ruleset file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Utility/rgsfile.rgs
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Utility\rgsfile.rgs file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Utility/app.config
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Utility\app.config file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Utility/ClassDiagram.cd
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Utility\ClassDiagram.cd file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Utility/natvis.natvis
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Utility\natvis.natvis file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Utility/text.txt
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Utility\text.txt file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Utility/VCUtilityItems.vsdir
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Utility\VCUtilityItems.vsdir file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Web/NewHtmlPage.htm
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Web\NewHtmlPage.htm file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Web/newxmlpage.xml
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Web\newxmlpage.xml file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Web/newstylesheet.css
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Web\newstylesheet.css file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Web/xsltfile.xslt
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Web\xsltfile.xslt file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Web/VCWebItems.vsdir
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItems\Web\VCWebItems.vsdir file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCProjectItemsCMake/VCProjectItemsCMake.vsdir
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItemsCMake\VCProjectItemsCMake.vsdir file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCProjectItemsCMake/Code/Code.vsdir
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItemsCMake\Code\Code.vsdir file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCProjectItemsCMake/Code/Module.ixx
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItemsCMake\Code\Module.ixx file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCWizards/1033/Images/spacer.gif
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCWizards\1033\Images\spacer.gif file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /contents/Common7/IDE/ItemTemplates/Microsoft.VisualStudio.VC.Templates.General.Item..vstman
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\Microsoft.VisualStudio.VC.Templates.General.Item..vstman file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /contents/Common7/IDE/ProjectTemplates/Microsoft.VisualStudio.VC.Templates.General.Project..vstman
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ProjectTemplates\Microsoft.VisualStudio.VC.Templates.General.Project..vstman file deleted.
+[0c48:0003][2026-05-10T01:44:43] Started: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:43] Completed: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:43] Package executed successfully. Return code: 0

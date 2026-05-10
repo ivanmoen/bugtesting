@@ -1,0 +1,12 @@
+[3c7c:000c][2026-05-10T01:35:59] Opening the package for processing
+[3c7c:000c][2026-05-10T01:35:59] Using package payload to get the embedded manifest
+[3c7c:000c][2026-05-10T01:35:59] Getting list of files within the package
+[3c7c:000c][2026-05-10T01:35:59] Processing file /Contents/Common7/IDE/1033/VsWizUI.dll
+[3c7c:000c][2026-05-10T01:35:59] Started: Copying file /Contents/Common7/IDE/1033/VsWizUI.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\1033\VsWizUI.dll
+[3c7c:000c][2026-05-10T01:35:59] Completed: Copying file /Contents/Common7/IDE/1033/VsWizUI.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\1033\VsWizUI.dll
+[3c7c:000c][2026-05-10T01:35:59] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\1033\VsWizUI.dll'.
+[3c7c:000c][2026-05-10T01:35:59] Processing file /Contents/Common7/IDE/VC/vcpackages/1033/DirControlUI.dll
+[3c7c:000c][2026-05-10T01:35:59] Started: Copying file /Contents/Common7/IDE/VC/vcpackages/1033/DirControlUI.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\1033\DirControlUI.dll
+[3c7c:000c][2026-05-10T01:35:59] Completed: Copying file /Contents/Common7/IDE/VC/vcpackages/1033/DirControlUI.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\1033\DirControlUI.dll
+[3c7c:000c][2026-05-10T01:35:59] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\1033\DirControlUI.dll'.
+[3c7c:000c][2026-05-10T01:35:59] Package executed successfully. Return code: 0

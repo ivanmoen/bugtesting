@@ -1,0 +1,96 @@
+[3474:0009][2026-05-10T01:46:00] Using cached package manifest as the embedded manifest
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ClientDiagnostics/AppResponsiveness/extension.vsixmanifest
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ClientDiagnostics\AppResponsiveness\extension.vsixmanifest file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ClientDiagnostics/AppResponsiveness/Microsoft.VisualStudio.AppResponsiveness.dll
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ClientDiagnostics\AppResponsiveness\Microsoft.VisualStudio.AppResponsiveness.dll file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ClientDiagnostics/AppResponsiveness/VisualProfilerColors.pkgdef
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ClientDiagnostics\AppResponsiveness\VisualProfilerColors.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ClientDiagnostics/AppResponsiveness/View/DataCategoryStyles.css
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ClientDiagnostics\AppResponsiveness\View\DataCategoryStyles.css file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ClientDiagnostics/AppResponsiveness/View/diagnosticsHub.js
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ClientDiagnostics\AppResponsiveness\View\diagnosticsHub.js file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ClientDiagnostics/AppResponsiveness/View/HubGraphs.js
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ClientDiagnostics\AppResponsiveness\View\HubGraphs.js file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ClientDiagnostics/AppResponsiveness/View/manifest.json
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ClientDiagnostics\AppResponsiveness\View\manifest.json file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ClientDiagnostics/AppResponsiveness/View/VisualProfiler.css
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ClientDiagnostics\AppResponsiveness\View\VisualProfiler.css file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ClientDiagnostics/AppResponsiveness/View/VisualProfiler.html
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ClientDiagnostics\AppResponsiveness\View\VisualProfiler.html file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ClientDiagnostics/AppResponsiveness/View/VisualProfilerMerged.js
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ClientDiagnostics\AppResponsiveness\View\VisualProfilerMerged.js file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ClientDiagnostics/AppResponsiveness/View/CSS/controls/Divider.css
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ClientDiagnostics\AppResponsiveness\View\CSS\controls\Divider.css file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ClientDiagnostics/AppResponsiveness/View/CSS/hubGraphs/Ruler.css
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ClientDiagnostics\AppResponsiveness\View\CSS\hubGraphs\Ruler.css file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ClientDiagnostics/AppResponsiveness/View/CSS/hubGraphs/StackedBarChart.css
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ClientDiagnostics\AppResponsiveness\View\CSS\hubGraphs\StackedBarChart.css file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ClientDiagnostics/AppResponsiveness/View/DiagnosticsCommon/Bpt.Diagnostics.CommonMerged.js
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ClientDiagnostics\AppResponsiveness\View\DiagnosticsCommon\Bpt.Diagnostics.CommonMerged.js file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ClientDiagnostics/AppResponsiveness/View/DiagnosticsCommon/isDebugBuild.js
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ClientDiagnostics\AppResponsiveness\View\DiagnosticsCommon\isDebugBuild.js file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ClientDiagnostics/AppResponsiveness/View/DiagnosticsCommon/TabControl.css
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ClientDiagnostics\AppResponsiveness\View\DiagnosticsCommon\TabControl.css file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ClientDiagnostics/AppResponsiveness/View/DiagnosticsCommon/controls/controls.css
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ClientDiagnostics\AppResponsiveness\View\DiagnosticsCommon\controls\controls.css file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ClientDiagnostics/AppResponsiveness/View/DiagnosticsCommon/images/i_warning.png
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ClientDiagnostics\AppResponsiveness\View\DiagnosticsCommon\images\i_warning.png file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ClientDiagnostics/AppResponsiveness/View/DiagnosticsCommon/listControl/ListControl.css
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ClientDiagnostics\AppResponsiveness\View\DiagnosticsCommon\listControl\ListControl.css file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ClientDiagnostics/AppResponsiveness/View/Images/i_chartselection_clear.png
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ClientDiagnostics\AppResponsiveness\View\Images\i_chartselection_clear.png file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ClientDiagnostics/AppResponsiveness/View/Images/i_chartselection_clear_disabled.png
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ClientDiagnostics\AppResponsiveness\View\Images\i_chartselection_clear_disabled.png file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ClientDiagnostics/AppResponsiveness/View/Images/i_chartzoom_in.png
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ClientDiagnostics\AppResponsiveness\View\Images\i_chartzoom_in.png file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ClientDiagnostics/AppResponsiveness/View/Images/i_chartzoom_in_disabled.png
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ClientDiagnostics\AppResponsiveness\View\Images\i_chartzoom_in_disabled.png file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ClientDiagnostics/AppResponsiveness/View/Images/i_chartzoom_reset.png
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ClientDiagnostics\AppResponsiveness\View\Images\i_chartzoom_reset.png file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ClientDiagnostics/AppResponsiveness/View/Images/i_chartzoom_reset_disabled.png
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ClientDiagnostics\AppResponsiveness\View\Images\i_chartzoom_reset_disabled.png file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ClientDiagnostics/AppResponsiveness/View/Images/i_checkered_background.png
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ClientDiagnostics\AppResponsiveness\View\Images\i_checkered_background.png file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ClientDiagnostics/AppResponsiveness/View/Images/i_filtering_options.png
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ClientDiagnostics\AppResponsiveness\View\Images\i_filtering_options.png file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ClientDiagnostics/AppResponsiveness/View/Images/i_frame_grouping.png
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ClientDiagnostics\AppResponsiveness\View\Images\i_frame_grouping.png file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ClientDiagnostics/AppResponsiveness/View/Images/i_viewsettings_options.png
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ClientDiagnostics\AppResponsiveness\View\Images\i_viewsettings_options.png file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ClientDiagnostics/AppResponsiveness/View/PerfToolsCommon/Bpt.Diagnostics.PerfTools.CommonMerged.js
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ClientDiagnostics\AppResponsiveness\View\PerfToolsCommon\Bpt.Diagnostics.PerfTools.CommonMerged.js file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ClientDiagnostics/AppResponsiveness/View/PerfToolsCommon/TokenExtractor.css
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ClientDiagnostics\AppResponsiveness\View\PerfToolsCommon\TokenExtractor.css file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ClientDiagnostics/AppResponsiveness/View/PerfToolsCommon/controls/menuControl.css
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ClientDiagnostics\AppResponsiveness\View\PerfToolsCommon\controls\menuControl.css file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ClientDiagnostics/AppResponsiveness/View/PerfToolsCommon/controls/SourceInfoTooltip.css
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ClientDiagnostics\AppResponsiveness\View\PerfToolsCommon\controls\SourceInfoTooltip.css file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ClientDiagnostics/AppResponsiveness/View/PerfToolsCommon/images/CheckMark.png
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ClientDiagnostics\AppResponsiveness\View\PerfToolsCommon\images\CheckMark.png file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ClientDiagnostics/AppResponsiveness/View/PerfToolsCommon/images/CustomMark5_18x.png
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ClientDiagnostics\AppResponsiveness\View\PerfToolsCommon\images\CustomMark5_18x.png file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ClientDiagnostics/AppResponsiveness/View/PerfToolsCommon/images/i_appevent.png
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ClientDiagnostics\AppResponsiveness\View\PerfToolsCommon\images\i_appevent.png file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ClientDiagnostics/AppResponsiveness/View/PerfToolsCommon/images/i_usermark.png
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ClientDiagnostics\AppResponsiveness\View\PerfToolsCommon\images\i_usermark.png file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ClientDiagnostics/AppResponsiveness/View/PerfToolsCommon/images/itemCollapsedIcon.png
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ClientDiagnostics\AppResponsiveness\View\PerfToolsCommon\images\itemCollapsedIcon.png file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ClientDiagnostics/AppResponsiveness/View/PerfToolsCommon/images/itemExpandedIcon.png
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ClientDiagnostics\AppResponsiveness\View\PerfToolsCommon\images\itemExpandedIcon.png file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ClientDiagnostics/AppResponsiveness/View/Resources/Resources.resx
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ClientDiagnostics\AppResponsiveness\View\Resources\Resources.resx file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/DiagnosticsHub/amd64/AppRespWpfEvents.dll
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\DiagnosticsHub\amd64\AppRespWpfEvents.dll file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/DiagnosticsHub/amd64/AppRespXamlEvents.dll
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\DiagnosticsHub\amd64\AppRespXamlEvents.dll file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/DiagnosticsHub/amd64/Microsoft-Windows-XAML.man
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\DiagnosticsHub\amd64\Microsoft-Windows-XAML.man file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/DiagnosticsHub/x86/AppRespWpfEvents.dll
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\DiagnosticsHub\x86\AppRespWpfEvents.dll file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/DiagnosticsHub/x86/AppRespXamlEvents.dll
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\DiagnosticsHub\x86\AppRespXamlEvents.dll file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/DiagnosticsHub/x86/Microsoft-Windows-XAML.man
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\DiagnosticsHub\x86\Microsoft-Windows-XAML.man file deleted.
+[3474:0009][2026-05-10T01:46:00] Started: Deleting empty directories
+[3474:0009][2026-05-10T01:46:00] Completed: Deleting empty directories
+[3474:0009][2026-05-10T01:46:00] Package executed successfully. Return code: 0

@@ -1,0 +1,244 @@
+[3c7c:000c][2026-05-10T01:36:05] Opening the package for processing
+[3c7c:000c][2026-05-10T01:36:05] Using package payload to get the embedded manifest
+[3c7c:000c][2026-05-10T01:36:05] Getting list of files within the package
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Common7/IDE/1033/UpgradeReport.xslt
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Common7/IDE/1033/UpgradeReport.xslt to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\1033\UpgradeReport.xslt
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Common7/IDE/1033/UpgradeReport.xslt to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\1033\UpgradeReport.xslt
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\1033\UpgradeReport.xslt'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ReferenceManager/en/Microsoft.VisualStudio.ReferenceManager.Dialog.resources.dll
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/ReferenceManager/en/Microsoft.VisualStudio.ReferenceManager.Dialog.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ReferenceManager\en\Microsoft.VisualStudio.ReferenceManager.Dialog.resources.dll
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/ReferenceManager/en/Microsoft.VisualStudio.ReferenceManager.Dialog.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ReferenceManager\en\Microsoft.VisualStudio.ReferenceManager.Dialog.resources.dll
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ReferenceManager\en\Microsoft.VisualStudio.ReferenceManager.Dialog.resources.dll'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ReferenceManager/en/Microsoft.VisualStudio.ReferenceManager.Providers.resources.dll
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/ReferenceManager/en/Microsoft.VisualStudio.ReferenceManager.Providers.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ReferenceManager\en\Microsoft.VisualStudio.ReferenceManager.Providers.resources.dll
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/ReferenceManager/en/Microsoft.VisualStudio.ReferenceManager.Providers.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ReferenceManager\en\Microsoft.VisualStudio.ReferenceManager.Providers.resources.dll
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ReferenceManager\en\Microsoft.VisualStudio.ReferenceManager.Providers.resources.dll'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/TreeNavigation/GraphProvider/en/Microsoft.VisualStudio.Shell.TreeNavigation.GraphProvider.resources.dll
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/TreeNavigation/GraphProvider/en/Microsoft.VisualStudio.Shell.TreeNavigation.GraphProvider.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\TreeNavigation\GraphProvider\en\Microsoft.VisualStudio.Shell.TreeNavigation.GraphProvider.resources.dll
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/TreeNavigation/GraphProvider/en/Microsoft.VisualStudio.Shell.TreeNavigation.GraphProvider.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\TreeNavigation\GraphProvider\en\Microsoft.VisualStudio.Shell.TreeNavigation.GraphProvider.resources.dll
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\TreeNavigation\GraphProvider\en\Microsoft.VisualStudio.Shell.TreeNavigation.GraphProvider.resources.dll'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Common7/IDE/en/Microsoft.VisualStudio.Debugger.Parallel.Gpu.resources.dll
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Common7/IDE/en/Microsoft.VisualStudio.Debugger.Parallel.Gpu.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\en\Microsoft.VisualStudio.Debugger.Parallel.Gpu.resources.dll
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Common7/IDE/en/Microsoft.VisualStudio.Debugger.Parallel.Gpu.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\en\Microsoft.VisualStudio.Debugger.Parallel.Gpu.resources.dll
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\en\Microsoft.VisualStudio.Debugger.Parallel.Gpu.resources.dll'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Common7/IDE/PrivateAssemblies/en/Microsoft.VisualStudio.WinRT.TemplateWizards.resources.dll
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/en/Microsoft.VisualStudio.WinRT.TemplateWizards.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\en\Microsoft.VisualStudio.WinRT.TemplateWizards.resources.dll
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/en/Microsoft.VisualStudio.WinRT.TemplateWizards.resources.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\en\Microsoft.VisualStudio.WinRT.TemplateWizards.resources.dll
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\en\Microsoft.VisualStudio.WinRT.TemplateWizards.resources.dll'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Common7/IDE/PublicAssemblies/en/Microsoft.VisualStudio.TextTemplating.Modeling.11.0.xml
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/en/Microsoft.VisualStudio.TextTemplating.Modeling.11.0.xml to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\en\Microsoft.VisualStudio.TextTemplating.Modeling.11.0.xml
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/en/Microsoft.VisualStudio.TextTemplating.Modeling.11.0.xml to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\en\Microsoft.VisualStudio.TextTemplating.Modeling.11.0.xml
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\en\Microsoft.VisualStudio.TextTemplating.Modeling.11.0.xml'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Common7/Packages/1033/Accessibility/WCAG1_0.xml
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Common7/Packages/1033/Accessibility/WCAG1_0.xml to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\Accessibility\WCAG1_0.xml
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Common7/Packages/1033/Accessibility/WCAG1_0.xml to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\Accessibility\WCAG1_0.xml
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\Accessibility\WCAG1_0.xml'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Common7/Packages/1033/Accessibility/WCAG_STR.xml
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Common7/Packages/1033/Accessibility/WCAG_STR.xml to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\Accessibility\WCAG_STR.xml
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Common7/Packages/1033/Accessibility/WCAG_STR.xml to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\Accessibility\WCAG_STR.xml
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\Accessibility\WCAG_STR.xml'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Common7/Packages/1033/disco.xsl
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Common7/Packages/1033/disco.xsl to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\disco.xsl
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Common7/Packages/1033/disco.xsl to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\disco.xsl
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\disco.xsl'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Common7/Packages/1033/HelpWatermark.htm
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Common7/Packages/1033/HelpWatermark.htm to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\HelpWatermark.htm
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Common7/Packages/1033/HelpWatermark.htm to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\HelpWatermark.htm
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\HelpWatermark.htm'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Common7/Packages/1033/localservices.htm
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Common7/Packages/1033/localservices.htm to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\localservices.htm
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Common7/Packages/1033/localservices.htm to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\localservices.htm
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\localservices.htm'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Common7/Packages/1033/localservices.xsl
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Common7/Packages/1033/localservices.xsl to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\localservices.xsl
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Common7/Packages/1033/localservices.xsl to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\localservices.xsl
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\localservices.xsl'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Common7/Packages/1033/solutionservices.htm
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Common7/Packages/1033/solutionservices.htm to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\solutionservices.htm
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Common7/Packages/1033/solutionservices.htm to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\solutionservices.htm
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\solutionservices.htm'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Common7/Packages/1033/solutionservices.xsl
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Common7/Packages/1033/solutionservices.xsl to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\solutionservices.xsl
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Common7/Packages/1033/solutionservices.xsl to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\solutionservices.xsl
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\solutionservices.xsl'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Common7/Packages/1033/styles.css
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Common7/Packages/1033/styles.css to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\styles.css
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Common7/Packages/1033/styles.css to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\styles.css
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\styles.css'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Common7/Packages/1033/uddi.htm
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Common7/Packages/1033/uddi.htm to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\uddi.htm
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Common7/Packages/1033/uddi.htm to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\uddi.htm
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\uddi.htm'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Common7/Packages/1033/uddi.xsl
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Common7/Packages/1033/uddi.xsl to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\uddi.xsl
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Common7/Packages/1033/uddi.xsl to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\uddi.xsl
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\uddi.xsl'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Common7/Packages/1033/wsdl.xsl
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Common7/Packages/1033/wsdl.xsl to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\wsdl.xsl
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Common7/Packages/1033/wsdl.xsl to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\wsdl.xsl
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\wsdl.xsl'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Licenses/1033/EntityFrameworkDesignerForVisualStudio2012.rtf
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Licenses/1033/EntityFrameworkDesignerForVisualStudio2012.rtf to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Licenses\1033\EntityFrameworkDesignerForVisualStudio2012.rtf
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Licenses/1033/EntityFrameworkDesignerForVisualStudio2012.rtf to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Licenses\1033\EntityFrameworkDesignerForVisualStudio2012.rtf
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Licenses\1033\EntityFrameworkDesignerForVisualStudio2012.rtf'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/MSBuild/Microsoft/VisualStudio/v17.0/CodeSharing/en-US/CSharp.General.BrowseObject.xaml
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/MSBuild/Microsoft/VisualStudio/v17.0/CodeSharing/en-US/CSharp.General.BrowseObject.xaml to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VisualStudio\v17.0\CodeSharing\en-US\CSharp.General.BrowseObject.xaml
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/MSBuild/Microsoft/VisualStudio/v17.0/CodeSharing/en-US/CSharp.General.BrowseObject.xaml to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VisualStudio\v17.0\CodeSharing\en-US\CSharp.General.BrowseObject.xaml
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VisualStudio\v17.0\CodeSharing\en-US\CSharp.General.BrowseObject.xaml'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/MSBuild/Microsoft/VisualStudio/v17.0/CodeSharing/en-US/CSharp.General.xaml
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/MSBuild/Microsoft/VisualStudio/v17.0/CodeSharing/en-US/CSharp.General.xaml to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VisualStudio\v17.0\CodeSharing\en-US\CSharp.General.xaml
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/MSBuild/Microsoft/VisualStudio/v17.0/CodeSharing/en-US/CSharp.General.xaml to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VisualStudio\v17.0\CodeSharing\en-US\CSharp.General.xaml
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VisualStudio\v17.0\CodeSharing\en-US\CSharp.General.xaml'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/MSBuild/Microsoft/VisualStudio/v17.0/CodeSharing/en-US/VisualBasic.General.BrowseObject.xaml
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/MSBuild/Microsoft/VisualStudio/v17.0/CodeSharing/en-US/VisualBasic.General.BrowseObject.xaml to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VisualStudio\v17.0\CodeSharing\en-US\VisualBasic.General.BrowseObject.xaml
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/MSBuild/Microsoft/VisualStudio/v17.0/CodeSharing/en-US/VisualBasic.General.BrowseObject.xaml to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VisualStudio\v17.0\CodeSharing\en-US\VisualBasic.General.BrowseObject.xaml
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VisualStudio\v17.0\CodeSharing\en-US\VisualBasic.General.BrowseObject.xaml'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/MSBuild/Microsoft/VisualStudio/v17.0/CodeSharing/en-US/VisualBasic.General.xaml
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/MSBuild/Microsoft/VisualStudio/v17.0/CodeSharing/en-US/VisualBasic.General.xaml to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VisualStudio\v17.0\CodeSharing\en-US\VisualBasic.General.xaml
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/MSBuild/Microsoft/VisualStudio/v17.0/CodeSharing/en-US/VisualBasic.General.xaml to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VisualStudio\v17.0\CodeSharing\en-US\VisualBasic.General.xaml
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VisualStudio\v17.0\CodeSharing\en-US\VisualBasic.General.xaml'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Xml/1033/Snippets/Parent.snippet
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Xml/1033/Snippets/Parent.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\Parent.snippet
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Xml/1033/Snippets/Parent.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\Parent.snippet
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\Parent.snippet'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Xml/1033/Snippets/schema.snippet
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Xml/1033/Snippets/schema.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\schema.snippet
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Xml/1033/Snippets/schema.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\schema.snippet
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\schema.snippet'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Xml/1033/Snippets/snippet.snippet
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Xml/1033/Snippets/snippet.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\snippet.snippet
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Xml/1033/Snippets/snippet.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\snippet.snippet
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\snippet.snippet'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Xml/1033/Snippets/xsd/Attributes/enum.snippet
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Xml/1033/Snippets/xsd/Attributes/enum.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\Attributes\enum.snippet
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Xml/1033/Snippets/xsd/Attributes/enum.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\Attributes\enum.snippet
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\Attributes\enum.snippet'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Xml/1033/Snippets/xsd/Attributes/integer.snippet
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Xml/1033/Snippets/xsd/Attributes/integer.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\Attributes\integer.snippet
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Xml/1033/Snippets/xsd/Attributes/integer.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\Attributes\integer.snippet
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\Attributes\integer.snippet'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Xml/1033/Snippets/xsd/Attributes/pattern.snippet
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Xml/1033/Snippets/xsd/Attributes/pattern.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\Attributes\pattern.snippet
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Xml/1033/Snippets/xsd/Attributes/pattern.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\Attributes\pattern.snippet
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\Attributes\pattern.snippet'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Xml/1033/Snippets/xsd/Attributes/string.snippet
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Xml/1033/Snippets/xsd/Attributes/string.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\Attributes\string.snippet
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Xml/1033/Snippets/xsd/Attributes/string.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\Attributes\string.snippet
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\Attributes\string.snippet'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Xml/1033/Snippets/xsd/ComplexTypes/all.snippet
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Xml/1033/Snippets/xsd/ComplexTypes/all.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\ComplexTypes\all.snippet
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Xml/1033/Snippets/xsd/ComplexTypes/all.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\ComplexTypes\all.snippet
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\ComplexTypes\all.snippet'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Xml/1033/Snippets/xsd/ComplexTypes/any.snippet
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Xml/1033/Snippets/xsd/ComplexTypes/any.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\ComplexTypes\any.snippet
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Xml/1033/Snippets/xsd/ComplexTypes/any.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\ComplexTypes\any.snippet
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\ComplexTypes\any.snippet'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Xml/1033/Snippets/xsd/ComplexTypes/attribute.snippet
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Xml/1033/Snippets/xsd/ComplexTypes/attribute.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\ComplexTypes\attribute.snippet
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Xml/1033/Snippets/xsd/ComplexTypes/attribute.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\ComplexTypes\attribute.snippet
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\ComplexTypes\attribute.snippet'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Xml/1033/Snippets/xsd/ComplexTypes/choice.snippet
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Xml/1033/Snippets/xsd/ComplexTypes/choice.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\ComplexTypes\choice.snippet
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Xml/1033/Snippets/xsd/ComplexTypes/choice.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\ComplexTypes\choice.snippet
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\ComplexTypes\choice.snippet'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Xml/1033/Snippets/xsd/ComplexTypes/sequence.snippet
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Xml/1033/Snippets/xsd/ComplexTypes/sequence.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\ComplexTypes\sequence.snippet
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Xml/1033/Snippets/xsd/ComplexTypes/sequence.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\ComplexTypes\sequence.snippet
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\ComplexTypes\sequence.snippet'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Xml/1033/Snippets/xsd/Elements/all.snippet
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Xml/1033/Snippets/xsd/Elements/all.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\Elements\all.snippet
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Xml/1033/Snippets/xsd/Elements/all.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\Elements\all.snippet
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\Elements\all.snippet'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Xml/1033/Snippets/xsd/Elements/choice.snippet
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Xml/1033/Snippets/xsd/Elements/choice.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\Elements\choice.snippet
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Xml/1033/Snippets/xsd/Elements/choice.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\Elements\choice.snippet
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\Elements\choice.snippet'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Xml/1033/Snippets/xsd/Elements/complex.snippet
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Xml/1033/Snippets/xsd/Elements/complex.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\Elements\complex.snippet
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Xml/1033/Snippets/xsd/Elements/complex.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\Elements\complex.snippet
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\Elements\complex.snippet'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Xml/1033/Snippets/xsd/Elements/sequence.snippet
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Xml/1033/Snippets/xsd/Elements/sequence.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\Elements\sequence.snippet
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Xml/1033/Snippets/xsd/Elements/sequence.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\Elements\sequence.snippet
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\Elements\sequence.snippet'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Xml/1033/Snippets/xsd/Elements/simple.snippet
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Xml/1033/Snippets/xsd/Elements/simple.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\Elements\simple.snippet
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Xml/1033/Snippets/xsd/Elements/simple.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\Elements\simple.snippet
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\Elements\simple.snippet'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Xml/1033/Snippets/xsd/Extensions/attribute.snippet
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Xml/1033/Snippets/xsd/Extensions/attribute.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\Extensions\attribute.snippet
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Xml/1033/Snippets/xsd/Extensions/attribute.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\Extensions\attribute.snippet
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\Extensions\attribute.snippet'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Xml/1033/Snippets/xsd/Extensions/complex.snippet
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Xml/1033/Snippets/xsd/Extensions/complex.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\Extensions\complex.snippet
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Xml/1033/Snippets/xsd/Extensions/complex.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\Extensions\complex.snippet
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\Extensions\complex.snippet'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Xml/1033/Snippets/xsd/Misc/attributeGroup.snippet
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Xml/1033/Snippets/xsd/Misc/attributeGroup.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\Misc\attributeGroup.snippet
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Xml/1033/Snippets/xsd/Misc/attributeGroup.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\Misc\attributeGroup.snippet
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\Misc\attributeGroup.snippet'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Xml/1033/Snippets/xsd/Misc/documentation.snippet
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Xml/1033/Snippets/xsd/Misc/documentation.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\Misc\documentation.snippet
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Xml/1033/Snippets/xsd/Misc/documentation.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\Misc\documentation.snippet
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\Misc\documentation.snippet'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Xml/1033/Snippets/xsd/SimpleTypes/enum.snippet
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Xml/1033/Snippets/xsd/SimpleTypes/enum.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\SimpleTypes\enum.snippet
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Xml/1033/Snippets/xsd/SimpleTypes/enum.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\SimpleTypes\enum.snippet
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\SimpleTypes\enum.snippet'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Xml/1033/Snippets/xsd/SimpleTypes/integer.snippet
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Xml/1033/Snippets/xsd/SimpleTypes/integer.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\SimpleTypes\integer.snippet
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Xml/1033/Snippets/xsd/SimpleTypes/integer.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\SimpleTypes\integer.snippet
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\SimpleTypes\integer.snippet'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Xml/1033/Snippets/xsd/SimpleTypes/pattern.snippet
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Xml/1033/Snippets/xsd/SimpleTypes/pattern.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\SimpleTypes\pattern.snippet
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Xml/1033/Snippets/xsd/SimpleTypes/pattern.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\SimpleTypes\pattern.snippet
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\SimpleTypes\pattern.snippet'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Xml/1033/Snippets/xsd/SimpleTypes/string.snippet
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Xml/1033/Snippets/xsd/SimpleTypes/string.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\SimpleTypes\string.snippet
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Xml/1033/Snippets/xsd/SimpleTypes/string.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\SimpleTypes\string.snippet
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\SimpleTypes\string.snippet'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Xml/1033/Snippets/xslt/html/htmlTable.snippet
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Xml/1033/Snippets/xslt/html/htmlTable.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xslt\html\htmlTable.snippet
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Xml/1033/Snippets/xslt/html/htmlTable.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xslt\html\htmlTable.snippet
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xslt\html\htmlTable.snippet'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Xml/1033/Snippets/xslt/html/tableRowTemplate.snippet
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Xml/1033/Snippets/xslt/html/tableRowTemplate.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xslt\html\tableRowTemplate.snippet
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Xml/1033/Snippets/xslt/html/tableRowTemplate.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xslt\html\tableRowTemplate.snippet
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xslt\html\tableRowTemplate.snippet'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Xml/1033/Snippets/xslt/xslTags/scriptCS.snippet
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Xml/1033/Snippets/xslt/xslTags/scriptCS.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xslt\xslTags\scriptCS.snippet
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Xml/1033/Snippets/xslt/xslTags/scriptCS.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xslt\xslTags\scriptCS.snippet
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xslt\xslTags\scriptCS.snippet'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Xml/1033/Snippets/xslt/xslTags/scriptJS.snippet
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Xml/1033/Snippets/xslt/xslTags/scriptJS.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xslt\xslTags\scriptJS.snippet
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Xml/1033/Snippets/xslt/xslTags/scriptJS.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xslt\xslTags\scriptJS.snippet
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xslt\xslTags\scriptJS.snippet'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Xml/1033/Snippets/xslt/xslTags/scriptVB.snippet
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Xml/1033/Snippets/xslt/xslTags/scriptVB.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xslt\xslTags\scriptVB.snippet
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Xml/1033/Snippets/xslt/xslTags/scriptVB.snippet to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xslt\xslTags\scriptVB.snippet
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xslt\xslTags\scriptVB.snippet'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Xml/Schemas/1033/DotNetConfig.xsd
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Xml/Schemas/1033/DotNetConfig.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\Schemas\1033\DotNetConfig.xsd
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Xml/Schemas/1033/DotNetConfig.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\Schemas\1033\DotNetConfig.xsd
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\Schemas\1033\DotNetConfig.xsd'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Xml/Schemas/1033/Microsoft.Build.xsd
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Xml/Schemas/1033/Microsoft.Build.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\Schemas\1033\Microsoft.Build.xsd
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Xml/Schemas/1033/Microsoft.Build.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\Schemas\1033\Microsoft.Build.xsd
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\Schemas\1033\Microsoft.Build.xsd'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Xml/Schemas/1033/MSBuild/Microsoft.Build.Commontypes.xsd
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Xml/Schemas/1033/MSBuild/Microsoft.Build.Commontypes.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\Schemas\1033\MSBuild\Microsoft.Build.Commontypes.xsd
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Xml/Schemas/1033/MSBuild/Microsoft.Build.Commontypes.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\Schemas\1033\MSBuild\Microsoft.Build.Commontypes.xsd
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\Schemas\1033\MSBuild\Microsoft.Build.Commontypes.xsd'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Xml/Schemas/1033/MSBuild/Microsoft.Build.Core.xsd
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Xml/Schemas/1033/MSBuild/Microsoft.Build.Core.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\Schemas\1033\MSBuild\Microsoft.Build.Core.xsd
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Xml/Schemas/1033/MSBuild/Microsoft.Build.Core.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\Schemas\1033\MSBuild\Microsoft.Build.Core.xsd
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\Schemas\1033\MSBuild\Microsoft.Build.Core.xsd'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Xml/Schemas/1033/snippetformat.xsd
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Xml/Schemas/1033/snippetformat.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\Schemas\1033\snippetformat.xsd
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Xml/Schemas/1033/snippetformat.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\Schemas\1033\snippetformat.xsd
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\Schemas\1033\snippetformat.xsd'.
+[3c7c:000c][2026-05-10T01:36:05] Processing file /Contents/Xml/Schemas/1033/vstemplate.xsd
+[3c7c:000c][2026-05-10T01:36:05] Started: Copying file /Contents/Xml/Schemas/1033/vstemplate.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\Schemas\1033\vstemplate.xsd
+[3c7c:000c][2026-05-10T01:36:05] Completed: Copying file /Contents/Xml/Schemas/1033/vstemplate.xsd to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\Schemas\1033\vstemplate.xsd
+[3c7c:000c][2026-05-10T01:36:05] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\Schemas\1033\vstemplate.xsd'.
+[3c7c:000c][2026-05-10T01:36:05] Package executed successfully. Return code: 0

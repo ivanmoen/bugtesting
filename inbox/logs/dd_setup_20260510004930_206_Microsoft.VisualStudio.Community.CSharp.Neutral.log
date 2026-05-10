@@ -1,0 +1,112 @@
+[da4c:0007][2026-05-10T00:50:13] Opening the package for processing
+[da4c:0007][2026-05-10T00:50:13] Using package payload to get the embedded manifest
+[da4c:0007][2026-05-10T00:50:13] Getting list of files within the package
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/IDE/Extensions/Community/VCSh_Dir_Registry_Entry_5156.3643236F_FC70_11D3_A536_0090278A1BB8.pkgdef
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/IDE/Extensions/Community/VCSh_Dir_Registry_Entry_5156.3643236F_FC70_11D3_A536_0090278A1BB8.pkgdef to D:\Program\Common7\IDE\Extensions\Community\VCSh_Dir_Registry_Entry_5156.3643236F_FC70_11D3_A536_0090278A1BB8.pkgdef
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/IDE/Extensions/Community/VCSh_Dir_Registry_Entry_5156.3643236F_FC70_11D3_A536_0090278A1BB8.pkgdef to D:\Program\Common7\IDE\Extensions\Community\VCSh_Dir_Registry_Entry_5156.3643236F_FC70_11D3_A536_0090278A1BB8.pkgdef
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Community\VCSh_Dir_Registry_Entry_5156.3643236F_FC70_11D3_A536_0090278A1BB8.pkgdef'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/IDE/Extensions/Community/VCSh_LangService_Reg_26668.3643236F_FC70_11D3_A536_0090278A1BB8.pkgdef
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/IDE/Extensions/Community/VCSh_LangService_Reg_26668.3643236F_FC70_11D3_A536_0090278A1BB8.pkgdef to D:\Program\Common7\IDE\Extensions\Community\VCSh_LangService_Reg_26668.3643236F_FC70_11D3_A536_0090278A1BB8.pkgdef
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/IDE/Extensions/Community/VCSh_LangService_Reg_26668.3643236F_FC70_11D3_A536_0090278A1BB8.pkgdef to D:\Program\Common7\IDE\Extensions\Community\VCSh_LangService_Reg_26668.3643236F_FC70_11D3_A536_0090278A1BB8.pkgdef
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Community\VCSh_LangService_Reg_26668.3643236F_FC70_11D3_A536_0090278A1BB8.pkgdef'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Code/Code.VSTDIR
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/IDE/ItemTemplates/CSharp/Code/Code.VSTDIR to D:\Program\Common7\IDE\ItemTemplates\CSharp\Code\Code.VSTDIR
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/IDE/ItemTemplates/CSharp/Code/Code.VSTDIR to D:\Program\Common7\IDE\ItemTemplates\CSharp\Code\Code.VSTDIR
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\IDE\ItemTemplates\CSharp\Code\Code.VSTDIR'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Data/Data.VSTDIR
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/IDE/ItemTemplates/CSharp/Data/Data.VSTDIR to D:\Program\Common7\IDE\ItemTemplates\CSharp\Data\Data.VSTDIR
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/IDE/ItemTemplates/CSharp/Data/Data.VSTDIR to D:\Program\Common7\IDE\ItemTemplates\CSharp\Data\Data.VSTDIR
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\IDE\ItemTemplates\CSharp\Data\Data.VSTDIR'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/General/General.VSTDIR
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/IDE/ItemTemplates/CSharp/General/General.VSTDIR to D:\Program\Common7\IDE\ItemTemplates\CSharp\General\General.VSTDIR
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/IDE/ItemTemplates/CSharp/General/General.VSTDIR to D:\Program\Common7\IDE\ItemTemplates\CSharp\General\General.VSTDIR
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\IDE\ItemTemplates\CSharp\General\General.VSTDIR'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Web.VSTDIR
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Web.VSTDIR to D:\Program\Common7\IDE\ItemTemplates\CSharp\Web\Web.VSTDIR
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Web.VSTDIR to D:\Program\Common7\IDE\ItemTemplates\CSharp\Web\Web.VSTDIR
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\IDE\ItemTemplates\CSharp\Web\Web.VSTDIR'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Windows%20Forms/Windows%20Forms.VSTDIR
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/IDE/ItemTemplates/CSharp/Windows%20Forms/Windows%20Forms.VSTDIR to D:\Program\Common7\IDE\ItemTemplates\CSharp\Windows Forms\Windows Forms.VSTDIR
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/IDE/ItemTemplates/CSharp/Windows%20Forms/Windows%20Forms.VSTDIR to D:\Program\Common7\IDE\ItemTemplates\CSharp\Windows Forms\Windows Forms.VSTDIR
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\IDE\ItemTemplates\CSharp\Windows Forms\Windows Forms.VSTDIR'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /contents/Common7/IDE/ItemTemplates/Microsoft.VisualStudio.Community.CSharp.Neutral.Item..vstman
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /contents/Common7/IDE/ItemTemplates/Microsoft.VisualStudio.Community.CSharp.Neutral.Item..vstman to D:\Program\Common7\IDE\ItemTemplates\Microsoft.VisualStudio.Community.CSharp.Neutral.Item..vstman
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /contents/Common7/IDE/ItemTemplates/Microsoft.VisualStudio.Community.CSharp.Neutral.Item..vstman to D:\Program\Common7\IDE\ItemTemplates\Microsoft.VisualStudio.Community.CSharp.Neutral.Item..vstman
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\IDE\ItemTemplates\Microsoft.VisualStudio.Community.CSharp.Neutral.Item..vstman'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/IDE/NewFileItems/bitmap.bmp
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/IDE/NewFileItems/bitmap.bmp to D:\Program\Common7\IDE\NewFileItems\bitmap.bmp
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/IDE/NewFileItems/bitmap.bmp to D:\Program\Common7\IDE\NewFileItems\bitmap.bmp
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\IDE\NewFileItems\bitmap.bmp'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/IDE/NewFileItems/csharpclass.cs
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/IDE/NewFileItems/csharpclass.cs to D:\Program\Common7\IDE\NewFileItems\csharpclass.cs
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/IDE/NewFileItems/csharpclass.cs to D:\Program\Common7\IDE\NewFileItems\csharpclass.cs
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\IDE\NewFileItems\csharpclass.cs'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/IDE/NewFileItems/cursor.cur
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/IDE/NewFileItems/cursor.cur to D:\Program\Common7\IDE\NewFileItems\cursor.cur
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/IDE/NewFileItems/cursor.cur to D:\Program\Common7\IDE\NewFileItems\cursor.cur
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\IDE\NewFileItems\cursor.cur'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/IDE/NewFileItems/icon.ico
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/IDE/NewFileItems/icon.ico to D:\Program\Common7\IDE\NewFileItems\icon.ico
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/IDE/NewFileItems/icon.ico to D:\Program\Common7\IDE\NewFileItems\icon.ico
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\IDE\NewFileItems\icon.ico'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/IDE/NewFileItems/NewCAFileItems.vsdir
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/IDE/NewFileItems/NewCAFileItems.vsdir to D:\Program\Common7\IDE\NewFileItems\NewCAFileItems.vsdir
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/IDE/NewFileItems/NewCAFileItems.vsdir to D:\Program\Common7\IDE\NewFileItems\NewCAFileItems.vsdir
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\IDE\NewFileItems\NewCAFileItems.vsdir'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/IDE/NewFileItems/NewCSharpFileItems.vsdir
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/IDE/NewFileItems/NewCSharpFileItems.vsdir to D:\Program\Common7\IDE\NewFileItems\NewCSharpFileItems.vsdir
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/IDE/NewFileItems/NewCSharpFileItems.vsdir to D:\Program\Common7\IDE\NewFileItems\NewCSharpFileItems.vsdir
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\IDE\NewFileItems\NewCSharpFileItems.vsdir'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/IDE/NewFileItems/NewFileItemsEX.VSDIR
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/IDE/NewFileItems/NewFileItemsEX.VSDIR to D:\Program\Common7\IDE\NewFileItems\NewFileItemsEX.VSDIR
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/IDE/NewFileItems/NewFileItemsEX.VSDIR to D:\Program\Common7\IDE\NewFileItems\NewFileItemsEX.VSDIR
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\IDE\NewFileItems\NewFileItemsEX.VSDIR'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/IDE/NewFileItems/NewVBFileItems.vsdir
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/IDE/NewFileItems/NewVBFileItems.vsdir to D:\Program\Common7\IDE\NewFileItems\NewVBFileItems.vsdir
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/IDE/NewFileItems/NewVBFileItems.vsdir to D:\Program\Common7\IDE\NewFileItems\NewVBFileItems.vsdir
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\IDE\NewFileItems\NewVBFileItems.vsdir'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/IDE/NewFileItems/restempl.rct
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/IDE/NewFileItems/restempl.rct to D:\Program\Common7\IDE\NewFileItems\restempl.rct
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/IDE/NewFileItems/restempl.rct to D:\Program\Common7\IDE\NewFileItems\restempl.rct
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\IDE\NewFileItems\restempl.rct'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/IDE/NewFileItems/vbclass.vb
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/IDE/NewFileItems/vbclass.vb to D:\Program\Common7\IDE\NewFileItems\vbclass.vb
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/IDE/NewFileItems/vbclass.vb to D:\Program\Common7\IDE\NewFileItems\vbclass.vb
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\IDE\NewFileItems\vbclass.vb'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/ImportProjects/vcs/ImportDefault.csproj
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/ImportProjects/vcs/ImportDefault.csproj to D:\Program\ImportProjects\vcs\ImportDefault.csproj
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/ImportProjects/vcs/ImportDefault.csproj to D:\Program\ImportProjects\vcs\ImportDefault.csproj
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\ImportProjects\vcs\ImportDefault.csproj'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/ImportProjects/vcs/ImportDefaultDll.csproj
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/ImportProjects/vcs/ImportDefaultDll.csproj to D:\Program\ImportProjects\vcs\ImportDefaultDll.csproj
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/ImportProjects/vcs/ImportDefaultDll.csproj to D:\Program\ImportProjects\vcs\ImportDefaultDll.csproj
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\ImportProjects\vcs\ImportDefaultDll.csproj'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/ImportProjects/vcs/ImportDefaultWinExe.csproj
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/ImportProjects/vcs/ImportDefaultWinExe.csproj to D:\Program\ImportProjects\vcs\ImportDefaultWinExe.csproj
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/ImportProjects/vcs/ImportDefaultWinExe.csproj to D:\Program\ImportProjects\vcs\ImportDefaultWinExe.csproj
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\ImportProjects\vcs\ImportDefaultWinExe.csproj'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/VC%23/CSharpProjectItems/Windows%20Forms/CSControlInheritanceWizard.vsz
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/VC%23/CSharpProjectItems/Windows%20Forms/CSControlInheritanceWizard.vsz to D:\Program\VC#\CSharpProjectItems\Windows Forms\CSControlInheritanceWizard.vsz
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/VC%23/CSharpProjectItems/Windows%20Forms/CSControlInheritanceWizard.vsz to D:\Program\VC#\CSharpProjectItems\Windows Forms\CSControlInheritanceWizard.vsz
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\VC#\CSharpProjectItems\Windows Forms\CSControlInheritanceWizard.vsz'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/VC%23/CSharpProjectItems/Windows%20Forms/CSFormInheritanceWizard.vsz
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/VC%23/CSharpProjectItems/Windows%20Forms/CSFormInheritanceWizard.vsz to D:\Program\VC#\CSharpProjectItems\Windows Forms\CSFormInheritanceWizard.vsz
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/VC%23/CSharpProjectItems/Windows%20Forms/CSFormInheritanceWizard.vsz to D:\Program\VC#\CSharpProjectItems\Windows Forms\CSFormInheritanceWizard.vsz
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\VC#\CSharpProjectItems\Windows Forms\CSFormInheritanceWizard.vsz'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/VC%23/CSharpProjectItems/Windows%20Forms/CSharpItems.vsdir
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/VC%23/CSharpProjectItems/Windows%20Forms/CSharpItems.vsdir to D:\Program\VC#\CSharpProjectItems\Windows Forms\CSharpItems.vsdir
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/VC%23/CSharpProjectItems/Windows%20Forms/CSharpItems.vsdir to D:\Program\VC#\CSharpProjectItems\Windows Forms\CSharpItems.vsdir
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\VC#\CSharpProjectItems\Windows Forms\CSharpItems.vsdir'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/VC%23/VC%23Wizards/1033/Images/DottedHori.gif
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/VC%23/VC%23Wizards/1033/Images/DottedHori.gif to D:\Program\VC#\VC#Wizards\1033\Images\DottedHori.gif
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/VC%23/VC%23Wizards/1033/Images/DottedHori.gif to D:\Program\VC#\VC#Wizards\1033\Images\DottedHori.gif
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\VC#\VC#Wizards\1033\Images\DottedHori.gif'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/VC%23/VC%23Wizards/1033/Images/DottedVert.gif
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/VC%23/VC%23Wizards/1033/Images/DottedVert.gif to D:\Program\VC#\VC#Wizards\1033\Images\DottedVert.gif
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/VC%23/VC%23Wizards/1033/Images/DottedVert.gif to D:\Program\VC#\VC#Wizards\1033\Images\DottedVert.gif
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\VC#\VC#Wizards\1033\Images\DottedVert.gif'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/VC%23/VC%23Wizards/1033/Images/spacer.gif
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/VC%23/VC%23Wizards/1033/Images/spacer.gif to D:\Program\VC#\VC#Wizards\1033\Images\spacer.gif
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/VC%23/VC%23Wizards/1033/Images/spacer.gif to D:\Program\VC#\VC#Wizards\1033\Images\spacer.gif
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\VC#\VC#Wizards\1033\Images\spacer.gif'.
+[da4c:0007][2026-05-10T00:50:13] Package executed successfully. Return code: 0

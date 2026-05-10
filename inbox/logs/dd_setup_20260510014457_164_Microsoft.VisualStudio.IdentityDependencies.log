@@ -1,0 +1,28 @@
+[3474:0009][2026-05-10T01:46:17] Using cached package manifest as the embedded manifest
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Identity.Client.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Identity.Client.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Identity.Client.Broker.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Identity.Client.Broker.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Identity.Client.NativeInterop.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Identity.Client.NativeInterop.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/msalruntime_arm64.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\msalruntime_arm64.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/msalruntime.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\msalruntime.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/msalruntime_x86.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\msalruntime_x86.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.IdentityModel.Abstractions.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.IdentityModel.Abstractions.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.IdentityModel.Logging.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.IdentityModel.Logging.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.IdentityModel.Tokens.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.IdentityModel.Tokens.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.IdentityModel.JsonWebTokens.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.IdentityModel.JsonWebTokens.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Identity.Client.Extensions.Msal.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Identity.Client.Extensions.Msal.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/System.IdentityModel.Tokens.Jwt.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\System.IdentityModel.Tokens.Jwt.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Started: Deleting empty directories
+[3474:0009][2026-05-10T01:46:17] Completed: Deleting empty directories
+[3474:0009][2026-05-10T01:46:17] Package executed successfully. Return code: 0

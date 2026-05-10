@@ -1,0 +1,46 @@
+[bd94:0009][2026-05-10T01:00:39] Using cached package manifest as the embedded manifest
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/WindowsDesktop/cpp.hint
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\ProjectTemplates\VC\WindowsDesktop\cpp.hint file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/WindowsDesktop/dllmain.cpp
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\ProjectTemplates\VC\WindowsDesktop\dllmain.cpp file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/WindowsDesktop/framework.h
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\ProjectTemplates\VC\WindowsDesktop\framework.h file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/WindowsDesktop/project.vcxproj
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\ProjectTemplates\VC\WindowsDesktop\project.vcxproj file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/WindowsDesktop/resource.h
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\ProjectTemplates\VC\WindowsDesktop\resource.h file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/WindowsDesktop/root.cpp
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\ProjectTemplates\VC\WindowsDesktop\root.cpp file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/WindowsDesktop/root.h
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\ProjectTemplates\VC\WindowsDesktop\root.h file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/WindowsDesktop/root.ico
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\ProjectTemplates\VC\WindowsDesktop\root.ico file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/WindowsDesktop/root.rc
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\ProjectTemplates\VC\WindowsDesktop\root.rc file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/WindowsDesktop/small.ico
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\ProjectTemplates\VC\WindowsDesktop\small.ico file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/WindowsDesktop/targetver.h
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\ProjectTemplates\VC\WindowsDesktop\targetver.h file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/WindowsDesktop/WindowsDesktop.VSTDIR
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\ProjectTemplates\VC\WindowsDesktop\WindowsDesktop.VSTDIR file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/WindowsDesktop/WindowsApplication/DesktopApplication.vstemplate
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\ProjectTemplates\VC\WindowsDesktop\WindowsApplication\DesktopApplication.vstemplate file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/WindowsDesktop/WindowsDesktopWizard/WindowsDesktopWizard.vstemplate
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\ProjectTemplates\VC\WindowsDesktop\WindowsDesktopWizard\WindowsDesktopWizard.vstemplate file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/WindowsDesktop/WindowsDLL/WindowsDLL.vstemplate
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\ProjectTemplates\VC\WindowsDesktop\WindowsDLL\WindowsDLL.vstemplate file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/WindowsDesktop/WindowsConsoleApplication/WindowsConsoleApplication.vstemplate
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\ProjectTemplates\VC\WindowsDesktop\WindowsConsoleApplication\WindowsConsoleApplication.vstemplate file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/WindowsDesktop/WindowsDLLExports/WindowsDLLExports.vstemplate
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\ProjectTemplates\VC\WindowsDesktop\WindowsDLLExports\WindowsDLLExports.vstemplate file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/WindowsDesktop/WindowsStaticLib/WindowsStaticLib.vstemplate
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\ProjectTemplates\VC\WindowsDesktop\WindowsStaticLib\WindowsStaticLib.vstemplate file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/WindowsDesktop/Empty/Empty.vstemplate
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\ProjectTemplates\VC\WindowsDesktop\Empty\Empty.vstemplate file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/Other/Makefile/Makefile.vstemplate
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\ProjectTemplates\VC\Other\Makefile\Makefile.vstemplate file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /contents/Common7/IDE/ProjectTemplates/Microsoft.VisualStudio.VC.Templates.Desktop.Project..vstman
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\ProjectTemplates\Microsoft.VisualStudio.VC.Templates.Desktop.Project..vstman file deleted.
+[bd94:0009][2026-05-10T01:00:39] Started: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:39] Completed: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:39] Package executed successfully. Return code: 0

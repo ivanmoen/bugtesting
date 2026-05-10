@@ -1,0 +1,32 @@
+[18d4:0007][2026-05-10T02:03:40] Opening the package for processing
+[18d4:0007][2026-05-10T02:03:40] Using package payload to get the embedded manifest
+[18d4:0007][2026-05-10T02:03:40] Getting list of files within the package
+[18d4:0007][2026-05-10T02:03:40] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/VC_Pkg_Pro_Registration.pkgdef
+[18d4:0007][2026-05-10T02:03:40] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/VC_Pkg_Pro_Registration.pkgdef to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\VC_Pkg_Pro_Registration.pkgdef
+[18d4:0007][2026-05-10T02:03:40] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/VC_Pkg_Pro_Registration.pkgdef to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\VC_Pkg_Pro_Registration.pkgdef
+[18d4:0007][2026-05-10T02:03:40] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\VC_Pkg_Pro_Registration.pkgdef'.
+[18d4:0007][2026-05-10T02:03:40] Processing file /Contents/Common7/Tools/spyxx.chm
+[18d4:0007][2026-05-10T02:03:40] Started: Copying file /Contents/Common7/Tools/spyxx.chm to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\spyxx.chm
+[18d4:0007][2026-05-10T02:03:40] Completed: Copying file /Contents/Common7/Tools/spyxx.chm to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\spyxx.chm
+[18d4:0007][2026-05-10T02:03:40] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\spyxx.chm'.
+[18d4:0007][2026-05-10T02:03:40] Processing file /Contents/Common7/Tools/spyxx.exe
+[18d4:0007][2026-05-10T02:03:40] Started: Copying file /Contents/Common7/Tools/spyxx.exe to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\spyxx.exe
+[18d4:0007][2026-05-10T02:03:40] Completed: Copying file /Contents/Common7/Tools/spyxx.exe to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\spyxx.exe
+[18d4:0007][2026-05-10T02:03:40] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\spyxx.exe'.
+[18d4:0007][2026-05-10T02:03:40] Processing file /Contents/Common7/Tools/spyxxhk.dll
+[18d4:0007][2026-05-10T02:03:40] Started: Copying file /Contents/Common7/Tools/spyxxhk.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\spyxxhk.dll
+[18d4:0007][2026-05-10T02:03:40] Completed: Copying file /Contents/Common7/Tools/spyxxhk.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\spyxxhk.dll
+[18d4:0007][2026-05-10T02:03:40] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\spyxxhk.dll'.
+[18d4:0007][2026-05-10T02:03:40] Processing file /Contents/Common7/Tools/spyxxhk_amd64.dll
+[18d4:0007][2026-05-10T02:03:40] Started: Copying file /Contents/Common7/Tools/spyxxhk_amd64.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\spyxxhk_amd64.dll
+[18d4:0007][2026-05-10T02:03:40] Completed: Copying file /Contents/Common7/Tools/spyxxhk_amd64.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\spyxxhk_amd64.dll
+[18d4:0007][2026-05-10T02:03:40] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\spyxxhk_amd64.dll'.
+[18d4:0007][2026-05-10T02:03:40] Processing file /Contents/Common7/Tools/spyxx_amd64.chm
+[18d4:0007][2026-05-10T02:03:40] Started: Copying file /Contents/Common7/Tools/spyxx_amd64.chm to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\spyxx_amd64.chm
+[18d4:0007][2026-05-10T02:03:40] Completed: Copying file /Contents/Common7/Tools/spyxx_amd64.chm to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\spyxx_amd64.chm
+[18d4:0007][2026-05-10T02:03:40] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\spyxx_amd64.chm'.
+[18d4:0007][2026-05-10T02:03:40] Processing file /Contents/Common7/Tools/spyxx_amd64.exe
+[18d4:0007][2026-05-10T02:03:40] Started: Copying file /Contents/Common7/Tools/spyxx_amd64.exe to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\spyxx_amd64.exe
+[18d4:0007][2026-05-10T02:03:40] Completed: Copying file /Contents/Common7/Tools/spyxx_amd64.exe to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\spyxx_amd64.exe
+[18d4:0007][2026-05-10T02:03:40] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\spyxx_amd64.exe'.
+[18d4:0007][2026-05-10T02:03:40] Package executed successfully. Return code: 0

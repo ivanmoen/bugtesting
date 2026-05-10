@@ -1,0 +1,162 @@
+[da4c:0007][2026-05-10T00:50:13] Opening the package for processing
+[da4c:0007][2026-05-10T00:50:13] Using package payload to get the embedded manifest
+[da4c:0007][2026-05-10T00:50:13] Getting list of files within the package
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/IDE/adodb.manifest
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/IDE/adodb.manifest to D:\Program\Common7\IDE\adodb.manifest
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/IDE/adodb.manifest to D:\Program\Common7\IDE\adodb.manifest
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\IDE\adodb.manifest'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/IDE/Automation/clientbuildmgr.tlb
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/IDE/Automation/clientbuildmgr.tlb to D:\Program\Common7\IDE\Automation\clientbuildmgr.tlb
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/IDE/Automation/clientbuildmgr.tlb to D:\Program\Common7\IDE\Automation\clientbuildmgr.tlb
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\clientbuildmgr.tlb'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/IDE/Automation/clientbuildmgr.tlb.manifest
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/IDE/Automation/clientbuildmgr.tlb.manifest to D:\Program\Common7\IDE\Automation\clientbuildmgr.tlb.manifest
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/IDE/Automation/clientbuildmgr.tlb.manifest to D:\Program\Common7\IDE\Automation\clientbuildmgr.tlb.manifest
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\clientbuildmgr.tlb.manifest'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/IDE/Automation/DiagnosticsTap.dll
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/IDE/Automation/DiagnosticsTap.dll to D:\Program\Common7\IDE\Automation\DiagnosticsTap.dll
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/IDE/Automation/DiagnosticsTap.dll to D:\Program\Common7\IDE\Automation\DiagnosticsTap.dll
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\DiagnosticsTap.dll'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/IDE/Automation/DiagnosticsTap.dll.manifest
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/IDE/Automation/DiagnosticsTap.dll.manifest to D:\Program\Common7\IDE\Automation\DiagnosticsTap.dll.manifest
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/IDE/Automation/DiagnosticsTap.dll.manifest to D:\Program\Common7\IDE\Automation\DiagnosticsTap.dll.manifest
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\DiagnosticsTap.dll.manifest'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/IDE/Automation/msdia140.dll
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/IDE/Automation/msdia140.dll to D:\Program\Common7\IDE\Automation\msdia140.dll
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/IDE/Automation/msdia140.dll to D:\Program\Common7\IDE\Automation\msdia140.dll
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\msdia140.dll'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/IDE/Automation/msdia140.dll.manifest
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/IDE/Automation/msdia140.dll.manifest to D:\Program\Common7\IDE\Automation\msdia140.dll.manifest
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/IDE/Automation/msdia140.dll.manifest to D:\Program\Common7\IDE\Automation\msdia140.dll.manifest
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\msdia140.dll.manifest'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/IDE/Automation/wfinterop.tlb
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/IDE/Automation/wfinterop.tlb to D:\Program\Common7\IDE\Automation\wfinterop.tlb
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/IDE/Automation/wfinterop.tlb to D:\Program\Common7\IDE\Automation\wfinterop.tlb
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\wfinterop.tlb'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/IDE/Automation/wfinterop.tlb.manifest
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/IDE/Automation/wfinterop.tlb.manifest to D:\Program\Common7\IDE\Automation\wfinterop.tlb.manifest
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/IDE/Automation/wfinterop.tlb.manifest to D:\Program\Common7\IDE\Automation\wfinterop.tlb.manifest
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\wfinterop.tlb.manifest'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/IDE/compluslm.dll
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/IDE/compluslm.dll to D:\Program\Common7\IDE\compluslm.dll
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/IDE/compluslm.dll to D:\Program\Common7\IDE\compluslm.dll
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\IDE\compluslm.dll'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.ConfigurationUI.dll
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.ConfigurationUI.dll to D:\Program\Common7\IDE\Microsoft.VisualStudio.ConfigurationUI.dll
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.ConfigurationUI.dll to D:\Program\Common7\IDE\Microsoft.VisualStudio.ConfigurationUI.dll
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\IDE\Microsoft.VisualStudio.ConfigurationUI.dll'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.ManagedInterfaces.manifest
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.ManagedInterfaces.manifest to D:\Program\Common7\IDE\Microsoft.VisualStudio.ManagedInterfaces.manifest
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.ManagedInterfaces.manifest to D:\Program\Common7\IDE\Microsoft.VisualStudio.ManagedInterfaces.manifest
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\IDE\Microsoft.VisualStudio.ManagedInterfaces.manifest'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.QualityTools.Wizard.TestProjectWizards.manifest
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.QualityTools.Wizard.TestProjectWizards.manifest to D:\Program\Common7\IDE\Microsoft.VisualStudio.QualityTools.Wizard.TestProjectWizards.manifest
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.QualityTools.Wizard.TestProjectWizards.manifest to D:\Program\Common7\IDE\Microsoft.VisualStudio.QualityTools.Wizard.TestProjectWizards.manifest
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\IDE\Microsoft.VisualStudio.QualityTools.Wizard.TestProjectWizards.manifest'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/IDE/PrivateAssemblies/DDConfig.dll
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/DDConfig.dll to D:\Program\Common7\IDE\PrivateAssemblies\DDConfig.dll
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/DDConfig.dll to D:\Program\Common7\IDE\PrivateAssemblies\DDConfig.dll
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\DDConfig.dll'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Alm.Shared.Remoting.RemoteContainer.dll
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Alm.Shared.Remoting.RemoteContainer.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.Alm.Shared.Remoting.RemoteContainer.dll
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Alm.Shared.Remoting.RemoteContainer.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.Alm.Shared.Remoting.RemoteContainer.dll
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.Alm.Shared.Remoting.RemoteContainer.dll'.
+[da4c:0007][2026-05-10T00:50:13] Queueing D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.Alm.Shared.Remoting.RemoteContainer.dll for X86 ngen
+[da4c:0007][2026-05-10T00:50:13] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/Microsoft.Alm.Shared.Remoting.RemoteContainer.dll' for ngen
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/IDE/Remote%20Debugger/x64/concrt140.dll
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/concrt140.dll to D:\Program\Common7\IDE\Remote Debugger\x64\concrt140.dll
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/concrt140.dll to D:\Program\Common7\IDE\Remote Debugger\x64\concrt140.dll
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\IDE\Remote Debugger\x64\concrt140.dll'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/IDE/Remote%20Debugger/x64/D3DCompiler_47.dll
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/D3DCompiler_47.dll to D:\Program\Common7\IDE\Remote Debugger\x64\D3DCompiler_47.dll
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/D3DCompiler_47.dll to D:\Program\Common7\IDE\Remote Debugger\x64\D3DCompiler_47.dll
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\IDE\Remote Debugger\x64\D3DCompiler_47.dll'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/IDE/Remote%20Debugger/x64/GpuDebugEngine.dll
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/GpuDebugEngine.dll to D:\Program\Common7\IDE\Remote Debugger\x64\GpuDebugEngine.dll
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/GpuDebugEngine.dll to D:\Program\Common7\IDE\Remote Debugger\x64\GpuDebugEngine.dll
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\IDE\Remote Debugger\x64\GpuDebugEngine.dll'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/IDE/Remote%20Debugger/x64/GpuEnvSetup.dll
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/GpuEnvSetup.dll to D:\Program\Common7\IDE\Remote Debugger\x64\GpuEnvSetup.dll
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/GpuEnvSetup.dll to D:\Program\Common7\IDE\Remote Debugger\x64\GpuEnvSetup.dll
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\IDE\Remote Debugger\x64\GpuEnvSetup.dll'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/IDE/Remote%20Debugger/x64/VsDebugEng.Xaml.dll
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/VsDebugEng.Xaml.dll to D:\Program\Common7\IDE\Remote Debugger\x64\VsDebugEng.Xaml.dll
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/VsDebugEng.Xaml.dll to D:\Program\Common7\IDE\Remote Debugger\x64\VsDebugEng.Xaml.dll
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\IDE\Remote Debugger\x64\VsDebugEng.Xaml.dll'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/IDE/Remote%20Debugger/x86/concrt140.dll
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/IDE/Remote%20Debugger/x86/concrt140.dll to D:\Program\Common7\IDE\Remote Debugger\x86\concrt140.dll
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/IDE/Remote%20Debugger/x86/concrt140.dll to D:\Program\Common7\IDE\Remote Debugger\x86\concrt140.dll
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\IDE\Remote Debugger\x86\concrt140.dll'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/IDE/Remote%20Debugger/x86/D3DCompiler_47.dll
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/IDE/Remote%20Debugger/x86/D3DCompiler_47.dll to D:\Program\Common7\IDE\Remote Debugger\x86\D3DCompiler_47.dll
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/IDE/Remote%20Debugger/x86/D3DCompiler_47.dll to D:\Program\Common7\IDE\Remote Debugger\x86\D3DCompiler_47.dll
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\IDE\Remote Debugger\x86\D3DCompiler_47.dll'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/IDE/Remote%20Debugger/x86/GpuDebugEngine.dll
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/IDE/Remote%20Debugger/x86/GpuDebugEngine.dll to D:\Program\Common7\IDE\Remote Debugger\x86\GpuDebugEngine.dll
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/IDE/Remote%20Debugger/x86/GpuDebugEngine.dll to D:\Program\Common7\IDE\Remote Debugger\x86\GpuDebugEngine.dll
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\IDE\Remote Debugger\x86\GpuDebugEngine.dll'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/IDE/Remote%20Debugger/x86/GpuEnvSetup.dll
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/IDE/Remote%20Debugger/x86/GpuEnvSetup.dll to D:\Program\Common7\IDE\Remote Debugger\x86\GpuEnvSetup.dll
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/IDE/Remote%20Debugger/x86/GpuEnvSetup.dll to D:\Program\Common7\IDE\Remote Debugger\x86\GpuEnvSetup.dll
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\IDE\Remote Debugger\x86\GpuEnvSetup.dll'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/IDE/Remote%20Debugger/x86/VsDebugEng.Xaml.dll
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/IDE/Remote%20Debugger/x86/VsDebugEng.Xaml.dll to D:\Program\Common7\IDE\Remote Debugger\x86\VsDebugEng.Xaml.dll
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/IDE/Remote%20Debugger/x86/VsDebugEng.Xaml.dll to D:\Program\Common7\IDE\Remote Debugger\x86\VsDebugEng.Xaml.dll
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\IDE\Remote Debugger\x86\VsDebugEng.Xaml.dll'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/IDE/VS%20SCC/msemp.dll
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/IDE/VS%20SCC/msemp.dll to D:\Program\Common7\IDE\VS SCC\msemp.dll
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/IDE/VS%20SCC/msemp.dll to D:\Program\Common7\IDE\VS SCC\msemp.dll
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\IDE\VS SCC\msemp.dll'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/IDE/VS%20SCC/msemp.dll.manifest
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/IDE/VS%20SCC/msemp.dll.manifest to D:\Program\Common7\IDE\VS SCC\msemp.dll.manifest
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/IDE/VS%20SCC/msemp.dll.manifest to D:\Program\Common7\IDE\VS SCC\msemp.dll.manifest
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\IDE\VS SCC\msemp.dll.manifest'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/IDE/VS%20SCC/VssProvider.dll
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/IDE/VS%20SCC/VssProvider.dll to D:\Program\Common7\IDE\VS SCC\VssProvider.dll
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/IDE/VS%20SCC/VssProvider.dll to D:\Program\Common7\IDE\VS SCC\VssProvider.dll
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\IDE\VS SCC\VssProvider.dll'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/IDE/VS%20SCC/VssProviderStub.dll
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/IDE/VS%20SCC/VssProviderStub.dll to D:\Program\Common7\IDE\VS SCC\VssProviderStub.dll
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/IDE/VS%20SCC/VssProviderStub.dll to D:\Program\Common7\IDE\VS SCC\VssProviderStub.dll
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\IDE\VS SCC\VssProviderStub.dll'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/IDE/vshost32-clr2.exe
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/IDE/vshost32-clr2.exe to D:\Program\Common7\IDE\vshost32-clr2.exe
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/IDE/vshost32-clr2.exe to D:\Program\Common7\IDE\vshost32-clr2.exe
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\IDE\vshost32-clr2.exe'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/IDE/vshost32.exe
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/IDE/vshost32.exe to D:\Program\Common7\IDE\vshost32.exe
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/IDE/vshost32.exe to D:\Program\Common7\IDE\vshost32.exe
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\IDE\vshost32.exe'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/IDE/vssln.dll
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/IDE/vssln.dll to D:\Program\Common7\IDE\vssln.dll
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/IDE/vssln.dll to D:\Program\Common7\IDE\vssln.dll
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\IDE\vssln.dll'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/Packages/CompSvcsPkg.dll
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/Packages/CompSvcsPkg.dll to D:\Program\Common7\Packages\CompSvcsPkg.dll
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/Packages/CompSvcsPkg.dll to D:\Program\Common7\Packages\CompSvcsPkg.dll
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\Packages\CompSvcsPkg.dll'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/Packages/Debugger/GpuEnvSetup.dll
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/Packages/Debugger/GpuEnvSetup.dll to D:\Program\Common7\Packages\Debugger\GpuEnvSetup.dll
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/Packages/Debugger/GpuEnvSetup.dll to D:\Program\Common7\Packages\Debugger\GpuEnvSetup.dll
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\Packages\Debugger\GpuEnvSetup.dll'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/Packages/Debugger/GpuEnvSetup.vsdconfig
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/Packages/Debugger/GpuEnvSetup.vsdconfig to D:\Program\Common7\Packages\Debugger\GpuEnvSetup.vsdconfig
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/Packages/Debugger/GpuEnvSetup.vsdconfig to D:\Program\Common7\Packages\Debugger\GpuEnvSetup.vsdconfig
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\Packages\Debugger\GpuEnvSetup.vsdconfig'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/Packages/Debugger/HlslEE.dll
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/Packages/Debugger/HlslEE.dll to D:\Program\Common7\Packages\Debugger\HlslEE.dll
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/Packages/Debugger/HlslEE.dll to D:\Program\Common7\Packages\Debugger\HlslEE.dll
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\Packages\Debugger\HlslEE.dll'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/Packages/Debugger/HlslEE.vsdconfig
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/Packages/Debugger/HlslEE.vsdconfig to D:\Program\Common7\Packages\Debugger\HlslEE.vsdconfig
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/Packages/Debugger/HlslEE.vsdconfig to D:\Program\Common7\Packages\Debugger\HlslEE.vsdconfig
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\Packages\Debugger\HlslEE.vsdconfig'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/Packages/Debugger/jsee.dll
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/Packages/Debugger/jsee.dll to D:\Program\Common7\Packages\Debugger\jsee.dll
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/Packages/Debugger/jsee.dll to D:\Program\Common7\Packages\Debugger\jsee.dll
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\Packages\Debugger\jsee.dll'.
+[da4c:0007][2026-05-10T00:50:13] Processing file /Contents/Common7/Packages/dirprj.dll
+[da4c:0007][2026-05-10T00:50:13] Started: Copying file /Contents/Common7/Packages/dirprj.dll to D:\Program\Common7\Packages\dirprj.dll
+[da4c:0007][2026-05-10T00:50:13] Completed: Copying file /Contents/Common7/Packages/dirprj.dll to D:\Program\Common7\Packages\dirprj.dll
+[da4c:0007][2026-05-10T00:50:13] Timestamp updated for file 'D:\Program\Common7\Packages\dirprj.dll'.
+[da4c:0007][2026-05-10T00:50:13] Package executed successfully. Return code: 0

@@ -1,0 +1,20 @@
+[c9c4:0009][2026-05-10T01:02:02] Opening the package for processing
+[c9c4:0009][2026-05-10T01:02:02] Using package payload to get the embedded manifest
+[c9c4:0009][2026-05-10T01:02:02] Getting list of files within the package
+[c9c4:0009][2026-05-10T01:02:02] Processing file /Contents/Common7/IDE/VC/vcpackages/1033/autolaytui.dll
+[c9c4:0009][2026-05-10T01:02:02] Started: Copying file /Contents/Common7/IDE/VC/vcpackages/1033/autolaytui.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\1033\autolaytui.dll
+[c9c4:0009][2026-05-10T01:02:02] Completed: Copying file /Contents/Common7/IDE/VC/vcpackages/1033/autolaytui.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\1033\autolaytui.dll
+[c9c4:0009][2026-05-10T01:02:02] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\1033\autolaytui.dll'.
+[c9c4:0009][2026-05-10T01:02:02] Processing file /Contents/Common7/IDE/VC/vcpackages/1033/rcxdtiui.dll
+[c9c4:0009][2026-05-10T01:02:02] Started: Copying file /Contents/Common7/IDE/VC/vcpackages/1033/rcxdtiui.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\1033\rcxdtiui.dll
+[c9c4:0009][2026-05-10T01:02:02] Completed: Copying file /Contents/Common7/IDE/VC/vcpackages/1033/rcxdtiui.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\1033\rcxdtiui.dll
+[c9c4:0009][2026-05-10T01:02:02] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\1033\rcxdtiui.dll'.
+[c9c4:0009][2026-05-10T01:02:02] Processing file /Contents/Common7/IDE/VC/vcpackages/1033/reseditui.dll
+[c9c4:0009][2026-05-10T01:02:02] Started: Copying file /Contents/Common7/IDE/VC/vcpackages/1033/reseditui.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\1033\reseditui.dll
+[c9c4:0009][2026-05-10T01:02:02] Completed: Copying file /Contents/Common7/IDE/VC/vcpackages/1033/reseditui.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\1033\reseditui.dll
+[c9c4:0009][2026-05-10T01:02:02] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\1033\reseditui.dll'.
+[c9c4:0009][2026-05-10T01:02:02] Processing file /Contents/Common7/IDE/VC/VCResourceTemplates/1033/mfc.rct
+[c9c4:0009][2026-05-10T01:02:02] Started: Copying file /Contents/Common7/IDE/VC/VCResourceTemplates/1033/mfc.rct to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCResourceTemplates\1033\mfc.rct
+[c9c4:0009][2026-05-10T01:02:02] Completed: Copying file /Contents/Common7/IDE/VC/VCResourceTemplates/1033/mfc.rct to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCResourceTemplates\1033\mfc.rct
+[c9c4:0009][2026-05-10T01:02:02] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCResourceTemplates\1033\mfc.rct'.
+[c9c4:0009][2026-05-10T01:02:02] Package executed successfully. Return code: 0

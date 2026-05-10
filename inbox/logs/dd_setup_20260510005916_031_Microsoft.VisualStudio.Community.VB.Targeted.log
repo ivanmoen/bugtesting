@@ -1,0 +1,12 @@
+[bd94:0009][2026-05-10T01:00:40] Using cached package manifest as the embedded manifest
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/Common7/IDE/vb7to8.exe
+[bd94:0009][2026-05-10T01:00:40] D:\Program\Common7\IDE\vb7to8.exe file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/Common7/IDE/vb7to8DL.dll
+[bd94:0009][2026-05-10T01:00:40] D:\Program\Common7\IDE\vb7to8DL.dll file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/Common7/IDE/vbdebug.dll
+[bd94:0009][2026-05-10T01:00:40] D:\Program\Common7\IDE\vbdebug.dll file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Bin/msvbprj.dll
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Bin\msvbprj.dll file deleted.
+[bd94:0009][2026-05-10T01:00:40] Started: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:40] Completed: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:40] Package executed successfully. Return code: 0

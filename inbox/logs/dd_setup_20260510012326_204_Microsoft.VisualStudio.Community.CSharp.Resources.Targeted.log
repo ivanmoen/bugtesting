@@ -1,0 +1,8 @@
+[2e2c:0007][2026-05-10T01:24:14] Opening the package for processing
+[2e2c:0007][2026-05-10T01:24:14] Using package payload to get the embedded manifest
+[2e2c:0007][2026-05-10T01:24:14] Getting list of files within the package
+[2e2c:0007][2026-05-10T01:24:14] Processing file /Contents/VC%23/VCSPackages/1033/csprojui.dll
+[2e2c:0007][2026-05-10T01:24:14] Started: Copying file /Contents/VC%23/VCSPackages/1033/csprojui.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\VCSPackages\1033\csprojui.dll
+[2e2c:0007][2026-05-10T01:24:14] Completed: Copying file /Contents/VC%23/VCSPackages/1033/csprojui.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\VCSPackages\1033\csprojui.dll
+[2e2c:0007][2026-05-10T01:24:14] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\VCSPackages\1033\csprojui.dll'.
+[2e2c:0007][2026-05-10T01:24:14] Package executed successfully. Return code: 0

@@ -1,0 +1,12 @@
+[bd94:0009][2026-05-10T01:00:54] Using cached package manifest as the embedded manifest
+[bd94:0009][2026-05-10T01:00:54] Processing file /Contents/VC/Redist/MSVC/14.44.35112/Auxiliary/Microsoft.VC.ServicingVersion.Redist.props
+[bd94:0009][2026-05-10T01:00:54] D:\Program\VC\Redist\MSVC\14.44.35112\Auxiliary\Microsoft.VC.ServicingVersion.Redist.props file deleted.
+[bd94:0009][2026-05-10T01:00:54] Processing file /Contents/VC/Auxiliary/Build/Microsoft.VCRedistVersion.v143.default.props
+[bd94:0009][2026-05-10T01:00:54] D:\Program\VC\Auxiliary\Build\Microsoft.VCRedistVersion.v143.default.props file deleted.
+[bd94:0009][2026-05-10T01:00:54] Processing file /Contents/VC/Auxiliary/Build/Microsoft.VCRedistVersion.default.txt
+[bd94:0009][2026-05-10T01:00:54] D:\Program\VC\Auxiliary\Build\Microsoft.VCRedistVersion.default.txt file deleted.
+[bd94:0009][2026-05-10T01:00:54] Processing file /Contents/VC/Auxiliary/Build/Microsoft.VCRedistVersion.default.props
+[bd94:0009][2026-05-10T01:00:54] D:\Program\VC\Auxiliary\Build\Microsoft.VCRedistVersion.default.props file deleted.
+[bd94:0009][2026-05-10T01:00:54] Started: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:54] Completed: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:54] Package executed successfully. Return code: 0

@@ -1,0 +1,1046 @@
+[3474:0009][2026-05-10T01:46:11] Using cached package manifest as the embedded manifest
+[3474:0009][2026-05-10T01:46:11] Processing file /extension.vsixmanifest
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\extension.vsixmanifest file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /Microsoft.VisualStudio.Identity.pkgdef
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Microsoft.VisualStudio.Identity.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/AadAccountProviderService.servicehub.service.json
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\AadAccountProviderService.servicehub.service.json file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/ErrorStorageService.servicehub.service.json
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\ErrorStorageService.servicehub.service.json file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/GithubCredentialStoreService.servicehub.service.json
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\GithubCredentialStoreService.servicehub.service.json file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/IdentityStorageService.servicehub.service.json
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\IdentityStorageService.servicehub.service.json file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/Microsoft.Developer.IdentityService.deps.json
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\Microsoft.Developer.IdentityService.deps.json file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/Microsoft.Developer.IdentityService.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\Microsoft.Developer.IdentityService.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/Microsoft.Windows.SDK.NET.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\Microsoft.Windows.SDK.NET.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/WinRT.Runtime.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\WinRT.Runtime.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/MessagePack.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\MessagePack.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/MessagePack.Annotations.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\MessagePack.Annotations.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/System.Net.Http.Formatting.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\System.Net.Http.Formatting.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\Microsoft.Extensions.DependencyInjection.Abstractions.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/Microsoft.Extensions.Logging.Abstractions.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\Microsoft.Extensions.Logging.Abstractions.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/Microsoft.Identity.Client.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\Microsoft.Identity.Client.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/Microsoft.Identity.Client.Broker.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\Microsoft.Identity.Client.Broker.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/Microsoft.Identity.Client.Extensions.Msal.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\Microsoft.Identity.Client.Extensions.Msal.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/Microsoft.Identity.Client.NativeInterop.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\Microsoft.Identity.Client.NativeInterop.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/Microsoft.IdentityModel.Abstractions.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\Microsoft.IdentityModel.Abstractions.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/Microsoft.IdentityModel.JsonWebTokens.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\Microsoft.IdentityModel.JsonWebTokens.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/Microsoft.IdentityModel.Logging.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\Microsoft.IdentityModel.Logging.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/Microsoft.IdentityModel.Tokens.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\Microsoft.IdentityModel.Tokens.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/Microsoft.NET.StringTools.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\Microsoft.NET.StringTools.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/Microsoft.ServiceHub.Client.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\Microsoft.ServiceHub.Client.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/Microsoft.VisualStudio.Composition.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\Microsoft.VisualStudio.Composition.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/Microsoft.TeamFoundation.Common.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\Microsoft.TeamFoundation.Common.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/Microsoft.VisualStudio.Services.Common.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\Microsoft.VisualStudio.Services.Common.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/Microsoft.VisualStudio.Services.WebApi.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\Microsoft.VisualStudio.Services.WebApi.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/Microsoft.VisualStudio.Services.Client.Interactive.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\Microsoft.VisualStudio.Services.Client.Interactive.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/Newtonsoft.Json.Bson.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\Newtonsoft.Json.Bson.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/Octokit.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\Octokit.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/System.ComponentModel.Composition.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\System.ComponentModel.Composition.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/System.Composition.AttributedModel.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\System.Composition.AttributedModel.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/System.Composition.Convention.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\System.Composition.Convention.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/System.Composition.Hosting.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\System.Composition.Hosting.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/System.Composition.Runtime.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\System.Composition.Runtime.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/System.Composition.TypedParts.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\System.Composition.TypedParts.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/System.Data.SqlClient.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\System.Data.SqlClient.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/System.IdentityModel.Tokens.Jwt.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\System.IdentityModel.Tokens.Jwt.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/System.Management.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\System.Management.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/System.Xml.XPath.XmlDocument.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\System.Xml.XPath.XmlDocument.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/cs/Microsoft.ServiceHub.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\cs\Microsoft.ServiceHub.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/de/Microsoft.ServiceHub.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\de\Microsoft.ServiceHub.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/es/Microsoft.ServiceHub.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\es\Microsoft.ServiceHub.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/fr/Microsoft.ServiceHub.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\fr\Microsoft.ServiceHub.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/it/Microsoft.ServiceHub.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\it\Microsoft.ServiceHub.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/ja/Microsoft.ServiceHub.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\ja\Microsoft.ServiceHub.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/ko/Microsoft.ServiceHub.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\ko\Microsoft.ServiceHub.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/pl/Microsoft.ServiceHub.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\pl\Microsoft.ServiceHub.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/pt-BR/Microsoft.ServiceHub.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\pt-BR\Microsoft.ServiceHub.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/ru/Microsoft.ServiceHub.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\ru\Microsoft.ServiceHub.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/tr/Microsoft.ServiceHub.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\tr\Microsoft.ServiceHub.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/zh-Hans/Microsoft.ServiceHub.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\zh-Hans\Microsoft.ServiceHub.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/zh-Hant/Microsoft.ServiceHub.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\zh-Hant\Microsoft.ServiceHub.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/cs/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\cs\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/de/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\de\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/es/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\es\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/fr/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\fr\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/it/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\it\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/ja/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\ja\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/ko/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\ko\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/pl/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\pl\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/pt-BR/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\pt-BR\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/ru/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\ru\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/tr/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\tr\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/zh-Hans/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\zh-Hans\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/zh-Hant/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\zh-Hant\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/cs/Microsoft.VisualStudio.Composition.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\cs\Microsoft.VisualStudio.Composition.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/de/Microsoft.VisualStudio.Composition.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\de\Microsoft.VisualStudio.Composition.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/es/Microsoft.VisualStudio.Composition.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\es\Microsoft.VisualStudio.Composition.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/fr/Microsoft.VisualStudio.Composition.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\fr\Microsoft.VisualStudio.Composition.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/it/Microsoft.VisualStudio.Composition.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\it\Microsoft.VisualStudio.Composition.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/ja/Microsoft.VisualStudio.Composition.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\ja\Microsoft.VisualStudio.Composition.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/ko/Microsoft.VisualStudio.Composition.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\ko\Microsoft.VisualStudio.Composition.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/pl/Microsoft.VisualStudio.Composition.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\pl\Microsoft.VisualStudio.Composition.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/pt-BR/Microsoft.VisualStudio.Composition.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\pt-BR\Microsoft.VisualStudio.Composition.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/ru/Microsoft.VisualStudio.Composition.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\ru\Microsoft.VisualStudio.Composition.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/tr/Microsoft.VisualStudio.Composition.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\tr\Microsoft.VisualStudio.Composition.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/zh-Hans/Microsoft.VisualStudio.Composition.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\zh-Hans\Microsoft.VisualStudio.Composition.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/zh-Hant/Microsoft.VisualStudio.Composition.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\zh-Hant\Microsoft.VisualStudio.Composition.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/cs/Microsoft.VisualStudio.Threading.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\cs\Microsoft.VisualStudio.Threading.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/de/Microsoft.VisualStudio.Threading.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\de\Microsoft.VisualStudio.Threading.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/es/Microsoft.VisualStudio.Threading.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\es\Microsoft.VisualStudio.Threading.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/fr/Microsoft.VisualStudio.Threading.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\fr\Microsoft.VisualStudio.Threading.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/it/Microsoft.VisualStudio.Threading.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\it\Microsoft.VisualStudio.Threading.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/ja/Microsoft.VisualStudio.Threading.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\ja\Microsoft.VisualStudio.Threading.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/ko/Microsoft.VisualStudio.Threading.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\ko\Microsoft.VisualStudio.Threading.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/pl/Microsoft.VisualStudio.Threading.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\pl\Microsoft.VisualStudio.Threading.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/pt-BR/Microsoft.VisualStudio.Threading.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\pt-BR\Microsoft.VisualStudio.Threading.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/ru/Microsoft.VisualStudio.Threading.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\ru\Microsoft.VisualStudio.Threading.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/tr/Microsoft.VisualStudio.Threading.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\tr\Microsoft.VisualStudio.Threading.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/zh-Hans/Microsoft.VisualStudio.Threading.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/zh-Hant/Microsoft.VisualStudio.Threading.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/cs/Microsoft.VisualStudio.Validation.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\cs\Microsoft.VisualStudio.Validation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/de/Microsoft.VisualStudio.Validation.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\de\Microsoft.VisualStudio.Validation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/es/Microsoft.VisualStudio.Validation.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\es\Microsoft.VisualStudio.Validation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/fr/Microsoft.VisualStudio.Validation.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\fr\Microsoft.VisualStudio.Validation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/it/Microsoft.VisualStudio.Validation.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\it\Microsoft.VisualStudio.Validation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/ja/Microsoft.VisualStudio.Validation.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\ja\Microsoft.VisualStudio.Validation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/ko/Microsoft.VisualStudio.Validation.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\ko\Microsoft.VisualStudio.Validation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/pl/Microsoft.VisualStudio.Validation.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\pl\Microsoft.VisualStudio.Validation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/pt-BR/Microsoft.VisualStudio.Validation.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\pt-BR\Microsoft.VisualStudio.Validation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/ru/Microsoft.VisualStudio.Validation.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\ru\Microsoft.VisualStudio.Validation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/tr/Microsoft.VisualStudio.Validation.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\tr\Microsoft.VisualStudio.Validation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/zh-Hans/Microsoft.VisualStudio.Validation.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/zh-Hant/Microsoft.VisualStudio.Validation.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/cs/StreamJsonRpc.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\cs\StreamJsonRpc.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/de/StreamJsonRpc.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\de\StreamJsonRpc.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/es/StreamJsonRpc.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\es\StreamJsonRpc.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/fr/StreamJsonRpc.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\fr\StreamJsonRpc.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/it/StreamJsonRpc.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\it\StreamJsonRpc.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/ja/StreamJsonRpc.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\ja\StreamJsonRpc.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/ko/StreamJsonRpc.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\ko\StreamJsonRpc.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/pl/StreamJsonRpc.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\pl\StreamJsonRpc.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/pt-BR/StreamJsonRpc.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\pt-BR\StreamJsonRpc.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/ru/StreamJsonRpc.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\ru\StreamJsonRpc.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/tr/StreamJsonRpc.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\tr\StreamJsonRpc.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/zh-Hans/StreamJsonRpc.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\zh-Hans\StreamJsonRpc.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/zh-Hant/StreamJsonRpc.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\zh-Hant\StreamJsonRpc.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/msalruntime_x86.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\msalruntime_x86.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/sni.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\sni.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/Microsoft.Developer.IdentityService.Core.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\Microsoft.Developer.IdentityService.Core.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/Microsoft.Developer.IdentityService.dll.config
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\Microsoft.Developer.IdentityService.dll.config file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/Microsoft.Developer.IdentityService.Core.xml
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\Microsoft.Developer.IdentityService.Core.xml file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /ServiceHub/IdentityService/Microsoft.Developer.IdentityService.xml
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\ServiceHub\IdentityService\Microsoft.Developer.IdentityService.xml file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /Client/runtimes/win-x86/native/msalruntime_x86.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\runtimes\win-x86\native\msalruntime_x86.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /Client/runtimes/win-x64/native/msalruntime.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\runtimes\win-x64\native\msalruntime.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /Client/runtimes/win-arm64/native/msalruntime_arm64.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\runtimes\win-arm64\native\msalruntime_arm64.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /Client/cs/Microsoft.ServiceHub.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\cs\Microsoft.ServiceHub.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /Client/de/Microsoft.ServiceHub.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\de\Microsoft.ServiceHub.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /Client/es/Microsoft.ServiceHub.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\es\Microsoft.ServiceHub.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /Client/fr/Microsoft.ServiceHub.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\fr\Microsoft.ServiceHub.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /Client/it/Microsoft.ServiceHub.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\it\Microsoft.ServiceHub.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /Client/ja/Microsoft.ServiceHub.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\ja\Microsoft.ServiceHub.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /Client/ko/Microsoft.ServiceHub.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\ko\Microsoft.ServiceHub.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /Client/pl/Microsoft.ServiceHub.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\pl\Microsoft.ServiceHub.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /Client/pt-BR/Microsoft.ServiceHub.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\pt-BR\Microsoft.ServiceHub.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /Client/ru/Microsoft.ServiceHub.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\ru\Microsoft.ServiceHub.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/tr/Microsoft.ServiceHub.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\tr\Microsoft.ServiceHub.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/zh-Hans/Microsoft.ServiceHub.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\zh-Hans\Microsoft.ServiceHub.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/zh-Hant/Microsoft.ServiceHub.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\zh-Hant\Microsoft.ServiceHub.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/cs/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\cs\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/de/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\de\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/es/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\es\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/fr/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\fr\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/it/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\it\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/ja/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\ja\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/ko/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\ko\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/pl/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\pl\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/pt-BR/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\pt-BR\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/ru/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\ru\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/tr/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\tr\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/zh-Hans/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\zh-Hans\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/zh-Hant/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\zh-Hant\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/cs/Microsoft.VisualStudio.Composition.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\cs\Microsoft.VisualStudio.Composition.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/de/Microsoft.VisualStudio.Composition.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\de\Microsoft.VisualStudio.Composition.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/es/Microsoft.VisualStudio.Composition.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\es\Microsoft.VisualStudio.Composition.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/fr/Microsoft.VisualStudio.Composition.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\fr\Microsoft.VisualStudio.Composition.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/it/Microsoft.VisualStudio.Composition.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\it\Microsoft.VisualStudio.Composition.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/ja/Microsoft.VisualStudio.Composition.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\ja\Microsoft.VisualStudio.Composition.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/ko/Microsoft.VisualStudio.Composition.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\ko\Microsoft.VisualStudio.Composition.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/pl/Microsoft.VisualStudio.Composition.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\pl\Microsoft.VisualStudio.Composition.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/pt-BR/Microsoft.VisualStudio.Composition.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\pt-BR\Microsoft.VisualStudio.Composition.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/ru/Microsoft.VisualStudio.Composition.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\ru\Microsoft.VisualStudio.Composition.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/tr/Microsoft.VisualStudio.Composition.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\tr\Microsoft.VisualStudio.Composition.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/zh-Hans/Microsoft.VisualStudio.Composition.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\zh-Hans\Microsoft.VisualStudio.Composition.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/zh-Hant/Microsoft.VisualStudio.Composition.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\zh-Hant\Microsoft.VisualStudio.Composition.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/cs/Microsoft.VisualStudio.GraphModel.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\cs\Microsoft.VisualStudio.GraphModel.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/de/Microsoft.VisualStudio.GraphModel.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\de\Microsoft.VisualStudio.GraphModel.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/es/Microsoft.VisualStudio.GraphModel.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\es\Microsoft.VisualStudio.GraphModel.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/fr/Microsoft.VisualStudio.GraphModel.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\fr\Microsoft.VisualStudio.GraphModel.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/it/Microsoft.VisualStudio.GraphModel.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\it\Microsoft.VisualStudio.GraphModel.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/ja/Microsoft.VisualStudio.GraphModel.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\ja\Microsoft.VisualStudio.GraphModel.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/ko/Microsoft.VisualStudio.GraphModel.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\ko\Microsoft.VisualStudio.GraphModel.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/pl/Microsoft.VisualStudio.GraphModel.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\pl\Microsoft.VisualStudio.GraphModel.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/pt-BR/Microsoft.VisualStudio.GraphModel.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\pt-BR\Microsoft.VisualStudio.GraphModel.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/ru/Microsoft.VisualStudio.GraphModel.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\ru\Microsoft.VisualStudio.GraphModel.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/tr/Microsoft.VisualStudio.GraphModel.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\tr\Microsoft.VisualStudio.GraphModel.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/zh-Hans/Microsoft.VisualStudio.GraphModel.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\zh-Hans\Microsoft.VisualStudio.GraphModel.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/zh-Hant/Microsoft.VisualStudio.GraphModel.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\zh-Hant\Microsoft.VisualStudio.GraphModel.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/en/Microsoft.VisualStudio.ImageCatalog.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\en\Microsoft.VisualStudio.ImageCatalog.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/cs/Microsoft.VisualStudio.Imaging.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\cs\Microsoft.VisualStudio.Imaging.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/de/Microsoft.VisualStudio.Imaging.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\de\Microsoft.VisualStudio.Imaging.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/en/Microsoft.VisualStudio.Imaging.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\en\Microsoft.VisualStudio.Imaging.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/es/Microsoft.VisualStudio.Imaging.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\es\Microsoft.VisualStudio.Imaging.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/fr/Microsoft.VisualStudio.Imaging.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\fr\Microsoft.VisualStudio.Imaging.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/it/Microsoft.VisualStudio.Imaging.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\it\Microsoft.VisualStudio.Imaging.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/ja/Microsoft.VisualStudio.Imaging.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\ja\Microsoft.VisualStudio.Imaging.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/ko/Microsoft.VisualStudio.Imaging.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\ko\Microsoft.VisualStudio.Imaging.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/pl/Microsoft.VisualStudio.Imaging.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\pl\Microsoft.VisualStudio.Imaging.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/pt-BR/Microsoft.VisualStudio.Imaging.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\pt-BR\Microsoft.VisualStudio.Imaging.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/ru/Microsoft.VisualStudio.Imaging.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\ru\Microsoft.VisualStudio.Imaging.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/tr/Microsoft.VisualStudio.Imaging.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\tr\Microsoft.VisualStudio.Imaging.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/zh-Hans/Microsoft.VisualStudio.Imaging.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\zh-Hans\Microsoft.VisualStudio.Imaging.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/zh-Hant/Microsoft.VisualStudio.Imaging.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\zh-Hant\Microsoft.VisualStudio.Imaging.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/cs/Microsoft.VisualStudio.Shell.15.0.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\cs\Microsoft.VisualStudio.Shell.15.0.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/de/Microsoft.VisualStudio.Shell.15.0.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\de\Microsoft.VisualStudio.Shell.15.0.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/es/Microsoft.VisualStudio.Shell.15.0.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\es\Microsoft.VisualStudio.Shell.15.0.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/fr/Microsoft.VisualStudio.Shell.15.0.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\fr\Microsoft.VisualStudio.Shell.15.0.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/it/Microsoft.VisualStudio.Shell.15.0.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\it\Microsoft.VisualStudio.Shell.15.0.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/ja/Microsoft.VisualStudio.Shell.15.0.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\ja\Microsoft.VisualStudio.Shell.15.0.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/ko/Microsoft.VisualStudio.Shell.15.0.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\ko\Microsoft.VisualStudio.Shell.15.0.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/pl/Microsoft.VisualStudio.Shell.15.0.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\pl\Microsoft.VisualStudio.Shell.15.0.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/pt-BR/Microsoft.VisualStudio.Shell.15.0.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\pt-BR\Microsoft.VisualStudio.Shell.15.0.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/ru/Microsoft.VisualStudio.Shell.15.0.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\ru\Microsoft.VisualStudio.Shell.15.0.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/tr/Microsoft.VisualStudio.Shell.15.0.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\tr\Microsoft.VisualStudio.Shell.15.0.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/zh-Hans/Microsoft.VisualStudio.Shell.15.0.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\zh-Hans\Microsoft.VisualStudio.Shell.15.0.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/zh-Hant/Microsoft.VisualStudio.Shell.15.0.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\zh-Hant\Microsoft.VisualStudio.Shell.15.0.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/cs/Microsoft.VisualStudio.Shell.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\cs\Microsoft.VisualStudio.Shell.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/de/Microsoft.VisualStudio.Shell.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\de\Microsoft.VisualStudio.Shell.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/es/Microsoft.VisualStudio.Shell.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\es\Microsoft.VisualStudio.Shell.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/fr/Microsoft.VisualStudio.Shell.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\fr\Microsoft.VisualStudio.Shell.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/it/Microsoft.VisualStudio.Shell.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\it\Microsoft.VisualStudio.Shell.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/ja/Microsoft.VisualStudio.Shell.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\ja\Microsoft.VisualStudio.Shell.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/ko/Microsoft.VisualStudio.Shell.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\ko\Microsoft.VisualStudio.Shell.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/pl/Microsoft.VisualStudio.Shell.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\pl\Microsoft.VisualStudio.Shell.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/pt-BR/Microsoft.VisualStudio.Shell.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\pt-BR\Microsoft.VisualStudio.Shell.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/ru/Microsoft.VisualStudio.Shell.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\ru\Microsoft.VisualStudio.Shell.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/tr/Microsoft.VisualStudio.Shell.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\tr\Microsoft.VisualStudio.Shell.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/zh-Hans/Microsoft.VisualStudio.Shell.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\zh-Hans\Microsoft.VisualStudio.Shell.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/zh-Hant/Microsoft.VisualStudio.Shell.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\zh-Hant\Microsoft.VisualStudio.Shell.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/cs/Microsoft.VisualStudio.Threading.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\cs\Microsoft.VisualStudio.Threading.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/de/Microsoft.VisualStudio.Threading.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\de\Microsoft.VisualStudio.Threading.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/es/Microsoft.VisualStudio.Threading.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\es\Microsoft.VisualStudio.Threading.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/fr/Microsoft.VisualStudio.Threading.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\fr\Microsoft.VisualStudio.Threading.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/it/Microsoft.VisualStudio.Threading.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\it\Microsoft.VisualStudio.Threading.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/ja/Microsoft.VisualStudio.Threading.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\ja\Microsoft.VisualStudio.Threading.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/ko/Microsoft.VisualStudio.Threading.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\ko\Microsoft.VisualStudio.Threading.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/pl/Microsoft.VisualStudio.Threading.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\pl\Microsoft.VisualStudio.Threading.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/pt-BR/Microsoft.VisualStudio.Threading.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\pt-BR\Microsoft.VisualStudio.Threading.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/ru/Microsoft.VisualStudio.Threading.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\ru\Microsoft.VisualStudio.Threading.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/tr/Microsoft.VisualStudio.Threading.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\tr\Microsoft.VisualStudio.Threading.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/zh-Hans/Microsoft.VisualStudio.Threading.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/zh-Hant/Microsoft.VisualStudio.Threading.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/cs/Microsoft.VisualStudio.Utilities.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\cs\Microsoft.VisualStudio.Utilities.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/de/Microsoft.VisualStudio.Utilities.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\de\Microsoft.VisualStudio.Utilities.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/en/Microsoft.VisualStudio.Utilities.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\en\Microsoft.VisualStudio.Utilities.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/es/Microsoft.VisualStudio.Utilities.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\es\Microsoft.VisualStudio.Utilities.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/fr/Microsoft.VisualStudio.Utilities.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\fr\Microsoft.VisualStudio.Utilities.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/it/Microsoft.VisualStudio.Utilities.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\it\Microsoft.VisualStudio.Utilities.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/ja/Microsoft.VisualStudio.Utilities.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\ja\Microsoft.VisualStudio.Utilities.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/ko/Microsoft.VisualStudio.Utilities.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\ko\Microsoft.VisualStudio.Utilities.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/pl/Microsoft.VisualStudio.Utilities.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\pl\Microsoft.VisualStudio.Utilities.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/pt-BR/Microsoft.VisualStudio.Utilities.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\pt-BR\Microsoft.VisualStudio.Utilities.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/ru/Microsoft.VisualStudio.Utilities.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\ru\Microsoft.VisualStudio.Utilities.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/tr/Microsoft.VisualStudio.Utilities.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\tr\Microsoft.VisualStudio.Utilities.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/zh-Hans/Microsoft.VisualStudio.Utilities.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\zh-Hans\Microsoft.VisualStudio.Utilities.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/zh-Hant/Microsoft.VisualStudio.Utilities.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\zh-Hant\Microsoft.VisualStudio.Utilities.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/cs/Microsoft.VisualStudio.Validation.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\cs\Microsoft.VisualStudio.Validation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/de/Microsoft.VisualStudio.Validation.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\de\Microsoft.VisualStudio.Validation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/es/Microsoft.VisualStudio.Validation.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\es\Microsoft.VisualStudio.Validation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/fr/Microsoft.VisualStudio.Validation.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\fr\Microsoft.VisualStudio.Validation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/it/Microsoft.VisualStudio.Validation.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\it\Microsoft.VisualStudio.Validation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/ja/Microsoft.VisualStudio.Validation.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\ja\Microsoft.VisualStudio.Validation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/ko/Microsoft.VisualStudio.Validation.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\ko\Microsoft.VisualStudio.Validation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/pl/Microsoft.VisualStudio.Validation.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\pl\Microsoft.VisualStudio.Validation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/pt-BR/Microsoft.VisualStudio.Validation.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\pt-BR\Microsoft.VisualStudio.Validation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/ru/Microsoft.VisualStudio.Validation.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\ru\Microsoft.VisualStudio.Validation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/tr/Microsoft.VisualStudio.Validation.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\tr\Microsoft.VisualStudio.Validation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/zh-Hans/Microsoft.VisualStudio.Validation.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/zh-Hant/Microsoft.VisualStudio.Validation.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/cs/StreamJsonRpc.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\cs\StreamJsonRpc.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/de/StreamJsonRpc.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\de\StreamJsonRpc.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/es/StreamJsonRpc.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\es\StreamJsonRpc.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/fr/StreamJsonRpc.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\fr\StreamJsonRpc.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/it/StreamJsonRpc.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\it\StreamJsonRpc.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/ja/StreamJsonRpc.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\ja\StreamJsonRpc.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/ko/StreamJsonRpc.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\ko\StreamJsonRpc.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/pl/StreamJsonRpc.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\pl\StreamJsonRpc.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/pt-BR/StreamJsonRpc.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\pt-BR\StreamJsonRpc.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/ru/StreamJsonRpc.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\ru\StreamJsonRpc.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/tr/StreamJsonRpc.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\tr\StreamJsonRpc.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/zh-Hans/StreamJsonRpc.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\zh-Hans\StreamJsonRpc.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/zh-Hant/StreamJsonRpc.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\zh-Hant\StreamJsonRpc.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/runtimes/win-x86/native/msalruntime_x86.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\runtimes\win-x86\native\msalruntime_x86.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/runtimes/win-x64/native/msalruntime.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\runtimes\win-x64\native\msalruntime.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/runtimes/win-arm64/native/msalruntime_arm64.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\runtimes\win-arm64\native\msalruntime_arm64.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/cs/Microsoft.ServiceHub.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\cs\Microsoft.ServiceHub.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/de/Microsoft.ServiceHub.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\de\Microsoft.ServiceHub.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/es/Microsoft.ServiceHub.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\es\Microsoft.ServiceHub.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/fr/Microsoft.ServiceHub.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\fr\Microsoft.ServiceHub.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/it/Microsoft.ServiceHub.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\it\Microsoft.ServiceHub.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/ja/Microsoft.ServiceHub.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\ja\Microsoft.ServiceHub.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/ko/Microsoft.ServiceHub.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\ko\Microsoft.ServiceHub.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/pl/Microsoft.ServiceHub.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\pl\Microsoft.ServiceHub.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/pt-BR/Microsoft.ServiceHub.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\pt-BR\Microsoft.ServiceHub.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/ru/Microsoft.ServiceHub.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\ru\Microsoft.ServiceHub.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/tr/Microsoft.ServiceHub.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\tr\Microsoft.ServiceHub.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/zh-Hans/Microsoft.ServiceHub.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\zh-Hans\Microsoft.ServiceHub.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/zh-Hant/Microsoft.ServiceHub.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\zh-Hant\Microsoft.ServiceHub.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/cs/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\cs\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/de/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\de\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/es/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\es\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/fr/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\fr\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/it/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\it\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/ja/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\ja\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/ko/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\ko\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/pl/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\pl\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/pt-BR/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\pt-BR\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/ru/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\ru\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/tr/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\tr\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/zh-Hans/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\zh-Hans\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/zh-Hant/Microsoft.ServiceHub.Resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\zh-Hant\Microsoft.ServiceHub.Resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/cs/Microsoft.VisualStudio.Composition.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\cs\Microsoft.VisualStudio.Composition.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/de/Microsoft.VisualStudio.Composition.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\de\Microsoft.VisualStudio.Composition.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/es/Microsoft.VisualStudio.Composition.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\es\Microsoft.VisualStudio.Composition.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/fr/Microsoft.VisualStudio.Composition.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\fr\Microsoft.VisualStudio.Composition.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/it/Microsoft.VisualStudio.Composition.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\it\Microsoft.VisualStudio.Composition.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/ja/Microsoft.VisualStudio.Composition.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\ja\Microsoft.VisualStudio.Composition.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/ko/Microsoft.VisualStudio.Composition.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\ko\Microsoft.VisualStudio.Composition.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/pl/Microsoft.VisualStudio.Composition.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\pl\Microsoft.VisualStudio.Composition.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/pt-BR/Microsoft.VisualStudio.Composition.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\pt-BR\Microsoft.VisualStudio.Composition.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/ru/Microsoft.VisualStudio.Composition.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\ru\Microsoft.VisualStudio.Composition.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/tr/Microsoft.VisualStudio.Composition.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\tr\Microsoft.VisualStudio.Composition.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/zh-Hans/Microsoft.VisualStudio.Composition.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\zh-Hans\Microsoft.VisualStudio.Composition.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/zh-Hant/Microsoft.VisualStudio.Composition.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\zh-Hant\Microsoft.VisualStudio.Composition.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/cs/Microsoft.VisualStudio.GraphModel.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\cs\Microsoft.VisualStudio.GraphModel.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/de/Microsoft.VisualStudio.GraphModel.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\de\Microsoft.VisualStudio.GraphModel.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/es/Microsoft.VisualStudio.GraphModel.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\es\Microsoft.VisualStudio.GraphModel.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/fr/Microsoft.VisualStudio.GraphModel.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\fr\Microsoft.VisualStudio.GraphModel.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/it/Microsoft.VisualStudio.GraphModel.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\it\Microsoft.VisualStudio.GraphModel.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/ja/Microsoft.VisualStudio.GraphModel.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\ja\Microsoft.VisualStudio.GraphModel.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/ko/Microsoft.VisualStudio.GraphModel.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\ko\Microsoft.VisualStudio.GraphModel.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/pl/Microsoft.VisualStudio.GraphModel.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\pl\Microsoft.VisualStudio.GraphModel.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/pt-BR/Microsoft.VisualStudio.GraphModel.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\pt-BR\Microsoft.VisualStudio.GraphModel.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/ru/Microsoft.VisualStudio.GraphModel.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\ru\Microsoft.VisualStudio.GraphModel.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/tr/Microsoft.VisualStudio.GraphModel.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\tr\Microsoft.VisualStudio.GraphModel.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/zh-Hans/Microsoft.VisualStudio.GraphModel.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\zh-Hans\Microsoft.VisualStudio.GraphModel.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/zh-Hant/Microsoft.VisualStudio.GraphModel.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\zh-Hant\Microsoft.VisualStudio.GraphModel.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/en/Microsoft.VisualStudio.ImageCatalog.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\en\Microsoft.VisualStudio.ImageCatalog.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/cs/Microsoft.VisualStudio.Imaging.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\cs\Microsoft.VisualStudio.Imaging.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/de/Microsoft.VisualStudio.Imaging.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\de\Microsoft.VisualStudio.Imaging.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/en/Microsoft.VisualStudio.Imaging.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\en\Microsoft.VisualStudio.Imaging.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/es/Microsoft.VisualStudio.Imaging.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\es\Microsoft.VisualStudio.Imaging.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/fr/Microsoft.VisualStudio.Imaging.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\fr\Microsoft.VisualStudio.Imaging.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/it/Microsoft.VisualStudio.Imaging.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\it\Microsoft.VisualStudio.Imaging.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/ja/Microsoft.VisualStudio.Imaging.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\ja\Microsoft.VisualStudio.Imaging.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/ko/Microsoft.VisualStudio.Imaging.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\ko\Microsoft.VisualStudio.Imaging.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/pl/Microsoft.VisualStudio.Imaging.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\pl\Microsoft.VisualStudio.Imaging.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/pt-BR/Microsoft.VisualStudio.Imaging.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\pt-BR\Microsoft.VisualStudio.Imaging.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/ru/Microsoft.VisualStudio.Imaging.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\ru\Microsoft.VisualStudio.Imaging.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/tr/Microsoft.VisualStudio.Imaging.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\tr\Microsoft.VisualStudio.Imaging.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/zh-Hans/Microsoft.VisualStudio.Imaging.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\zh-Hans\Microsoft.VisualStudio.Imaging.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/zh-Hant/Microsoft.VisualStudio.Imaging.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\zh-Hant\Microsoft.VisualStudio.Imaging.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/cs/Microsoft.TeamFoundation.Common.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\cs\Microsoft.TeamFoundation.Common.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/cs/Microsoft.VisualStudio.Services.Common.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\cs\Microsoft.VisualStudio.Services.Common.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/cs/Microsoft.VisualStudio.Services.WebApi.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\cs\Microsoft.VisualStudio.Services.WebApi.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/de/Microsoft.TeamFoundation.Common.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\de\Microsoft.TeamFoundation.Common.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/de/Microsoft.VisualStudio.Services.Common.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\de\Microsoft.VisualStudio.Services.Common.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/de/Microsoft.VisualStudio.Services.WebApi.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\de\Microsoft.VisualStudio.Services.WebApi.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/es/Microsoft.TeamFoundation.Common.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\es\Microsoft.TeamFoundation.Common.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/es/Microsoft.VisualStudio.Services.Common.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\es\Microsoft.VisualStudio.Services.Common.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/es/Microsoft.VisualStudio.Services.WebApi.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\es\Microsoft.VisualStudio.Services.WebApi.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/fr/Microsoft.TeamFoundation.Common.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\fr\Microsoft.TeamFoundation.Common.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/fr/Microsoft.VisualStudio.Services.Common.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\fr\Microsoft.VisualStudio.Services.Common.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/fr/Microsoft.VisualStudio.Services.WebApi.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\fr\Microsoft.VisualStudio.Services.WebApi.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/it/Microsoft.TeamFoundation.Common.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\it\Microsoft.TeamFoundation.Common.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/it/Microsoft.VisualStudio.Services.Common.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\it\Microsoft.VisualStudio.Services.Common.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/it/Microsoft.VisualStudio.Services.WebApi.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\it\Microsoft.VisualStudio.Services.WebApi.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/ja/Microsoft.TeamFoundation.Common.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\ja\Microsoft.TeamFoundation.Common.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/ja/Microsoft.VisualStudio.Services.Common.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\ja\Microsoft.VisualStudio.Services.Common.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/ja/Microsoft.VisualStudio.Services.WebApi.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\ja\Microsoft.VisualStudio.Services.WebApi.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/ko/Microsoft.TeamFoundation.Common.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\ko\Microsoft.TeamFoundation.Common.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/ko/Microsoft.VisualStudio.Services.Common.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\ko\Microsoft.VisualStudio.Services.Common.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/ko/Microsoft.VisualStudio.Services.WebApi.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\ko\Microsoft.VisualStudio.Services.WebApi.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/pl/Microsoft.TeamFoundation.Common.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\pl\Microsoft.TeamFoundation.Common.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/pl/Microsoft.VisualStudio.Services.Common.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\pl\Microsoft.VisualStudio.Services.Common.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/pl/Microsoft.VisualStudio.Services.WebApi.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\pl\Microsoft.VisualStudio.Services.WebApi.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/pt-BR/Microsoft.TeamFoundation.Common.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\pt-BR\Microsoft.TeamFoundation.Common.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/pt-BR/Microsoft.VisualStudio.Services.Common.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\pt-BR\Microsoft.VisualStudio.Services.Common.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/pt-BR/Microsoft.VisualStudio.Services.WebApi.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\pt-BR\Microsoft.VisualStudio.Services.WebApi.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/ru/Microsoft.TeamFoundation.Common.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\ru\Microsoft.TeamFoundation.Common.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/ru/Microsoft.VisualStudio.Services.Common.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\ru\Microsoft.VisualStudio.Services.Common.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/ru/Microsoft.VisualStudio.Services.WebApi.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\ru\Microsoft.VisualStudio.Services.WebApi.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/tr/Microsoft.TeamFoundation.Common.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\tr\Microsoft.TeamFoundation.Common.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/tr/Microsoft.VisualStudio.Services.Common.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\tr\Microsoft.VisualStudio.Services.Common.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/tr/Microsoft.VisualStudio.Services.WebApi.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\tr\Microsoft.VisualStudio.Services.WebApi.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/zh-Hans/Microsoft.TeamFoundation.Common.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\zh-Hans\Microsoft.TeamFoundation.Common.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/zh-Hans/Microsoft.VisualStudio.Services.Common.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\zh-Hans\Microsoft.VisualStudio.Services.Common.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/zh-Hans/Microsoft.VisualStudio.Services.WebApi.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\zh-Hans\Microsoft.VisualStudio.Services.WebApi.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/zh-Hant/Microsoft.TeamFoundation.Common.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\zh-Hant\Microsoft.TeamFoundation.Common.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/zh-Hant/Microsoft.VisualStudio.Services.Common.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\zh-Hant\Microsoft.VisualStudio.Services.Common.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/zh-Hant/Microsoft.VisualStudio.Services.WebApi.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\zh-Hant\Microsoft.VisualStudio.Services.WebApi.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/cs/Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\cs\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/de/Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\de\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/es/Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\es\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/fr/Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\fr\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/it/Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\it\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/ja/Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\ja\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/ko/Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\ko\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/pl/Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\pl\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/pt-BR/Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\pt-BR\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/ru/Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\ru\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/tr/Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\tr\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/zh-Hans/Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\zh-Hans\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/zh-Hant/Microsoft.VisualStudio.Services.Client.Interactive.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\zh-Hant\Microsoft.VisualStudio.Services.Client.Interactive.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/cs/Microsoft.VisualStudio.Shell.15.0.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\cs\Microsoft.VisualStudio.Shell.15.0.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/de/Microsoft.VisualStudio.Shell.15.0.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\de\Microsoft.VisualStudio.Shell.15.0.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/es/Microsoft.VisualStudio.Shell.15.0.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\es\Microsoft.VisualStudio.Shell.15.0.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/fr/Microsoft.VisualStudio.Shell.15.0.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\fr\Microsoft.VisualStudio.Shell.15.0.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/it/Microsoft.VisualStudio.Shell.15.0.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\it\Microsoft.VisualStudio.Shell.15.0.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/ja/Microsoft.VisualStudio.Shell.15.0.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\ja\Microsoft.VisualStudio.Shell.15.0.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/ko/Microsoft.VisualStudio.Shell.15.0.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\ko\Microsoft.VisualStudio.Shell.15.0.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/pl/Microsoft.VisualStudio.Shell.15.0.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\pl\Microsoft.VisualStudio.Shell.15.0.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/pt-BR/Microsoft.VisualStudio.Shell.15.0.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\pt-BR\Microsoft.VisualStudio.Shell.15.0.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/ru/Microsoft.VisualStudio.Shell.15.0.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\ru\Microsoft.VisualStudio.Shell.15.0.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/tr/Microsoft.VisualStudio.Shell.15.0.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\tr\Microsoft.VisualStudio.Shell.15.0.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/zh-Hans/Microsoft.VisualStudio.Shell.15.0.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\zh-Hans\Microsoft.VisualStudio.Shell.15.0.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/zh-Hant/Microsoft.VisualStudio.Shell.15.0.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\zh-Hant\Microsoft.VisualStudio.Shell.15.0.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/cs/Microsoft.VisualStudio.Shell.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\cs\Microsoft.VisualStudio.Shell.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/de/Microsoft.VisualStudio.Shell.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\de\Microsoft.VisualStudio.Shell.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/es/Microsoft.VisualStudio.Shell.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\es\Microsoft.VisualStudio.Shell.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/fr/Microsoft.VisualStudio.Shell.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\fr\Microsoft.VisualStudio.Shell.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/it/Microsoft.VisualStudio.Shell.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\it\Microsoft.VisualStudio.Shell.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/ja/Microsoft.VisualStudio.Shell.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\ja\Microsoft.VisualStudio.Shell.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/ko/Microsoft.VisualStudio.Shell.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\ko\Microsoft.VisualStudio.Shell.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/pl/Microsoft.VisualStudio.Shell.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\pl\Microsoft.VisualStudio.Shell.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/pt-BR/Microsoft.VisualStudio.Shell.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\pt-BR\Microsoft.VisualStudio.Shell.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/ru/Microsoft.VisualStudio.Shell.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\ru\Microsoft.VisualStudio.Shell.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/tr/Microsoft.VisualStudio.Shell.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\tr\Microsoft.VisualStudio.Shell.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/zh-Hans/Microsoft.VisualStudio.Shell.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\zh-Hans\Microsoft.VisualStudio.Shell.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/zh-Hant/Microsoft.VisualStudio.Shell.Framework.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\zh-Hant\Microsoft.VisualStudio.Shell.Framework.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/cs/Microsoft.VisualStudio.Threading.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\cs\Microsoft.VisualStudio.Threading.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/de/Microsoft.VisualStudio.Threading.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\de\Microsoft.VisualStudio.Threading.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/es/Microsoft.VisualStudio.Threading.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\es\Microsoft.VisualStudio.Threading.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/fr/Microsoft.VisualStudio.Threading.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\fr\Microsoft.VisualStudio.Threading.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/it/Microsoft.VisualStudio.Threading.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\it\Microsoft.VisualStudio.Threading.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/ja/Microsoft.VisualStudio.Threading.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\ja\Microsoft.VisualStudio.Threading.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/ko/Microsoft.VisualStudio.Threading.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\ko\Microsoft.VisualStudio.Threading.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/pl/Microsoft.VisualStudio.Threading.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\pl\Microsoft.VisualStudio.Threading.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/pt-BR/Microsoft.VisualStudio.Threading.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\pt-BR\Microsoft.VisualStudio.Threading.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/ru/Microsoft.VisualStudio.Threading.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\ru\Microsoft.VisualStudio.Threading.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/tr/Microsoft.VisualStudio.Threading.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\tr\Microsoft.VisualStudio.Threading.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/zh-Hans/Microsoft.VisualStudio.Threading.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/zh-Hant/Microsoft.VisualStudio.Threading.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/cs/Microsoft.VisualStudio.Utilities.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\cs\Microsoft.VisualStudio.Utilities.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/de/Microsoft.VisualStudio.Utilities.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\de\Microsoft.VisualStudio.Utilities.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/en/Microsoft.VisualStudio.Utilities.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\en\Microsoft.VisualStudio.Utilities.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/es/Microsoft.VisualStudio.Utilities.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\es\Microsoft.VisualStudio.Utilities.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/fr/Microsoft.VisualStudio.Utilities.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\fr\Microsoft.VisualStudio.Utilities.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/it/Microsoft.VisualStudio.Utilities.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\it\Microsoft.VisualStudio.Utilities.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/ja/Microsoft.VisualStudio.Utilities.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\ja\Microsoft.VisualStudio.Utilities.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/ko/Microsoft.VisualStudio.Utilities.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\ko\Microsoft.VisualStudio.Utilities.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/pl/Microsoft.VisualStudio.Utilities.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\pl\Microsoft.VisualStudio.Utilities.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/pt-BR/Microsoft.VisualStudio.Utilities.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\pt-BR\Microsoft.VisualStudio.Utilities.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/ru/Microsoft.VisualStudio.Utilities.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\ru\Microsoft.VisualStudio.Utilities.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/tr/Microsoft.VisualStudio.Utilities.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\tr\Microsoft.VisualStudio.Utilities.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/zh-Hans/Microsoft.VisualStudio.Utilities.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\zh-Hans\Microsoft.VisualStudio.Utilities.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/zh-Hant/Microsoft.VisualStudio.Utilities.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\zh-Hant\Microsoft.VisualStudio.Utilities.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/cs/Microsoft.VisualStudio.Validation.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\cs\Microsoft.VisualStudio.Validation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/de/Microsoft.VisualStudio.Validation.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\de\Microsoft.VisualStudio.Validation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/es/Microsoft.VisualStudio.Validation.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\es\Microsoft.VisualStudio.Validation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/fr/Microsoft.VisualStudio.Validation.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\fr\Microsoft.VisualStudio.Validation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/it/Microsoft.VisualStudio.Validation.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\it\Microsoft.VisualStudio.Validation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/ja/Microsoft.VisualStudio.Validation.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\ja\Microsoft.VisualStudio.Validation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/ko/Microsoft.VisualStudio.Validation.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\ko\Microsoft.VisualStudio.Validation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/pl/Microsoft.VisualStudio.Validation.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\pl\Microsoft.VisualStudio.Validation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/pt-BR/Microsoft.VisualStudio.Validation.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\pt-BR\Microsoft.VisualStudio.Validation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/ru/Microsoft.VisualStudio.Validation.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\ru\Microsoft.VisualStudio.Validation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/tr/Microsoft.VisualStudio.Validation.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\tr\Microsoft.VisualStudio.Validation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/zh-Hans/Microsoft.VisualStudio.Validation.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/zh-Hant/Microsoft.VisualStudio.Validation.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/cs/StreamJsonRpc.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\cs\StreamJsonRpc.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/de/StreamJsonRpc.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\de\StreamJsonRpc.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/es/StreamJsonRpc.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\es\StreamJsonRpc.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/fr/StreamJsonRpc.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\fr\StreamJsonRpc.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/it/StreamJsonRpc.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\it\StreamJsonRpc.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/ja/StreamJsonRpc.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\ja\StreamJsonRpc.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/ko/StreamJsonRpc.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\ko\StreamJsonRpc.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/pl/StreamJsonRpc.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\pl\StreamJsonRpc.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/pt-BR/StreamJsonRpc.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\pt-BR\StreamJsonRpc.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/ru/StreamJsonRpc.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\ru\StreamJsonRpc.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/tr/StreamJsonRpc.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\tr\StreamJsonRpc.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/zh-Hans/StreamJsonRpc.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\zh-Hans\StreamJsonRpc.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/zh-Hant/StreamJsonRpc.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\zh-Hant\StreamJsonRpc.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/Microsoft.Developer.IdentityService.Client.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\Microsoft.Developer.IdentityService.Client.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/zh-Hans/Microsoft.Developer.IdentityService.Client.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\zh-Hans\Microsoft.Developer.IdentityService.Client.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/zh-Hant/Microsoft.Developer.IdentityService.Client.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\zh-Hant\Microsoft.Developer.IdentityService.Client.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/de/Microsoft.Developer.IdentityService.Client.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\de\Microsoft.Developer.IdentityService.Client.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/es/Microsoft.Developer.IdentityService.Client.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\es\Microsoft.Developer.IdentityService.Client.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/fr/Microsoft.Developer.IdentityService.Client.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\fr\Microsoft.Developer.IdentityService.Client.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/it/Microsoft.Developer.IdentityService.Client.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\it\Microsoft.Developer.IdentityService.Client.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/ja/Microsoft.Developer.IdentityService.Client.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\ja\Microsoft.Developer.IdentityService.Client.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/ko/Microsoft.Developer.IdentityService.Client.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\ko\Microsoft.Developer.IdentityService.Client.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/ru/Microsoft.Developer.IdentityService.Client.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\ru\Microsoft.Developer.IdentityService.Client.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/cs/Microsoft.Developer.IdentityService.Client.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\cs\Microsoft.Developer.IdentityService.Client.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/pt-BR/Microsoft.Developer.IdentityService.Client.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\pt-BR\Microsoft.Developer.IdentityService.Client.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/pl/Microsoft.Developer.IdentityService.Client.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\pl\Microsoft.Developer.IdentityService.Client.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/tr/Microsoft.Developer.IdentityService.Client.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\tr\Microsoft.Developer.IdentityService.Client.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/Microsoft.Developer.IdentityService.Core.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\Microsoft.Developer.IdentityService.Core.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/zh-Hans/Microsoft.Developer.IdentityService.Core.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\zh-Hans\Microsoft.Developer.IdentityService.Core.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/zh-Hant/Microsoft.Developer.IdentityService.Core.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\zh-Hant\Microsoft.Developer.IdentityService.Core.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/de/Microsoft.Developer.IdentityService.Core.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\de\Microsoft.Developer.IdentityService.Core.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/es/Microsoft.Developer.IdentityService.Core.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\es\Microsoft.Developer.IdentityService.Core.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/fr/Microsoft.Developer.IdentityService.Core.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\fr\Microsoft.Developer.IdentityService.Core.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/it/Microsoft.Developer.IdentityService.Core.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\it\Microsoft.Developer.IdentityService.Core.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/ja/Microsoft.Developer.IdentityService.Core.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\ja\Microsoft.Developer.IdentityService.Core.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/ko/Microsoft.Developer.IdentityService.Core.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\ko\Microsoft.Developer.IdentityService.Core.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/ru/Microsoft.Developer.IdentityService.Core.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\ru\Microsoft.Developer.IdentityService.Core.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/cs/Microsoft.Developer.IdentityService.Core.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\cs\Microsoft.Developer.IdentityService.Core.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/pt-BR/Microsoft.Developer.IdentityService.Core.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\pt-BR\Microsoft.Developer.IdentityService.Core.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/pl/Microsoft.Developer.IdentityService.Core.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\pl\Microsoft.Developer.IdentityService.Core.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Client/tr/Microsoft.Developer.IdentityService.Core.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Client\tr\Microsoft.Developer.IdentityService.Core.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/Microsoft.VisualStudio.OnlineLicensing.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\Microsoft.VisualStudio.OnlineLicensing.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/zh-Hans/Microsoft.VisualStudio.OnlineLicensing.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\zh-Hans\Microsoft.VisualStudio.OnlineLicensing.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/zh-Hant/Microsoft.VisualStudio.OnlineLicensing.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\zh-Hant\Microsoft.VisualStudio.OnlineLicensing.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/de/Microsoft.VisualStudio.OnlineLicensing.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\de\Microsoft.VisualStudio.OnlineLicensing.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/es/Microsoft.VisualStudio.OnlineLicensing.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\es\Microsoft.VisualStudio.OnlineLicensing.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/fr/Microsoft.VisualStudio.OnlineLicensing.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\fr\Microsoft.VisualStudio.OnlineLicensing.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/it/Microsoft.VisualStudio.OnlineLicensing.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\it\Microsoft.VisualStudio.OnlineLicensing.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/ja/Microsoft.VisualStudio.OnlineLicensing.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\ja\Microsoft.VisualStudio.OnlineLicensing.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/ko/Microsoft.VisualStudio.OnlineLicensing.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\ko\Microsoft.VisualStudio.OnlineLicensing.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/ru/Microsoft.VisualStudio.OnlineLicensing.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\ru\Microsoft.VisualStudio.OnlineLicensing.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/cs/Microsoft.VisualStudio.OnlineLicensing.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\cs\Microsoft.VisualStudio.OnlineLicensing.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/pt-BR/Microsoft.VisualStudio.OnlineLicensing.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\pt-BR\Microsoft.VisualStudio.OnlineLicensing.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/pl/Microsoft.VisualStudio.OnlineLicensing.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\pl\Microsoft.VisualStudio.OnlineLicensing.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Licensing/tr/Microsoft.VisualStudio.OnlineLicensing.resources.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\Licensing\tr\Microsoft.VisualStudio.OnlineLicensing.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /manifest.json
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\manifest.json file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /catalog.json
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Identity\catalog.json file deleted.
+[3474:0009][2026-05-10T01:46:12] Started: Deleting empty directories
+[3474:0009][2026-05-10T01:46:12] Completed: Deleting empty directories
+[3474:0009][2026-05-10T01:46:12] Package executed successfully. Return code: 0

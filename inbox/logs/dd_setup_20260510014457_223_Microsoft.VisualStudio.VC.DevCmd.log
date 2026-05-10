@@ -1,0 +1,30 @@
+[3474:0009][2026-05-10T01:46:26] Using cached package manifest as the embedded manifest
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/Common7/Tools/VsMSBuildCmd.bat
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\VsMSBuildCmd.bat file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/Common7/Tools/VsDevCmd.bat
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\VsDevCmd.bat file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/Common7/Tools/LaunchDevCmd.bat
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\LaunchDevCmd.bat file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/Common7/Tools/Microsoft.VisualStudio.DevShell.dll
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\Microsoft.VisualStudio.DevShell.dll file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/Common7/Tools/Launch-VsDevShell.ps1
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\Launch-VsDevShell.ps1 file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/Common7/Tools/Microsoft.VisualStudio.Telemetry.dll
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\Microsoft.VisualStudio.Telemetry.dll file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/Common7/Tools/Microsoft.VisualStudio.RemoteControl.dll
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\Microsoft.VisualStudio.RemoteControl.dll file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/Common7/Tools/Microsoft.VisualStudio.Utilities.Internal.dll
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\Microsoft.VisualStudio.Utilities.Internal.dll file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/Common7/Tools/Newtonsoft.Json.dll
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\Newtonsoft.Json.dll file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/Common7/Tools/System.Runtime.CompilerServices.Unsafe.dll
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\System.Runtime.CompilerServices.Unsafe.dll file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/Common7/Tools/vsdevcmd/core/parse_cmd.bat
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\vsdevcmd\core\parse_cmd.bat file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/Common7/Tools/vsdevcmd/core/vsdevcmd_end.bat
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\vsdevcmd\core\vsdevcmd_end.bat file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/Common7/Tools/vsdevcmd/core/vsdevcmd_start.bat
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\vsdevcmd\core\vsdevcmd_start.bat file deleted.
+[3474:0009][2026-05-10T01:46:26] Started: Deleting empty directories
+[3474:0009][2026-05-10T01:46:26] Completed: Deleting empty directories
+[3474:0009][2026-05-10T01:46:26] Package executed successfully. Return code: 0

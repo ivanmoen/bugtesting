@@ -1,0 +1,74 @@
+[3c7c:000c][2026-05-10T01:35:58] Opening the package for processing
+[3c7c:000c][2026-05-10T01:35:58] Using package payload to get the embedded manifest
+[3c7c:000c][2026-05-10T01:35:58] Getting list of files within the package
+[3c7c:000c][2026-05-10T01:35:58] Processing file /Contents/Common7/IDE/Remote%20Debugger/x64/iisresolver.dll
+[3c7c:000c][2026-05-10T01:35:58] Started: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/iisresolver.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\iisresolver.dll
+[3c7c:000c][2026-05-10T01:35:58] Completed: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/iisresolver.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\iisresolver.dll
+[3c7c:000c][2026-05-10T01:35:58] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\iisresolver.dll'.
+[3c7c:000c][2026-05-10T01:35:58] Processing file /Contents/Common7/IDE/Remote%20Debugger/x64/MemoryAnalyzer.Extensions.dll
+[3c7c:000c][2026-05-10T01:35:58] Started: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/MemoryAnalyzer.Extensions.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\MemoryAnalyzer.Extensions.dll
+[3c7c:000c][2026-05-10T01:35:58] Completed: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/MemoryAnalyzer.Extensions.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\MemoryAnalyzer.Extensions.dll
+[3c7c:000c][2026-05-10T01:35:58] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\MemoryAnalyzer.Extensions.dll'.
+[3c7c:000c][2026-05-10T01:35:58] Processing file /Contents/Common7/IDE/Remote%20Debugger/x64/Microsoft.VisualStudio.Debugger.Engine.dll
+[3c7c:000c][2026-05-10T01:35:58] Started: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/Microsoft.VisualStudio.Debugger.Engine.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\Microsoft.VisualStudio.Debugger.Engine.dll
+[3c7c:000c][2026-05-10T01:35:58] Completed: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/Microsoft.VisualStudio.Debugger.Engine.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\Microsoft.VisualStudio.Debugger.Engine.dll
+[3c7c:000c][2026-05-10T01:35:58] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\Microsoft.VisualStudio.Debugger.Engine.dll'.
+[3c7c:000c][2026-05-10T01:35:58] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\Microsoft.VisualStudio.Debugger.Engine.dll for X64 ngen
+[3c7c:000c][2026-05-10T01:35:58] Successfully queued file '/Contents/Common7/IDE/Remote Debugger/x64/Microsoft.VisualStudio.Debugger.Engine.dll' for ngen
+[3c7c:000c][2026-05-10T01:35:58] Processing file /Contents/Common7/IDE/Remote%20Debugger/x64/Microsoft.VisualStudio.Debugger.Metadata.dll
+[3c7c:000c][2026-05-10T01:35:58] Started: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/Microsoft.VisualStudio.Debugger.Metadata.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\Microsoft.VisualStudio.Debugger.Metadata.dll
+[3c7c:000c][2026-05-10T01:35:58] Completed: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/Microsoft.VisualStudio.Debugger.Metadata.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\Microsoft.VisualStudio.Debugger.Metadata.dll
+[3c7c:000c][2026-05-10T01:35:58] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\Microsoft.VisualStudio.Debugger.Metadata.dll'.
+[3c7c:000c][2026-05-10T01:35:58] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\Microsoft.VisualStudio.Debugger.Metadata.dll for X64 ngen
+[3c7c:000c][2026-05-10T01:35:58] Successfully queued file '/Contents/Common7/IDE/Remote Debugger/x64/Microsoft.VisualStudio.Debugger.Metadata.dll' for ngen
+[3c7c:000c][2026-05-10T01:35:58] Processing file /Contents/Common7/IDE/Remote%20Debugger/x64/Microsoft.VisualStudio.vil.dll
+[3c7c:000c][2026-05-10T01:35:58] Started: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/Microsoft.VisualStudio.vil.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\Microsoft.VisualStudio.vil.dll
+[3c7c:000c][2026-05-10T01:35:58] Completed: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/Microsoft.VisualStudio.vil.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\Microsoft.VisualStudio.vil.dll
+[3c7c:000c][2026-05-10T01:35:58] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\Microsoft.VisualStudio.vil.dll'.
+[3c7c:000c][2026-05-10T01:35:58] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\Microsoft.VisualStudio.vil.dll for X64 ngen
+[3c7c:000c][2026-05-10T01:35:58] Successfully queued file '/Contents/Common7/IDE/Remote Debugger/x64/Microsoft.VisualStudio.vil.dll' for ngen
+[3c7c:000c][2026-05-10T01:35:58] Processing file /Contents/Common7/IDE/Remote%20Debugger/x64/Microsoft.VisualStudio.vil.host.dll
+[3c7c:000c][2026-05-10T01:35:58] Started: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/Microsoft.VisualStudio.vil.host.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\Microsoft.VisualStudio.vil.host.dll
+[3c7c:000c][2026-05-10T01:35:58] Completed: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/Microsoft.VisualStudio.vil.host.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\Microsoft.VisualStudio.vil.host.dll
+[3c7c:000c][2026-05-10T01:35:58] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\Microsoft.VisualStudio.vil.host.dll'.
+[3c7c:000c][2026-05-10T01:35:58] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\Microsoft.VisualStudio.vil.host.dll for X64 ngen
+[3c7c:000c][2026-05-10T01:35:58] Successfully queued file '/Contents/Common7/IDE/Remote Debugger/x64/Microsoft.VisualStudio.vil.host.dll' for ngen
+[3c7c:000c][2026-05-10T01:35:58] Processing file /Contents/Common7/IDE/Remote%20Debugger/x64/Runtime/Microsoft.VisualStudio.Debugger.Runtime.Desktop.dll
+[3c7c:000c][2026-05-10T01:35:58] Started: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/Runtime/Microsoft.VisualStudio.Debugger.Runtime.Desktop.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\Runtime\Microsoft.VisualStudio.Debugger.Runtime.Desktop.dll
+[3c7c:000c][2026-05-10T01:35:58] Completed: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/Runtime/Microsoft.VisualStudio.Debugger.Runtime.Desktop.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\Runtime\Microsoft.VisualStudio.Debugger.Runtime.Desktop.dll
+[3c7c:000c][2026-05-10T01:35:58] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\Runtime\Microsoft.VisualStudio.Debugger.Runtime.Desktop.dll'.
+[3c7c:000c][2026-05-10T01:35:58] Processing file /Contents/Common7/IDE/Remote%20Debugger/x64/Runtime/Microsoft.VisualStudio.Debugger.Runtime.Impl.dll
+[3c7c:000c][2026-05-10T01:35:58] Started: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/Runtime/Microsoft.VisualStudio.Debugger.Runtime.Impl.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\Runtime\Microsoft.VisualStudio.Debugger.Runtime.Impl.dll
+[3c7c:000c][2026-05-10T01:35:58] Completed: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/Runtime/Microsoft.VisualStudio.Debugger.Runtime.Impl.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\Runtime\Microsoft.VisualStudio.Debugger.Runtime.Impl.dll
+[3c7c:000c][2026-05-10T01:35:58] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\Runtime\Microsoft.VisualStudio.Debugger.Runtime.Impl.dll'.
+[3c7c:000c][2026-05-10T01:35:58] Processing file /Contents/Common7/IDE/Remote%20Debugger/x64/Runtime/Microsoft.VisualStudio.Debugger.Runtime.NetCoreApp.dll
+[3c7c:000c][2026-05-10T01:35:58] Started: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/Runtime/Microsoft.VisualStudio.Debugger.Runtime.NetCoreApp.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\Runtime\Microsoft.VisualStudio.Debugger.Runtime.NetCoreApp.dll
+[3c7c:000c][2026-05-10T01:35:58] Completed: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/Runtime/Microsoft.VisualStudio.Debugger.Runtime.NetCoreApp.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\Runtime\Microsoft.VisualStudio.Debugger.Runtime.NetCoreApp.dll
+[3c7c:000c][2026-05-10T01:35:58] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\Runtime\Microsoft.VisualStudio.Debugger.Runtime.NetCoreApp.dll'.
+[3c7c:000c][2026-05-10T01:35:58] Processing file /Contents/Common7/IDE/Remote%20Debugger/x64/vsdebugeng.dll
+[3c7c:000c][2026-05-10T01:35:58] Started: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/vsdebugeng.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\vsdebugeng.dll
+[3c7c:000c][2026-05-10T01:35:58] Completed: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/vsdebugeng.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\vsdebugeng.dll
+[3c7c:000c][2026-05-10T01:35:58] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\vsdebugeng.dll'.
+[3c7c:000c][2026-05-10T01:35:58] Processing file /Contents/Common7/IDE/Remote%20Debugger/x64/vsdebugeng.impl.dll
+[3c7c:000c][2026-05-10T01:35:58] Started: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/vsdebugeng.impl.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\vsdebugeng.impl.dll
+[3c7c:000c][2026-05-10T01:35:58] Completed: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/vsdebugeng.impl.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\vsdebugeng.impl.dll
+[3c7c:000c][2026-05-10T01:35:58] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\vsdebugeng.impl.dll'.
+[3c7c:000c][2026-05-10T01:35:58] Processing file /Contents/Common7/IDE/Remote%20Debugger/x64/vsdebugeng.manimpl.45.dll
+[3c7c:000c][2026-05-10T01:35:58] Started: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/vsdebugeng.manimpl.45.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\vsdebugeng.manimpl.45.dll
+[3c7c:000c][2026-05-10T01:35:58] Completed: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/vsdebugeng.manimpl.45.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\vsdebugeng.manimpl.45.dll
+[3c7c:000c][2026-05-10T01:35:58] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\vsdebugeng.manimpl.45.dll'.
+[3c7c:000c][2026-05-10T01:35:58] Processing file /Contents/Common7/IDE/Remote%20Debugger/x64/vsdebugeng.manimpl.dll
+[3c7c:000c][2026-05-10T01:35:58] Started: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/vsdebugeng.manimpl.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\vsdebugeng.manimpl.dll
+[3c7c:000c][2026-05-10T01:35:58] Completed: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/vsdebugeng.manimpl.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\vsdebugeng.manimpl.dll
+[3c7c:000c][2026-05-10T01:35:58] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\vsdebugeng.manimpl.dll'.
+[3c7c:000c][2026-05-10T01:35:58] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\vsdebugeng.manimpl.dll for X64 ngen
+[3c7c:000c][2026-05-10T01:35:58] Successfully queued file '/Contents/Common7/IDE/Remote Debugger/x64/vsdebugeng.manimpl.dll' for ngen
+[3c7c:000c][2026-05-10T01:35:58] Processing file /Contents/Common7/IDE/Remote%20Debugger/x64/VsDebugLaunchNotify.exe
+[3c7c:000c][2026-05-10T01:35:58] Started: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/VsDebugLaunchNotify.exe to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\VsDebugLaunchNotify.exe
+[3c7c:000c][2026-05-10T01:35:58] Completed: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/VsDebugLaunchNotify.exe to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\VsDebugLaunchNotify.exe
+[3c7c:000c][2026-05-10T01:35:58] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\VsDebugLaunchNotify.exe'.
+[3c7c:000c][2026-05-10T01:35:58] Processing file /Contents/Common7/IDE/Remote%20Debugger/x64/VsDebugWERHelper.exe
+[3c7c:000c][2026-05-10T01:35:58] Started: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/VsDebugWERHelper.exe to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\VsDebugWERHelper.exe
+[3c7c:000c][2026-05-10T01:35:58] Completed: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/VsDebugWERHelper.exe to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\VsDebugWERHelper.exe
+[3c7c:000c][2026-05-10T01:35:58] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\VsDebugWERHelper.exe'.
+[3c7c:000c][2026-05-10T01:35:58] Package executed successfully. Return code: 0

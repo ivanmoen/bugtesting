@@ -1,0 +1,20 @@
+[3c7c:000c][2026-05-10T01:35:52] Opening the package for processing
+[3c7c:000c][2026-05-10T01:35:52] Using package payload to get the embedded manifest
+[3c7c:000c][2026-05-10T01:35:52] Getting list of files within the package
+[3c7c:000c][2026-05-10T01:35:52] Processing file /Contents/Msbuild/Microsoft/VC/v170/Platforms/Win32/Platform.Common.props
+[3c7c:000c][2026-05-10T01:35:52] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Platforms/Win32/Platform.Common.props to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Platforms\Win32\Platform.Common.props
+[3c7c:000c][2026-05-10T01:35:52] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Platforms/Win32/Platform.Common.props to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Platforms\Win32\Platform.Common.props
+[3c7c:000c][2026-05-10T01:35:52] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Platforms\Win32\Platform.Common.props'.
+[3c7c:000c][2026-05-10T01:35:52] Processing file /Contents/Msbuild/Microsoft/VC/v170/Platforms/Win32/Platform.Default.props
+[3c7c:000c][2026-05-10T01:35:52] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Platforms/Win32/Platform.Default.props to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Platforms\Win32\Platform.Default.props
+[3c7c:000c][2026-05-10T01:35:52] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Platforms/Win32/Platform.Default.props to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Platforms\Win32\Platform.Default.props
+[3c7c:000c][2026-05-10T01:35:52] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Platforms\Win32\Platform.Default.props'.
+[3c7c:000c][2026-05-10T01:35:52] Processing file /Contents/Msbuild/Microsoft/VC/v170/Platforms/Win32/Platform.props
+[3c7c:000c][2026-05-10T01:35:52] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Platforms/Win32/Platform.props to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Platforms\Win32\Platform.props
+[3c7c:000c][2026-05-10T01:35:52] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Platforms/Win32/Platform.props to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Platforms\Win32\Platform.props
+[3c7c:000c][2026-05-10T01:35:52] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Platforms\Win32\Platform.props'.
+[3c7c:000c][2026-05-10T01:35:52] Processing file /Contents/Msbuild/Microsoft/VC/v170/Platforms/Win32/Platform.targets
+[3c7c:000c][2026-05-10T01:35:52] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Platforms/Win32/Platform.targets to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Platforms\Win32\Platform.targets
+[3c7c:000c][2026-05-10T01:35:52] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Platforms/Win32/Platform.targets to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Platforms\Win32\Platform.targets
+[3c7c:000c][2026-05-10T01:35:52] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Platforms\Win32\Platform.targets'.
+[3c7c:000c][2026-05-10T01:35:52] Package executed successfully. Return code: 0

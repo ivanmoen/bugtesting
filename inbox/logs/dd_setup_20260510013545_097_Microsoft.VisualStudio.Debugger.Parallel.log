@@ -1,0 +1,36 @@
+[3c7c:000c][2026-05-10T01:35:59] Opening the package for processing
+[3c7c:000c][2026-05-10T01:35:59] Using package payload to get the embedded manifest
+[3c7c:000c][2026-05-10T01:35:59] Getting list of files within the package
+[3c7c:000c][2026-05-10T01:35:59] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/ParallelDebugger/Microsoft.VisualStudio.Debugger.Parallel.pkgdef
+[3c7c:000c][2026-05-10T01:35:59] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/ParallelDebugger/Microsoft.VisualStudio.Debugger.Parallel.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\ParallelDebugger\Microsoft.VisualStudio.Debugger.Parallel.pkgdef
+[3c7c:000c][2026-05-10T01:35:59] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/ParallelDebugger/Microsoft.VisualStudio.Debugger.Parallel.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\ParallelDebugger\Microsoft.VisualStudio.Debugger.Parallel.pkgdef
+[3c7c:000c][2026-05-10T01:35:59] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\ParallelDebugger\Microsoft.VisualStudio.Debugger.Parallel.pkgdef'.
+[3c7c:000c][2026-05-10T01:35:59] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/ParallelDebugger/PfxTaskProvider.pkgdef
+[3c7c:000c][2026-05-10T01:35:59] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/ParallelDebugger/PfxTaskProvider.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\ParallelDebugger\PfxTaskProvider.pkgdef
+[3c7c:000c][2026-05-10T01:35:59] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/ParallelDebugger/PfxTaskProvider.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\ParallelDebugger\PfxTaskProvider.pkgdef
+[3c7c:000c][2026-05-10T01:35:59] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\ParallelDebugger\PfxTaskProvider.pkgdef'.
+[3c7c:000c][2026-05-10T01:35:59] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/ParallelDebugger/PplTaskProvider.pkgdef
+[3c7c:000c][2026-05-10T01:35:59] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/ParallelDebugger/PplTaskProvider.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\ParallelDebugger\PplTaskProvider.pkgdef
+[3c7c:000c][2026-05-10T01:35:59] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/ParallelDebugger/PplTaskProvider.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\ParallelDebugger\PplTaskProvider.pkgdef
+[3c7c:000c][2026-05-10T01:35:59] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\ParallelDebugger\PplTaskProvider.pkgdef'.
+[3c7c:000c][2026-05-10T01:35:59] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.Debugger.Parallel.dll
+[3c7c:000c][2026-05-10T01:35:59] Started: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Debugger.Parallel.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.Debugger.Parallel.dll
+[3c7c:000c][2026-05-10T01:35:59] Completed: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Debugger.Parallel.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.Debugger.Parallel.dll
+[3c7c:000c][2026-05-10T01:35:59] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.Debugger.Parallel.dll'.
+[3c7c:000c][2026-05-10T01:35:59] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.Debugger.Parallel.dll for X86 ngen
+[3c7c:000c][2026-05-10T01:35:59] Successfully queued file '/Contents/Common7/IDE/Microsoft.VisualStudio.Debugger.Parallel.dll' for ngen
+[3c7c:000c][2026-05-10T01:35:59] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Debugger.Parallel.MultiValueVisualizers.dll
+[3c7c:000c][2026-05-10T01:35:59] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Debugger.Parallel.MultiValueVisualizers.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Debugger.Parallel.MultiValueVisualizers.dll
+[3c7c:000c][2026-05-10T01:35:59] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Debugger.Parallel.MultiValueVisualizers.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Debugger.Parallel.MultiValueVisualizers.dll
+[3c7c:000c][2026-05-10T01:35:59] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Debugger.Parallel.MultiValueVisualizers.dll'.
+[3c7c:000c][2026-05-10T01:35:59] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Debugger.Parallel.MultiValueVisualizers.dll for X86 ngen
+[3c7c:000c][2026-05-10T01:35:59] Successfully queued file '/Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Debugger.Parallel.MultiValueVisualizers.dll' for ngen
+[3c7c:000c][2026-05-10T01:35:59] Processing file /Contents/Common7/Packages/Debugger/PfxTaskProvider.dll
+[3c7c:000c][2026-05-10T01:35:59] Started: Copying file /Contents/Common7/Packages/Debugger/PfxTaskProvider.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\PfxTaskProvider.dll
+[3c7c:000c][2026-05-10T01:35:59] Completed: Copying file /Contents/Common7/Packages/Debugger/PfxTaskProvider.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\PfxTaskProvider.dll
+[3c7c:000c][2026-05-10T01:35:59] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\PfxTaskProvider.dll'.
+[3c7c:000c][2026-05-10T01:35:59] Processing file /Contents/Common7/Packages/Debugger/PplTaskProvider.dll
+[3c7c:000c][2026-05-10T01:35:59] Started: Copying file /Contents/Common7/Packages/Debugger/PplTaskProvider.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\PplTaskProvider.dll
+[3c7c:000c][2026-05-10T01:35:59] Completed: Copying file /Contents/Common7/Packages/Debugger/PplTaskProvider.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\PplTaskProvider.dll
+[3c7c:000c][2026-05-10T01:35:59] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\PplTaskProvider.dll'.
+[3c7c:000c][2026-05-10T01:35:59] Package executed successfully. Return code: 0

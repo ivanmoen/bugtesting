@@ -1,0 +1,8 @@
+[bd94:0009][2026-05-10T01:00:54] Using cached package manifest as the embedded manifest
+[bd94:0009][2026-05-10T01:00:54] Processing file /Contents/Common7/Tools/1033/errlookui.dll
+[bd94:0009][2026-05-10T01:00:54] D:\Program\Common7\Tools\1033\errlookui.dll file deleted.
+[bd94:0009][2026-05-10T01:00:54] Processing file /Contents/Common7/Tools/1033/guidgenui.dll
+[bd94:0009][2026-05-10T01:00:54] D:\Program\Common7\Tools\1033\guidgenui.dll file deleted.
+[bd94:0009][2026-05-10T01:00:54] Started: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:54] Completed: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:54] Package executed successfully. Return code: 0

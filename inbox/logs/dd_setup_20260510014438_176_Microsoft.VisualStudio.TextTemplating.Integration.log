@@ -1,0 +1,52 @@
+[0c48:0003][2026-05-10T01:44:48] Using cached package manifest as the embedded manifest
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/T4VSHostProcess.exe
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\T4VSHostProcess.exe file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/T4VSHostProcess.exe.config
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\T4VSHostProcess.exe.config file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/Extensions/DSLTextTemplatingRegistry_x86.pkgdef
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\DSLTextTemplatingRegistry_x86.pkgdef file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/Extensions/DSLTextTemplating_FileAssoc_Sxs.pkgdef
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\DSLTextTemplating_FileAssoc_Sxs.pkgdef file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/General/1033/PreTextTemplate/PreProspective.CSharp.tt
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\CSharp\General\1033\PreTextTemplate\PreProspective.CSharp.tt file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/General/1033/PreTextTemplate/PreTextTemplate.CSharp.vstemplate
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\CSharp\General\1033\PreTextTemplate\PreTextTemplate.CSharp.vstemplate file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/General/1033/TextTemplate/Prospective.CSharp.tt
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\CSharp\General\1033\TextTemplate\Prospective.CSharp.tt file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/General/1033/TextTemplate/TextTemplate.CSharp.vstemplate
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\CSharp\General\1033\TextTemplate\TextTemplate.CSharp.vstemplate file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/General/1033/PreTextTemplate/PreTextTemplate.VisualBasic.vstemplate
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\VisualBasic\General\1033\PreTextTemplate\PreTextTemplate.VisualBasic.vstemplate file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/General/1033/PreTextTemplate/PreProspective.VisualBasic.tt
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\VisualBasic\General\1033\PreTextTemplate\PreProspective.VisualBasic.tt file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/General/1033/TextTemplate/TextTemplate.VisualBasic.vstemplate
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\VisualBasic\General\1033\TextTemplate\TextTemplate.VisualBasic.vstemplate file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/General/1033/TextTemplate/Prospective.VisualBasic.tt
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\VisualBasic\General\1033\TextTemplate\Prospective.VisualBasic.tt file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/PreTextTemplate/PreTextTemplate.WebCSharp.vstemplate
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\Web\CSharp\1033\PreTextTemplate\PreTextTemplate.WebCSharp.vstemplate file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/PreTextTemplate/PreProspective.WebCSharp.tt
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\Web\CSharp\1033\PreTextTemplate\PreProspective.WebCSharp.tt file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/TextTemplate/TextTemplate.WebCSharp.vstemplate
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\Web\CSharp\1033\TextTemplate\TextTemplate.WebCSharp.vstemplate file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/TextTemplate/Prospective.WebCSharp.tt
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\Web\CSharp\1033\TextTemplate\Prospective.WebCSharp.tt file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/ItemTemplates/AspNetCore/CSharp/1033/TextTemplate/TextTemplate.WebCSharp.vstemplate
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\AspNetCore\CSharp\1033\TextTemplate\TextTemplate.WebCSharp.vstemplate file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/ItemTemplates/AspNetCore/CSharp/1033/TextTemplate/Prospective.WebCSharp.tt
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\AspNetCore\CSharp\1033\TextTemplate\Prospective.WebCSharp.tt file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/PreTextTemplate/PreTextTemplate.WebVisualBasic.vstemplate
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\PreTextTemplate\PreTextTemplate.WebVisualBasic.vstemplate file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/PreTextTemplate/PreProspective.WebVisualBasic.tt
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\PreTextTemplate\PreProspective.WebVisualBasic.tt file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/TextTemplate/TextTemplate.WebVisualBasic.vstemplate
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\TextTemplate\TextTemplate.WebVisualBasic.vstemplate file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/TextTemplate/Prospective.WebVisualBasic.tt
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\TextTemplate\Prospective.WebVisualBasic.tt file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextTemplating.VSHost.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextTemplating.VSHost.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /contents/Common7/IDE/ItemTemplates/Microsoft.VisualStudio.TextTemplating.Integration.Item..vstman
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\Microsoft.VisualStudio.TextTemplating.Integration.Item..vstman file deleted.
+[0c48:0003][2026-05-10T01:44:48] Started: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:48] Completed: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:48] Package executed successfully. Return code: 0

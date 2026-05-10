@@ -1,0 +1,26 @@
+[da4c:0007][2026-05-10T00:50:04] Opening the package for processing
+[da4c:0007][2026-05-10T00:50:04] Using package payload to get the embedded manifest
+[da4c:0007][2026-05-10T00:50:04] Getting list of files within the package
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ScriptedHost.dll
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ScriptedHost.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ScriptedHost.dll
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ScriptedHost.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ScriptedHost.dll
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ScriptedHost.dll'.
+[da4c:0007][2026-05-10T00:50:04] Queueing D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ScriptedHost.dll for X86 ngen
+[da4c:0007][2026-05-10T00:50:04] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ScriptedHost.dll' for ngen
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Web.WebView2.Core.dll
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Web.WebView2.Core.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.Web.WebView2.Core.dll
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Web.WebView2.Core.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.Web.WebView2.Core.dll
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.Web.WebView2.Core.dll'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Web.WebView2.Wpf.dll
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Web.WebView2.Wpf.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.Web.WebView2.Wpf.dll
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Web.WebView2.Wpf.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.Web.WebView2.Wpf.dll
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.Web.WebView2.Wpf.dll'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/IDE/PrivateAssemblies/plugin.vs.v2.js
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/plugin.vs.v2.js to D:\Program\Common7\IDE\PrivateAssemblies\plugin.vs.v2.js
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/plugin.vs.v2.js to D:\Program\Common7\IDE\PrivateAssemblies\plugin.vs.v2.js
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\plugin.vs.v2.js'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/IDE/PrivateAssemblies/ScriptedHost.Blank.html
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/ScriptedHost.Blank.html to D:\Program\Common7\IDE\PrivateAssemblies\ScriptedHost.Blank.html
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/ScriptedHost.Blank.html to D:\Program\Common7\IDE\PrivateAssemblies\ScriptedHost.Blank.html
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\ScriptedHost.Blank.html'.
+[da4c:0007][2026-05-10T00:50:04] Package executed successfully. Return code: 0

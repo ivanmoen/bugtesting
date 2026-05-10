@@ -1,0 +1,42 @@
+[bd94:0009][2026-05-10T01:00:51] Using cached package manifest as the embedded manifest
+[bd94:0009][2026-05-10T01:00:51] Processing file /extension.vsixmanifest
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\extension.vsixmanifest file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Microsoft.VisualStudio.Debugger.BrokeredServices.dll
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\Microsoft.VisualStudio.Debugger.BrokeredServices.dll file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Microsoft.VisualStudio.Debugger.Shared.dll
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\Microsoft.VisualStudio.Debugger.Shared.dll file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Microsoft.VisualStudio.Debugger.BrokeredServices.pkgdef
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\Microsoft.VisualStudio.Debugger.BrokeredServices.pkgdef file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /zh-Hans/Microsoft.VisualStudio.Debugger.Shared.resources.dll
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\zh-Hans\Microsoft.VisualStudio.Debugger.Shared.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /zh-Hant/Microsoft.VisualStudio.Debugger.Shared.resources.dll
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\zh-Hant\Microsoft.VisualStudio.Debugger.Shared.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /de/Microsoft.VisualStudio.Debugger.Shared.resources.dll
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\de\Microsoft.VisualStudio.Debugger.Shared.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /es/Microsoft.VisualStudio.Debugger.Shared.resources.dll
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\es\Microsoft.VisualStudio.Debugger.Shared.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /fr/Microsoft.VisualStudio.Debugger.Shared.resources.dll
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\fr\Microsoft.VisualStudio.Debugger.Shared.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /it/Microsoft.VisualStudio.Debugger.Shared.resources.dll
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\it\Microsoft.VisualStudio.Debugger.Shared.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /ja/Microsoft.VisualStudio.Debugger.Shared.resources.dll
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\ja\Microsoft.VisualStudio.Debugger.Shared.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /ko/Microsoft.VisualStudio.Debugger.Shared.resources.dll
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\ko\Microsoft.VisualStudio.Debugger.Shared.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /ru/Microsoft.VisualStudio.Debugger.Shared.resources.dll
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\ru\Microsoft.VisualStudio.Debugger.Shared.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /cs/Microsoft.VisualStudio.Debugger.Shared.resources.dll
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\cs\Microsoft.VisualStudio.Debugger.Shared.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /pt-BR/Microsoft.VisualStudio.Debugger.Shared.resources.dll
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\pt-BR\Microsoft.VisualStudio.Debugger.Shared.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /pl/Microsoft.VisualStudio.Debugger.Shared.resources.dll
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\pl\Microsoft.VisualStudio.Debugger.Shared.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /tr/Microsoft.VisualStudio.Debugger.Shared.resources.dll
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\tr\Microsoft.VisualStudio.Debugger.Shared.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /manifest.json
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\manifest.json file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /catalog.json
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\catalog.json file deleted.
+[bd94:0009][2026-05-10T01:00:51] Started: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:51] Completed: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:51] Package executed successfully. Return code: 0

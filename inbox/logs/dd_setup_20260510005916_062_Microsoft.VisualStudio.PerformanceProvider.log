@@ -1,0 +1,6 @@
+[bd94:0009][2026-05-10T01:00:48] Using cached package manifest as the embedded manifest
+[bd94:0009][2026-05-10T01:00:48] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Diagnostics.PerformanceProvider.dll
+[bd94:0009][2026-05-10T01:00:48] D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Diagnostics.PerformanceProvider.dll file deleted.
+[bd94:0009][2026-05-10T01:00:48] Started: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:48] Completed: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:48] Package executed successfully. Return code: 0

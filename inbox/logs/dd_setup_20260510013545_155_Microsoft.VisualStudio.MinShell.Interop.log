@@ -1,0 +1,208 @@
+[3c7c:000c][2026-05-10T01:36:03] Opening the package for processing
+[3c7c:000c][2026-05-10T01:36:03] Using package payload to get the embedded manifest
+[3c7c:000c][2026-05-10T01:36:03] Getting list of files within the package
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/Automation/dte80.olb
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/Automation/dte80.olb to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dte80.olb
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/Automation/dte80.olb to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dte80.olb
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dte80.olb'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/Automation/dte80a.olb
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/Automation/dte80a.olb to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dte80a.olb
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/Automation/dte80a.olb to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dte80a.olb
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dte80a.olb'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/Automation/VBCodeModelExtensibility.tlb
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/Automation/VBCodeModelExtensibility.tlb to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\VBCodeModelExtensibility.tlb
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/Automation/VBCodeModelExtensibility.tlb to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\VBCodeModelExtensibility.tlb
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\VBCodeModelExtensibility.tlb'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/Automation/VxExtensibilitylib.tlb
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/Automation/VxExtensibilitylib.tlb to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\VxExtensibilitylib.tlb
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/Automation/VxExtensibilitylib.tlb to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\VxExtensibilitylib.tlb
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\VxExtensibilitylib.tlb'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/Automation/VxExtensibilitylib2.tlb
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/Automation/VxExtensibilitylib2.tlb to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\VxExtensibilitylib2.tlb
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/Automation/VxExtensibilitylib2.tlb to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\VxExtensibilitylib2.tlb
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\VxExtensibilitylib2.tlb'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/Automation/VxExtensibilitylib3.tlb
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/Automation/VxExtensibilitylib3.tlb to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\VxExtensibilitylib3.tlb
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/Automation/VxExtensibilitylib3.tlb to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\VxExtensibilitylib3.tlb
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\VxExtensibilitylib3.tlb'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/Automation/VxExtensibilitylib4.tlb
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/Automation/VxExtensibilitylib4.tlb to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\VxExtensibilitylib4.tlb
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/Automation/VxExtensibilitylib4.tlb to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\VxExtensibilitylib4.tlb
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\VxExtensibilitylib4.tlb'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Microsoft.VisualStudio.MinShell.Interop.pkgdef
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Microsoft.VisualStudio.MinShell.Interop.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Microsoft.VisualStudio.MinShell.Interop.pkgdef
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Microsoft.VisualStudio.MinShell.Interop.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Microsoft.VisualStudio.MinShell.Interop.pkgdef
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Microsoft.VisualStudio.MinShell.Interop.pkgdef'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Internal.VisualStudio.Interop.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Internal.VisualStudio.Interop.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Internal.VisualStudio.Interop.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Internal.VisualStudio.Interop.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Internal.VisualStudio.Interop.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Internal.VisualStudio.Interop.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Internal.VisualStudio.Interop.dll for X86 ngen
+[3c7c:000c][2026-05-10T01:36:03] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/Microsoft.Internal.VisualStudio.Interop.dll' for ngen
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/PrivateAssemblies/System.Web.DynamicData.VisualStudio.15.0.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/System.Web.DynamicData.VisualStudio.15.0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\System.Web.DynamicData.VisualStudio.15.0.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/System.Web.DynamicData.VisualStudio.15.0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\System.Web.DynamicData.VisualStudio.15.0.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\System.Web.DynamicData.VisualStudio.15.0.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/PrivateAssemblies/System.Web.Extensions.Design.VisualStudio.15.0.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/System.Web.Extensions.Design.VisualStudio.15.0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\System.Web.Extensions.Design.VisualStudio.15.0.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/System.Web.Extensions.Design.VisualStudio.15.0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\System.Web.Extensions.Design.VisualStudio.15.0.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\System.Web.Extensions.Design.VisualStudio.15.0.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/PrivateAssemblies/System.Web.Extensions.VisualStudio.15.0.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/System.Web.Extensions.VisualStudio.15.0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\System.Web.Extensions.VisualStudio.15.0.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/System.Web.Extensions.VisualStudio.15.0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\System.Web.Extensions.VisualStudio.15.0.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\System.Web.Extensions.VisualStudio.15.0.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/PrivateAssemblies/System.Web.VisualStudio.15.0.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/System.Web.VisualStudio.15.0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\System.Web.VisualStudio.15.0.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/System.Web.VisualStudio.15.0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\System.Web.VisualStudio.15.0.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\System.Web.VisualStudio.15.0.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/PublicAssemblies/envdte.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/envdte.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\envdte.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/envdte.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\envdte.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\envdte.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/PublicAssemblies/envdte100.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/envdte100.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\envdte100.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/envdte100.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\envdte100.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\envdte100.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/PublicAssemblies/envdte80.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/envdte80.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\envdte80.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/envdte80.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\envdte80.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\envdte80.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/PublicAssemblies/envdte90.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/envdte90.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\envdte90.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/envdte90.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\envdte90.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\envdte90.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/PublicAssemblies/envdte90a.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/envdte90a.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\envdte90a.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/envdte90a.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\envdte90a.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\envdte90a.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.MSXML.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.MSXML.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.MSXML.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.MSXML.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.MSXML.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.MSXML.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.CommandBars.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.CommandBars.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.CommandBars.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.CommandBars.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.CommandBars.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.CommandBars.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Interop.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Interop.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Interop.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Interop.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Interop.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Interop.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Interop.dll for X86 ngen
+[3c7c:000c][2026-05-10T01:36:03] Successfully queued file '/Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Interop.dll' for ngen
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.OLE.Interop.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.OLE.Interop.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.OLE.Interop.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.OLE.Interop.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.OLE.Interop.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.OLE.Interop.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.ProjectAggregator.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.ProjectAggregator.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.ProjectAggregator.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.ProjectAggregator.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.ProjectAggregator.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.ProjectAggregator.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Interop.10.0.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Interop.10.0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Interop.10.0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Interop.10.0.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Interop.11.0.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Interop.11.0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Interop.11.0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Interop.11.0.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Interop.12.0.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Interop.12.0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Interop.12.0.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Interop.12.0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Interop.12.0.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Interop.12.0.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Interop.8.0.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Interop.8.0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Interop.8.0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Interop.8.0.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Interop.9.0.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Interop.9.0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Interop.9.0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Interop.9.0.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Interop.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Interop.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Interop.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Interop.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Interop.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Interop.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextManager.Interop.10.0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextManager.Interop.10.0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextManager.Interop.10.0.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextManager.Interop.11.0.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextManager.Interop.11.0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextManager.Interop.11.0.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextManager.Interop.11.0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextManager.Interop.11.0.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextManager.Interop.11.0.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextManager.Interop.12.0.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextManager.Interop.12.0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextManager.Interop.12.0.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextManager.Interop.12.0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextManager.Interop.12.0.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextManager.Interop.12.0.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextManager.Interop.8.0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextManager.Interop.8.0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextManager.Interop.8.0.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextManager.Interop.9.0.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextManager.Interop.9.0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextManager.Interop.9.0.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextManager.Interop.9.0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextManager.Interop.9.0.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextManager.Interop.9.0.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextManager.Interop.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextManager.Interop.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextManager.Interop.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextManager.Interop.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextManager.Interop.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextManager.Interop.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.VSHelp.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.VSHelp.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.VSHelp.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.VSHelp.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.VSHelp.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.VSHelp.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.VSHelp80.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.VSHelp80.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.VSHelp80.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.VSHelp80.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.VSHelp80.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.VSHelp80.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/PublicAssemblies/stdole.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/stdole.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\stdole.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/stdole.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\stdole.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\stdole.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/PublicAssemblies/VSLangProj.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/VSLangProj.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VSLangProj.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/VSLangProj.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VSLangProj.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VSLangProj.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/PublicAssemblies/VSLangProj100.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/VSLangProj100.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VSLangProj100.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/VSLangProj100.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VSLangProj100.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VSLangProj100.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/PublicAssemblies/VSLangProj110.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/VSLangProj110.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VSLangProj110.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/VSLangProj110.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VSLangProj110.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VSLangProj110.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/PublicAssemblies/VSLangProj140.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/VSLangProj140.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VSLangProj140.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/VSLangProj140.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VSLangProj140.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VSLangProj140.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/PublicAssemblies/VSLangProj150.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/VSLangProj150.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VSLangProj150.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/VSLangProj150.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VSLangProj150.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VSLangProj150.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/PublicAssemblies/VSLangProj157.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/VSLangProj157.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VSLangProj157.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/VSLangProj157.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VSLangProj157.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VSLangProj157.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/PublicAssemblies/VSLangProj158.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/VSLangProj158.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VSLangProj158.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/VSLangProj158.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VSLangProj158.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VSLangProj158.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/PublicAssemblies/VSLangProj165.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/VSLangProj165.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VSLangProj165.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/VSLangProj165.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VSLangProj165.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VSLangProj165.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/PublicAssemblies/VSLangProj2.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/VSLangProj2.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VSLangProj2.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/VSLangProj2.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VSLangProj2.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VSLangProj2.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/PublicAssemblies/VSLangProj80.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/VSLangProj80.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VSLangProj80.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/VSLangProj80.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VSLangProj80.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VSLangProj80.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/PublicAssemblies/VSLangProj90.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/VSLangProj90.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VSLangProj90.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/VSLangProj90.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VSLangProj90.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VSLangProj90.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Package executed successfully. Return code: 0

@@ -1,0 +1,15 @@
+[da4c:0007][2026-05-10T00:49:34] C:\ProgramData\Microsoft\VisualStudio\Packages\Microsoft.Build.UnGAC,version=17.14.40.2560911,chip=neutral,language=neutral\Microsoft.Build.UnGAC.exe 
+[da4c:0007][2026-05-10T00:49:34] Tried to remove Microsoft.Build, Version=15.1.0.0 from the GAC. HResult: 0x00000001
+Tried to remove Microsoft.Build.Engine, Version=15.1.0.0 from the GAC. HResult: 0x00000001
+Tried to remove Microsoft.Build.Framework, Version=15.1.0.0 from the GAC. HResult: 0x00000001
+Tried to remove Microsoft.Build.Tasks.Core, Version=15.1.0.0 from the GAC. HResult: 0x00000001
+Tried to remove Microsoft.Build.Utilities.Core, Version=15.1.0.0 from the GAC. HResult: 0x00000001
+Tried to remove Microsoft.Build.Conversion.Core, Version=15.1.0.0 from the GAC. HResult: 0x00000001
+Tried to remove Microsoft.NET.StringTools, Version=1.0.0.0 from the GAC. HResult: 0x00000001
+Tried to remove BuildXL.Processes, Version=1.0.0.0 from the GAC. HResult: 0x00000001
+Tried to remove BuildXL.Utilities.Core, Version=1.0.0.0 from the GAC. HResult: 0x00000001
+Tried to remove BuildXL.Native, Version=1.0.0.0 from the GAC. HResult: 0x00000001
+Tried to remove Microsoft.VisualStudio.SolutionPersistence, Version=1.0.0.0 from the GAC. HResult: 0x00000001
+Tried to remove Microsoft.VisualStudio.OpenTelemetry.ClientExtensions, Version=0.1.0.0 from the GAC. HResult: 0x00000001
+Tried to remove Microsoft.VisualStudio.OpenTelemetry.Collector, Version=0.1.0.0 from the GAC. HResult: 0x00000001
+

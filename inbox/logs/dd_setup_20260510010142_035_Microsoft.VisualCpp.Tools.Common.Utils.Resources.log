@@ -1,0 +1,12 @@
+[c9c4:0009][2026-05-10T01:01:51] Opening the package for processing
+[c9c4:0009][2026-05-10T01:01:51] Using package payload to get the embedded manifest
+[c9c4:0009][2026-05-10T01:01:51] Getting list of files within the package
+[c9c4:0009][2026-05-10T01:01:51] Processing file /Contents/Common7/Tools/1033/errlookui.dll
+[c9c4:0009][2026-05-10T01:01:51] Started: Copying file /Contents/Common7/Tools/1033/errlookui.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\1033\errlookui.dll
+[c9c4:0009][2026-05-10T01:01:51] Completed: Copying file /Contents/Common7/Tools/1033/errlookui.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\1033\errlookui.dll
+[c9c4:0009][2026-05-10T01:01:51] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\1033\errlookui.dll'.
+[c9c4:0009][2026-05-10T01:01:51] Processing file /Contents/Common7/Tools/1033/guidgenui.dll
+[c9c4:0009][2026-05-10T01:01:51] Started: Copying file /Contents/Common7/Tools/1033/guidgenui.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\1033\guidgenui.dll
+[c9c4:0009][2026-05-10T01:01:51] Completed: Copying file /Contents/Common7/Tools/1033/guidgenui.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\1033\guidgenui.dll
+[c9c4:0009][2026-05-10T01:01:51] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\1033\guidgenui.dll'.
+[c9c4:0009][2026-05-10T01:01:51] Package executed successfully. Return code: 0

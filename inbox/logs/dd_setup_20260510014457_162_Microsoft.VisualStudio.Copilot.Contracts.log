@@ -1,0 +1,26 @@
+[3474:0009][2026-05-10T01:46:17] Using cached package manifest as the embedded manifest
+[3474:0009][2026-05-10T01:46:17] Processing file /extension.vsixmanifest
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\extension.vsixmanifest file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Microsoft.VisualStudio.Copilot.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Microsoft.VisualStudio.Copilot.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Microsoft.VisualStudio.Extensibility.Copilot.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Microsoft.VisualStudio.Extensibility.Copilot.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Microsoft.VisualStudio.Extensibility.Copilot.Configuration.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Microsoft.VisualStudio.Extensibility.Copilot.Configuration.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Microsoft.VisualStudio.Copilot.pdb
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Microsoft.VisualStudio.Copilot.pdb file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Microsoft.VisualStudio.Copilot.xml
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Microsoft.VisualStudio.Copilot.xml file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Microsoft.VisualStudio.Copilot.Contracts.pkgdef
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Microsoft.VisualStudio.Copilot.Contracts.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Copilot.png
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Copilot.png file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /LICENSE.md
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\LICENSE.md file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /manifest.json
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\manifest.json file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /catalog.json
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\catalog.json file deleted.
+[3474:0009][2026-05-10T01:46:17] Started: Deleting empty directories
+[3474:0009][2026-05-10T01:46:17] Completed: Deleting empty directories
+[3474:0009][2026-05-10T01:46:17] Package executed successfully. Return code: 0

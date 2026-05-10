@@ -1,0 +1,68 @@
+[0c48:0003][2026-05-10T01:44:43] Using cached package manifest as the embedded manifest
+[0c48:0003][2026-05-10T01:44:43] Processing file /extension.vsixmanifest
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ProjectSystemQuery\extension.vsixmanifest file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Microsoft.VisualStudio.ProjectSystem.Query.pkgdef
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ProjectSystemQuery\Microsoft.VisualStudio.ProjectSystem.Query.pkgdef file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Microsoft.VisualStudio.ProjectSystem.Query.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ProjectSystemQuery\Microsoft.VisualStudio.ProjectSystem.Query.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /zh-Hans/Microsoft.VisualStudio.ProjectSystem.Query.resources.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ProjectSystemQuery\zh-Hans\Microsoft.VisualStudio.ProjectSystem.Query.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /zh-Hant/Microsoft.VisualStudio.ProjectSystem.Query.resources.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ProjectSystemQuery\zh-Hant\Microsoft.VisualStudio.ProjectSystem.Query.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /de/Microsoft.VisualStudio.ProjectSystem.Query.resources.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ProjectSystemQuery\de\Microsoft.VisualStudio.ProjectSystem.Query.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /es/Microsoft.VisualStudio.ProjectSystem.Query.resources.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ProjectSystemQuery\es\Microsoft.VisualStudio.ProjectSystem.Query.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /fr/Microsoft.VisualStudio.ProjectSystem.Query.resources.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ProjectSystemQuery\fr\Microsoft.VisualStudio.ProjectSystem.Query.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /it/Microsoft.VisualStudio.ProjectSystem.Query.resources.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ProjectSystemQuery\it\Microsoft.VisualStudio.ProjectSystem.Query.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /ja/Microsoft.VisualStudio.ProjectSystem.Query.resources.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ProjectSystemQuery\ja\Microsoft.VisualStudio.ProjectSystem.Query.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /ko/Microsoft.VisualStudio.ProjectSystem.Query.resources.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ProjectSystemQuery\ko\Microsoft.VisualStudio.ProjectSystem.Query.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /ru/Microsoft.VisualStudio.ProjectSystem.Query.resources.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ProjectSystemQuery\ru\Microsoft.VisualStudio.ProjectSystem.Query.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /cs/Microsoft.VisualStudio.ProjectSystem.Query.resources.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ProjectSystemQuery\cs\Microsoft.VisualStudio.ProjectSystem.Query.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /pt-BR/Microsoft.VisualStudio.ProjectSystem.Query.resources.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ProjectSystemQuery\pt-BR\Microsoft.VisualStudio.ProjectSystem.Query.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /pl/Microsoft.VisualStudio.ProjectSystem.Query.resources.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ProjectSystemQuery\pl\Microsoft.VisualStudio.ProjectSystem.Query.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /tr/Microsoft.VisualStudio.ProjectSystem.Query.resources.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ProjectSystemQuery\tr\Microsoft.VisualStudio.ProjectSystem.Query.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Microsoft.VisualStudio.ProjectSystem.Query.VS.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ProjectSystemQuery\Microsoft.VisualStudio.ProjectSystem.Query.VS.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /zh-Hans/Microsoft.VisualStudio.ProjectSystem.Query.VS.resources.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ProjectSystemQuery\zh-Hans\Microsoft.VisualStudio.ProjectSystem.Query.VS.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /zh-Hant/Microsoft.VisualStudio.ProjectSystem.Query.VS.resources.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ProjectSystemQuery\zh-Hant\Microsoft.VisualStudio.ProjectSystem.Query.VS.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /de/Microsoft.VisualStudio.ProjectSystem.Query.VS.resources.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ProjectSystemQuery\de\Microsoft.VisualStudio.ProjectSystem.Query.VS.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /es/Microsoft.VisualStudio.ProjectSystem.Query.VS.resources.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ProjectSystemQuery\es\Microsoft.VisualStudio.ProjectSystem.Query.VS.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /fr/Microsoft.VisualStudio.ProjectSystem.Query.VS.resources.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ProjectSystemQuery\fr\Microsoft.VisualStudio.ProjectSystem.Query.VS.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /it/Microsoft.VisualStudio.ProjectSystem.Query.VS.resources.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ProjectSystemQuery\it\Microsoft.VisualStudio.ProjectSystem.Query.VS.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /ja/Microsoft.VisualStudio.ProjectSystem.Query.VS.resources.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ProjectSystemQuery\ja\Microsoft.VisualStudio.ProjectSystem.Query.VS.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /ko/Microsoft.VisualStudio.ProjectSystem.Query.VS.resources.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ProjectSystemQuery\ko\Microsoft.VisualStudio.ProjectSystem.Query.VS.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /ru/Microsoft.VisualStudio.ProjectSystem.Query.VS.resources.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ProjectSystemQuery\ru\Microsoft.VisualStudio.ProjectSystem.Query.VS.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /cs/Microsoft.VisualStudio.ProjectSystem.Query.VS.resources.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ProjectSystemQuery\cs\Microsoft.VisualStudio.ProjectSystem.Query.VS.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /pt-BR/Microsoft.VisualStudio.ProjectSystem.Query.VS.resources.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ProjectSystemQuery\pt-BR\Microsoft.VisualStudio.ProjectSystem.Query.VS.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /pl/Microsoft.VisualStudio.ProjectSystem.Query.VS.resources.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ProjectSystemQuery\pl\Microsoft.VisualStudio.ProjectSystem.Query.VS.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /tr/Microsoft.VisualStudio.ProjectSystem.Query.VS.resources.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ProjectSystemQuery\tr\Microsoft.VisualStudio.ProjectSystem.Query.VS.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /manifest.json
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ProjectSystemQuery\manifest.json file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /catalog.json
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ProjectSystemQuery\catalog.json file deleted.
+[0c48:0003][2026-05-10T01:44:43] Started: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:43] Completed: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:43] Package executed successfully. Return code: 0

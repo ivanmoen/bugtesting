@@ -1,0 +1,958 @@
+[0c48:0003][2026-05-10T01:44:48] Using cached package manifest as the embedded manifest
+[0c48:0003][2026-05-10T01:44:48] Processing file /extension.vsixmanifest
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\extension.vsixmanifest file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /cs/extension.vsixlangpack
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\cs\extension.vsixlangpack file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /de/extension.vsixlangpack
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\de\extension.vsixlangpack file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /es/extension.vsixlangpack
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\es\extension.vsixlangpack file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /fr/extension.vsixlangpack
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\fr\extension.vsixlangpack file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /it/extension.vsixlangpack
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\it\extension.vsixlangpack file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /ja/extension.vsixlangpack
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\ja\extension.vsixlangpack file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /ko/extension.vsixlangpack
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\ko\extension.vsixlangpack file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /pl/extension.vsixlangpack
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\pl\extension.vsixlangpack file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /pt-BR/extension.vsixlangpack
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\pt-BR\extension.vsixlangpack file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /ru/extension.vsixlangpack
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\ru\extension.vsixlangpack file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /tr/extension.vsixlangpack
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\tr\extension.vsixlangpack file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /zh-Hans/extension.vsixlangpack
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\zh-Hans\extension.vsixlangpack file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /zh-Hant/extension.vsixlangpack
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\zh-Hant\extension.vsixlangpack file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /datacollector.arm64.exe
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\datacollector.arm64.exe file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /datacollector.exe
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\datacollector.exe file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.TestPlatform.AdapterUtilities.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.TestPlatform.AdapterUtilities.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.TestPlatform.CommunicationUtilities.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.TestPlatform.CommunicationUtilities.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.TestPlatform.CoreUtilities.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.TestPlatform.CoreUtilities.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.TestPlatform.CrossPlatEngine.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.TestPlatform.CrossPlatEngine.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.TestPlatform.PlatformAbstractions.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.TestPlatform.PlatformAbstractions.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.TestPlatform.Utilities.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.TestPlatform.Utilities.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.TestPlatform.VsTestConsole.TranslationLayer.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.TestPlatform.VsTestConsole.TranslationLayer.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.VisualStudio.TestPlatform.Client.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.TestPlatform.Client.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.VisualStudio.TestPlatform.Common.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.TestPlatform.Common.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /SettingsMigrator.exe
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\SettingsMigrator.exe file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /vstest.console.arm64.exe
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\vstest.console.arm64.exe file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /vstest.console.exe
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\vstest.console.exe file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /License.rtf
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\License.rtf file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /testplatform.config
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\testplatform.config file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /ThirdPartyNotices.txt
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\ThirdPartyNotices.txt file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /datacollector.arm64.exe.config
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\datacollector.arm64.exe.config file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /datacollector.exe.config
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\datacollector.exe.config file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /cs/SettingsMigrator.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\cs\SettingsMigrator.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /de/SettingsMigrator.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\de\SettingsMigrator.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /es/SettingsMigrator.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\es\SettingsMigrator.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /fr/SettingsMigrator.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\fr\SettingsMigrator.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /it/SettingsMigrator.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\it\SettingsMigrator.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /ja/SettingsMigrator.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\ja\SettingsMigrator.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /ko/SettingsMigrator.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\ko\SettingsMigrator.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /pl/SettingsMigrator.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\pl\SettingsMigrator.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /pt-BR/SettingsMigrator.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\pt-BR\SettingsMigrator.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /ru/SettingsMigrator.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\ru\SettingsMigrator.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /tr/SettingsMigrator.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\tr\SettingsMigrator.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /zh-Hans/SettingsMigrator.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\zh-Hans\SettingsMigrator.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /zh-Hant/SettingsMigrator.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\zh-Hant\SettingsMigrator.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /vstest.console.arm64.exe.config
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\vstest.console.arm64.exe.config file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /cs/vstest.console.arm64.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\cs\vstest.console.arm64.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /de/vstest.console.arm64.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\de\vstest.console.arm64.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /es/vstest.console.arm64.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\es\vstest.console.arm64.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /fr/vstest.console.arm64.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\fr\vstest.console.arm64.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /it/vstest.console.arm64.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\it\vstest.console.arm64.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /ja/vstest.console.arm64.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\ja\vstest.console.arm64.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /ko/vstest.console.arm64.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\ko\vstest.console.arm64.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /pl/vstest.console.arm64.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\pl\vstest.console.arm64.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /pt-BR/vstest.console.arm64.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\pt-BR\vstest.console.arm64.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /ru/vstest.console.arm64.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\ru\vstest.console.arm64.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /tr/vstest.console.arm64.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\tr\vstest.console.arm64.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /zh-Hans/vstest.console.arm64.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\zh-Hans\vstest.console.arm64.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /zh-Hant/vstest.console.arm64.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\zh-Hant\vstest.console.arm64.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /vstest.console.exe.config
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\vstest.console.exe.config file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /cs/vstest.console.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\cs\vstest.console.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /de/vstest.console.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\de\vstest.console.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /es/vstest.console.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\es\vstest.console.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /fr/vstest.console.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\fr\vstest.console.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /it/vstest.console.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\it\vstest.console.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /ja/vstest.console.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\ja\vstest.console.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /ko/vstest.console.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\ko\vstest.console.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /pl/vstest.console.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\pl\vstest.console.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /pt-BR/vstest.console.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\pt-BR\vstest.console.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /ru/vstest.console.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\ru\vstest.console.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /tr/vstest.console.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\tr\vstest.console.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /zh-Hans/vstest.console.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\zh-Hans\vstest.console.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /zh-Hant/vstest.console.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\zh-Hant\vstest.console.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /cs/Microsoft.VisualStudio.TestPlatform.Client.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\cs\Microsoft.VisualStudio.TestPlatform.Client.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /de/Microsoft.VisualStudio.TestPlatform.Client.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\de\Microsoft.VisualStudio.TestPlatform.Client.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /es/Microsoft.VisualStudio.TestPlatform.Client.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\es\Microsoft.VisualStudio.TestPlatform.Client.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /fr/Microsoft.VisualStudio.TestPlatform.Client.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\fr\Microsoft.VisualStudio.TestPlatform.Client.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /it/Microsoft.VisualStudio.TestPlatform.Client.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\it\Microsoft.VisualStudio.TestPlatform.Client.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /ja/Microsoft.VisualStudio.TestPlatform.Client.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\ja\Microsoft.VisualStudio.TestPlatform.Client.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /ko/Microsoft.VisualStudio.TestPlatform.Client.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\ko\Microsoft.VisualStudio.TestPlatform.Client.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /pl/Microsoft.VisualStudio.TestPlatform.Client.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\pl\Microsoft.VisualStudio.TestPlatform.Client.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /pt-BR/Microsoft.VisualStudio.TestPlatform.Client.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\pt-BR\Microsoft.VisualStudio.TestPlatform.Client.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /ru/Microsoft.VisualStudio.TestPlatform.Client.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\ru\Microsoft.VisualStudio.TestPlatform.Client.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /tr/Microsoft.VisualStudio.TestPlatform.Client.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\tr\Microsoft.VisualStudio.TestPlatform.Client.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /zh-Hans/Microsoft.VisualStudio.TestPlatform.Client.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\zh-Hans\Microsoft.VisualStudio.TestPlatform.Client.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /zh-Hant/Microsoft.VisualStudio.TestPlatform.Client.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\zh-Hant\Microsoft.VisualStudio.TestPlatform.Client.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /cs/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\cs\Microsoft.TestPlatform.AdapterUtilities.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /de/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\de\Microsoft.TestPlatform.AdapterUtilities.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /es/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\es\Microsoft.TestPlatform.AdapterUtilities.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /fr/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\fr\Microsoft.TestPlatform.AdapterUtilities.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /it/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\it\Microsoft.TestPlatform.AdapterUtilities.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /ja/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\ja\Microsoft.TestPlatform.AdapterUtilities.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /ko/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\ko\Microsoft.TestPlatform.AdapterUtilities.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /pl/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\pl\Microsoft.TestPlatform.AdapterUtilities.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /pt-BR/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\pt-BR\Microsoft.TestPlatform.AdapterUtilities.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /ru/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\ru\Microsoft.TestPlatform.AdapterUtilities.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /tr/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\tr\Microsoft.TestPlatform.AdapterUtilities.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /zh-Hans/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\zh-Hans\Microsoft.TestPlatform.AdapterUtilities.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /zh-Hant/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\zh-Hant\Microsoft.TestPlatform.AdapterUtilities.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\de\Microsoft.TestPlatform.CoreUtilities.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\es\Microsoft.TestPlatform.CoreUtilities.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\it\Microsoft.TestPlatform.CoreUtilities.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /cs/Microsoft.TestPlatform.VsTestConsole.TranslationLayer.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\cs\Microsoft.TestPlatform.VsTestConsole.TranslationLayer.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /de/Microsoft.TestPlatform.VsTestConsole.TranslationLayer.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\de\Microsoft.TestPlatform.VsTestConsole.TranslationLayer.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /es/Microsoft.TestPlatform.VsTestConsole.TranslationLayer.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\es\Microsoft.TestPlatform.VsTestConsole.TranslationLayer.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /fr/Microsoft.TestPlatform.VsTestConsole.TranslationLayer.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\fr\Microsoft.TestPlatform.VsTestConsole.TranslationLayer.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /it/Microsoft.TestPlatform.VsTestConsole.TranslationLayer.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\it\Microsoft.TestPlatform.VsTestConsole.TranslationLayer.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /ja/Microsoft.TestPlatform.VsTestConsole.TranslationLayer.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\ja\Microsoft.TestPlatform.VsTestConsole.TranslationLayer.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /ko/Microsoft.TestPlatform.VsTestConsole.TranslationLayer.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\ko\Microsoft.TestPlatform.VsTestConsole.TranslationLayer.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /pl/Microsoft.TestPlatform.VsTestConsole.TranslationLayer.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\pl\Microsoft.TestPlatform.VsTestConsole.TranslationLayer.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /pt-BR/Microsoft.TestPlatform.VsTestConsole.TranslationLayer.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\pt-BR\Microsoft.TestPlatform.VsTestConsole.TranslationLayer.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /ru/Microsoft.TestPlatform.VsTestConsole.TranslationLayer.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\ru\Microsoft.TestPlatform.VsTestConsole.TranslationLayer.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /tr/Microsoft.TestPlatform.VsTestConsole.TranslationLayer.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\tr\Microsoft.TestPlatform.VsTestConsole.TranslationLayer.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /zh-Hans/Microsoft.TestPlatform.VsTestConsole.TranslationLayer.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\zh-Hans\Microsoft.TestPlatform.VsTestConsole.TranslationLayer.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /zh-Hant/Microsoft.TestPlatform.VsTestConsole.TranslationLayer.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\zh-Hant\Microsoft.TestPlatform.VsTestConsole.TranslationLayer.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /cs/Microsoft.TestPlatform.Utilities.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\cs\Microsoft.TestPlatform.Utilities.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /de/Microsoft.TestPlatform.Utilities.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\de\Microsoft.TestPlatform.Utilities.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /es/Microsoft.TestPlatform.Utilities.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\es\Microsoft.TestPlatform.Utilities.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /fr/Microsoft.TestPlatform.Utilities.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\fr\Microsoft.TestPlatform.Utilities.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /it/Microsoft.TestPlatform.Utilities.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\it\Microsoft.TestPlatform.Utilities.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /ja/Microsoft.TestPlatform.Utilities.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\ja\Microsoft.TestPlatform.Utilities.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /ko/Microsoft.TestPlatform.Utilities.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\ko\Microsoft.TestPlatform.Utilities.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /pl/Microsoft.TestPlatform.Utilities.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\pl\Microsoft.TestPlatform.Utilities.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /pt-BR/Microsoft.TestPlatform.Utilities.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\pt-BR\Microsoft.TestPlatform.Utilities.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /ru/Microsoft.TestPlatform.Utilities.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\ru\Microsoft.TestPlatform.Utilities.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /tr/Microsoft.TestPlatform.Utilities.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\tr\Microsoft.TestPlatform.Utilities.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /zh-Hans/Microsoft.TestPlatform.Utilities.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\zh-Hans\Microsoft.TestPlatform.Utilities.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /zh-Hant/Microsoft.TestPlatform.Utilities.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\zh-Hant\Microsoft.TestPlatform.Utilities.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.TestPlatform.CommunicationUtilities.xml
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.TestPlatform.CommunicationUtilities.xml file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.TestPlatform.CoreUtilities.xml
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.TestPlatform.CoreUtilities.xml file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.TestPlatform.CrossPlatEngine.xml
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.TestPlatform.CrossPlatEngine.xml file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.TestPlatform.PlatformAbstractions.xml
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.TestPlatform.PlatformAbstractions.xml file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.TestPlatform.Utilities.xml
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.TestPlatform.Utilities.xml file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.VisualStudio.TestPlatform.Common.xml
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.TestPlatform.Common.xml file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.VisualStudio.TestPlatform.ObjectModel.xml
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.TestPlatform.ObjectModel.xml file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Newtonsoft.Json.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Newtonsoft.Json.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /System.Buffers.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\System.Buffers.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /System.Collections.Immutable.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\System.Collections.Immutable.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /System.Memory.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\System.Memory.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /System.Numerics.Vectors.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\System.Numerics.Vectors.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /System.Reflection.Metadata.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\System.Reflection.Metadata.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /System.Runtime.CompilerServices.Unsafe.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\System.Runtime.CompilerServices.Unsafe.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /System.ValueTuple.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\System.ValueTuple.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /testhost.exe.config
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\testhost.exe.config file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /testhost.xml
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\testhost.xml file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /testhost.net471.exe.config
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\testhost.net471.exe.config file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /testhost.net472.exe.config
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\testhost.net472.exe.config file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /testhost.net47.exe.config
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\testhost.net47.exe.config file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /testhost.net481.exe.config
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\testhost.net481.exe.config file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /testhost.net48.exe.config
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\testhost.net48.exe.config file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /testhost.exe
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\testhost.exe file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /testhost.net47.exe
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\testhost.net47.exe file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /testhost.net471.exe
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\testhost.net471.exe file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /testhost.net472.exe
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\testhost.net472.exe file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /testhost.net48.exe
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\testhost.net48.exe file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /testhost.net481.exe
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\testhost.net481.exe file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /testhost.x86.exe.config
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\testhost.x86.exe.config file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /testhost.x86.xml
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\testhost.x86.xml file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /testhost.net471.x86.exe.config
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\testhost.net471.x86.exe.config file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /testhost.net472.x86.exe.config
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\testhost.net472.x86.exe.config file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /testhost.net47.x86.exe.config
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\testhost.net47.x86.exe.config file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /testhost.net481.x86.exe.config
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\testhost.net481.x86.exe.config file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /testhost.net48.x86.exe.config
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\testhost.net48.x86.exe.config file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /testhost.x86.exe
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\testhost.x86.exe file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /testhost.net47.x86.exe
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\testhost.net47.x86.exe file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /testhost.net471.x86.exe
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\testhost.net471.x86.exe file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /testhost.net472.x86.exe
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\testhost.net472.x86.exe file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /testhost.net48.x86.exe
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\testhost.net48.x86.exe file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /testhost.net481.x86.exe
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\testhost.net481.x86.exe file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /testhost.arm64.exe.config
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\testhost.arm64.exe.config file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /testhost.arm64.xml
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\testhost.arm64.xml file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /testhost.net471.arm64.exe.config
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\testhost.net471.arm64.exe.config file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /testhost.net472.arm64.exe.config
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\testhost.net472.arm64.exe.config file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /testhost.net47.arm64.exe.config
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\testhost.net47.arm64.exe.config file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /testhost.net481.arm64.exe.config
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\testhost.net481.arm64.exe.config file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /testhost.net48.arm64.exe.config
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\testhost.net48.arm64.exe.config file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /testhost.arm64.exe
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\testhost.arm64.exe file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /testhost.net47.arm64.exe
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\testhost.net47.arm64.exe file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /testhost.net471.arm64.exe
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\testhost.net471.arm64.exe file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /testhost.net472.arm64.exe
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\testhost.net472.arm64.exe file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /testhost.net48.arm64.exe
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\testhost.net48.arm64.exe file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /testhost.net481.arm64.exe
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\testhost.net481.arm64.exe file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/Cpp/dbghelp.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\Cpp\dbghelp.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/Cpp/Microsoft.VisualStudio.TestTools.CppUnitTestFramework.Arm.Resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\Cpp\Microsoft.VisualStudio.TestTools.CppUnitTestFramework.Arm.Resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/Cpp/Microsoft.VisualStudio.TestTools.CppUnitTestFramework.arm64.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\Cpp\Microsoft.VisualStudio.TestTools.CppUnitTestFramework.arm64.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/Cpp/Microsoft.VisualStudio.TestTools.CppUnitTestFramework.Discoverer.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\Cpp\Microsoft.VisualStudio.TestTools.CppUnitTestFramework.Discoverer.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/Cpp/Microsoft.VisualStudio.TestTools.CppUnitTestFramework.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\Cpp\Microsoft.VisualStudio.TestTools.CppUnitTestFramework.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/Cpp/Microsoft.VisualStudio.TestTools.CppUnitTestFramework.Executor.Arm.Resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\Cpp\Microsoft.VisualStudio.TestTools.CppUnitTestFramework.Executor.Arm.Resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/Cpp/Microsoft.VisualStudio.TestTools.CppUnitTestFramework.Executor.arm64.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\Cpp\Microsoft.VisualStudio.TestTools.CppUnitTestFramework.Executor.arm64.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/Cpp/Microsoft.VisualStudio.TestTools.CppUnitTestFramework.Executor.arm64.dll.manifest
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\Cpp\Microsoft.VisualStudio.TestTools.CppUnitTestFramework.Executor.arm64.dll.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/Cpp/Microsoft.VisualStudio.TestTools.CppUnitTestFramework.Executor.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\Cpp\Microsoft.VisualStudio.TestTools.CppUnitTestFramework.Executor.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/Cpp/Microsoft.VisualStudio.TestTools.CppUnitTestFramework.Executor.dll.manifest
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\Cpp\Microsoft.VisualStudio.TestTools.CppUnitTestFramework.Executor.dll.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/Cpp/Microsoft.VisualStudio.TestTools.CppUnitTestFramework.Executor.Resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\Cpp\Microsoft.VisualStudio.TestTools.CppUnitTestFramework.Executor.Resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/Cpp/Microsoft.VisualStudio.TestTools.CppUnitTestFramework.Executor.x64.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\Cpp\Microsoft.VisualStudio.TestTools.CppUnitTestFramework.Executor.x64.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/Cpp/Microsoft.VisualStudio.TestTools.CppUnitTestFramework.Executor.x64.dll.manifest
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\Cpp\Microsoft.VisualStudio.TestTools.CppUnitTestFramework.Executor.x64.dll.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/Cpp/Microsoft.VisualStudio.TestTools.CppUnitTestFramework.Resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\Cpp\Microsoft.VisualStudio.TestTools.CppUnitTestFramework.Resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/Cpp/Microsoft.VisualStudio.TestTools.CppUnitTestFramework.TestEngine.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\Cpp\Microsoft.VisualStudio.TestTools.CppUnitTestFramework.TestEngine.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/Cpp/Microsoft.VisualStudio.TestTools.CppUnitTestFramework.x64.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\Cpp\Microsoft.VisualStudio.TestTools.CppUnitTestFramework.x64.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/Cpp/arm64/dbghelp.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\Cpp\arm64\dbghelp.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/Cpp/x64/dbghelp.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\Cpp\x64\dbghelp.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /x64/msdia140.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\x64\msdia140.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /x64/msdia140.dll.manifest
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\x64\msdia140.dll.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /x86/msdia140.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\x86\msdia140.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /x86/msdia140.dll.manifest
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\x86\msdia140.dll.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /CUITPlugins/Microsoft.VisualStudio.TestTools.UITest.Extension.CrossBrowser.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\CUITPlugins\Microsoft.VisualStudio.TestTools.UITest.Extension.CrossBrowser.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /CUITPlugins/Microsoft.VisualStudio.TestTools.UITest.Extension.IE.Communication.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\CUITPlugins\Microsoft.VisualStudio.TestTools.UITest.Extension.IE.Communication.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /CUITPlugins/Microsoft.VisualStudio.TestTools.UITest.Extension.IE.Communication.Interop.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\CUITPlugins\Microsoft.VisualStudio.TestTools.UITest.Extension.IE.Communication.Interop.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /CUITPlugins/Microsoft.VisualStudio.TestTools.UITest.Extension.IE.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\CUITPlugins\Microsoft.VisualStudio.TestTools.UITest.Extension.IE.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /CUITPlugins/Microsoft.VisualStudio.TestTools.UITest.Extension.IE.EventHelper.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\CUITPlugins\Microsoft.VisualStudio.TestTools.UITest.Extension.IE.EventHelper.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /CUITPlugins/Microsoft.VisualStudio.TestTools.UITest.Extension.IE64.Communication.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\CUITPlugins\Microsoft.VisualStudio.TestTools.UITest.Extension.IE64.Communication.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /CUITPlugins/Microsoft.VisualStudio.TestTools.UITest.Extension.IE64.EventHelper.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\CUITPlugins\Microsoft.VisualStudio.TestTools.UITest.Extension.IE64.EventHelper.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /CUITPlugins/Microsoft.VisualStudio.TestTools.UITest.Extension.Uia.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\CUITPlugins\Microsoft.VisualStudio.TestTools.UITest.Extension.Uia.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /CUITPlugins/Microsoft.VisualStudio.TestTools.UITest.Extension.UiaWidget.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\CUITPlugins\Microsoft.VisualStudio.TestTools.UITest.Extension.UiaWidget.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /CUITPlugins/Microsoft.VisualStudio.TestTools.UITest.Extension.UiaWidget.UIAHtmlElementUtilities.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\CUITPlugins\Microsoft.VisualStudio.TestTools.UITest.Extension.UiaWidget.UIAHtmlElementUtilities.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /CUITPlugins/IEPropertyConfiguration.xml
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\CUITPlugins\IEPropertyConfiguration.xml file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /CUITPlugins/IEPropertyConfiguration.xsd
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\CUITPlugins\IEPropertyConfiguration.xsd file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.VisualStudio.TestTools.UITest.Common.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.TestTools.UITest.Common.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.VisualStudio.TestTools.UITest.Extension.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.TestTools.UITest.Extension.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.VisualStudio.TestTools.UITest.Extension.MSAA.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.TestTools.UITest.Extension.MSAA.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.VisualStudio.TestTools.UITest.ExtensionUtilities.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.TestTools.UITest.ExtensionUtilities.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.VisualStudio.TestTools.UITest.Framework.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.TestTools.UITest.Framework.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.VisualStudio.TestTools.UITest.Logging.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.TestTools.UITest.Logging.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.VisualStudio.TestTools.UITest.Playback.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.TestTools.UITest.Playback.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.VisualStudio.TestTools.UITest.Playback.Engine.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.TestTools.UITest.Playback.Engine.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.VisualStudio.TestTools.UITest.Synchronization.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.TestTools.UITest.Synchronization.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.VisualStudio.TestTools.UITest.WindowsStoreUtility.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.TestTools.UITest.WindowsStoreUtility.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.VisualStudio.TestTools.UITest.Extension.IE.Communication.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.TestTools.UITest.Extension.IE.Communication.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.VisualStudio.TestTools.UITest.Extension.IE.Communication.Interop.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.TestTools.UITest.Extension.IE.Communication.Interop.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.VisualStudio.QualityTools.CodedUITestFramework.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.QualityTools.CodedUITestFramework.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.VisualStudio.QualityTools.Sqm.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.QualityTools.Sqm.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Interop.UIAutomationClient.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Interop.UIAutomationClient.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.ShDocVw.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.ShDocVw.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.VisualStudio.Diagnostics.Measurement.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.Diagnostics.Measurement.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.VisualStudio.TestTools.UITesting.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.TestTools.UITesting.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /UIAComWrapper.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\UIAComWrapper.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.CodeCoverage.IO.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.CodeCoverage.IO.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /cs/Microsoft.CodeCoverage.IO.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\cs\Microsoft.CodeCoverage.IO.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /de/Microsoft.CodeCoverage.IO.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\de\Microsoft.CodeCoverage.IO.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /es/Microsoft.CodeCoverage.IO.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\es\Microsoft.CodeCoverage.IO.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /fr/Microsoft.CodeCoverage.IO.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\fr\Microsoft.CodeCoverage.IO.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /it/Microsoft.CodeCoverage.IO.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\it\Microsoft.CodeCoverage.IO.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /ja/Microsoft.CodeCoverage.IO.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\ja\Microsoft.CodeCoverage.IO.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /ko/Microsoft.CodeCoverage.IO.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\ko\Microsoft.CodeCoverage.IO.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /pl/Microsoft.CodeCoverage.IO.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\pl\Microsoft.CodeCoverage.IO.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /pt-BR/Microsoft.CodeCoverage.IO.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\pt-BR\Microsoft.CodeCoverage.IO.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /ru/Microsoft.CodeCoverage.IO.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\ru\Microsoft.CodeCoverage.IO.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /tr/Microsoft.CodeCoverage.IO.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\tr\Microsoft.CodeCoverage.IO.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /zh-Hans/Microsoft.CodeCoverage.IO.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\zh-Hans\Microsoft.CodeCoverage.IO.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /zh-Hant/Microsoft.CodeCoverage.IO.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\zh-Hant\Microsoft.CodeCoverage.IO.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.DiaSymReader.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.DiaSymReader.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.IntelliTrace.Core.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.IntelliTrace.Core.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/VideoRecorder/Microsoft.VisualStudio.QualityTools.VideoRecorderEngine.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\VideoRecorder\Microsoft.VisualStudio.QualityTools.VideoRecorderEngine.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/VideoRecorder/Microsoft.VisualStudio.QualityTools.VideoRecorderEngine.pdb
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\VideoRecorder\Microsoft.VisualStudio.QualityTools.VideoRecorderEngine.pdb file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/VideoRecorder/Microsoft.VisualStudio.TestTools.DataCollection.MediaRecorder.Model.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\VideoRecorder\Microsoft.VisualStudio.TestTools.DataCollection.MediaRecorder.Model.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/VideoRecorder/Microsoft.VisualStudio.TestTools.DataCollection.MediaRecorder.Model.pdb
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\VideoRecorder\Microsoft.VisualStudio.TestTools.DataCollection.MediaRecorder.Model.pdb file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/VideoRecorder/VSTestVideoRecorder.exe
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\VideoRecorder\VSTestVideoRecorder.exe file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/VideoRecorder/VSTestVideoRecorder.pdb
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\VideoRecorder\VSTestVideoRecorder.pdb file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/Microsoft.VisualStudio.TestTools.DataCollection.MediaRecorder.Model.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\Microsoft.VisualStudio.TestTools.DataCollection.MediaRecorder.Model.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/Microsoft.VisualStudio.TestTools.DataCollection.VideoRecorderCollector.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\Microsoft.VisualStudio.TestTools.DataCollection.VideoRecorderCollector.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/Microsoft.VisualStudio.TestTools.CppUnitTestFramework.ComInterfaces.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\Microsoft.VisualStudio.TestTools.CppUnitTestFramework.ComInterfaces.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/Microsoft.VisualStudio.TestTools.CppUnitTestFramework.CppUnitTestExtension.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\Microsoft.VisualStudio.TestTools.CppUnitTestFramework.CppUnitTestExtension.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/Microsoft.VisualStudio.TestPlatform.Extensions.CodedWebTestAdapter.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\Microsoft.VisualStudio.TestPlatform.Extensions.CodedWebTestAdapter.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/Microsoft.VisualStudio.TestPlatform.Extensions.TmiAdapter.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\Microsoft.VisualStudio.TestPlatform.Extensions.TmiAdapter.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/Microsoft.VisualStudio.TestPlatform.Extensions.VSTestIntegration.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\Microsoft.VisualStudio.TestPlatform.Extensions.VSTestIntegration.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/Microsoft.VisualStudio.TestPlatform.Extensions.WebTestAdapter.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\Microsoft.VisualStudio.TestPlatform.Extensions.WebTestAdapter.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /System.Text.Json.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\System.Text.Json.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.VisualStudio.ArchitectureTools.PEReader.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.ArchitectureTools.PEReader.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/Microsoft.VisualStudio.ArchitectureTools.PEReader.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\Microsoft.VisualStudio.ArchitectureTools.PEReader.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.VisualStudio.Diagnostics.Utilities.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.Diagnostics.Utilities.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.VisualStudio.Enterprise.AspNetHelper.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.Enterprise.AspNetHelper.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.VisualStudio.Interop.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.Interop.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/Microsoft.TestPlatform.Extensions.BlameDataCollector.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\Microsoft.TestPlatform.Extensions.BlameDataCollector.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/Microsoft.TestPlatform.Extensions.EventLogCollector.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\Microsoft.TestPlatform.Extensions.EventLogCollector.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/Microsoft.VisualStudio.TestPlatform.Extensions.Html.TestLogger.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\Microsoft.VisualStudio.TestPlatform.Extensions.Html.TestLogger.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/Microsoft.TestPlatform.TestHostRuntimeProvider.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\Microsoft.TestPlatform.TestHostRuntimeProvider.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/cs/Microsoft.TestPlatform.Extensions.BlameDataCollector.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\cs\Microsoft.TestPlatform.Extensions.BlameDataCollector.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/cs/Microsoft.TestPlatform.Extensions.EventLogCollector.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\cs\Microsoft.TestPlatform.Extensions.EventLogCollector.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/cs/Microsoft.VisualStudio.TestPlatform.Extensions.Html.TestLogger.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\cs\Microsoft.VisualStudio.TestPlatform.Extensions.Html.TestLogger.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/cs/Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\cs\Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/cs/Microsoft.TestPlatform.TestHostRuntimeProvider.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\cs\Microsoft.TestPlatform.TestHostRuntimeProvider.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/de/Microsoft.TestPlatform.Extensions.BlameDataCollector.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\de\Microsoft.TestPlatform.Extensions.BlameDataCollector.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/de/Microsoft.TestPlatform.Extensions.EventLogCollector.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\de\Microsoft.TestPlatform.Extensions.EventLogCollector.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/de/Microsoft.VisualStudio.TestPlatform.Extensions.Html.TestLogger.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\de\Microsoft.VisualStudio.TestPlatform.Extensions.Html.TestLogger.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/de/Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\de\Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/de/Microsoft.TestPlatform.TestHostRuntimeProvider.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\de\Microsoft.TestPlatform.TestHostRuntimeProvider.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/es/Microsoft.TestPlatform.Extensions.BlameDataCollector.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\es\Microsoft.TestPlatform.Extensions.BlameDataCollector.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/es/Microsoft.TestPlatform.Extensions.EventLogCollector.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\es\Microsoft.TestPlatform.Extensions.EventLogCollector.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/es/Microsoft.VisualStudio.TestPlatform.Extensions.Html.TestLogger.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\es\Microsoft.VisualStudio.TestPlatform.Extensions.Html.TestLogger.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/es/Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\es\Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/es/Microsoft.TestPlatform.TestHostRuntimeProvider.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\es\Microsoft.TestPlatform.TestHostRuntimeProvider.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/fr/Microsoft.TestPlatform.Extensions.BlameDataCollector.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\fr\Microsoft.TestPlatform.Extensions.BlameDataCollector.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/fr/Microsoft.TestPlatform.Extensions.EventLogCollector.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\fr\Microsoft.TestPlatform.Extensions.EventLogCollector.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/fr/Microsoft.VisualStudio.TestPlatform.Extensions.Html.TestLogger.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\fr\Microsoft.VisualStudio.TestPlatform.Extensions.Html.TestLogger.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/fr/Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\fr\Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/fr/Microsoft.TestPlatform.TestHostRuntimeProvider.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\fr\Microsoft.TestPlatform.TestHostRuntimeProvider.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/it/Microsoft.TestPlatform.Extensions.BlameDataCollector.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\it\Microsoft.TestPlatform.Extensions.BlameDataCollector.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/it/Microsoft.TestPlatform.Extensions.EventLogCollector.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\it\Microsoft.TestPlatform.Extensions.EventLogCollector.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/it/Microsoft.VisualStudio.TestPlatform.Extensions.Html.TestLogger.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\it\Microsoft.VisualStudio.TestPlatform.Extensions.Html.TestLogger.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/it/Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\it\Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/it/Microsoft.TestPlatform.TestHostRuntimeProvider.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\it\Microsoft.TestPlatform.TestHostRuntimeProvider.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/ja/Microsoft.TestPlatform.Extensions.BlameDataCollector.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\ja\Microsoft.TestPlatform.Extensions.BlameDataCollector.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/ja/Microsoft.TestPlatform.Extensions.EventLogCollector.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\ja\Microsoft.TestPlatform.Extensions.EventLogCollector.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/ja/Microsoft.VisualStudio.TestPlatform.Extensions.Html.TestLogger.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\ja\Microsoft.VisualStudio.TestPlatform.Extensions.Html.TestLogger.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/ja/Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\ja\Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/ja/Microsoft.TestPlatform.TestHostRuntimeProvider.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\ja\Microsoft.TestPlatform.TestHostRuntimeProvider.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/ko/Microsoft.TestPlatform.Extensions.BlameDataCollector.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\ko\Microsoft.TestPlatform.Extensions.BlameDataCollector.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/ko/Microsoft.TestPlatform.Extensions.EventLogCollector.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\ko\Microsoft.TestPlatform.Extensions.EventLogCollector.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/ko/Microsoft.VisualStudio.TestPlatform.Extensions.Html.TestLogger.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\ko\Microsoft.VisualStudio.TestPlatform.Extensions.Html.TestLogger.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/ko/Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\ko\Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/ko/Microsoft.TestPlatform.TestHostRuntimeProvider.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\ko\Microsoft.TestPlatform.TestHostRuntimeProvider.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/pl/Microsoft.TestPlatform.Extensions.BlameDataCollector.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\pl\Microsoft.TestPlatform.Extensions.BlameDataCollector.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/pl/Microsoft.TestPlatform.Extensions.EventLogCollector.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\pl\Microsoft.TestPlatform.Extensions.EventLogCollector.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/pl/Microsoft.VisualStudio.TestPlatform.Extensions.Html.TestLogger.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\pl\Microsoft.VisualStudio.TestPlatform.Extensions.Html.TestLogger.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/pl/Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\pl\Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/pl/Microsoft.TestPlatform.TestHostRuntimeProvider.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\pl\Microsoft.TestPlatform.TestHostRuntimeProvider.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/pt-BR/Microsoft.TestPlatform.Extensions.BlameDataCollector.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\pt-BR\Microsoft.TestPlatform.Extensions.BlameDataCollector.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/pt-BR/Microsoft.TestPlatform.Extensions.EventLogCollector.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\pt-BR\Microsoft.TestPlatform.Extensions.EventLogCollector.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/pt-BR/Microsoft.VisualStudio.TestPlatform.Extensions.Html.TestLogger.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\pt-BR\Microsoft.VisualStudio.TestPlatform.Extensions.Html.TestLogger.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/pt-BR/Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\pt-BR\Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/pt-BR/Microsoft.TestPlatform.TestHostRuntimeProvider.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\pt-BR\Microsoft.TestPlatform.TestHostRuntimeProvider.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/ru/Microsoft.TestPlatform.Extensions.BlameDataCollector.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\ru\Microsoft.TestPlatform.Extensions.BlameDataCollector.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/ru/Microsoft.TestPlatform.Extensions.EventLogCollector.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\ru\Microsoft.TestPlatform.Extensions.EventLogCollector.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/ru/Microsoft.VisualStudio.TestPlatform.Extensions.Html.TestLogger.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\ru\Microsoft.VisualStudio.TestPlatform.Extensions.Html.TestLogger.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/ru/Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\ru\Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/ru/Microsoft.TestPlatform.TestHostRuntimeProvider.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\ru\Microsoft.TestPlatform.TestHostRuntimeProvider.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/tr/Microsoft.TestPlatform.Extensions.BlameDataCollector.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\tr\Microsoft.TestPlatform.Extensions.BlameDataCollector.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/tr/Microsoft.TestPlatform.Extensions.EventLogCollector.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\tr\Microsoft.TestPlatform.Extensions.EventLogCollector.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/tr/Microsoft.VisualStudio.TestPlatform.Extensions.Html.TestLogger.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\tr\Microsoft.VisualStudio.TestPlatform.Extensions.Html.TestLogger.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/tr/Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\tr\Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/tr/Microsoft.TestPlatform.TestHostRuntimeProvider.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\tr\Microsoft.TestPlatform.TestHostRuntimeProvider.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/zh-Hans/Microsoft.TestPlatform.Extensions.BlameDataCollector.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\zh-Hans\Microsoft.TestPlatform.Extensions.BlameDataCollector.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/zh-Hans/Microsoft.TestPlatform.Extensions.EventLogCollector.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\zh-Hans\Microsoft.TestPlatform.Extensions.EventLogCollector.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/zh-Hans/Microsoft.VisualStudio.TestPlatform.Extensions.Html.TestLogger.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\zh-Hans\Microsoft.VisualStudio.TestPlatform.Extensions.Html.TestLogger.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/zh-Hans/Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\zh-Hans\Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/zh-Hans/Microsoft.TestPlatform.TestHostRuntimeProvider.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\zh-Hans\Microsoft.TestPlatform.TestHostRuntimeProvider.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/zh-Hant/Microsoft.TestPlatform.Extensions.BlameDataCollector.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\zh-Hant\Microsoft.TestPlatform.Extensions.BlameDataCollector.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/zh-Hant/Microsoft.TestPlatform.Extensions.EventLogCollector.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\zh-Hant\Microsoft.TestPlatform.Extensions.EventLogCollector.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/zh-Hant/Microsoft.VisualStudio.TestPlatform.Extensions.Html.TestLogger.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\zh-Hant\Microsoft.VisualStudio.TestPlatform.Extensions.Html.TestLogger.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/zh-Hant/Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\zh-Hant\Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/zh-Hant/Microsoft.TestPlatform.TestHostRuntimeProvider.resources.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\zh-Hant\Microsoft.TestPlatform.TestHostRuntimeProvider.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/dump/DumpMinitool.arm64.exe
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\dump\DumpMinitool.arm64.exe file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/dump/DumpMinitool.arm64.exe.config
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\dump\DumpMinitool.arm64.exe.config file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/dump/DumpMinitool.arm64.xml
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\dump\DumpMinitool.arm64.xml file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/dump/DumpMinitool.exe
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\dump\DumpMinitool.exe file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/dump/DumpMinitool.exe.config
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\dump\DumpMinitool.exe.config file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/dump/DumpMinitool.x86.exe
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\dump\DumpMinitool.x86.exe file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/dump/DumpMinitool.x86.exe.config
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\dump\DumpMinitool.x86.exe.config file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/dump/DumpMinitool.x86.xml
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\dump\DumpMinitool.x86.xml file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/dump/DumpMinitool.xml
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\dump\DumpMinitool.xml file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.VisualStudio.QualityTools.DataCollectionAgentObject.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.QualityTools.DataCollectionAgentObject.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/V1/x64/Microsoft.VisualStudio.Coverage.Monitor.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\V1\x64\Microsoft.VisualStudio.Coverage.Monitor.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/V1/x64/Microsoft.VisualStudio.Coverage.Monitor.pdb
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\V1\x64\Microsoft.VisualStudio.Coverage.Monitor.pdb file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/V1/x86/Microsoft.VisualStudio.Coverage.Monitor.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\V1\x86\Microsoft.VisualStudio.Coverage.Monitor.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/V1/x86/Microsoft.VisualStudio.Coverage.Monitor.pdb
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\V1\x86\Microsoft.VisualStudio.Coverage.Monitor.pdb file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/V1/Microsoft.VisualStudio.QualityTools.Plugins.CodeCoverage.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\V1\Microsoft.VisualStudio.QualityTools.Plugins.CodeCoverage.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/V1/Microsoft.VisualStudio.QualityTools.Plugins.CodeCoverage.dll.config
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\V1\Microsoft.VisualStudio.QualityTools.Plugins.CodeCoverage.dll.config file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/V1/Microsoft.VisualStudio.TestTools.DataCollection.EventLog.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\V1\Microsoft.VisualStudio.TestTools.DataCollection.EventLog.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/V1/Microsoft.VisualStudio.TestTools.DataCollection.EventLog.dll.config
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\V1\Microsoft.VisualStudio.TestTools.DataCollection.EventLog.dll.config file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/V1/Microsoft.VisualStudio.TestTools.DataCollection.SystemInfo.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\V1\Microsoft.VisualStudio.TestTools.DataCollection.SystemInfo.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/V1/Microsoft.VisualStudio.TestTools.DataCollection.VideoRecorder.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\V1\Microsoft.VisualStudio.TestTools.DataCollection.VideoRecorder.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/V1/Microsoft.VisualStudio.TestTools.DataCollection.VideoRecorder.dll.config
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\V1\Microsoft.VisualStudio.TestTools.DataCollection.VideoRecorder.dll.config file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/V1/Microsoft.VisualStudio.TraceCollector.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\V1\Microsoft.VisualStudio.TraceCollector.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/V1/Microsoft.VisualStudio.TraceCollector.dll.config
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\V1\Microsoft.VisualStudio.TraceCollector.dll.config file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Extensions/V1/VSTestVideoRecorder.exe.config
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Extensions\V1\VSTestVideoRecorder.exe.config file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.Extensions.DependencyModel.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.Extensions.DependencyModel.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.Extensions.FileSystemGlobbing.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.Extensions.FileSystemGlobbing.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /System.Diagnostics.DiagnosticSource.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\System.Diagnostics.DiagnosticSource.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /LegacyTypes.testtype
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\LegacyTypes.testtype file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /ManualTests.testtype
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\ManualTests.testtype file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.VisualStudio.QualityTools.AgentObject.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.QualityTools.AgentObject.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.VisualStudio.QualityTools.AgentProcessManager.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.QualityTools.AgentProcessManager.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.VisualStudio.QualityTools.Common.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.QualityTools.Common.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.VisualStudio.QualityTools.ControllerObject.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.QualityTools.ControllerObject.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.VisualStudio.QualityTools.ExecutionCommon.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.QualityTools.ExecutionCommon.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.VisualStudio.QualityTools.HostAdapters.ASPNETAdapter.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.QualityTools.HostAdapters.ASPNETAdapter.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.VisualStudio.QualityTools.HostAdapters.ASPNETAgent.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.QualityTools.HostAdapters.ASPNETAgent.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.VisualStudio.QualityTools.LoadTest.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.QualityTools.LoadTest.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.VisualStudio.QualityTools.LoadTestFramework.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.QualityTools.LoadTestFramework.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.VisualStudio.QualityTools.Resource.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.QualityTools.Resource.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.VisualStudio.QualityTools.Tips.ManualTest.Adapter.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.QualityTools.Tips.ManualTest.Adapter.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.VisualStudio.QualityTools.Tips.ManualTest.ObjectModel.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.QualityTools.Tips.ManualTest.ObjectModel.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.VisualStudio.QualityTools.Tips.ManualTest.Tip.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.QualityTools.Tips.ManualTest.Tip.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.VisualStudio.QualityTools.Tips.UnitTest.AssemblyResolver.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.QualityTools.Tips.UnitTest.AssemblyResolver.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Tip.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Tip.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.VisualStudio.QualityTools.Tips.WebLoadTest.Tip.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.QualityTools.Tips.WebLoadTest.Tip.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.VisualStudio.QualityTools.TMI.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.QualityTools.TMI.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.VisualStudio.QualityTools.WebTestFramework.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.QualityTools.WebTestFramework.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.VisualStudio.TestTools.UITest.Extension.IE.Communication.sxs.manifest
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.TestTools.UITest.Extension.IE.Communication.sxs.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Microsoft.VisualStudio.TestTools.UITest.Playback.Engine.sxs.manifest
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Microsoft.VisualStudio.TestTools.UITest.Playback.Engine.sxs.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /QTAgent.exe
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\QTAgent.exe file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /QTAgent.exe.config
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\QTAgent.exe.config file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /QTAgent32.exe
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\QTAgent32.exe file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /QTAgent32.exe.config
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\QTAgent32.exe.config file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /QTAgent32_35.exe
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\QTAgent32_35.exe file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /QTAgent32_35.exe.config
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\QTAgent32_35.exe.config file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /QTAgent32_40.exe
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\QTAgent32_40.exe file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /QTAgent32_40.exe.config
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\QTAgent32_40.exe.config file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /QTAgent_35.exe
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\QTAgent_35.exe file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /QTAgent_35.exe.config
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\QTAgent_35.exe.config file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /QTAgent_40.exe
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\QTAgent_40.exe file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /QTAgent_40.exe.config
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\QTAgent_40.exe.config file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /QTDCAgent.exe
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\QTDCAgent.exe file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /QTDCAgent.exe.config
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\QTDCAgent.exe.config file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /QTDCAgent32.exe
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\QTDCAgent32.exe file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /QTDCAgent32.exe.config
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\QTDCAgent32.exe.config file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Webloadtest.testtype
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\Webloadtest.testtype file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /SettingsMigrator.exe.config
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\SettingsMigrator.exe.config file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /manifest.json
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\manifest.json file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /catalog.json
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\TestPlatform\catalog.json file deleted.
+[0c48:0003][2026-05-10T01:44:48] Started: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:48] Completed: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:48] Package executed successfully. Return code: 0

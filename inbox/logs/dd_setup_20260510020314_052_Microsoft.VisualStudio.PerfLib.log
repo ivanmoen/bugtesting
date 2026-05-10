@@ -1,0 +1,44 @@
+[18d4:0007][2026-05-10T02:03:30] Opening the package for processing
+[18d4:0007][2026-05-10T02:03:30] Using package payload to get the embedded manifest
+[18d4:0007][2026-05-10T02:03:30] Getting list of files within the package
+[18d4:0007][2026-05-10T02:03:30] Processing file /Contents/Common7/IDE/PrivateAssemblies/amd64/msdia140.dll
+[18d4:0007][2026-05-10T02:03:30] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/amd64/msdia140.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\amd64\msdia140.dll
+[18d4:0007][2026-05-10T02:03:30] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/amd64/msdia140.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\amd64\msdia140.dll
+[18d4:0007][2026-05-10T02:03:30] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\amd64\msdia140.dll'.
+[18d4:0007][2026-05-10T02:03:30] Processing file /Contents/Common7/IDE/PrivateAssemblies/Dia2Lib.dll
+[18d4:0007][2026-05-10T02:03:30] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Dia2Lib.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Dia2Lib.dll
+[18d4:0007][2026-05-10T02:03:30] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Dia2Lib.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Dia2Lib.dll
+[18d4:0007][2026-05-10T02:03:30] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Dia2Lib.dll'.
+[18d4:0007][2026-05-10T02:03:30] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Diagnostics.EtwHeapDump.dll
+[18d4:0007][2026-05-10T02:03:30] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Diagnostics.EtwHeapDump.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Diagnostics.EtwHeapDump.dll
+[18d4:0007][2026-05-10T02:03:30] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Diagnostics.EtwHeapDump.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Diagnostics.EtwHeapDump.dll
+[18d4:0007][2026-05-10T02:03:30] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Diagnostics.EtwHeapDump.dll'.
+[18d4:0007][2026-05-10T02:03:30] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Diagnostics.FastSerialization.dll
+[18d4:0007][2026-05-10T02:03:30] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Diagnostics.FastSerialization.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Diagnostics.FastSerialization.dll
+[18d4:0007][2026-05-10T02:03:30] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Diagnostics.FastSerialization.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Diagnostics.FastSerialization.dll
+[18d4:0007][2026-05-10T02:03:30] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Diagnostics.FastSerialization.dll'.
+[18d4:0007][2026-05-10T02:03:30] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Diagnostics.HeapDump.dll
+[18d4:0007][2026-05-10T02:03:30] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Diagnostics.HeapDump.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Diagnostics.HeapDump.dll
+[18d4:0007][2026-05-10T02:03:30] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Diagnostics.HeapDump.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Diagnostics.HeapDump.dll
+[18d4:0007][2026-05-10T02:03:30] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Diagnostics.HeapDump.dll'.
+[18d4:0007][2026-05-10T02:03:30] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Diagnostics.MemoryGraph.dll
+[18d4:0007][2026-05-10T02:03:30] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Diagnostics.MemoryGraph.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Diagnostics.MemoryGraph.dll
+[18d4:0007][2026-05-10T02:03:30] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Diagnostics.MemoryGraph.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Diagnostics.MemoryGraph.dll
+[18d4:0007][2026-05-10T02:03:30] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Diagnostics.MemoryGraph.dll'.
+[18d4:0007][2026-05-10T02:03:30] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Diagnostics.Tracing.TraceEvent.dll
+[18d4:0007][2026-05-10T02:03:30] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Diagnostics.Tracing.TraceEvent.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Diagnostics.Tracing.TraceEvent.dll
+[18d4:0007][2026-05-10T02:03:30] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Diagnostics.Tracing.TraceEvent.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Diagnostics.Tracing.TraceEvent.dll
+[18d4:0007][2026-05-10T02:03:30] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Diagnostics.Tracing.TraceEvent.dll'.
+[18d4:0007][2026-05-10T02:03:30] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Diagnostics.Utilities.dll
+[18d4:0007][2026-05-10T02:03:30] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Diagnostics.Utilities.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Diagnostics.Utilities.dll
+[18d4:0007][2026-05-10T02:03:30] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Diagnostics.Utilities.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Diagnostics.Utilities.dll
+[18d4:0007][2026-05-10T02:03:30] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Diagnostics.Utilities.dll'.
+[18d4:0007][2026-05-10T02:03:30] Processing file /Contents/Common7/IDE/PrivateAssemblies/TraceReloggerLib.dll
+[18d4:0007][2026-05-10T02:03:30] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/TraceReloggerLib.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\TraceReloggerLib.dll
+[18d4:0007][2026-05-10T02:03:30] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/TraceReloggerLib.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\TraceReloggerLib.dll
+[18d4:0007][2026-05-10T02:03:30] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\TraceReloggerLib.dll'.
+[18d4:0007][2026-05-10T02:03:30] Processing file /Contents/Common7/IDE/PrivateAssemblies/x86/msdia140.dll
+[18d4:0007][2026-05-10T02:03:30] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/x86/msdia140.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\x86\msdia140.dll
+[18d4:0007][2026-05-10T02:03:30] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/x86/msdia140.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\x86\msdia140.dll
+[18d4:0007][2026-05-10T02:03:30] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\x86\msdia140.dll'.
+[18d4:0007][2026-05-10T02:03:30] Package executed successfully. Return code: 0

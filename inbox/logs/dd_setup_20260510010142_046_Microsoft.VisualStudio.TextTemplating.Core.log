@@ -1,0 +1,94 @@
+[c9c4:0009][2026-05-10T01:01:53] Opening the package for processing
+[c9c4:0009][2026-05-10T01:01:53] Using package payload to get the embedded manifest
+[c9c4:0009][2026-05-10T01:01:53] Getting list of files within the package
+[c9c4:0009][2026-05-10T01:01:53] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextTemplating.Core.dll
+[c9c4:0009][2026-05-10T01:01:53] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextTemplating.Core.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextTemplating.Core.dll
+[c9c4:0009][2026-05-10T01:01:53] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextTemplating.Core.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextTemplating.Core.dll
+[c9c4:0009][2026-05-10T01:01:53] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextTemplating.Core.dll'.
+[c9c4:0009][2026-05-10T01:01:53] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextTemplating.dll
+[c9c4:0009][2026-05-10T01:01:53] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextTemplating.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextTemplating.dll
+[c9c4:0009][2026-05-10T01:01:53] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextTemplating.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextTemplating.dll
+[c9c4:0009][2026-05-10T01:01:53] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextTemplating.dll'.
+[c9c4:0009][2026-05-10T01:01:53] Queueing D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextTemplating.dll for X86 ngen
+[c9c4:0009][2026-05-10T01:01:53] Successfully queued file '/Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextTemplating.dll' for ngen
+[c9c4:0009][2026-05-10T01:01:53] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextTemplating.Interfaces.10.0.dll
+[c9c4:0009][2026-05-10T01:01:53] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextTemplating.Interfaces.10.0.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextTemplating.Interfaces.10.0.dll
+[c9c4:0009][2026-05-10T01:01:53] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextTemplating.Interfaces.10.0.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextTemplating.Interfaces.10.0.dll
+[c9c4:0009][2026-05-10T01:01:53] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextTemplating.Interfaces.10.0.dll'.
+[c9c4:0009][2026-05-10T01:01:53] Queueing D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextTemplating.Interfaces.10.0.dll for X86 ngen
+[c9c4:0009][2026-05-10T01:01:53] Successfully queued file '/Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextTemplating.Interfaces.10.0.dll' for ngen
+[c9c4:0009][2026-05-10T01:01:53] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextTemplating.Interfaces.11.0.dll
+[c9c4:0009][2026-05-10T01:01:53] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextTemplating.Interfaces.11.0.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextTemplating.Interfaces.11.0.dll
+[c9c4:0009][2026-05-10T01:01:53] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextTemplating.Interfaces.11.0.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextTemplating.Interfaces.11.0.dll
+[c9c4:0009][2026-05-10T01:01:53] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextTemplating.Interfaces.11.0.dll'.
+[c9c4:0009][2026-05-10T01:01:53] Queueing D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextTemplating.Interfaces.11.0.dll for X86 ngen
+[c9c4:0009][2026-05-10T01:01:53] Successfully queued file '/Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextTemplating.Interfaces.11.0.dll' for ngen
+[c9c4:0009][2026-05-10T01:01:53] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextTemplating.Interfaces.Core.dll
+[c9c4:0009][2026-05-10T01:01:53] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextTemplating.Interfaces.Core.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextTemplating.Interfaces.Core.dll
+[c9c4:0009][2026-05-10T01:01:53] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextTemplating.Interfaces.Core.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextTemplating.Interfaces.Core.dll
+[c9c4:0009][2026-05-10T01:01:53] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextTemplating.Interfaces.Core.dll'.
+[c9c4:0009][2026-05-10T01:01:53] Processing file /Contents/Common7/IDE/TextTemplate.ico
+[c9c4:0009][2026-05-10T01:01:53] Started: Copying file /Contents/Common7/IDE/TextTemplate.ico to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTemplate.ico
+[c9c4:0009][2026-05-10T01:01:53] Completed: Copying file /Contents/Common7/IDE/TextTemplate.ico to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTemplate.ico
+[c9c4:0009][2026-05-10T01:01:53] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTemplate.ico'.
+[c9c4:0009][2026-05-10T01:01:53] Processing file /Contents/Common7/IDE/TextTransform.exe
+[c9c4:0009][2026-05-10T01:01:53] Started: Copying file /Contents/Common7/IDE/TextTransform.exe to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransform.exe
+[c9c4:0009][2026-05-10T01:01:53] Completed: Copying file /Contents/Common7/IDE/TextTransform.exe to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransform.exe
+[c9c4:0009][2026-05-10T01:01:53] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransform.exe'.
+[c9c4:0009][2026-05-10T01:01:53] Processing file /Contents/Common7/IDE/TextTransform.exe.config
+[c9c4:0009][2026-05-10T01:01:53] Started: Copying file /Contents/Common7/IDE/TextTransform.exe.config to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransform.exe.config
+[c9c4:0009][2026-05-10T01:01:53] Completed: Copying file /Contents/Common7/IDE/TextTransform.exe.config to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransform.exe.config
+[c9c4:0009][2026-05-10T01:01:53] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransform.exe.config'.
+[c9c4:0009][2026-05-10T01:01:53] Processing file /Contents/Common7/IDE/TextTransform/Microsoft.Win32.SystemEvents.dll
+[c9c4:0009][2026-05-10T01:01:53] Started: Copying file /Contents/Common7/IDE/TextTransform/Microsoft.Win32.SystemEvents.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransform\Microsoft.Win32.SystemEvents.dll
+[c9c4:0009][2026-05-10T01:01:53] Completed: Copying file /Contents/Common7/IDE/TextTransform/Microsoft.Win32.SystemEvents.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransform\Microsoft.Win32.SystemEvents.dll
+[c9c4:0009][2026-05-10T01:01:53] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransform\Microsoft.Win32.SystemEvents.dll'.
+[c9c4:0009][2026-05-10T01:01:53] Processing file /Contents/Common7/IDE/TextTransform/System.CodeDom.dll
+[c9c4:0009][2026-05-10T01:01:53] Started: Copying file /Contents/Common7/IDE/TextTransform/System.CodeDom.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransform\System.CodeDom.dll
+[c9c4:0009][2026-05-10T01:01:53] Completed: Copying file /Contents/Common7/IDE/TextTransform/System.CodeDom.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransform\System.CodeDom.dll
+[c9c4:0009][2026-05-10T01:01:53] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransform\System.CodeDom.dll'.
+[c9c4:0009][2026-05-10T01:01:53] Processing file /Contents/Common7/IDE/TextTransform/System.CommandLine.dll
+[c9c4:0009][2026-05-10T01:01:53] Started: Copying file /Contents/Common7/IDE/TextTransform/System.CommandLine.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransform\System.CommandLine.dll
+[c9c4:0009][2026-05-10T01:01:53] Completed: Copying file /Contents/Common7/IDE/TextTransform/System.CommandLine.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransform\System.CommandLine.dll
+[c9c4:0009][2026-05-10T01:01:53] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransform\System.CommandLine.dll'.
+[c9c4:0009][2026-05-10T01:01:53] Processing file /Contents/Common7/IDE/TextTransform/System.Configuration.ConfigurationManager.dll
+[c9c4:0009][2026-05-10T01:01:53] Started: Copying file /Contents/Common7/IDE/TextTransform/System.Configuration.ConfigurationManager.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransform\System.Configuration.ConfigurationManager.dll
+[c9c4:0009][2026-05-10T01:01:53] Completed: Copying file /Contents/Common7/IDE/TextTransform/System.Configuration.ConfigurationManager.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransform\System.Configuration.ConfigurationManager.dll
+[c9c4:0009][2026-05-10T01:01:53] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransform\System.Configuration.ConfigurationManager.dll'.
+[c9c4:0009][2026-05-10T01:01:53] Processing file /Contents/Common7/IDE/TextTransform/System.Management.dll
+[c9c4:0009][2026-05-10T01:01:53] Started: Copying file /Contents/Common7/IDE/TextTransform/System.Management.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransform\System.Management.dll
+[c9c4:0009][2026-05-10T01:01:53] Completed: Copying file /Contents/Common7/IDE/TextTransform/System.Management.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransform\System.Management.dll
+[c9c4:0009][2026-05-10T01:01:53] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransform\System.Management.dll'.
+[c9c4:0009][2026-05-10T01:01:53] Processing file /Contents/Common7/IDE/TextTransform/System.Security.Cryptography.ProtectedData.dll
+[c9c4:0009][2026-05-10T01:01:53] Started: Copying file /Contents/Common7/IDE/TextTransform/System.Security.Cryptography.ProtectedData.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransform\System.Security.Cryptography.ProtectedData.dll
+[c9c4:0009][2026-05-10T01:01:53] Completed: Copying file /Contents/Common7/IDE/TextTransform/System.Security.Cryptography.ProtectedData.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransform\System.Security.Cryptography.ProtectedData.dll
+[c9c4:0009][2026-05-10T01:01:53] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransform\System.Security.Cryptography.ProtectedData.dll'.
+[c9c4:0009][2026-05-10T01:01:53] Processing file /Contents/Common7/IDE/TextTransform/System.Security.Permissions.dll
+[c9c4:0009][2026-05-10T01:01:53] Started: Copying file /Contents/Common7/IDE/TextTransform/System.Security.Permissions.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransform\System.Security.Permissions.dll
+[c9c4:0009][2026-05-10T01:01:53] Completed: Copying file /Contents/Common7/IDE/TextTransform/System.Security.Permissions.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransform\System.Security.Permissions.dll
+[c9c4:0009][2026-05-10T01:01:53] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransform\System.Security.Permissions.dll'.
+[c9c4:0009][2026-05-10T01:01:53] Processing file /Contents/Common7/IDE/TextTransform/System.Windows.Extensions.dll
+[c9c4:0009][2026-05-10T01:01:53] Started: Copying file /Contents/Common7/IDE/TextTransform/System.Windows.Extensions.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransform\System.Windows.Extensions.dll
+[c9c4:0009][2026-05-10T01:01:53] Completed: Copying file /Contents/Common7/IDE/TextTransform/System.Windows.Extensions.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransform\System.Windows.Extensions.dll
+[c9c4:0009][2026-05-10T01:01:53] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransform\System.Windows.Extensions.dll'.
+[c9c4:0009][2026-05-10T01:01:53] Processing file /Contents/Common7/IDE/TextTransformCore.deps.json
+[c9c4:0009][2026-05-10T01:01:53] Started: Copying file /Contents/Common7/IDE/TextTransformCore.deps.json to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransformCore.deps.json
+[c9c4:0009][2026-05-10T01:01:53] Completed: Copying file /Contents/Common7/IDE/TextTransformCore.deps.json to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransformCore.deps.json
+[c9c4:0009][2026-05-10T01:01:53] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransformCore.deps.json'.
+[c9c4:0009][2026-05-10T01:01:53] Processing file /Contents/Common7/IDE/TextTransformCore.dll
+[c9c4:0009][2026-05-10T01:01:53] Started: Copying file /Contents/Common7/IDE/TextTransformCore.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransformCore.dll
+[c9c4:0009][2026-05-10T01:01:53] Completed: Copying file /Contents/Common7/IDE/TextTransformCore.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransformCore.dll
+[c9c4:0009][2026-05-10T01:01:53] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransformCore.dll'.
+[c9c4:0009][2026-05-10T01:01:53] Processing file /Contents/Common7/IDE/TextTransformCore.exe
+[c9c4:0009][2026-05-10T01:01:53] Started: Copying file /Contents/Common7/IDE/TextTransformCore.exe to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransformCore.exe
+[c9c4:0009][2026-05-10T01:01:53] Completed: Copying file /Contents/Common7/IDE/TextTransformCore.exe to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransformCore.exe
+[c9c4:0009][2026-05-10T01:01:53] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransformCore.exe'.
+[c9c4:0009][2026-05-10T01:01:53] Processing file /Contents/Common7/IDE/TextTransformCore.runtimeconfig.json
+[c9c4:0009][2026-05-10T01:01:53] Started: Copying file /Contents/Common7/IDE/TextTransformCore.runtimeconfig.json to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransformCore.runtimeconfig.json
+[c9c4:0009][2026-05-10T01:01:53] Completed: Copying file /Contents/Common7/IDE/TextTransformCore.runtimeconfig.json to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransformCore.runtimeconfig.json
+[c9c4:0009][2026-05-10T01:01:53] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransformCore.runtimeconfig.json'.
+[c9c4:0009][2026-05-10T01:01:53] Processing file /Contents/Common7/IDE/TextTransformCoreResolver.dll
+[c9c4:0009][2026-05-10T01:01:53] Started: Copying file /Contents/Common7/IDE/TextTransformCoreResolver.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransformCoreResolver.dll
+[c9c4:0009][2026-05-10T01:01:53] Completed: Copying file /Contents/Common7/IDE/TextTransformCoreResolver.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransformCoreResolver.dll
+[c9c4:0009][2026-05-10T01:01:53] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransformCoreResolver.dll'.
+[c9c4:0009][2026-05-10T01:01:53] Package executed successfully. Return code: 0

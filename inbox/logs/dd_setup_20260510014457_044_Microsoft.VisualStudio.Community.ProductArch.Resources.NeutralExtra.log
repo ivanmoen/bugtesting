@@ -1,0 +1,350 @@
+[3474:0009][2026-05-10T01:46:02] Using cached package manifest as the embedded manifest
+[3474:0009][2026-05-10T01:46:02] Processing file /Contents/Licenses/1033/SQLServerExpress_Sql2016.rtf
+[3474:0009][2026-05-10T01:46:02] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Licenses\1033\SQLServerExpress_Sql2016.rtf file deleted.
+[3474:0009][2026-05-10T01:46:02] Processing file /Contents/Licenses/1033/SQLServerLocalDB_Sql2016.rtf
+[3474:0009][2026-05-10T01:46:02] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Licenses\1033\SQLServerLocalDB_Sql2016.rtf file deleted.
+[3474:0009][2026-05-10T01:46:02] Started: Deleting empty directories
+[3474:0009][2026-05-10T01:46:02] Completed: Deleting empty directories
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.config.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.cs.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.csproj.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.datasource.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.disco.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.dtd.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.hta.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.htm.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.html.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.itrace.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.jsproj.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.natvis.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.props.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.resw.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.resx.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.ruleset.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.sdl.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.settings.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.sitemap.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.snippet.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.snk.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.targets.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.user.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.vb.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.vbproj.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.asm.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.bsc.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.c.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.cc.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.cod.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.cpp.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.cppm.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.csh.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.cshader.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.cxx.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.def.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.dsh.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.dshader.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.exp.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.vcxproj.filters.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.fx.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.gsh.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.gshader.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.h.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.hh.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.hlsl.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.hlsli.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.hpp.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.hsh.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.hshader.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.hxx.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.i.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.idb.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.idl.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.ilk.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.inc.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.inl.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.ipp.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.ixx.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.lib.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.lic.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.lst.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.map.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.ncb.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.obj.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.odh.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.odl.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.pch.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.pdb.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.psh.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.pshader.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.rgs.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.s.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.sbr.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.srf.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.tlh.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.tli.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.vsh.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.vshader.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.vsz.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.Launcher.androidproj.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.androidproj.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.mak.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.mk.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.Launcher.vcproj.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.vcproj.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.Launcher.vcxproj.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.vcxproj.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.Launcher.vcxitems.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.vcxitems.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.vsprops.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.bmp.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.cur.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.ico.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.mfcribbon-ms.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.pal.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.rc.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.rc2.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.rct.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.res.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.vspscc.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.vsscc.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.vssettings.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.vssscc.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.vstemplate.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.wsdl.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.wsf.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.xdr.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.xml.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.xsc.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.xsd.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.xsl.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.xslt.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling ProgId: VisualStudio.xss.[InstanceId]
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .config
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .cs
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .csproj
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .datasource
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .disco
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .dtd
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .hta
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .htm
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .html
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .itrace
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .jsproj
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .natvis
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .props
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .resw
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .resx
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .ruleset
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .sdl
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .settings
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .sitemap
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .snippet
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .snk
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .targets
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .user
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .vb
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .vbproj
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .asm
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .bsc
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .c
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .cc
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .cod
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .cpp
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .csh
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .cshader
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .cxx
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .def
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .dsh
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .dshader
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .exp
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .filters
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .fx
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .gsh
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .gshader
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .h
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .hh
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .hlsl
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .hlsli
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .hpp
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .hsh
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .hshader
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .hxx
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .i
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .idb
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .idl
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .ilk
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .inc
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .inl
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .lib
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .lic
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .lst
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .map
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .ncb
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .obj
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .odh
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .odl
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .pch
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .pdb
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .psh
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .pshader
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .rgs
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .s
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .sbr
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .srf
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .tlh
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .tli
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .vsh
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .vshader
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .vsz
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .ipp
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .ixx
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .cppm
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .androidproj
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .androidproj
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .mak
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .mk
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .vcproj
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .vcproj
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .vcxproj
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .vcxproj
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .vcxitems
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .vcxitems
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .vsprops
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .bmp
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .cur
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .ico
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .mfcribbon-ms
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .pal
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .rc
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .rc2
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .rct
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .res
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .vspscc
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .vsscc
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .vssettings
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .vssscc
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .vstemplate
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .wsdl
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .wsf
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .xdr
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .xml
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .xsc
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .xsd
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .xsl
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .xslt
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Uninstalling file association: .xss
+[3474:0009][2026-05-10T01:46:02] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[3474:0009][2026-05-10T01:46:02] Package executed successfully. Return code: 0

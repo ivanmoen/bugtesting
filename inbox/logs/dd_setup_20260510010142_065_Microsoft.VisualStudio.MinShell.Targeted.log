@@ -1,0 +1,600 @@
+[c9c4:0009][2026-05-10T01:01:55] Opening the package for processing
+[c9c4:0009][2026-05-10T01:01:55] Using package payload to get the embedded manifest
+[c9c4:0009][2026-05-10T01:01:55] Getting list of files within the package
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/coloader80.dll
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/coloader80.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\coloader80.dll
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/coloader80.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\coloader80.dll
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\coloader80.dll'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/coloader80.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/coloader80.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\coloader80.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/coloader80.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\coloader80.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\coloader80.dll.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/coloader80.tlb
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/coloader80.tlb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\coloader80.tlb
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/coloader80.tlb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\coloader80.tlb
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\coloader80.tlb'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/contextp.dll
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/contextp.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\contextp.dll
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/contextp.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\contextp.dll
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\contextp.dll'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/contextp.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/contextp.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\contextp.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/contextp.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\contextp.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\contextp.dll.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/cscodemodelextensibility.tlb
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/cscodemodelextensibility.tlb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\cscodemodelextensibility.tlb
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/cscodemodelextensibility.tlb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\cscodemodelextensibility.tlb
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\cscodemodelextensibility.tlb'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/CSCodeModelExtensibility.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/CSCodeModelExtensibility.tlb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\CSCodeModelExtensibility.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/CSCodeModelExtensibility.tlb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\CSCodeModelExtensibility.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\CSCodeModelExtensibility.tlb.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/csiface.tlb
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/csiface.tlb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\csiface.tlb
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/csiface.tlb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\csiface.tlb
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\csiface.tlb'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/csiface.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/csiface.tlb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\csiface.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/csiface.tlb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\csiface.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\csiface.tlb.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/DebuggerProxy.dll
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/DebuggerProxy.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\DebuggerProxy.dll
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/DebuggerProxy.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\DebuggerProxy.dll
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\DebuggerProxy.dll'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/DebuggerProxy.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/DebuggerProxy.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\DebuggerProxy.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/DebuggerProxy.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\DebuggerProxy.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\DebuggerProxy.dll.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/dte100.olb
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/dte100.olb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dte100.olb
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/dte100.olb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dte100.olb
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dte100.olb'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/dte100.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/dte100.olb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dte100.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/dte100.olb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dte100.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dte100.olb.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/dte80.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/dte80.olb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dte80.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/dte80.olb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dte80.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dte80.olb.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/dte80a.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/dte80a.olb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dte80a.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/dte80a.olb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dte80a.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dte80a.olb.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/dte90.olb
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/dte90.olb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dte90.olb
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/dte90.olb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dte90.olb
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dte90.olb'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/dte90.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/dte90.olb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dte90.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/dte90.olb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dte90.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dte90.olb.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/dte90a.olb
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/dte90a.olb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dte90a.olb
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/dte90a.olb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dte90a.olb
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dte90a.olb'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/dte90a.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/dte90a.olb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dte90a.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/dte90a.olb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dte90a.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dte90a.olb.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/dteproperties.tlb
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/dteproperties.tlb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dteproperties.tlb
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/dteproperties.tlb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dteproperties.tlb
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dteproperties.tlb'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/dteproperties.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/dteproperties.tlb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dteproperties.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/dteproperties.tlb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dteproperties.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dteproperties.tlb.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/dteproperties100.tlb
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/dteproperties100.tlb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dteproperties100.tlb
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/dteproperties100.tlb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dteproperties100.tlb
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dteproperties100.tlb'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/dteproperties100.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/dteproperties100.tlb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dteproperties100.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/dteproperties100.tlb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dteproperties100.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dteproperties100.tlb.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/dteproperties110.tlb
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/dteproperties110.tlb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dteproperties110.tlb
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/dteproperties110.tlb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dteproperties110.tlb
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dteproperties110.tlb'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/dteproperties110.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/dteproperties110.tlb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dteproperties110.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/dteproperties110.tlb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dteproperties110.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dteproperties110.tlb.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/dteproperties120.tlb
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/dteproperties120.tlb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dteproperties120.tlb
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/dteproperties120.tlb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dteproperties120.tlb
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dteproperties120.tlb'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/dteproperties120.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/dteproperties120.tlb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dteproperties120.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/dteproperties120.tlb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dteproperties120.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dteproperties120.tlb.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/dteproperties90.tlb
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/dteproperties90.tlb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dteproperties90.tlb
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/dteproperties90.tlb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dteproperties90.tlb
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dteproperties90.tlb'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/dteproperties90.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/dteproperties90.tlb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dteproperties90.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/dteproperties90.tlb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dteproperties90.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dteproperties90.tlb.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/dteproperties90a.tlb
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/dteproperties90a.tlb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dteproperties90a.tlb
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/dteproperties90a.tlb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dteproperties90a.tlb
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dteproperties90a.tlb'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/dteproperties90a.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/dteproperties90a.tlb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dteproperties90a.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/dteproperties90a.tlb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dteproperties90a.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dteproperties90a.tlb.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/Microsoft.VisualStudio.CompilerHostObjectsProxy.dll
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/Microsoft.VisualStudio.CompilerHostObjectsProxy.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\Microsoft.VisualStudio.CompilerHostObjectsProxy.dll
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/Microsoft.VisualStudio.CompilerHostObjectsProxy.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\Microsoft.VisualStudio.CompilerHostObjectsProxy.dll
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\Microsoft.VisualStudio.CompilerHostObjectsProxy.dll'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/Microsoft.VisualStudio.CompilerHostObjectsProxy.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/Microsoft.VisualStudio.CompilerHostObjectsProxy.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\Microsoft.VisualStudio.CompilerHostObjectsProxy.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/Microsoft.VisualStudio.CompilerHostObjectsProxy.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\Microsoft.VisualStudio.CompilerHostObjectsProxy.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\Microsoft.VisualStudio.CompilerHostObjectsProxy.dll.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/Microsoft.VisualStudio.Interop.tlb
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/Microsoft.VisualStudio.Interop.tlb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\Microsoft.VisualStudio.Interop.tlb
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/Microsoft.VisualStudio.Interop.tlb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\Microsoft.VisualStudio.Interop.tlb
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\Microsoft.VisualStudio.Interop.tlb'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/Microsoft.VisualStudio.Interop.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/Microsoft.VisualStudio.Interop.tlb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\Microsoft.VisualStudio.Interop.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/Microsoft.VisualStudio.Interop.tlb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\Microsoft.VisualStudio.Interop.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\Microsoft.VisualStudio.Interop.tlb.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/Microsoft.VisualStudio.ProductKeyDialog.tlb
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/Microsoft.VisualStudio.ProductKeyDialog.tlb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\Microsoft.VisualStudio.ProductKeyDialog.tlb
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/Microsoft.VisualStudio.ProductKeyDialog.tlb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\Microsoft.VisualStudio.ProductKeyDialog.tlb
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\Microsoft.VisualStudio.ProductKeyDialog.tlb'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/Microsoft.VisualStudio.ProductKeyDialog.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/Microsoft.VisualStudio.ProductKeyDialog.tlb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\Microsoft.VisualStudio.ProductKeyDialog.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/Microsoft.VisualStudio.ProductKeyDialog.tlb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\Microsoft.VisualStudio.ProductKeyDialog.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\Microsoft.VisualStudio.ProductKeyDialog.tlb.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/msenv100p.dll
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/msenv100p.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv100p.dll
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/msenv100p.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv100p.dll
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv100p.dll'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/msenv100p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/msenv100p.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv100p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/msenv100p.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv100p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv100p.dll.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/msenv110p.dll
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/msenv110p.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv110p.dll
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/msenv110p.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv110p.dll
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv110p.dll'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/msenv110p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/msenv110p.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv110p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/msenv110p.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv110p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv110p.dll.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/msenv120p.dll
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/msenv120p.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv120p.dll
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/msenv120p.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv120p.dll
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv120p.dll'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/msenv120p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/msenv120p.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv120p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/msenv120p.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv120p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv120p.dll.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/msenv121p.dll
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/msenv121p.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv121p.dll
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/msenv121p.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv121p.dll
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv121p.dll'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/msenv121p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/msenv121p.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv121p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/msenv121p.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv121p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv121p.dll.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/msenv140p.dll
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/msenv140p.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv140p.dll
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/msenv140p.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv140p.dll
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv140p.dll'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/msenv140p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/msenv140p.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv140p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/msenv140p.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv140p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv140p.dll.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/msenv141p.dll
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/msenv141p.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv141p.dll
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/msenv141p.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv141p.dll
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv141p.dll'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/msenv141p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/msenv141p.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv141p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/msenv141p.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv141p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv141p.dll.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/msenv150p.dll
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/msenv150p.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv150p.dll
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/msenv150p.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv150p.dll
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv150p.dll'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/msenv150p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/msenv150p.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv150p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/msenv150p.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv150p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv150p.dll.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/msenv151p.dll
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/msenv151p.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv151p.dll
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/msenv151p.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv151p.dll
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv151p.dll'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/msenv151p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/msenv151p.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv151p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/msenv151p.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv151p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv151p.dll.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/msenv153p.dll
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/msenv153p.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv153p.dll
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/msenv153p.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv153p.dll
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv153p.dll'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/msenv153p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/msenv153p.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv153p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/msenv153p.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv153p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv153p.dll.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/msenv155p.dll
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/msenv155p.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv155p.dll
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/msenv155p.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv155p.dll
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv155p.dll'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/msenv155p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/msenv155p.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv155p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/msenv155p.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv155p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv155p.dll.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/msenv156p.dll
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/msenv156p.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv156p.dll
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/msenv156p.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv156p.dll
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv156p.dll'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/msenv156p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/msenv156p.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv156p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/msenv156p.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv156p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv156p.dll.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/msenv157p.dll
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/msenv157p.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv157p.dll
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/msenv157p.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv157p.dll
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv157p.dll'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/msenv157p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/msenv157p.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv157p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/msenv157p.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv157p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv157p.dll.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/msenv158p.dll
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/msenv158p.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv158p.dll
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/msenv158p.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv158p.dll
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv158p.dll'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/msenv158p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/msenv158p.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv158p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/msenv158p.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv158p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv158p.dll.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/msenv159p.dll
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/msenv159p.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv159p.dll
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/msenv159p.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv159p.dll
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv159p.dll'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/msenv159p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/msenv159p.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv159p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/msenv159p.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv159p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv159p.dll.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/msenv16p.dll
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/msenv16p.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv16p.dll
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/msenv16p.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv16p.dll
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv16p.dll'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/msenv16p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/msenv16p.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv16p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/msenv16p.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv16p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv16p.dll.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/msenv17p.dll
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/msenv17p.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv17p.dll
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/msenv17p.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv17p.dll
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv17p.dll'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/msenv17p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/msenv17p.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv17p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/msenv17p.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv17p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv17p.dll.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/msenv2p.dll
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/msenv2p.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv2p.dll
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/msenv2p.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv2p.dll
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv2p.dll'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/msenv2p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/msenv2p.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv2p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/msenv2p.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv2p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv2p.dll.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/msenv80p.dll
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/msenv80p.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv80p.dll
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/msenv80p.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv80p.dll
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv80p.dll'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/msenv80p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/msenv80p.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv80p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/msenv80p.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv80p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv80p.dll.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/msenv90p.dll
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/msenv90p.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv90p.dll
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/msenv90p.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv90p.dll
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv90p.dll'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/msenv90p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/msenv90p.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv90p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/msenv90p.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv90p.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv90p.dll.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/msenvp.dll
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/msenvp.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenvp.dll
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/msenvp.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenvp.dll
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenvp.dll'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/msenvp.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/msenvp.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenvp.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/msenvp.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenvp.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenvp.dll.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/publish.tlb
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/publish.tlb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\publish.tlb
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/publish.tlb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\publish.tlb
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\publish.tlb'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/publish.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/publish.tlb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\publish.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/publish.tlb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\publish.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\publish.tlb.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/textmgrp.dll
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/textmgrp.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\textmgrp.dll
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/textmgrp.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\textmgrp.dll
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\textmgrp.dll'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/textmgrp.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/textmgrp.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\textmgrp.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/textmgrp.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\textmgrp.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\textmgrp.dll.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/VBCodeModelExtensibility.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/VBCodeModelExtensibility.tlb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\VBCodeModelExtensibility.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/VBCodeModelExtensibility.tlb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\VBCodeModelExtensibility.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\VBCodeModelExtensibility.tlb.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/vcsharpextensibilitylib.tlb
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/vcsharpextensibilitylib.tlb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vcsharpextensibilitylib.tlb
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/vcsharpextensibilitylib.tlb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vcsharpextensibilitylib.tlb
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vcsharpextensibilitylib.tlb'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/VCSharpExtensibilityLib.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/VCSharpExtensibilityLib.tlb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\VCSharpExtensibilityLib.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/VCSharpExtensibilityLib.tlb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\VCSharpExtensibilityLib.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\VCSharpExtensibilityLib.tlb.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/vsext.olb
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/vsext.olb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vsext.olb
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/vsext.olb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vsext.olb
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vsext.olb'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/vsext.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/vsext.olb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vsext.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/vsext.olb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vsext.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vsext.olb.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/vshelp.tlb
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/vshelp.tlb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vshelp.tlb
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/vshelp.tlb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vshelp.tlb
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vshelp.tlb'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/vshelp.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/vshelp.tlb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vshelp.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/vshelp.tlb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vshelp.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vshelp.tlb.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/vshelp80.olb
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/vshelp80.olb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vshelp80.olb
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/vshelp80.olb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vshelp80.olb
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vshelp80.olb'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/vshelp80.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/vshelp80.tlb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vshelp80.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/vshelp80.tlb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vshelp80.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vshelp80.tlb.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/vslangproj.olb
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/vslangproj.olb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj.olb
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/vslangproj.olb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj.olb
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj.olb'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/vslangproj.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/vslangproj.olb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/vslangproj.olb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj.olb.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/vslangproj100.olb
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/vslangproj100.olb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj100.olb
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/vslangproj100.olb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj100.olb
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj100.olb'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/vslangproj100.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/vslangproj100.olb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj100.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/vslangproj100.olb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj100.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj100.olb.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/vslangproj110.olb
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/vslangproj110.olb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj110.olb
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/vslangproj110.olb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj110.olb
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj110.olb'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/vslangproj110.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/vslangproj110.olb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj110.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/vslangproj110.olb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj110.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj110.olb.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/vslangproj140.olb
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/vslangproj140.olb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj140.olb
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/vslangproj140.olb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj140.olb
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj140.olb'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/vslangproj140.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/vslangproj140.olb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj140.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/vslangproj140.olb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj140.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj140.olb.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/vslangproj150.olb
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/vslangproj150.olb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj150.olb
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/vslangproj150.olb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj150.olb
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj150.olb'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/vslangproj150.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/vslangproj150.olb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj150.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/vslangproj150.olb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj150.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj150.olb.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/vslangproj157.olb
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/vslangproj157.olb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj157.olb
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/vslangproj157.olb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj157.olb
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj157.olb'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/vslangproj157.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/vslangproj157.olb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj157.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/vslangproj157.olb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj157.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj157.olb.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/vslangproj158.olb
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/vslangproj158.olb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj158.olb
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/vslangproj158.olb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj158.olb
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj158.olb'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/vslangproj158.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/vslangproj158.olb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj158.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/vslangproj158.olb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj158.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj158.olb.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/vslangproj165.olb
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/vslangproj165.olb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj165.olb
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/vslangproj165.olb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj165.olb
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj165.olb'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/vslangproj165.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/vslangproj165.olb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj165.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/vslangproj165.olb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj165.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj165.olb.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/vslangproj2.olb
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/vslangproj2.olb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj2.olb
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/vslangproj2.olb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj2.olb
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj2.olb'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/vslangproj2.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/vslangproj2.olb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj2.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/vslangproj2.olb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj2.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj2.olb.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/vslangproj80.olb
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/vslangproj80.olb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj80.olb
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/vslangproj80.olb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj80.olb
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj80.olb'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/vslangproj80.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/vslangproj80.olb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj80.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/vslangproj80.olb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj80.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj80.olb.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/vslangproj90.olb
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/vslangproj90.olb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj90.olb
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/vslangproj90.olb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj90.olb
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj90.olb'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/vslangproj90.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/vslangproj90.olb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj90.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/vslangproj90.olb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj90.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj90.olb.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/VsLogP.dll
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/VsLogP.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\VsLogP.dll
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/VsLogP.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\VsLogP.dll
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\VsLogP.dll'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/VsLogP.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/VsLogP.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\VsLogP.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/VsLogP.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\VsLogP.dll.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\VsLogP.dll.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/vsmso.olb
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/vsmso.olb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vsmso.olb
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/vsmso.olb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vsmso.olb
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vsmso.olb'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/vsmso.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/vsmso.olb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vsmso.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/vsmso.olb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vsmso.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vsmso.olb.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/vsprojhostproc.olb
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/vsprojhostproc.olb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vsprojhostproc.olb
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/vsprojhostproc.olb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vsprojhostproc.olb
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vsprojhostproc.olb'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/vsprojhostproc.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/vsprojhostproc.olb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vsprojhostproc.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/vsprojhostproc.olb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vsprojhostproc.olb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vsprojhostproc.olb.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/VxExtensibilityLib.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/VxExtensibilityLib.tlb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\VxExtensibilityLib.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/VxExtensibilityLib.tlb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\VxExtensibilityLib.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\VxExtensibilityLib.tlb.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/VxExtensibilityLib2.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/VxExtensibilityLib2.tlb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\VxExtensibilityLib2.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/VxExtensibilityLib2.tlb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\VxExtensibilityLib2.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\VxExtensibilityLib2.tlb.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/VxExtensibilityLib3.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/VxExtensibilityLib3.tlb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\VxExtensibilityLib3.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/VxExtensibilityLib3.tlb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\VxExtensibilityLib3.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\VxExtensibilityLib3.tlb.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/VxExtensibilityLib4.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/VxExtensibilityLib4.tlb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\VxExtensibilityLib4.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/VxExtensibilityLib4.tlb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\VxExtensibilityLib4.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\VxExtensibilityLib4.tlb.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/webproperties.tlb
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/webproperties.tlb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\webproperties.tlb
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/webproperties.tlb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\webproperties.tlb
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\webproperties.tlb'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/WebProperties.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/WebProperties.tlb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\WebProperties.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/WebProperties.tlb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\WebProperties.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\WebProperties.tlb.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/webproperties100.tlb
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/webproperties100.tlb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\webproperties100.tlb
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/webproperties100.tlb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\webproperties100.tlb
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\webproperties100.tlb'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/WebProperties100.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/WebProperties100.tlb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\WebProperties100.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/WebProperties100.tlb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\WebProperties100.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\WebProperties100.tlb.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/webproperties110.tlb
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/webproperties110.tlb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\webproperties110.tlb
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/webproperties110.tlb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\webproperties110.tlb
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\webproperties110.tlb'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/WebProperties110.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/WebProperties110.tlb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\WebProperties110.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/WebProperties110.tlb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\WebProperties110.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\WebProperties110.tlb.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/webproperties90.tlb
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/webproperties90.tlb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\webproperties90.tlb
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/webproperties90.tlb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\webproperties90.tlb
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\webproperties90.tlb'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Automation/WebProperties90.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Automation/WebProperties90.tlb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\WebProperties90.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Automation/WebProperties90.tlb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\WebProperties90.tlb.manifest
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\WebProperties90.tlb.manifest'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.Diagnostics.Measurement.Native.dll
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Diagnostics.Measurement.Native.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.Diagnostics.Measurement.Native.dll
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Diagnostics.Measurement.Native.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.Diagnostics.Measurement.Native.dll
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.Diagnostics.Measurement.Native.dll'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.Licensing.dll
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Licensing.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.Licensing.dll
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Licensing.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.Licensing.dll
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.Licensing.dll'.
+[c9c4:0009][2026-05-10T01:01:55] Queueing D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.Licensing.dll for X86 ngen
+[c9c4:0009][2026-05-10T01:01:55] Successfully queued file '/Contents/Common7/IDE/Microsoft.VisualStudio.Licensing.dll' for ngen
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.RegDetour.dll
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.RegDetour.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.RegDetour.dll
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.RegDetour.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.RegDetour.dll
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.RegDetour.dll'.
+[c9c4:0009][2026-05-10T01:01:55] Queueing D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.RegDetour.dll for X86 ngen
+[c9c4:0009][2026-05-10T01:01:55] Successfully queued file '/Contents/Common7/IDE/Microsoft.VisualStudio.RegDetour.dll' for ngen
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.Settings.15.0.dll
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Settings.15.0.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.Settings.15.0.dll
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Settings.15.0.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.Settings.15.0.dll
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.Settings.15.0.dll'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/msenv.dll
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/msenv.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\msenv.dll
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/msenv.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\msenv.dll
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\msenv.dll'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/msenvico.dll
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/msenvico.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\msenvico.dll
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/msenvico.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\msenvico.dll
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\msenvico.dll'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/PkgdefMgmt.dll
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/PkgdefMgmt.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PkgdefMgmt.dll
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/PkgdefMgmt.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PkgdefMgmt.dll
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PkgdefMgmt.dll'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/PrivateAssemblies/msalruntime_x86.dll
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/msalruntime_x86.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\msalruntime_x86.dll
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/msalruntime_x86.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\msalruntime_x86.dll
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\msalruntime_x86.dll'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/ProjectAggregator.dll
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/ProjectAggregator.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ProjectAggregator.dll
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/ProjectAggregator.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ProjectAggregator.dll
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ProjectAggregator.dll'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/ShellExtensions/Platform/appenvmnu.dll
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/ShellExtensions/Platform/appenvmnu.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ShellExtensions\Platform\appenvmnu.dll
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/ShellExtensions/Platform/appenvmnu.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ShellExtensions\Platform\appenvmnu.dll
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ShellExtensions\Platform\appenvmnu.dll'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/ShellExtensions/Platform/AppenvStub.dll
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/ShellExtensions/Platform/AppenvStub.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ShellExtensions\Platform\AppenvStub.dll
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/ShellExtensions/Platform/AppenvStub.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ShellExtensions\Platform\AppenvStub.dll
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ShellExtensions\Platform\AppenvStub.dll'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/vcruntime140.dll
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/vcruntime140.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\vcruntime140.dll
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/vcruntime140.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\vcruntime140.dll
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\vcruntime140.dll'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/VSLaunchBrowser.exe
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/VSLaunchBrowser.exe to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSLaunchBrowser.exe
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/VSLaunchBrowser.exe to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSLaunchBrowser.exe
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSLaunchBrowser.exe'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/VsRegistryDetour.dll
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/VsRegistryDetour.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VsRegistryDetour.dll
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/VsRegistryDetour.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VsRegistryDetour.dll
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VsRegistryDetour.dll'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/VSWebHandler.exe
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/VSWebHandler.exe to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSWebHandler.exe
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/VSWebHandler.exe to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSWebHandler.exe
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSWebHandler.exe'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/VSWebLauncher.exe
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/VSWebLauncher.exe to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSWebLauncher.exe
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/VSWebLauncher.exe to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSWebLauncher.exe
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSWebLauncher.exe'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/VsWerHandler.dll
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/VsWerHandler.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VsWerHandler.dll
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/VsWerHandler.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VsWerHandler.dll
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VsWerHandler.dll'.
+[c9c4:0009][2026-05-10T01:01:55] Package executed successfully. Return code: 0

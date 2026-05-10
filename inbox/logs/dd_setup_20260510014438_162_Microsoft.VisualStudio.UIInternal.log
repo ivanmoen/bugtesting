@@ -1,0 +1,242 @@
+[0c48:0003][2026-05-10T01:44:48] Using cached package manifest as the embedded manifest
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.Shell.UI.Internal.pkgdef
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.Shell.UI.Internal.pkgdef file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/LiveShareMonikers.imagemanifest
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Shell\LiveShareMonikers.imagemanifest file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.Shell.UI.Internal.StatusBar.imagemanifest
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.Shell.UI.Internal.StatusBar.imagemanifest file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.TaskStatusCenter.imagemanifest
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.TaskStatusCenter.imagemanifest file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/AccentColorSwatches.imagemanifest
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Shell\AccentColorSwatches.imagemanifest file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.Shell.UI.Internal.Ext.pkgdef
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.Shell.UI.Internal.Ext.pkgdef file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Shell.registration.json
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Shell\Shell.registration.json file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Solution.registration.json
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Shell\Solution.registration.json file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Content/cs-CZ/vscontent.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Content\cs-CZ\vscontent.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Content/de-DE/vscontent.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Content\de-DE\vscontent.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Content/en-US/copilot-memories.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Content\en-US\copilot-memories.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Content/en-US/instruction-files.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Content\en-US\instruction-files.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Content/en-US/vscontent.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Content\en-US\vscontent.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Content/es-ES/vscontent.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Content\es-ES\vscontent.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Content/fr-FR/vscontent.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Content\fr-FR\vscontent.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Content/index.yml
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Content\index.yml file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Content/it-IT/vscontent.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Content\it-IT\vscontent.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Content/ja-JP/vscontent.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Content\ja-JP\vscontent.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Content/ko-KR/vscontent.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Content\ko-KR\vscontent.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Content/media/17.14.14_instruction_files.png
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Content\media\17.14.14_instruction_files.png file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Content/media/17.14_memories.png
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Content\media\17.14_memories.png file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Content/media/hero.png
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Content\media\hero.png file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Content/media/vscontent.png
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Content\media\vscontent.png file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Content/pl-PL/vscontent.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Content\pl-PL\vscontent.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Content/pt-BR/vscontent.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Content\pt-BR\vscontent.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Content/ru-RU/vscontent.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Content\ru-RU\vscontent.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Content/tr-TR/vscontent.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Content\tr-TR\vscontent.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Content/zh-CN/vscontent.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Content\zh-CN\vscontent.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Content/zh-TW/vscontent.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Content\zh-TW\vscontent.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/cs-CZ/step1.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\cs-CZ\step1.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/cs-CZ/step2.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\cs-CZ\step2.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/cs-CZ/step3.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\cs-CZ\step3.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/cs-CZ/step4.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\cs-CZ\step4.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/cs-CZ/step5.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\cs-CZ\step5.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/cs-CZ/topic.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\cs-CZ\topic.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/de-DE/step1.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\de-DE\step1.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/de-DE/step2.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\de-DE\step2.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/de-DE/step3.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\de-DE\step3.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/de-DE/step4.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\de-DE\step4.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/de-DE/step5.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\de-DE\step5.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/de-DE/topic.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\de-DE\topic.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/en-US/step1.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\en-US\step1.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/en-US/step2.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\en-US\step2.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/en-US/step3.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\en-US\step3.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/en-US/step4.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\en-US\step4.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/en-US/step5.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\en-US\step5.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/en-US/topic.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\en-US\topic.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/es-ES/step1.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\es-ES\step1.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/es-ES/step2.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\es-ES\step2.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/es-ES/step3.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\es-ES\step3.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/es-ES/step4.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\es-ES\step4.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/es-ES/step5.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\es-ES\step5.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/es-ES/topic.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\es-ES\topic.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/fr-FR/step1.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\fr-FR\step1.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/fr-FR/step2.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\fr-FR\step2.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/fr-FR/step3.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\fr-FR\step3.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/fr-FR/step4.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\fr-FR\step4.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/fr-FR/step5.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\fr-FR\step5.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/fr-FR/topic.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\fr-FR\topic.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/index.yml
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\index.yml file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/it-IT/step1.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\it-IT\step1.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/it-IT/step2.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\it-IT\step2.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/it-IT/step3.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\it-IT\step3.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/it-IT/step4.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\it-IT\step4.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/it-IT/step5.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\it-IT\step5.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/it-IT/topic.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\it-IT\topic.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/ja-JP/step1.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\ja-JP\step1.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/ja-JP/step2.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\ja-JP\step2.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/ja-JP/step3.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\ja-JP\step3.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/ja-JP/step4.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\ja-JP\step4.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/ja-JP/step5.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\ja-JP\step5.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/ja-JP/topic.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\ja-JP\topic.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/ko-KR/step1.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\ko-KR\step1.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/ko-KR/step2.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\ko-KR\step2.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/ko-KR/step3.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\ko-KR\step3.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/ko-KR/step4.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\ko-KR\step4.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/ko-KR/step5.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\ko-KR\step5.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/ko-KR/topic.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\ko-KR\topic.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/media/ChatWithCopilot.png
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\media\ChatWithCopilot.png file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/media/CodeWithCopilotCompletions.png
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\media\CodeWithCopilotCompletions.png file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/media/GetStartedWithGitHubCopilot.png
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\media\GetStartedWithGitHubCopilot.png file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/pl-PL/step1.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\pl-PL\step1.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/pl-PL/step2.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\pl-PL\step2.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/pl-PL/step3.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\pl-PL\step3.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/pl-PL/step4.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\pl-PL\step4.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/pl-PL/step5.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\pl-PL\step5.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/pl-PL/topic.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\pl-PL\topic.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/pt-BR/step1.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\pt-BR\step1.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/pt-BR/step2.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\pt-BR\step2.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/pt-BR/step3.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\pt-BR\step3.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/pt-BR/step4.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\pt-BR\step4.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/pt-BR/step5.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\pt-BR\step5.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/pt-BR/topic.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\pt-BR\topic.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/ru-RU/step1.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\ru-RU\step1.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/ru-RU/step2.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\ru-RU\step2.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/ru-RU/step3.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\ru-RU\step3.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/ru-RU/step4.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\ru-RU\step4.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/ru-RU/step5.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\ru-RU\step5.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/ru-RU/topic.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\ru-RU\topic.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/tr-TR/step1.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\tr-TR\step1.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/tr-TR/step2.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\tr-TR\step2.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/tr-TR/step3.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\tr-TR\step3.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/tr-TR/step4.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\tr-TR\step4.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/tr-TR/step5.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\tr-TR\step5.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/tr-TR/topic.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\tr-TR\topic.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/zh-CN/step1.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\zh-CN\step1.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/zh-CN/step2.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\zh-CN\step2.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/zh-CN/step3.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\zh-CN\step3.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/zh-CN/step4.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\zh-CN\step4.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/zh-CN/step5.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\zh-CN\step5.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/zh-CN/topic.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\zh-CN\topic.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/zh-TW/step1.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\zh-TW\step1.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/zh-TW/step2.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\zh-TW\step2.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/zh-TW/step3.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\zh-TW\step3.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/zh-TW/step4.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\zh-TW\step4.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/zh-TW/step5.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\zh-TW\step5.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/WhatsNew/Walkthrough/Copilot/content/zh-TW/topic.md
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\WhatsNew\Walkthrough\Copilot\content\zh-TW\topic.md file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/UnifiedSettings/registration.schema.json
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\UnifiedSettings\registration.schema.json file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.Shell.UI.Internal.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.Shell.UI.Internal.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Started: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:48] Completed: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:48] Package executed successfully. Return code: 0

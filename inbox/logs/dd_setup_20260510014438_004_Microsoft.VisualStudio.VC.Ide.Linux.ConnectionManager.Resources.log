@@ -1,0 +1,28 @@
+[0c48:0003][2026-05-10T01:44:42] Using cached package manifest as the embedded manifest
+[0c48:0003][2026-05-10T01:44:42] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Linux/Linux/en/Microsoft.VisualStudio.Linux.ConnectionManager.resources.dll
+[0c48:0003][2026-05-10T01:44:42] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Linux\Linux\en\Microsoft.VisualStudio.Linux.ConnectionManager.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:42] Processing file /Contents/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/en/ConnectionManager.resources.dll
+[0c48:0003][2026-05-10T01:44:42] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\Linux\bin\ConnectionManagerExe\en\ConnectionManager.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:42] Processing file /Contents/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/en/liblinux.resources.dll
+[0c48:0003][2026-05-10T01:44:42] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\Linux\bin\ConnectionManagerExe\en\liblinux.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:42] Processing file /Contents/Common7/IDE/PrivateAssemblies/en/liblinux.resources.dll
+[0c48:0003][2026-05-10T01:44:42] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\en\liblinux.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:42] Processing file /Contents/Common7/IDE/PrivateAssemblies/en/liblinux.IO.resources.dll
+[0c48:0003][2026-05-10T01:44:42] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\en\liblinux.IO.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:42] Processing file /Contents/Common7/IDE/PrivateAssemblies/en/liblinux.Local.resources.dll
+[0c48:0003][2026-05-10T01:44:42] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\en\liblinux.Local.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:42] Processing file /Contents/MSBuild/Microsoft/VC/v160/Application Type/Linux/1.0/en/liblinux.resources.dll
+[0c48:0003][2026-05-10T01:44:42] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\en\liblinux.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:42] Processing file /Contents/MSBuild/Microsoft/VC/v160/Application Type/Linux/1.0/en/liblinux.IO.resources.dll
+[0c48:0003][2026-05-10T01:44:42] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\en\liblinux.IO.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:42] Processing file /Contents/MSBuild/Microsoft/VC/v160/Application Type/Linux/1.0/en/liblinux.Local.resources.dll
+[0c48:0003][2026-05-10T01:44:42] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\en\liblinux.Local.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:42] Processing file /Contents/MSBuild/Microsoft/VC/v170/Application Type/Linux/1.0/en/liblinux.resources.dll
+[0c48:0003][2026-05-10T01:44:42] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VC\v170\Application Type\Linux\1.0\en\liblinux.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:42] Processing file /Contents/MSBuild/Microsoft/VC/v170/Application Type/Linux/1.0/en/liblinux.IO.resources.dll
+[0c48:0003][2026-05-10T01:44:42] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VC\v170\Application Type\Linux\1.0\en\liblinux.IO.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:42] Processing file /Contents/MSBuild/Microsoft/VC/v170/Application Type/Linux/1.0/en/liblinux.Local.resources.dll
+[0c48:0003][2026-05-10T01:44:42] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VC\v170\Application Type\Linux\1.0\en\liblinux.Local.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:42] Started: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:42] Completed: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:42] Package executed successfully. Return code: 0

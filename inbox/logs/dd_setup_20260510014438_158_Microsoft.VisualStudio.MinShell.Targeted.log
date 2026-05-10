@@ -1,0 +1,300 @@
+[0c48:0003][2026-05-10T01:44:47] Using cached package manifest as the embedded manifest
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/vcruntime140.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\vcruntime140.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/msenv.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\msenv.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/coloader80.tlb
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\coloader80.tlb file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/vsext.olb
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vsext.olb file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/coloader80.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\coloader80.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/VsLogP.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\VsLogP.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/PrivateAssemblies/msalruntime_x86.dll
+[0c48:0003][2026-05-10T01:44:47] 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\msalruntime_x86.dll' file is already deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.Diagnostics.Measurement.Native.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.Diagnostics.Measurement.Native.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.Licensing.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.Licensing.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.RegDetour.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.RegDetour.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.Settings.15.0.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.Settings.15.0.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/PkgdefMgmt.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PkgdefMgmt.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/ProjectAggregator.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ProjectAggregator.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/VSLaunchBrowser.exe
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSLaunchBrowser.exe file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/msenvico.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\msenvico.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/VsRegistryDetour.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VsRegistryDetour.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/VsWerHandler.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VsWerHandler.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/VSWebHandler.exe
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSWebHandler.exe file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/VSWebLauncher.exe
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSWebLauncher.exe file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/Microsoft.VisualStudio.Interop.tlb
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\Microsoft.VisualStudio.Interop.tlb file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/dteproperties.tlb
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dteproperties.tlb file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/vshelp.tlb
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vshelp.tlb file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/dteproperties90.tlb
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dteproperties90.tlb file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/dteproperties90a.tlb
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dteproperties90a.tlb file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/dteproperties100.tlb
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dteproperties100.tlb file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/dteproperties110.tlb
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dteproperties110.tlb file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/dteproperties120.tlb
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dteproperties120.tlb file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/Microsoft.VisualStudio.ProductKeyDialog.tlb
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\Microsoft.VisualStudio.ProductKeyDialog.tlb file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/DebuggerProxy.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\DebuggerProxy.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/cscodemodelextensibility.tlb
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\cscodemodelextensibility.tlb file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/csiface.tlb
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\csiface.tlb file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/dte100.olb
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dte100.olb file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/dte90.olb
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dte90.olb file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/dte90a.olb
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dte90a.olb file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/coloader80.dll.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\coloader80.dll.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/DebuggerProxy.dll.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\DebuggerProxy.dll.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/msenv17p.dll.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv17p.dll.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/publish.tlb
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\publish.tlb file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/vcsharpextensibilitylib.tlb
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vcsharpextensibilitylib.tlb file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/vshelp80.olb
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vshelp80.olb file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/vslangproj.olb
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj.olb file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/vslangproj100.olb
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj100.olb file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/vslangproj110.olb
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj110.olb file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/vslangproj140.olb
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj140.olb file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/vslangproj150.olb
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj150.olb file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/vslangproj157.olb
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj157.olb file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/vslangproj158.olb
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj158.olb file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/vslangproj165.olb
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj165.olb file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/vslangproj2.olb
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj2.olb file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/vslangproj80.olb
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj80.olb file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/vslangproj90.olb
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj90.olb file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/vsmso.olb
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vsmso.olb file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/Microsoft.VisualStudio.CompilerHostObjectsProxy.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\Microsoft.VisualStudio.CompilerHostObjectsProxy.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/msenv17p.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv17p.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/vsprojhostproc.olb
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vsprojhostproc.olb file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/webproperties.tlb
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\webproperties.tlb file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/webproperties100.tlb
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\webproperties100.tlb file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/webproperties110.tlb
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\webproperties110.tlb file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/webproperties90.tlb
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\webproperties90.tlb file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/Microsoft.VisualStudio.CompilerHostObjectsProxy.dll.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\Microsoft.VisualStudio.CompilerHostObjectsProxy.dll.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/contextp.dll.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\contextp.dll.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/CSCodeModelExtensibility.tlb.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\CSCodeModelExtensibility.tlb.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/csiface.tlb.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\csiface.tlb.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/dte100.olb.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dte100.olb.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/dte80.olb.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dte80.olb.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/dte80a.olb.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dte80a.olb.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/dte90.olb.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dte90.olb.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/dte90a.olb.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dte90a.olb.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/dteproperties.tlb.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dteproperties.tlb.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/dteproperties100.tlb.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dteproperties100.tlb.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/dteproperties110.tlb.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dteproperties110.tlb.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/dteproperties120.tlb.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dteproperties120.tlb.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/dteproperties90.tlb.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dteproperties90.tlb.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/dteproperties90a.tlb.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dteproperties90a.tlb.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/Microsoft.VisualStudio.Interop.tlb.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\Microsoft.VisualStudio.Interop.tlb.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/Microsoft.VisualStudio.ProductKeyDialog.tlb.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\Microsoft.VisualStudio.ProductKeyDialog.tlb.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/msenvp.dll.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenvp.dll.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/msenv2p.dll.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv2p.dll.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/msenv80p.dll.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv80p.dll.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/msenv90p.dll.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv90p.dll.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/msenv100p.dll.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv100p.dll.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/msenv110p.dll.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv110p.dll.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/msenv120p.dll.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv120p.dll.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/msenv121p.dll.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv121p.dll.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/msenv140p.dll.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv140p.dll.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/msenv141p.dll.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv141p.dll.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/msenv150p.dll.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv150p.dll.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/msenv151p.dll.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv151p.dll.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/msenv153p.dll.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv153p.dll.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/msenv155p.dll.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv155p.dll.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/msenv156p.dll.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv156p.dll.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/msenv157p.dll.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv157p.dll.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/msenv158p.dll.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv158p.dll.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/msenv159p.dll.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv159p.dll.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/msenv16p.dll.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv16p.dll.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/publish.tlb.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\publish.tlb.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/textmgrp.dll.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\textmgrp.dll.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/VBCodeModelExtensibility.tlb.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\VBCodeModelExtensibility.tlb.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/VCSharpExtensibilityLib.tlb.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\VCSharpExtensibilityLib.tlb.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/vsext.olb.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vsext.olb.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/vshelp.tlb.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vshelp.tlb.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/vshelp80.tlb.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vshelp80.tlb.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/vslangproj.olb.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj.olb.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/vslangproj100.olb.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj100.olb.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/vslangproj110.olb.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj110.olb.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/vslangproj140.olb.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj140.olb.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/vslangproj150.olb.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj150.olb.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/vslangproj157.olb.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj157.olb.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/vslangproj158.olb.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj158.olb.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/vslangproj165.olb.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj165.olb.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/vslangproj2.olb.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj2.olb.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/vslangproj80.olb.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj80.olb.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/vslangproj90.olb.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vslangproj90.olb.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/VsLogP.dll.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\VsLogP.dll.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/vsmso.olb.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vsmso.olb.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/vsprojhostproc.olb.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\vsprojhostproc.olb.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/VxExtensibilityLib.tlb.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\VxExtensibilityLib.tlb.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/VxExtensibilityLib2.tlb.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\VxExtensibilityLib2.tlb.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/VxExtensibilityLib3.tlb.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\VxExtensibilityLib3.tlb.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/VxExtensibilityLib4.tlb.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\VxExtensibilityLib4.tlb.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/WebProperties.tlb.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\WebProperties.tlb.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/WebProperties100.tlb.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\WebProperties100.tlb.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/WebProperties110.tlb.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\WebProperties110.tlb.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/WebProperties90.tlb.manifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\WebProperties90.tlb.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/contextp.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\contextp.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/msenvp.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenvp.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/msenv2p.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv2p.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/msenv80p.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv80p.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/msenv90p.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv90p.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/msenv100p.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv100p.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/msenv110p.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv110p.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/msenv120p.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv120p.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/msenv121p.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv121p.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/msenv140p.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv140p.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/msenv141p.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv141p.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/msenv150p.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv150p.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/msenv151p.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv151p.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/msenv153p.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv153p.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/msenv155p.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv155p.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/msenv156p.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv156p.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/msenv157p.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv157p.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/msenv158p.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv158p.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/msenv159p.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv159p.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/msenv16p.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msenv16p.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Automation/textmgrp.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\textmgrp.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/ShellExtensions/Platform/appenvmnu.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ShellExtensions\Platform\appenvmnu.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/ShellExtensions/Platform/AppenvStub.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ShellExtensions\Platform\AppenvStub.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Started: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:47] Completed: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:47] Package executed successfully. Return code: 0

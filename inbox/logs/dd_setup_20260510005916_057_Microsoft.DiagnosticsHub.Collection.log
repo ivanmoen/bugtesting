@@ -1,0 +1,36 @@
+[bd94:0009][2026-05-10T01:00:48] Using cached package manifest as the embedded manifest
+[bd94:0009][2026-05-10T01:00:48] Processing file /Contents/Team Tools/DiagnosticsHub/Collector/DiagnosticsHub.Packaging.Managed.dll
+[bd94:0009][2026-05-10T01:00:48] D:\Program\Team Tools\DiagnosticsHub\Collector\DiagnosticsHub.Packaging.Managed.dll file deleted.
+[bd94:0009][2026-05-10T01:00:48] Processing file /Contents/Team Tools/DiagnosticsHub/Collector/Microsoft.Bcl.AsyncInterfaces.dll
+[bd94:0009][2026-05-10T01:00:48] D:\Program\Team Tools\DiagnosticsHub\Collector\Microsoft.Bcl.AsyncInterfaces.dll file deleted.
+[bd94:0009][2026-05-10T01:00:48] Processing file /Contents/Team Tools/DiagnosticsHub/Collector/System.Runtime.CompilerServices.Unsafe.dll
+[bd94:0009][2026-05-10T01:00:48] D:\Program\Team Tools\DiagnosticsHub\Collector\System.Runtime.CompilerServices.Unsafe.dll file deleted.
+[bd94:0009][2026-05-10T01:00:48] Processing file /Contents/Team Tools/DiagnosticsHub/Collector/System.IO.Packaging.dll
+[bd94:0009][2026-05-10T01:00:48] D:\Program\Team Tools\DiagnosticsHub\Collector\System.IO.Packaging.dll file deleted.
+[bd94:0009][2026-05-10T01:00:48] Processing file /Contents/Team Tools/DiagnosticsHub/Collector/System.Threading.Tasks.Extensions.dll
+[bd94:0009][2026-05-10T01:00:48] D:\Program\Team Tools\DiagnosticsHub\Collector\System.Threading.Tasks.Extensions.dll file deleted.
+[bd94:0009][2026-05-10T01:00:48] Processing file /Contents/Team Tools/DiagnosticsHub/Collector/System.Memory.dll
+[bd94:0009][2026-05-10T01:00:48] D:\Program\Team Tools\DiagnosticsHub\Collector\System.Memory.dll file deleted.
+[bd94:0009][2026-05-10T01:00:48] Processing file /Contents/Team Tools/DiagnosticsHub/Collector/System.Numerics.Vectors.dll
+[bd94:0009][2026-05-10T01:00:48] D:\Program\Team Tools\DiagnosticsHub\Collector\System.Numerics.Vectors.dll file deleted.
+[bd94:0009][2026-05-10T01:00:48] Processing file /Contents/Team Tools/DiagnosticsHub/Collector/Microsoft.DiagnosticsHub.Packaging.InteropEx.dll
+[bd94:0009][2026-05-10T01:00:48] D:\Program\Team Tools\DiagnosticsHub\Collector\Microsoft.DiagnosticsHub.Packaging.InteropEx.dll file deleted.
+[bd94:0009][2026-05-10T01:00:48] Processing file /Contents/Team Tools/DiagnosticsHub/Collector/DiagnosticsHub.StandardCollector.Interop.dll
+[bd94:0009][2026-05-10T01:00:48] D:\Program\Team Tools\DiagnosticsHub\Collector\DiagnosticsHub.StandardCollector.Interop.dll file deleted.
+[bd94:0009][2026-05-10T01:00:48] Processing file /Contents/Team Tools/DiagnosticsHub/Collector/DiagnosticsHub.StandardCollector.Host.Interop.dll
+[bd94:0009][2026-05-10T01:00:48] D:\Program\Team Tools\DiagnosticsHub\Collector\DiagnosticsHub.StandardCollector.Host.Interop.dll file deleted.
+[bd94:0009][2026-05-10T01:00:48] Processing file /Contents/Team Tools/DiagnosticsHub/Collector/DiagnosticsHub.StandardCollector.Runtime.dll
+[bd94:0009][2026-05-10T01:00:48] D:\Program\Team Tools\DiagnosticsHub\Collector\DiagnosticsHub.StandardCollector.Runtime.dll file deleted.
+[bd94:0009][2026-05-10T01:00:48] Processing file /Contents/Team Tools/DiagnosticsHub/Collector/DiagnosticsHub.Packaging.Interop.dll
+[bd94:0009][2026-05-10T01:00:48] D:\Program\Team Tools\DiagnosticsHub\Collector\DiagnosticsHub.Packaging.Interop.dll file deleted.
+[bd94:0009][2026-05-10T01:00:48] Processing file /Contents/Team Tools/DiagnosticsHub/Collector/VSDiagnostics.exe
+[bd94:0009][2026-05-10T01:00:48] D:\Program\Team Tools\DiagnosticsHub\Collector\VSDiagnostics.exe file deleted.
+[bd94:0009][2026-05-10T01:00:48] Processing file /Contents/Team Tools/DiagnosticsHub/Collector/VSDiagnostics.exe.config
+[bd94:0009][2026-05-10T01:00:48] D:\Program\Team Tools\DiagnosticsHub\Collector\VSDiagnostics.exe.config file deleted.
+[bd94:0009][2026-05-10T01:00:48] Processing file /Contents/Team Tools/DiagnosticsHub/Collector/amd64/DiagnosticsHub.StandardCollector.Proxy.dll
+[bd94:0009][2026-05-10T01:00:48] D:\Program\Team Tools\DiagnosticsHub\Collector\amd64\DiagnosticsHub.StandardCollector.Proxy.dll file deleted.
+[bd94:0009][2026-05-10T01:00:48] Processing file /Contents/Team Tools/DiagnosticsHub/Collector/x86/DiagnosticsHub.StandardCollector.Proxy.dll
+[bd94:0009][2026-05-10T01:00:48] D:\Program\Team Tools\DiagnosticsHub\Collector\x86\DiagnosticsHub.StandardCollector.Proxy.dll file deleted.
+[bd94:0009][2026-05-10T01:00:48] Started: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:48] Completed: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:48] Package executed successfully. Return code: 0

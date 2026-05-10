@@ -1,0 +1,544 @@
+[da4c:0007][2026-05-10T00:49:56] Opening the package for processing
+[da4c:0007][2026-05-10T00:49:56] Using package payload to get the embedded manifest
+[da4c:0007][2026-05-10T00:49:56] Getting list of files within the package
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Cursors/cross.cur
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Cursors/cross.cur to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Cursors\cross.cur
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Cursors/cross.cur to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Cursors\cross.cur
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Cursors\cross.cur'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Cursors/cursor_pan.cur
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Cursors/cursor_pan.cur to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Cursors\cursor_pan.cur
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Cursors/cursor_pan.cur to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Cursors\cursor_pan.cur
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Cursors\cursor_pan.cur'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Cursors/cursor_pencil.cur
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Cursors/cursor_pencil.cur to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Cursors\cursor_pencil.cur
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Cursors/cursor_pencil.cur to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Cursors\cursor_pencil.cur
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Cursors\cursor_pencil.cur'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Cursors/fill.cur
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Cursors/fill.cur to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Cursors\fill.cur
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Cursors/fill.cur to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Cursors\fill.cur
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Cursors\fill.cur'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Cursors/magicwand.cur
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Cursors/magicwand.cur to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Cursors\magicwand.cur
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Cursors/magicwand.cur to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Cursors\magicwand.cur
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Cursors\magicwand.cur'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Cursors/pickup.cur
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Cursors/pickup.cur to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Cursors\pickup.cur
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Cursors/pickup.cur to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Cursors\pickup.cur
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Cursors\pickup.cur'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Effects/BlackAndWhite.dgsl
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Effects/BlackAndWhite.dgsl to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Effects\BlackAndWhite.dgsl
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Effects/BlackAndWhite.dgsl to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Effects\BlackAndWhite.dgsl
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Effects\BlackAndWhite.dgsl'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Effects/Blur.dgsl
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Effects/Blur.dgsl to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Effects\Blur.dgsl
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Effects/Blur.dgsl to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Effects\Blur.dgsl
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Effects\Blur.dgsl'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Effects/Brighten.dgsl
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Effects/Brighten.dgsl to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Effects\Brighten.dgsl
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Effects/Brighten.dgsl to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Effects\Brighten.dgsl
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Effects\Brighten.dgsl'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Effects/Darken.dgsl
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Effects/Darken.dgsl to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Effects\Darken.dgsl
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Effects/Darken.dgsl to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Effects\Darken.dgsl
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Effects\Darken.dgsl'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Effects/EdgeDetection.dgsl
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Effects/EdgeDetection.dgsl to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Effects\EdgeDetection.dgsl
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Effects/EdgeDetection.dgsl to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Effects\EdgeDetection.dgsl
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Effects\EdgeDetection.dgsl'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Effects/Emboss.dgsl
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Effects/Emboss.dgsl to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Effects\Emboss.dgsl
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Effects/Emboss.dgsl to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Effects\Emboss.dgsl
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Effects\Emboss.dgsl'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Effects/lambert.dgsl
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Effects/lambert.dgsl to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Effects\lambert.dgsl
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Effects/lambert.dgsl to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Effects\lambert.dgsl
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Effects\lambert.dgsl'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Effects/phong.dgsl
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Effects/phong.dgsl to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Effects\phong.dgsl
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Effects/phong.dgsl to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Effects\phong.dgsl
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Effects\phong.dgsl'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Effects/Ripple.dgsl
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Effects/Ripple.dgsl to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Effects\Ripple.dgsl
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Effects/Ripple.dgsl to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Effects\Ripple.dgsl
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Effects\Ripple.dgsl'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Effects/SepiaTone.dgsl
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Effects/SepiaTone.dgsl to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Effects\SepiaTone.dgsl
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Effects/SepiaTone.dgsl to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Effects\SepiaTone.dgsl
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Effects\SepiaTone.dgsl'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Effects/Sharpen.dgsl
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Effects/Sharpen.dgsl to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Effects\Sharpen.dgsl
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Effects/Sharpen.dgsl to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Effects\Sharpen.dgsl
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Effects\Sharpen.dgsl'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Effects/unlit.dgsl
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Effects/unlit.dgsl to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Effects\unlit.dgsl
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Effects/unlit.dgsl to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Effects\unlit.dgsl
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Effects\unlit.dgsl'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/checkerboard.png
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/checkerboard.png to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\checkerboard.png
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/checkerboard.png to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\checkerboard.png
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\checkerboard.png'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/DefaultShaderEffectGraphTexture.png
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/DefaultShaderEffectGraphTexture.png to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\DefaultShaderEffectGraphTexture.png
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/DefaultShaderEffectGraphTexture.png to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\DefaultShaderEffectGraphTexture.png
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\DefaultShaderEffectGraphTexture.png'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdadd.bmp
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdadd.bmp to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdadd.bmp
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdadd.bmp to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdadd.bmp
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdadd.bmp'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdadd.dds
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdadd.dds to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdadd.dds
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdadd.dds to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdadd.dds
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdadd.dds'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdalphaport.dds
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdalphaport.dds to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdalphaport.dds
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdalphaport.dds to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdalphaport.dds
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdalphaport.dds'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdconstant.bmp
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdconstant.bmp to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdconstant.bmp
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdconstant.bmp to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdconstant.bmp
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdconstant.bmp'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdconstant.dds
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdconstant.dds to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdconstant.dds
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdconstant.dds to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdconstant.dds
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdconstant.dds'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsddot.bmp
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsddot.bmp to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsddot.bmp
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsddot.bmp to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsddot.bmp
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsddot.bmp'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsddot.dds
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsddot.dds to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsddot.dds
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsddot.dds to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsddot.dds
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsddot.dds'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdfilters.bmp
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdfilters.bmp to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdfilters.bmp
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdfilters.bmp to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdfilters.bmp
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdfilters.bmp'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdmath.bmp
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdmath.bmp to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdmath.bmp
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdmath.bmp to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdmath.bmp
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdmath.bmp'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdmul.bmp
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdmul.bmp to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdmul.bmp
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdmul.bmp to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdmul.bmp
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdmul.bmp'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdmul.dds
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdmul.dds to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdmul.dds
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdmul.dds to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdmul.dds
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdmul.dds'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdmuladd.bmp
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdmuladd.bmp to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdmuladd.bmp
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdmuladd.bmp to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdmuladd.bmp
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdmuladd.bmp'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdmuladd.dds
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdmuladd.dds to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdmuladd.dds
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdmuladd.dds to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdmuladd.dds
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdmuladd.dds'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdnormalize.bmp
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdnormalize.bmp to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdnormalize.bmp
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdnormalize.bmp to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdnormalize.bmp
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdnormalize.bmp'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdnormalize.dds
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdnormalize.dds to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdnormalize.dds
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdnormalize.dds to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdnormalize.dds
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdnormalize.dds'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdparam.bmp
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdparam.bmp to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdparam.bmp
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdparam.bmp to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdparam.bmp
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdparam.bmp'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdpow.bmp
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdpow.bmp to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdpow.bmp
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdpow.bmp to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdpow.bmp
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdpow.bmp'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdpow.dds
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdpow.dds to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdpow.dds
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdpow.dds to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdpow.dds
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdpow.dds'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdsaturate.bmp
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdsaturate.bmp to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdsaturate.bmp
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdsaturate.bmp to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdsaturate.bmp
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdsaturate.bmp'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdsaturate.dds
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdsaturate.dds to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdsaturate.dds
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdsaturate.dds to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdsaturate.dds
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdsaturate.dds'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdterminal.bmp
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdterminal.bmp to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdterminal.bmp
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdterminal.bmp to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdterminal.bmp
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdterminal.bmp'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdterminal.dds
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdterminal.dds to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdterminal.dds
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdterminal.dds to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdterminal.dds
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdterminal.dds'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdtexsample.bmp
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdtexsample.bmp to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdtexsample.bmp
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdtexsample.bmp to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdtexsample.bmp
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdtexsample.bmp'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdtexsample.dds
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdtexsample.dds to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdtexsample.dds
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdtexsample.dds to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdtexsample.dds
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdtexsample.dds'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdtextures.bmp
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdtextures.bmp to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdtextures.bmp
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdtextures.bmp to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdtextures.bmp
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdtextures.bmp'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdutil.bmp
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdutil.bmp to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdutil.bmp
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/dsdutil.bmp to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdutil.bmp
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\dsdutil.bmp'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/lassoants.png
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/lassoants.png to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\lassoants.png
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/lassoants.png to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\lassoants.png
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\lassoants.png'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/materialmissing.png
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/materialmissing.png to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\materialmissing.png
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/materialmissing.png to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\materialmissing.png
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\materialmissing.png'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/resizehandle.png
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/resizehandle.png to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\resizehandle.png
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/resizehandle.png to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\resizehandle.png
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\resizehandle.png'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/tregrid.dds
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/tregrid.dds to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\tregrid.dds
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Images/tregrid.dds to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\tregrid.dds
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Images\tregrid.dds'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/addsubdivisions.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/addsubdivisions.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\addsubdivisions.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/addsubdivisions.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\addsubdivisions.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\addsubdivisions.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/callbacks/undoableelementname.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/callbacks/undoableelementname.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\callbacks\undoableelementname.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/callbacks/undoableelementname.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\callbacks\undoableelementname.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\callbacks\undoableelementname.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/cone.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/cone.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\cone.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/cone.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\cone.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\cone.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/copy.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/copy.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\copy.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/copy.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\copy.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\copy.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/creategroup.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/creategroup.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\creategroup.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/creategroup.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\creategroup.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\creategroup.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/createnewobjectfrompolygonselection.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/createnewobjectfrompolygonselection.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\createnewobjectfrompolygonselection.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/createnewobjectfrompolygonselection.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\createnewobjectfrompolygonselection.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\createnewobjectfrompolygonselection.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/cube.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/cube.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\cube.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/cube.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\cube.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\cube.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/cut.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/cut.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\cut.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/cut.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\cut.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\cut.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/cylinder.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/cylinder.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\cylinder.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/cylinder.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\cylinder.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\cylinder.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/decmip.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/decmip.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\decmip.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/decmip.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\decmip.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\decmip.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/delete.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/delete.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\delete.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/delete.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\delete.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\delete.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/disc.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/disc.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\disc.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/disc.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\disc.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\disc.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/exportdirect3deffect.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/exportdirect3deffect.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\exportdirect3deffect.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/exportdirect3deffect.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\exportdirect3deffect.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\exportdirect3deffect.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/extrude.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/extrude.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\extrude.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/extrude.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\extrude.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\extrude.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/flippolygons.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/flippolygons.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\flippolygons.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/flippolygons.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\flippolygons.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\flippolygons.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/frameobject.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/frameobject.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\frameobject.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/frameobject.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\frameobject.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\frameobject.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/hlsl/commonpixelshaderhelpers.ps
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/hlsl/commonpixelshaderhelpers.ps to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\hlsl\commonpixelshaderhelpers.ps
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/hlsl/commonpixelshaderhelpers.ps to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\hlsl\commonpixelshaderhelpers.ps
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\hlsl\commonpixelshaderhelpers.ps'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/hlsl/sm5_pixelshaderhelpers.ps
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/hlsl/sm5_pixelshaderhelpers.ps to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\hlsl\sm5_pixelshaderhelpers.ps
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/hlsl/sm5_pixelshaderhelpers.ps to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\hlsl\sm5_pixelshaderhelpers.ps
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\hlsl\sm5_pixelshaderhelpers.ps'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/incmip.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/incmip.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\incmip.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/incmip.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\incmip.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\incmip.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/mergeobjects.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/mergeobjects.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\mergeobjects.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/mergeobjects.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\mergeobjects.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\mergeobjects.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/mreorthographic.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/mreorthographic.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\mreorthographic.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/mreorthographic.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\mreorthographic.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\mreorthographic.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/mreperspective.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/mreperspective.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\mreperspective.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/mreperspective.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\mreperspective.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\mreperspective.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/openscriptfolder.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/openscriptfolder.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\openscriptfolder.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/openscriptfolder.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\openscriptfolder.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\openscriptfolder.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/orbit.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/orbit.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\orbit.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/orbit.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\orbit.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\orbit.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/pan.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/pan.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\pan.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/pan.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\pan.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\pan.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/paste.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/paste.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\paste.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/paste.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\paste.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\paste.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/plane.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/plane.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\plane.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/plane.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\plane.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\plane.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/redo.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/redo.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\redo.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/redo.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\redo.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\redo.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/registerdsdnodes.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/registerdsdnodes.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\registerdsdnodes.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/registerdsdnodes.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\registerdsdnodes.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\registerdsdnodes.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/remove%20all%20animation.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/remove%20all%20animation.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\remove all animation.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/remove%20all%20animation.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\remove all animation.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\remove all animation.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/remove%20materials.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/remove%20materials.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\remove materials.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/remove%20materials.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\remove materials.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\remove materials.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/removeparent.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/removeparent.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\removeparent.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/removeparent.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\removeparent.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\removeparent.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/reset.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/reset.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\reset.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/reset.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\reset.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\reset.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/rotate.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/rotate.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\rotate.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/rotate.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\rotate.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\rotate.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/save.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/save.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\save.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/save.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\save.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\save.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/scale.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/scale.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\scale.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/scale.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\scale.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\scale.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/selectall.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/selectall.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\selectall.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/selectall.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\selectall.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\selectall.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/setparent.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/setparent.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\setparent.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/setparent.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\setparent.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\setparent.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/show%20fps.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/show%20fps.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\show fps.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/show%20fps.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\show fps.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\show fps.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/showall.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/showall.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\showall.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/showall.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\showall.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\showall.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/showemptynodes.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/showemptynodes.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\showemptynodes.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/showemptynodes.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\showemptynodes.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\showemptynodes.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/showfacenormals.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/showfacenormals.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\showfacenormals.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/showfacenormals.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\showfacenormals.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\showfacenormals.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/showpivot.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/showpivot.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\showpivot.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/showpivot.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\showpivot.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\showpivot.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/showvertexnormals.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/showvertexnormals.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\showvertexnormals.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/showvertexnormals.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\showvertexnormals.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\showvertexnormals.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/snap.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/snap.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\snap.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/snap.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\snap.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\snap.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/sphere.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/sphere.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\sphere.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/sphere.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\sphere.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\sphere.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/teapot.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/teapot.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\teapot.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/teapot.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\teapot.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\teapot.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/togglealpha.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/togglealpha.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\togglealpha.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/togglealpha.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\togglealpha.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\togglealpha.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/toggleblue.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/toggleblue.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\toggleblue.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/toggleblue.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\toggleblue.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\toggleblue.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/toggleembedmediaonexport.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/toggleembedmediaonexport.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\toggleembedmediaonexport.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/toggleembedmediaonexport.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\toggleembedmediaonexport.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\toggleembedmediaonexport.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/toggleexportastext.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/toggleexportastext.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\toggleexportastext.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/toggleexportastext.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\toggleexportastext.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\toggleexportastext.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/togglegreen.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/togglegreen.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\togglegreen.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/togglegreen.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\togglegreen.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\togglegreen.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/togglegrid.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/togglegrid.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\togglegrid.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/togglegrid.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\togglegrid.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\togglegrid.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/togglepivot.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/togglepivot.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\togglepivot.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/togglepivot.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\togglepivot.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\togglepivot.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/togglered.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/togglered.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\togglered.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/togglered.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\togglered.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\togglered.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/toggleworldmode.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/toggleworldmode.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\toggleworldmode.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/toggleworldmode.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\toggleworldmode.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\toggleworldmode.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/translate.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/translate.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\translate.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/translate.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\translate.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\translate.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/triangulate.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/triangulate.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\triangulate.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/triangulate.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\triangulate.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\triangulate.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/undo.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/undo.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\undo.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/undo.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\undo.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\undo.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/viewback.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/viewback.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\viewback.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/viewback.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\viewback.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\viewback.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/viewbottom.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/viewbottom.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\viewbottom.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/viewbottom.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\viewbottom.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\viewbottom.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/viewfront.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/viewfront.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\viewfront.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/viewfront.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\viewfront.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\viewfront.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/viewleft.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/viewleft.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\viewleft.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/viewleft.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\viewleft.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\viewleft.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/viewmaterialerrors.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/viewmaterialerrors.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\viewmaterialerrors.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/viewmaterialerrors.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\viewmaterialerrors.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\viewmaterialerrors.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/viewright.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/viewright.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\viewright.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/viewright.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\viewright.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\viewright.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/viewtop.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/viewtop.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\viewtop.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/viewtop.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\viewtop.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\viewtop.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/vsgCommands.xml
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/vsgCommands.xml to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\vsgCommands.xml
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/vsgCommands.xml to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\vsgCommands.xml
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\vsgCommands.xml'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/zoom.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/zoom.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\zoom.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/zoom.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\zoom.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\zoom.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/zoomtofit.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/zoomtofit.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\zoomtofit.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/zoomtofit.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\zoomtofit.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\zoomtofit.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/zoomtoscreenwidth.js
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/zoomtoscreenwidth.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\zoomtoscreenwidth.js
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/Assets/Scripts/zoomtoscreenwidth.js to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\zoomtoscreenwidth.js
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\Assets\Scripts\zoomtoscreenwidth.js'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/ImageContentTask.props
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/ImageContentTask.props to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\ImageContentTask.props
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/ImageContentTask.props to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\ImageContentTask.props
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\ImageContentTask.props'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/ImageContentTask.targets
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/ImageContentTask.targets to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\ImageContentTask.targets
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/ImageContentTask.targets to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\ImageContentTask.targets
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\ImageContentTask.targets'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/MeshContentTask.props
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/MeshContentTask.props to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\MeshContentTask.props
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/MeshContentTask.props to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\MeshContentTask.props
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\MeshContentTask.props'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/MeshContentTask.targets
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/MeshContentTask.targets to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\MeshContentTask.targets
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/MeshContentTask.targets to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\MeshContentTask.targets
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\MeshContentTask.targets'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/ShaderGraphContentTask.props
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/ShaderGraphContentTask.props to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\ShaderGraphContentTask.props
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/ShaderGraphContentTask.props to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\ShaderGraphContentTask.props
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\ShaderGraphContentTask.props'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/ShaderGraphContentTask.targets
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/ShaderGraphContentTask.targets to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\ShaderGraphContentTask.targets
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/ShaderGraphContentTask.targets to D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\ShaderGraphContentTask.targets
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\VsGraphics\ShaderGraphContentTask.targets'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/PublicAssemblies/CppCodeProvider.dll
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/CppCodeProvider.dll to D:\Program\Common7\IDE\PublicAssemblies\CppCodeProvider.dll
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/CppCodeProvider.dll to D:\Program\Common7\IDE\PublicAssemblies\CppCodeProvider.dll
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\CppCodeProvider.dll'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualC.VSCodeParser.dll
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualC.VSCodeParser.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualC.VSCodeParser.dll
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualC.VSCodeParser.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualC.VSCodeParser.dll
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualC.VSCodeParser.dll'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualC.VSCodeProvider.dll
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualC.VSCodeProvider.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualC.VSCodeProvider.dll
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualC.VSCodeProvider.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualC.VSCodeProvider.dll
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualC.VSCodeProvider.dll'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/VC/vcpackages/concrt140.dll
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/VC/vcpackages/concrt140.dll to D:\Program\Common7\IDE\VC\vcpackages\concrt140.dll
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/VC/vcpackages/concrt140.dll to D:\Program\Common7\IDE\VC\vcpackages\concrt140.dll
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\VC\vcpackages\concrt140.dll'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/VC/vcpackages/msvcp140.dll
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/VC/vcpackages/msvcp140.dll to D:\Program\Common7\IDE\VC\vcpackages\msvcp140.dll
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/VC/vcpackages/msvcp140.dll to D:\Program\Common7\IDE\VC\vcpackages\msvcp140.dll
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\VC\vcpackages\msvcp140.dll'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/VC/vcpackages/platform.winmd
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/VC/vcpackages/platform.winmd to D:\Program\Common7\IDE\VC\vcpackages\platform.winmd
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/VC/vcpackages/platform.winmd to D:\Program\Common7\IDE\VC\vcpackages\platform.winmd
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\VC\vcpackages\platform.winmd'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/VC/vcpackages/vcruntime140.dll
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/VC/vcpackages/vcruntime140.dll to D:\Program\Common7\IDE\VC\vcpackages\vcruntime140.dll
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/VC/vcpackages/vcruntime140.dll to D:\Program\Common7\IDE\VC\vcpackages\vcruntime140.dll
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\VC\vcpackages\vcruntime140.dll'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/VC/VCProjectDefaults/Microsoft.AppX.VCFrameworkReferences.xml
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/VC/VCProjectDefaults/Microsoft.AppX.VCFrameworkReferences.xml to D:\Program\Common7\IDE\VC\VCProjectDefaults\Microsoft.AppX.VCFrameworkReferences.xml
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectDefaults/Microsoft.AppX.VCFrameworkReferences.xml to D:\Program\Common7\IDE\VC\VCProjectDefaults\Microsoft.AppX.VCFrameworkReferences.xml
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\VC\VCProjectDefaults\Microsoft.AppX.VCFrameworkReferences.xml'.
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/VC/VCProjectDefaults/VCMergeModules.xml
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/VC/VCProjectDefaults/VCMergeModules.xml to D:\Program\Common7\IDE\VC\VCProjectDefaults\VCMergeModules.xml
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectDefaults/VCMergeModules.xml to D:\Program\Common7\IDE\VC\VCProjectDefaults\VCMergeModules.xml
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\VC\VCProjectDefaults\VCMergeModules.xml'.
+[da4c:0007][2026-05-10T00:49:56] Package executed successfully. Return code: 0

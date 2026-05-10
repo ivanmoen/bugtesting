@@ -1,0 +1,18 @@
+[bd94:0009][2026-05-10T01:00:57] Using cached package manifest as the embedded manifest
+[bd94:0009][2026-05-10T01:00:57] Processing file /Contents/MSBuild/Current/Imports/Microsoft.Common.Props/ImportBefore/Microsoft.NuGet.ImportBefore.props
+[bd94:0009][2026-05-10T01:00:57] D:\Program\MSBuild\Current\Imports\Microsoft.Common.Props\ImportBefore\Microsoft.NuGet.ImportBefore.props file deleted.
+[bd94:0009][2026-05-10T01:00:57] Processing file /Contents/MSBuild/Current/Microsoft.Common.Targets/ImportAfter/Microsoft.NuGet.ImportAfter.targets
+[bd94:0009][2026-05-10T01:00:57] D:\Program\MSBuild\Current\Microsoft.Common.Targets\ImportAfter\Microsoft.NuGet.ImportAfter.targets file deleted.
+[bd94:0009][2026-05-10T01:00:57] Processing file /Contents/MSBuild/Current/SolutionFile/ImportAfter/Microsoft.NuGet.Solution.ImportAfter.targets
+[bd94:0009][2026-05-10T01:00:57] D:\Program\MSBuild\Current\SolutionFile\ImportAfter\Microsoft.NuGet.Solution.ImportAfter.targets file deleted.
+[bd94:0009][2026-05-10T01:00:57] Processing file /Contents/MSBuild/Microsoft/NuGet/17.0/Microsoft.NuGet.Build.Tasks.dll
+[bd94:0009][2026-05-10T01:00:57] D:\Program\MSBuild\Microsoft\NuGet\17.0\Microsoft.NuGet.Build.Tasks.dll file deleted.
+[bd94:0009][2026-05-10T01:00:57] Processing file /Contents/MSBuild/Microsoft/NuGet/17.0/Newtonsoft.Json.dll
+[bd94:0009][2026-05-10T01:00:57] D:\Program\MSBuild\Microsoft\NuGet\17.0\Newtonsoft.Json.dll file deleted.
+[bd94:0009][2026-05-10T01:00:57] Processing file /Contents/MSBuild/Microsoft/NuGet/17.0/Microsoft.NuGet.props
+[bd94:0009][2026-05-10T01:00:57] D:\Program\MSBuild\Microsoft\NuGet\17.0\Microsoft.NuGet.props file deleted.
+[bd94:0009][2026-05-10T01:00:57] Processing file /Contents/MSBuild/Microsoft/NuGet/17.0/Microsoft.NuGet.targets
+[bd94:0009][2026-05-10T01:00:57] D:\Program\MSBuild\Microsoft\NuGet\17.0\Microsoft.NuGet.targets file deleted.
+[bd94:0009][2026-05-10T01:00:57] Started: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:57] Completed: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:57] Package executed successfully. Return code: 0

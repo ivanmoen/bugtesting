@@ -1,0 +1,114 @@
+[bd94:0009][2026-05-10T01:00:51] Using cached package manifest as the embedded manifest
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/vcpackages/1033/vcpkgsrvui.dll
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\vcpackages\1033\vcpkgsrvui.dll file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Wizards/en/Microsoft.VC.Wizards.resources.dll
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\CommonExtensions\Microsoft\VC\Wizards\en\Microsoft.VC.Wizards.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/PublicAssemblies/en/Microsoft.VisualStudio.VCCodeModel.xml
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\PublicAssemblies\en\Microsoft.VisualStudio.VCCodeModel.xml file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/PublicAssemblies/en/CppCodeProvider.xml
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\PublicAssemblies\en\CppCodeProvider.xml file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/Snippets/1033/SnippetsIndex.xml
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\Snippets\1033\SnippetsIndex.xml file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/Snippets/1033/Visual C++/~.snippet
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\Snippets\1033\Visual C++\~.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/Snippets/1033/Visual C++/class.snippet
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\Snippets\1033\Visual C++\class.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/Snippets/1033/Visual C++/classi.snippet
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\Snippets\1033\Visual C++\classi.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/Snippets/1033/Visual C++/ctor.snippet
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\Snippets\1033\Visual C++\ctor.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/Snippets/1033/Visual C++/do.snippet
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\Snippets\1033\Visual C++\do.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/Snippets/1033/Visual C++/else.snippet
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\Snippets\1033\Visual C++\else.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/Snippets/1033/Visual C++/enum.snippet
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\Snippets\1033\Visual C++\enum.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/Snippets/1033/Visual C++/enumclass.snippet
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\Snippets\1033\Visual C++\enumclass.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/Snippets/1033/Visual C++/for.snippet
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\Snippets\1033\Visual C++\for.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/Snippets/1033/Visual C++/foreach.snippet
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\Snippets\1033\Visual C++\foreach.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/Snippets/1033/Visual C++/forr.snippet
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\Snippets\1033\Visual C++\forr.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/Snippets/1033/Visual C++/if.snippet
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\Snippets\1033\Visual C++\if.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/Snippets/1033/Visual C++/if_consteval.snippet
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\Snippets\1033\Visual C++\if_consteval.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/Snippets/1033/Visual C++/if_constexpr.snippet
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\Snippets\1033\Visual C++\if_constexpr.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/Snippets/1033/Visual C++/interface.snippet
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\Snippets\1033\Visual C++\interface.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/Snippets/1033/Visual C++/namespace.snippet
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\Snippets\1033\Visual C++\namespace.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/Snippets/1033/Visual C++/pp_if.snippet
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\Snippets\1033\Visual C++\pp_if.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/Snippets/1033/Visual C++/pp_ifdef.snippet
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\Snippets\1033\Visual C++\pp_ifdef.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/Snippets/1033/Visual C++/pp_ifndef.snippet
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\Snippets\1033\Visual C++\pp_ifndef.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/Snippets/1033/Visual C++/pp_region.snippet
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\Snippets\1033\Visual C++\pp_region.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/Snippets/1033/Visual C++/rfor.snippet
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\Snippets\1033\Visual C++\rfor.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/Snippets/1033/Visual C++/struct.snippet
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\Snippets\1033\Visual C++\struct.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/Snippets/1033/Visual C++/switch.snippet
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\Snippets\1033\Visual C++\switch.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/Snippets/1033/Visual C++/try.snippet
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\Snippets\1033\Visual C++\try.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/Snippets/1033/Visual C++/union.snippet
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\Snippets\1033\Visual C++\union.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/Snippets/1033/Visual C++/while.snippet
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\Snippets\1033\Visual C++\while.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/Snippets/1033/Visual C++/Unreal Engine/swidget.snippet
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\Snippets\1033\Visual C++\Unreal Engine\swidget.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/Snippets/1033/Visual C++/Unreal Engine/tactorrange.snippet
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\Snippets\1033\Visual C++\Unreal Engine\tactorrange.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/Snippets/1033/Visual C++/Unreal Engine/tobjectrange.snippet
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\Snippets\1033\Visual C++\Unreal Engine\tobjectrange.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/Snippets/1033/Visual C++/Unreal Engine/uclass.snippet
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\Snippets\1033\Visual C++\Unreal Engine\uclass.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/Snippets/1033/Visual C++/Unreal Engine/uclassexported.snippet
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\Snippets\1033\Visual C++\Unreal Engine\uclassexported.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/Snippets/1033/Visual C++/Unreal Engine/uelog.snippet
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\Snippets\1033\Visual C++\Unreal Engine\uelog.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/Snippets/1033/Visual C++/Unreal Engine/uenum.snippet
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\Snippets\1033\Visual C++\Unreal Engine\uenum.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/Snippets/1033/Visual C++/Unreal Engine/ufunction.snippet
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\Snippets\1033\Visual C++\Unreal Engine\ufunction.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/Snippets/1033/Visual C++/Unreal Engine/uinterface.snippet
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\Snippets\1033\Visual C++\Unreal Engine\uinterface.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/Snippets/1033/Visual C++/Unreal Engine/uinterfaceexported.snippet
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\Snippets\1033\Visual C++\Unreal Engine\uinterfaceexported.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/Snippets/1033/Visual C++/Unreal Engine/uproperty.snippet
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\Snippets\1033\Visual C++\Unreal Engine\uproperty.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/Snippets/1033/Visual C++/Unreal Engine/ustruct.snippet
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\Snippets\1033\Visual C++\Unreal Engine\ustruct.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/Snippets/1033/Visual C++/Unreal Engine/ustructexported.snippet
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\Snippets\1033\Visual C++\Unreal Engine\ustructexported.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/Snippets/1033/Visual C++/Unreal Engine/witheditor.snippet
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\Snippets\1033\Visual C++\Unreal Engine\witheditor.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/vcpackages/1033/vcpkgui.dll
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\vcpackages\1033\vcpkgui.dll file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/vcpackages/1033/msgbldui.dll
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\vcpackages\1033\msgbldui.dll file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/vcpackages/1033/dbsvcui.dll
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\vcpackages\1033\dbsvcui.dll file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/vcpackages/1033/cpfeui.dll
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\vcpackages\1033\cpfeui.dll file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/VCWizards/1033/Script.js
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\VCWizards\1033\Script.js file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/VCWizards/1033/common.js
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\VCWizards\1033\common.js file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/VCWizards/1033/NewStyles.css
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\VCWizards\1033\NewStyles.css file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/VCWizards/1033/styles.css
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\VCWizards\1033\styles.css file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/VCWizards/CodeWiz/Generic/PropertySheet/Scripts/1033/default.js
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\VCWizards\CodeWiz\Generic\PropertySheet\Scripts\1033\default.js file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/VCWizards/CodeWiz/Generic/PropertySheet/Templates/1033/root.props
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\VCWizards\CodeWiz\Generic\PropertySheet\Templates\1033\root.props file deleted.
+[bd94:0009][2026-05-10T01:00:51] Started: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:51] Completed: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:51] Package executed successfully. Return code: 0

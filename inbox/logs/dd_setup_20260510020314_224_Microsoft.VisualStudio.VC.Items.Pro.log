@@ -1,0 +1,24 @@
+[18d4:0007][2026-05-10T02:03:56] Opening the package for processing
+[18d4:0007][2026-05-10T02:03:56] Using package payload to get the embedded manifest
+[18d4:0007][2026-05-10T02:03:56] Getting list of files within the package
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/NewFileItems/hlslfile.hlsl
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/NewFileItems/hlslfile.hlsl to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\NewFileItems\hlslfile.hlsl
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/NewFileItems/hlslfile.hlsl to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\NewFileItems\hlslfile.hlsl
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\NewFileItems\hlslfile.hlsl'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/NewFileItems/NewVCFileItems.vsdir
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/NewFileItems/NewVCFileItems.vsdir to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\NewFileItems\NewVCFileItems.vsdir
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/NewFileItems/NewVCFileItems.vsdir to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\NewFileItems\NewVCFileItems.vsdir
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\NewFileItems\NewVCFileItems.vsdir'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/VC/VCProjectItemsOpenFolder/ClangFormat.vsz
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItemsOpenFolder/ClangFormat.vsz to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItemsOpenFolder\ClangFormat.vsz
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItemsOpenFolder/ClangFormat.vsz to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItemsOpenFolder\ClangFormat.vsz
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItemsOpenFolder\ClangFormat.vsz'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/VC/VCProjectItemsOpenFolder/CppProperties.vsz
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItemsOpenFolder/CppProperties.vsz to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItemsOpenFolder\CppProperties.vsz
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItemsOpenFolder/CppProperties.vsz to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItemsOpenFolder\CppProperties.vsz
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItemsOpenFolder\CppProperties.vsz'.
+[18d4:0007][2026-05-10T02:03:56] Processing file /Contents/Common7/IDE/VC/VCProjectItemsOpenFolder/NewItems.vsdir
+[18d4:0007][2026-05-10T02:03:56] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItemsOpenFolder/NewItems.vsdir to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItemsOpenFolder\NewItems.vsdir
+[18d4:0007][2026-05-10T02:03:56] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItemsOpenFolder/NewItems.vsdir to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItemsOpenFolder\NewItems.vsdir
+[18d4:0007][2026-05-10T02:03:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCProjectItemsOpenFolder\NewItems.vsdir'.
+[18d4:0007][2026-05-10T02:03:56] Package executed successfully. Return code: 0

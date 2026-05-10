@@ -1,0 +1,84 @@
+[3474:0009][2026-05-10T01:46:20] Using cached package manifest as the embedded manifest
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.IDE.ToolboxControlsInstaller.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.IDE.ToolboxControlsInstaller.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Toolbox.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Toolbox.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Internal.VisualStudio.UserNotifications.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Internal.VisualStudio.UserNotifications.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Internal.VisualStudio.Shell.Framework.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Internal.VisualStudio.Shell.Framework.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.IDE.ToolboxControlsInstaller.pkgdef
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.IDE.ToolboxControlsInstaller.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.Platform.WindowManagement.ThemeImages.imagemanifest
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.Platform.WindowManagement.ThemeImages.imagemanifest file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.Platform.WindowManagement.pkgdef
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.Platform.WindowManagement.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.Toolbox.pkgdef
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.Toolbox.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.FeatureFlags.pkgdef
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.FeatureFlags.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.ImageCatalog.imagemanifest
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.ImageCatalog.imagemanifest file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell.Dark.pkgdef
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Shell.Dark.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell.HighContrast.pkgdef
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Shell.HighContrast.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell.Light.pkgdef
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Shell.Light.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.Bubblegum.pkgdef
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Theme.Bubblegum.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.CoolBreeze.pkgdef
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Theme.CoolBreeze.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.CoolSlate.pkgdef
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Theme.CoolSlate.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.IcyMint.pkgdef
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Theme.IcyMint.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.JuicyPlum.pkgdef
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Theme.JuicyPlum.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.MangoParadise.pkgdef
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Theme.MangoParadise.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.MoonlightGlow.pkgdef
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Theme.MoonlightGlow.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.MysticalForest.pkgdef
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Theme.MysticalForest.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.Registration.pkgdef
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Theme.Registration.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.SilkyPink.pkgdef
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Theme.SilkyPink.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.SpicyRed.pkgdef
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Theme.SpicyRed.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.SunnyDay.pkgdef
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Theme.SunnyDay.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.Light.pkgdef
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Theme.Light.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.Dark.pkgdef
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Theme.Dark.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.Blue.pkgdef
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Theme.Blue.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.Blue.ExtraContrast.pkgdef
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Theme.Blue.ExtraContrast.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.HighContrast.pkgdef
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Theme.HighContrast.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/EditorColors.pkgdef
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\EditorColors.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.Shell.Styles.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.Shell.Styles.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/DefaultLayout.winprf
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\DefaultLayout.winprf file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.Platform.WindowManagement.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.Platform.WindowManagement.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/Microsoft.WizardFramework.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.WizardFramework.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/Microsoft.WizardFrameworkVS.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.WizardFrameworkVS.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.Imaging.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.Imaging.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.Utilities.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.Utilities.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.ImageCatalog.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.ImageCatalog.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/en/Microsoft.VisualStudio.ImageCatalog.resources.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\en\Microsoft.VisualStudio.ImageCatalog.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Started: Deleting empty directories
+[3474:0009][2026-05-10T01:46:20] Completed: Deleting empty directories
+[3474:0009][2026-05-10T01:46:20] Package executed successfully. Return code: 0

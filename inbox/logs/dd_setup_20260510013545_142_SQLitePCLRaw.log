@@ -1,0 +1,28 @@
+[3c7c:000c][2026-05-10T01:36:02] Opening the package for processing
+[3c7c:000c][2026-05-10T01:36:02] Using package payload to get the embedded manifest
+[3c7c:000c][2026-05-10T01:36:02] Getting list of files within the package
+[3c7c:000c][2026-05-10T01:36:02] Processing file /Contents/Common7/IDE/PublicAssemblies/SQLite/SQLite-net.dll
+[3c7c:000c][2026-05-10T01:36:02] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/SQLite/SQLite-net.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\SQLite\SQLite-net.dll
+[3c7c:000c][2026-05-10T01:36:02] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/SQLite/SQLite-net.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\SQLite\SQLite-net.dll
+[3c7c:000c][2026-05-10T01:36:02] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\SQLite\SQLite-net.dll'.
+[3c7c:000c][2026-05-10T01:36:02] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\SQLite\SQLite-net.dll for X86 ngen
+[3c7c:000c][2026-05-10T01:36:02] Successfully queued file '/Contents/Common7/IDE/PublicAssemblies/SQLite/SQLite-net.dll' for ngen
+[3c7c:000c][2026-05-10T01:36:02] Processing file /Contents/Common7/IDE/PublicAssemblies/SQLite/SQLitePCLRaw.batteries_v2.dll
+[3c7c:000c][2026-05-10T01:36:02] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/SQLite/SQLitePCLRaw.batteries_v2.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\SQLite\SQLitePCLRaw.batteries_v2.dll
+[3c7c:000c][2026-05-10T01:36:02] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/SQLite/SQLitePCLRaw.batteries_v2.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\SQLite\SQLitePCLRaw.batteries_v2.dll
+[3c7c:000c][2026-05-10T01:36:02] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\SQLite\SQLitePCLRaw.batteries_v2.dll'.
+[3c7c:000c][2026-05-10T01:36:02] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\SQLite\SQLitePCLRaw.batteries_v2.dll for X86 ngen
+[3c7c:000c][2026-05-10T01:36:02] Successfully queued file '/Contents/Common7/IDE/PublicAssemblies/SQLite/SQLitePCLRaw.batteries_v2.dll' for ngen
+[3c7c:000c][2026-05-10T01:36:02] Processing file /Contents/Common7/IDE/PublicAssemblies/SQLite/SQLitePCLRaw.core.dll
+[3c7c:000c][2026-05-10T01:36:02] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/SQLite/SQLitePCLRaw.core.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\SQLite\SQLitePCLRaw.core.dll
+[3c7c:000c][2026-05-10T01:36:02] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/SQLite/SQLitePCLRaw.core.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\SQLite\SQLitePCLRaw.core.dll
+[3c7c:000c][2026-05-10T01:36:02] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\SQLite\SQLitePCLRaw.core.dll'.
+[3c7c:000c][2026-05-10T01:36:02] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\SQLite\SQLitePCLRaw.core.dll for X86 ngen
+[3c7c:000c][2026-05-10T01:36:02] Successfully queued file '/Contents/Common7/IDE/PublicAssemblies/SQLite/SQLitePCLRaw.core.dll' for ngen
+[3c7c:000c][2026-05-10T01:36:02] Processing file /Contents/Common7/IDE/PublicAssemblies/SQLite/SQLitePCLRaw.provider.dynamic_cdecl.dll
+[3c7c:000c][2026-05-10T01:36:02] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/SQLite/SQLitePCLRaw.provider.dynamic_cdecl.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\SQLite\SQLitePCLRaw.provider.dynamic_cdecl.dll
+[3c7c:000c][2026-05-10T01:36:02] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/SQLite/SQLitePCLRaw.provider.dynamic_cdecl.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\SQLite\SQLitePCLRaw.provider.dynamic_cdecl.dll
+[3c7c:000c][2026-05-10T01:36:02] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\SQLite\SQLitePCLRaw.provider.dynamic_cdecl.dll'.
+[3c7c:000c][2026-05-10T01:36:02] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\SQLite\SQLitePCLRaw.provider.dynamic_cdecl.dll for X86 ngen
+[3c7c:000c][2026-05-10T01:36:02] Successfully queued file '/Contents/Common7/IDE/PublicAssemblies/SQLite/SQLitePCLRaw.provider.dynamic_cdecl.dll' for ngen
+[3c7c:000c][2026-05-10T01:36:02] Package executed successfully. Return code: 0

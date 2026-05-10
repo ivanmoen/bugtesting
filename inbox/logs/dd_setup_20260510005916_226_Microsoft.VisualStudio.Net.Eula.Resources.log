@@ -1,0 +1,6 @@
+[bd94:0009][2026-05-10T01:00:56] Using cached package manifest as the embedded manifest
+[bd94:0009][2026-05-10T01:00:56] Processing file /Contents/Licenses/1033/.NET_Framework_EULA.rtf
+[bd94:0009][2026-05-10T01:00:56] D:\Program\Licenses\1033\.NET_Framework_EULA.rtf file deleted.
+[bd94:0009][2026-05-10T01:00:56] Started: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:56] Completed: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:56] Package executed successfully. Return code: 0

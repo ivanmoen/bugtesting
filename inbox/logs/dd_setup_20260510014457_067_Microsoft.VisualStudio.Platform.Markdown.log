@@ -1,0 +1,86 @@
+[3474:0009][2026-05-10T01:46:09] Using cached package manifest as the embedded manifest
+[3474:0009][2026-05-10T01:46:09] Processing file /extension.vsixmanifest
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Markdown\extension.vsixmanifest file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Markdig.Signed.dll
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Markdown\Markdig.Signed.dll file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Templates/md-csharp.zip
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Markdown\Templates\md-csharp.zip file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Templates/md-vb.zip
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Markdown\Templates\md-vb.zip file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Templates/VC/Utility/md-vc.zip
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Markdown\Templates\VC\Utility\md-vc.zip file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Templates/md-web.zip
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Markdown\Templates\md-web.zip file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Templates/ASP.NET%20Core/General/md-aspnetcore.zip
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Markdown\Templates\ASP.NET Core\General\md-aspnetcore.zip file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Microsoft.VisualStudio.Platform.Markdown.pkgdef
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Markdown\Microsoft.VisualStudio.Platform.Markdown.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Preview/Dependencies/vs-tool.css
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Markdown\Preview\Dependencies\vs-tool.css file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Preview/Dependencies/highlight.css
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Markdown\Preview\Dependencies\highlight.css file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Preview/Dependencies/highlight-dark.css
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Markdown\Preview\Dependencies\highlight-dark.css file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Preview/Dependencies/daytona-highlight-dark.css
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Markdown\Preview\Dependencies\daytona-highlight-dark.css file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Preview/Dependencies/daytona-md-template.html
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Markdown\Preview\Dependencies\daytona-md-template.html file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Preview/Dependencies/md-template.html
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Markdown\Preview\Dependencies\md-template.html file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Preview/Dependencies/DOMPurify/purify.min.js
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Markdown\Preview\Dependencies\DOMPurify\purify.min.js file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Preview/Dependencies/DOMPurify/LICENSE.txt
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Markdown\Preview\Dependencies\DOMPurify\LICENSE.txt file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Preview/Dependencies/mermaidJS/mermaid.min.js
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Markdown\Preview\Dependencies\mermaidJS\mermaid.min.js file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Preview/Dependencies/mermaidJS/LICENSE.txt
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Markdown\Preview\Dependencies\mermaidJS\LICENSE.txt file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Preview/Dependencies/manifest.json
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Markdown\Preview\Dependencies\manifest.json file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Preview/Dependencies/daytonaHTMLContextMenu.js
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Markdown\Preview\Dependencies\daytonaHTMLContextMenu.js file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /runtimes/win-x86/native/WebView2Loader.dll
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Markdown\runtimes\win-x86\native\WebView2Loader.dll file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /runtimes/win-x64/native/WebView2Loader.dll
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Markdown\runtimes\win-x64\native\WebView2Loader.dll file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /runtimes/win-arm64/native/WebView2Loader.dll
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Markdown\runtimes\win-arm64\native\WebView2Loader.dll file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Strings.resx
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Markdown\Strings.resx file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Microsoft.VisualStudio.Markdown.Core.dll
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Markdown\Microsoft.VisualStudio.Markdown.Core.dll file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Microsoft.VisualStudio.Markdown.Platform.dll
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Markdown\Microsoft.VisualStudio.Markdown.Platform.dll file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /zh-Hans/Microsoft.VisualStudio.Markdown.Platform.resources.dll
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Markdown\zh-Hans\Microsoft.VisualStudio.Markdown.Platform.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /zh-Hant/Microsoft.VisualStudio.Markdown.Platform.resources.dll
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Markdown\zh-Hant\Microsoft.VisualStudio.Markdown.Platform.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /de/Microsoft.VisualStudio.Markdown.Platform.resources.dll
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Markdown\de\Microsoft.VisualStudio.Markdown.Platform.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /es/Microsoft.VisualStudio.Markdown.Platform.resources.dll
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Markdown\es\Microsoft.VisualStudio.Markdown.Platform.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /fr/Microsoft.VisualStudio.Markdown.Platform.resources.dll
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Markdown\fr\Microsoft.VisualStudio.Markdown.Platform.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /it/Microsoft.VisualStudio.Markdown.Platform.resources.dll
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Markdown\it\Microsoft.VisualStudio.Markdown.Platform.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /ja/Microsoft.VisualStudio.Markdown.Platform.resources.dll
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Markdown\ja\Microsoft.VisualStudio.Markdown.Platform.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /ko/Microsoft.VisualStudio.Markdown.Platform.resources.dll
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Markdown\ko\Microsoft.VisualStudio.Markdown.Platform.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /ru/Microsoft.VisualStudio.Markdown.Platform.resources.dll
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Markdown\ru\Microsoft.VisualStudio.Markdown.Platform.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /cs/Microsoft.VisualStudio.Markdown.Platform.resources.dll
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Markdown\cs\Microsoft.VisualStudio.Markdown.Platform.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /pt-BR/Microsoft.VisualStudio.Markdown.Platform.resources.dll
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Markdown\pt-BR\Microsoft.VisualStudio.Markdown.Platform.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /pl/Microsoft.VisualStudio.Markdown.Platform.resources.dll
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Markdown\pl\Microsoft.VisualStudio.Markdown.Platform.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /tr/Microsoft.VisualStudio.Markdown.Platform.resources.dll
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Markdown\tr\Microsoft.VisualStudio.Markdown.Platform.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /manifest.json
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Markdown\manifest.json file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /catalog.json
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Markdown\catalog.json file deleted.
+[3474:0009][2026-05-10T01:46:09] Started: Deleting empty directories
+[3474:0009][2026-05-10T01:46:09] Completed: Deleting empty directories
+[3474:0009][2026-05-10T01:46:09] Package executed successfully. Return code: 0

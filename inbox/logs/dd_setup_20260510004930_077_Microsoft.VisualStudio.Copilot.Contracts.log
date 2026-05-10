@@ -1,0 +1,48 @@
+[da4c:0007][2026-05-10T00:49:50] Opening the package for processing
+[da4c:0007][2026-05-10T00:49:50] Using package payload to get the embedded manifest
+[da4c:0007][2026-05-10T00:49:50] Getting list of files within the package
+[da4c:0007][2026-05-10T00:49:50] Processing file /catalog.json
+[da4c:0007][2026-05-10T00:49:50] Started: Copying file /catalog.json to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\catalog.json
+[da4c:0007][2026-05-10T00:49:50] Completed: Copying file /catalog.json to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\catalog.json
+[da4c:0007][2026-05-10T00:49:50] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\catalog.json'.
+[da4c:0007][2026-05-10T00:49:50] Processing file /Copilot.png
+[da4c:0007][2026-05-10T00:49:50] Started: Copying file /Copilot.png to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Copilot.png
+[da4c:0007][2026-05-10T00:49:50] Completed: Copying file /Copilot.png to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Copilot.png
+[da4c:0007][2026-05-10T00:49:50] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Copilot.png'.
+[da4c:0007][2026-05-10T00:49:50] Processing file /LICENSE.md
+[da4c:0007][2026-05-10T00:49:50] Started: Copying file /LICENSE.md to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\LICENSE.md
+[da4c:0007][2026-05-10T00:49:50] Completed: Copying file /LICENSE.md to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\LICENSE.md
+[da4c:0007][2026-05-10T00:49:50] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\LICENSE.md'.
+[da4c:0007][2026-05-10T00:49:50] Processing file /manifest.json
+[da4c:0007][2026-05-10T00:49:50] Started: Copying file /manifest.json to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\manifest.json
+[da4c:0007][2026-05-10T00:49:50] Completed: Copying file /manifest.json to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\manifest.json
+[da4c:0007][2026-05-10T00:49:50] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\manifest.json'.
+[da4c:0007][2026-05-10T00:49:50] Processing file /Microsoft.VisualStudio.Copilot.Contracts.pkgdef
+[da4c:0007][2026-05-10T00:49:50] Started: Copying file /Microsoft.VisualStudio.Copilot.Contracts.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Microsoft.VisualStudio.Copilot.Contracts.pkgdef
+[da4c:0007][2026-05-10T00:49:50] Completed: Copying file /Microsoft.VisualStudio.Copilot.Contracts.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Microsoft.VisualStudio.Copilot.Contracts.pkgdef
+[da4c:0007][2026-05-10T00:49:50] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Microsoft.VisualStudio.Copilot.Contracts.pkgdef'.
+[da4c:0007][2026-05-10T00:49:50] Processing file /Microsoft.VisualStudio.Copilot.dll
+[da4c:0007][2026-05-10T00:49:50] Started: Copying file /Microsoft.VisualStudio.Copilot.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Microsoft.VisualStudio.Copilot.dll
+[da4c:0007][2026-05-10T00:49:50] Completed: Copying file /Microsoft.VisualStudio.Copilot.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Microsoft.VisualStudio.Copilot.dll
+[da4c:0007][2026-05-10T00:49:50] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Microsoft.VisualStudio.Copilot.dll'.
+[da4c:0007][2026-05-10T00:49:50] Processing file /Microsoft.VisualStudio.Copilot.pdb
+[da4c:0007][2026-05-10T00:49:50] Started: Copying file /Microsoft.VisualStudio.Copilot.pdb to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Microsoft.VisualStudio.Copilot.pdb
+[da4c:0007][2026-05-10T00:49:50] Completed: Copying file /Microsoft.VisualStudio.Copilot.pdb to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Microsoft.VisualStudio.Copilot.pdb
+[da4c:0007][2026-05-10T00:49:50] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Microsoft.VisualStudio.Copilot.pdb'.
+[da4c:0007][2026-05-10T00:49:50] Processing file /Microsoft.VisualStudio.Copilot.xml
+[da4c:0007][2026-05-10T00:49:50] Started: Copying file /Microsoft.VisualStudio.Copilot.xml to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Microsoft.VisualStudio.Copilot.xml
+[da4c:0007][2026-05-10T00:49:50] Completed: Copying file /Microsoft.VisualStudio.Copilot.xml to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Microsoft.VisualStudio.Copilot.xml
+[da4c:0007][2026-05-10T00:49:50] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Microsoft.VisualStudio.Copilot.xml'.
+[da4c:0007][2026-05-10T00:49:50] Processing file /Microsoft.VisualStudio.Extensibility.Copilot.Configuration.dll
+[da4c:0007][2026-05-10T00:49:50] Started: Copying file /Microsoft.VisualStudio.Extensibility.Copilot.Configuration.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Microsoft.VisualStudio.Extensibility.Copilot.Configuration.dll
+[da4c:0007][2026-05-10T00:49:50] Completed: Copying file /Microsoft.VisualStudio.Extensibility.Copilot.Configuration.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Microsoft.VisualStudio.Extensibility.Copilot.Configuration.dll
+[da4c:0007][2026-05-10T00:49:50] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Microsoft.VisualStudio.Extensibility.Copilot.Configuration.dll'.
+[da4c:0007][2026-05-10T00:49:50] Processing file /Microsoft.VisualStudio.Extensibility.Copilot.dll
+[da4c:0007][2026-05-10T00:49:50] Started: Copying file /Microsoft.VisualStudio.Extensibility.Copilot.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Microsoft.VisualStudio.Extensibility.Copilot.dll
+[da4c:0007][2026-05-10T00:49:50] Completed: Copying file /Microsoft.VisualStudio.Extensibility.Copilot.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Microsoft.VisualStudio.Extensibility.Copilot.dll
+[da4c:0007][2026-05-10T00:49:50] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Microsoft.VisualStudio.Extensibility.Copilot.dll'.
+[da4c:0007][2026-05-10T00:49:50] Processing file /extension.vsixmanifest
+[da4c:0007][2026-05-10T00:49:50] Started: Copying file /extension.vsixmanifest to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\extension.vsixmanifest
+[da4c:0007][2026-05-10T00:49:50] Completed: Copying file /extension.vsixmanifest to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\extension.vsixmanifest
+[da4c:0007][2026-05-10T00:49:50] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\extension.vsixmanifest'.
+[da4c:0007][2026-05-10T00:49:50] Package executed successfully. Return code: 0

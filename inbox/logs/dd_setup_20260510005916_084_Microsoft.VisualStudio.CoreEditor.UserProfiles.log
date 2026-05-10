@@ -1,0 +1,18 @@
+[bd94:0009][2026-05-10T01:00:50] Using cached package manifest as the embedded manifest
+[bd94:0009][2026-05-10T01:00:50] Processing file /Contents/Common7/IDE/Profiles/CSharp.vssettings
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\Profiles\CSharp.vssettings file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /Contents/Common7/IDE/Profiles/General.vssettings
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\Profiles\General.vssettings file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /Contents/Common7/IDE/Profiles/VB.vssettings
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\Profiles\VB.vssettings file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /Contents/Common7/IDE/Profiles/Web.vssettings
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\Profiles\Web.vssettings file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /Contents/Common7/IDE/Profiles/WebCode.vssettings
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\Profiles\WebCode.vssettings file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /Contents/Common7/IDE/Profiles/VC.vssettings
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\Profiles\VC.vssettings file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /Contents/Common7/IDE/Profiles/JavaScript.vssettings
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\Profiles\JavaScript.vssettings file deleted.
+[bd94:0009][2026-05-10T01:00:50] Started: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:50] Completed: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:50] Package executed successfully. Return code: 0

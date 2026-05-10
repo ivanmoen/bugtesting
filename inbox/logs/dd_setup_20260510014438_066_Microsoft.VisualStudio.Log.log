@@ -1,0 +1,34 @@
+[0c48:0003][2026-05-10T01:44:45] Using cached package manifest as the embedded manifest
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/msdia140.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\msdia140.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/VsLog.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VsLog.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/VSReliability.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSReliability.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/x64/VSReliability.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\x64\VSReliability.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VSLog/Microsoft.VisualStudio.PerfWatson.Provider.pkgdef
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VSLog\Microsoft.VisualStudio.PerfWatson.Provider.pkgdef file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VSReliability/VsReliability.pkgdef
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VSReliability\VsReliability.pkgdef file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.PerfWatson.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.PerfWatson.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PerfWatson2.exe
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PerfWatson2.exe file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PerfWatson2.exe.config
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PerfWatson2.exe.config file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/ResponsivenessTrackingManifest.xml
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ResponsivenessTrackingManifest.xml file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/CodeMarkersEtw.man
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CodeMarkersEtw.man file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/CodeMarkersEtwRc.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CodeMarkersEtwRc.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.CodeMarkers.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.CodeMarkers.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VSLog/VSLog.pkgdef
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VSLog\VSLog.pkgdef file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.PerfWatson.Provider.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.PerfWatson.Provider.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Started: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:45] Completed: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:45] Package executed successfully. Return code: 0

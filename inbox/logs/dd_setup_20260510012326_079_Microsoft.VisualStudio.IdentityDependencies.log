@@ -1,0 +1,52 @@
+[2e2c:0007][2026-05-10T01:23:50] Opening the package for processing
+[2e2c:0007][2026-05-10T01:23:50] Using package payload to get the embedded manifest
+[2e2c:0007][2026-05-10T01:23:50] Getting list of files within the package
+[2e2c:0007][2026-05-10T01:23:50] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Identity.Client.Broker.dll
+[2e2c:0007][2026-05-10T01:23:50] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Identity.Client.Broker.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Identity.Client.Broker.dll
+[2e2c:0007][2026-05-10T01:23:50] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Identity.Client.Broker.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Identity.Client.Broker.dll
+[2e2c:0007][2026-05-10T01:23:50] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Identity.Client.Broker.dll'.
+[2e2c:0007][2026-05-10T01:23:50] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Identity.Client.dll
+[2e2c:0007][2026-05-10T01:23:50] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Identity.Client.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Identity.Client.dll
+[2e2c:0007][2026-05-10T01:23:50] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Identity.Client.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Identity.Client.dll
+[2e2c:0007][2026-05-10T01:23:50] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Identity.Client.dll'.
+[2e2c:0007][2026-05-10T01:23:50] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Identity.Client.Extensions.Msal.dll
+[2e2c:0007][2026-05-10T01:23:50] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Identity.Client.Extensions.Msal.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Identity.Client.Extensions.Msal.dll
+[2e2c:0007][2026-05-10T01:23:50] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Identity.Client.Extensions.Msal.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Identity.Client.Extensions.Msal.dll
+[2e2c:0007][2026-05-10T01:23:50] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Identity.Client.Extensions.Msal.dll'.
+[2e2c:0007][2026-05-10T01:23:50] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Identity.Client.NativeInterop.dll
+[2e2c:0007][2026-05-10T01:23:50] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Identity.Client.NativeInterop.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Identity.Client.NativeInterop.dll
+[2e2c:0007][2026-05-10T01:23:50] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Identity.Client.NativeInterop.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Identity.Client.NativeInterop.dll
+[2e2c:0007][2026-05-10T01:23:50] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Identity.Client.NativeInterop.dll'.
+[2e2c:0007][2026-05-10T01:23:50] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.IdentityModel.Abstractions.dll
+[2e2c:0007][2026-05-10T01:23:50] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.IdentityModel.Abstractions.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.IdentityModel.Abstractions.dll
+[2e2c:0007][2026-05-10T01:23:50] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.IdentityModel.Abstractions.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.IdentityModel.Abstractions.dll
+[2e2c:0007][2026-05-10T01:23:50] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.IdentityModel.Abstractions.dll'.
+[2e2c:0007][2026-05-10T01:23:50] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.IdentityModel.JsonWebTokens.dll
+[2e2c:0007][2026-05-10T01:23:50] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.IdentityModel.JsonWebTokens.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.IdentityModel.JsonWebTokens.dll
+[2e2c:0007][2026-05-10T01:23:50] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.IdentityModel.JsonWebTokens.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.IdentityModel.JsonWebTokens.dll
+[2e2c:0007][2026-05-10T01:23:50] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.IdentityModel.JsonWebTokens.dll'.
+[2e2c:0007][2026-05-10T01:23:50] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.IdentityModel.Logging.dll
+[2e2c:0007][2026-05-10T01:23:50] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.IdentityModel.Logging.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.IdentityModel.Logging.dll
+[2e2c:0007][2026-05-10T01:23:50] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.IdentityModel.Logging.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.IdentityModel.Logging.dll
+[2e2c:0007][2026-05-10T01:23:50] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.IdentityModel.Logging.dll'.
+[2e2c:0007][2026-05-10T01:23:50] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.IdentityModel.Tokens.dll
+[2e2c:0007][2026-05-10T01:23:50] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.IdentityModel.Tokens.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.IdentityModel.Tokens.dll
+[2e2c:0007][2026-05-10T01:23:50] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.IdentityModel.Tokens.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.IdentityModel.Tokens.dll
+[2e2c:0007][2026-05-10T01:23:50] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.IdentityModel.Tokens.dll'.
+[2e2c:0007][2026-05-10T01:23:50] Processing file /Contents/Common7/IDE/PrivateAssemblies/msalruntime.dll
+[2e2c:0007][2026-05-10T01:23:50] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/msalruntime.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\msalruntime.dll
+[2e2c:0007][2026-05-10T01:23:50] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/msalruntime.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\msalruntime.dll
+[2e2c:0007][2026-05-10T01:23:50] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\msalruntime.dll'.
+[2e2c:0007][2026-05-10T01:23:50] Processing file /Contents/Common7/IDE/PrivateAssemblies/msalruntime_arm64.dll
+[2e2c:0007][2026-05-10T01:23:50] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/msalruntime_arm64.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\msalruntime_arm64.dll
+[2e2c:0007][2026-05-10T01:23:50] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/msalruntime_arm64.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\msalruntime_arm64.dll
+[2e2c:0007][2026-05-10T01:23:50] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\msalruntime_arm64.dll'.
+[2e2c:0007][2026-05-10T01:23:50] Processing file /Contents/Common7/IDE/PrivateAssemblies/msalruntime_x86.dll
+[2e2c:0007][2026-05-10T01:23:50] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/msalruntime_x86.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\msalruntime_x86.dll
+[2e2c:0007][2026-05-10T01:23:50] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/msalruntime_x86.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\msalruntime_x86.dll
+[2e2c:0007][2026-05-10T01:23:50] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\msalruntime_x86.dll'.
+[2e2c:0007][2026-05-10T01:23:50] Processing file /Contents/Common7/IDE/PrivateAssemblies/System.IdentityModel.Tokens.Jwt.dll
+[2e2c:0007][2026-05-10T01:23:50] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/System.IdentityModel.Tokens.Jwt.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\System.IdentityModel.Tokens.Jwt.dll
+[2e2c:0007][2026-05-10T01:23:50] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/System.IdentityModel.Tokens.Jwt.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\System.IdentityModel.Tokens.Jwt.dll
+[2e2c:0007][2026-05-10T01:23:50] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\System.IdentityModel.Tokens.Jwt.dll'.
+[2e2c:0007][2026-05-10T01:23:50] Package executed successfully. Return code: 0

@@ -1,0 +1,18 @@
+[bd94:0009][2026-05-10T01:00:54] Using cached package manifest as the embedded manifest
+[bd94:0009][2026-05-10T01:00:54] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/TestWindow/vstest.console.exe
+[bd94:0009][2026-05-10T01:00:54] D:\Program\Common7\IDE\CommonExtensions\Microsoft\TestWindow\vstest.console.exe file deleted.
+[bd94:0009][2026-05-10T01:00:54] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/TestWindow/vstest.console.exe.config
+[bd94:0009][2026-05-10T01:00:54] D:\Program\Common7\IDE\CommonExtensions\Microsoft\TestWindow\vstest.console.exe.config file deleted.
+[bd94:0009][2026-05-10T01:00:54] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/TestWindow/Microsoft.VisualStudio.MSTest.TestWindow.dll
+[bd94:0009][2026-05-10T01:00:54] D:\Program\Common7\IDE\CommonExtensions\Microsoft\TestWindow\Microsoft.VisualStudio.MSTest.TestWindow.dll file deleted.
+[bd94:0009][2026-05-10T01:00:54] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/TestWindow/Microsoft.TestPlatform.CoreUtilities.dll
+[bd94:0009][2026-05-10T01:00:54] D:\Program\Common7\IDE\CommonExtensions\Microsoft\TestWindow\Microsoft.TestPlatform.CoreUtilities.dll file deleted.
+[bd94:0009][2026-05-10T01:00:54] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/TestWindow/Microsoft.TestPlatform.PlatformAbstractions.dll
+[bd94:0009][2026-05-10T01:00:54] D:\Program\Common7\IDE\CommonExtensions\Microsoft\TestWindow\Microsoft.TestPlatform.PlatformAbstractions.dll file deleted.
+[bd94:0009][2026-05-10T01:00:54] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/TestWindow/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+[bd94:0009][2026-05-10T01:00:54] D:\Program\Common7\IDE\CommonExtensions\Microsoft\TestWindow\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll file deleted.
+[bd94:0009][2026-05-10T01:00:54] Processing file /Contents/Common7/Tools/vsdevcmd/ext/testwindow.bat
+[bd94:0009][2026-05-10T01:00:54] D:\Program\Common7\Tools\vsdevcmd\ext\testwindow.bat file deleted.
+[bd94:0009][2026-05-10T01:00:54] Started: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:54] Completed: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:54] Package executed successfully. Return code: 0

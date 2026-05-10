@@ -1,0 +1,152 @@
+[0c48:0003][2026-05-10T01:44:44] Using cached package manifest as the embedded manifest
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/DesignerTemplates/1033/InheritedTemplate.cs
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\DesignerTemplates\1033\InheritedTemplate.cs file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/DesignerTemplates/1033/InheritedTemplate.Designer.cs
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\DesignerTemplates\1033\InheritedTemplate.Designer.cs file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/SnippetsIndex.xml
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\SnippetsIndex.xml file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/NetFX30/propa.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\NetFX30\propa.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/NetFX30/propdp.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\NetFX30\propdp.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Refactoring/EncapsulateField.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\EncapsulateField.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Refactoring/EncapsulateFieldGet.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\EncapsulateFieldGet.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Refactoring/EncapsulateFieldSet.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\EncapsulateFieldSet.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Refactoring/EventStub - Field.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\EventStub - Field.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Refactoring/EventStub - Property.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\EventStub - Property.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Refactoring/GenerateConstructor - Constructor.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\GenerateConstructor - Constructor.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Refactoring/GenerateConstructor - MemberAssignment.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\GenerateConstructor - MemberAssignment.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Refactoring/GenerateConstructor - MemberDeclaration.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\GenerateConstructor - MemberDeclaration.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Refactoring/GenerateEnumMember.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\GenerateEnumMember.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Refactoring/GenerateField.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\GenerateField.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Refactoring/GenerateProperty - Auto Property.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\GenerateProperty - Auto Property.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Refactoring/GenerateProperty - Property.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\GenerateProperty - Property.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Refactoring/GenerateTypeInExistingFile.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\GenerateTypeInExistingFile.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Refactoring/GenerateTypeInExistingFileNoEnclosingNamespace.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\GenerateTypeInExistingFileNoEnclosingNamespace.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Refactoring/GenerateTypeInNewFile.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\GenerateTypeInNewFile.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Refactoring/GenerateTypeInNewFileNoEnclosingNamespace.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\GenerateTypeInNewFileNoEnclosingNamespace.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Refactoring/MethodOverrideStub.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\MethodOverrideStub.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Refactoring/MethodStub.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\MethodStub.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Refactoring/MethodStubNoBody.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\MethodStubNoBody.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Refactoring/PropertyOverrideStub.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\PropertyOverrideStub.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Refactoring/PropertyOverrideStubGet.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\PropertyOverrideStubGet.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Refactoring/PropertyOverrideStubSet.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\PropertyOverrideStubSet.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Refactoring/PropertyStub.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\PropertyStub.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Refactoring/PropertyStubGet.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\PropertyStubGet.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Refactoring/PropertyStubGetNoBody.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\PropertyStubGetNoBody.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Refactoring/PropertyStubNoBody.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\PropertyStubNoBody.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Refactoring/PropertyStubSet.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\PropertyStubSet.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Refactoring/PropertyStubSetNoBody.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\PropertyStubSetNoBody.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Visual C#/~.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\~.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Visual C#/attribute.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\attribute.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Visual C#/checked.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\checked.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Visual C#/class.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\class.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Visual C#/ctor.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\ctor.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Visual C#/cw.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\cw.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Visual C#/do.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\do.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Visual C#/else.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\else.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Visual C#/enum.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\enum.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Visual C#/equals.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\equals.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Visual C#/exception.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\exception.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Visual C#/for.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\for.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Visual C#/foreach.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\foreach.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Visual C#/forr.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\forr.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Visual C#/if.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\if.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Visual C#/indexer.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\indexer.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Visual C#/interface.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\interface.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Visual C#/invoke.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\invoke.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Visual C#/iterator.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\iterator.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Visual C#/iterindex.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\iterindex.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Visual C#/lock.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\lock.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Visual C#/mbox.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\mbox.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Visual C#/namespace.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\namespace.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Visual C#/pp_if.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\pp_if.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Visual C#/pp_region.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\pp_region.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Visual C#/prop.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\prop.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Visual C#/propfull.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\propfull.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Visual C#/propg.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\propg.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Visual C#/sim.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\sim.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Visual C#/struct.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\struct.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Visual C#/svm.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\svm.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Visual C#/switch.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\switch.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Visual C#/try.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\try.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Visual C#/tryf.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\tryf.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Visual C#/unchecked.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\unchecked.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Visual C#/unsafe.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\unsafe.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Visual C#/using.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\using.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/Snippets/1033/Visual C#/while.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\while.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/VC#Wizards/1033/common.js
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\VC#Wizards\1033\common.js file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/VC#Wizards/1033/Script.js
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\VC#Wizards\1033\Script.js file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VC#/VC#Wizards/1033/styles.css
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\VC#Wizards\1033\styles.css file deleted.
+[0c48:0003][2026-05-10T01:44:44] Started: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:44] Completed: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:44] Package executed successfully. Return code: 0

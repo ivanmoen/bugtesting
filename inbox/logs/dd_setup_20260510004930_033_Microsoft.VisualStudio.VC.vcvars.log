@@ -1,0 +1,12 @@
+[da4c:0007][2026-05-10T00:49:39] Opening the package for processing
+[da4c:0007][2026-05-10T00:49:39] Using package payload to get the embedded manifest
+[da4c:0007][2026-05-10T00:49:39] Getting list of files within the package
+[da4c:0007][2026-05-10T00:49:39] Processing file /Contents/Common7/Tools/vsdevcmd/ext/vcvars.bat
+[da4c:0007][2026-05-10T00:49:39] Started: Copying file /Contents/Common7/Tools/vsdevcmd/ext/vcvars.bat to D:\Program\Common7\Tools\vsdevcmd\ext\vcvars.bat
+[da4c:0007][2026-05-10T00:49:39] Completed: Copying file /Contents/Common7/Tools/vsdevcmd/ext/vcvars.bat to D:\Program\Common7\Tools\vsdevcmd\ext\vcvars.bat
+[da4c:0007][2026-05-10T00:49:39] Timestamp updated for file 'D:\Program\Common7\Tools\vsdevcmd\ext\vcvars.bat'.
+[da4c:0007][2026-05-10T00:49:39] Processing file /Contents/Common7/Tools/vsdevcmd/ext/vcvars/vcvars140.bat
+[da4c:0007][2026-05-10T00:49:39] Started: Copying file /Contents/Common7/Tools/vsdevcmd/ext/vcvars/vcvars140.bat to D:\Program\Common7\Tools\vsdevcmd\ext\vcvars\vcvars140.bat
+[da4c:0007][2026-05-10T00:49:39] Completed: Copying file /Contents/Common7/Tools/vsdevcmd/ext/vcvars/vcvars140.bat to D:\Program\Common7\Tools\vsdevcmd\ext\vcvars\vcvars140.bat
+[da4c:0007][2026-05-10T00:49:39] Timestamp updated for file 'D:\Program\Common7\Tools\vsdevcmd\ext\vcvars\vcvars140.bat'.
+[da4c:0007][2026-05-10T00:49:39] Package executed successfully. Return code: 0

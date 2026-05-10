@@ -1,0 +1,30 @@
+[0c48:0003][2026-05-10T01:44:47] Using cached package manifest as the embedded manifest
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/PerfDebuggerWebViews/PerfDebuggerSwimlane.js
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\PerfDebuggerWebViews\PerfDebuggerSwimlane.js file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/PerfDebuggerWebViews/css/IntelliTraceGraph.css
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\PerfDebuggerWebViews\css\IntelliTraceGraph.css file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/PerfDebuggerWebViews/icons/AllEventsIcon.svg
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\PerfDebuggerWebViews\icons\AllEventsIcon.svg file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/PerfDebuggerWebViews/icons/BreakTrackIcon.svg
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\PerfDebuggerWebViews\icons\BreakTrackIcon.svg file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/PerfDebuggerWebViews/icons/ExceptionEventIcon.svg
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\PerfDebuggerWebViews\icons\ExceptionEventIcon.svg file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/PerfDebuggerWebViews/icons/IntelliTraceTrackIcon.svg
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\PerfDebuggerWebViews\icons\IntelliTraceTrackIcon.svg file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/PerfDebuggerWebViews/icons/timeline/light/normal/TimelineMarkGray.png
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\PerfDebuggerWebViews\icons\timeline\light\normal\TimelineMarkGray.png file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/PerfDebuggerWebViews/icons/timeline/light/normal/TimelineMarkPurple.png
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\PerfDebuggerWebViews\icons\timeline\light\normal\TimelineMarkPurple.png file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/PerfDebuggerWebViews/icons/timeline/light/normal/TimelineMarkRed.png
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\PerfDebuggerWebViews\icons\timeline\light\normal\TimelineMarkRed.png file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/PerfDebuggerWebViews/icons/timeline/light/selected/TimelineMarkGray.png
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\PerfDebuggerWebViews\icons\timeline\light\selected\TimelineMarkGray.png file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/PerfDebuggerWebViews/icons/timeline/light/selected/TimelineMarkPurple.png
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\PerfDebuggerWebViews\icons\timeline\light\selected\TimelineMarkPurple.png file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/PerfDebuggerWebViews/icons/timeline/light/selected/TimelineMarkRed.png
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\PerfDebuggerWebViews\icons\timeline\light\selected\TimelineMarkRed.png file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Diagnostics.HubExtensions.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Diagnostics.HubExtensions.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Started: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:47] Completed: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:47] Package executed successfully. Return code: 0

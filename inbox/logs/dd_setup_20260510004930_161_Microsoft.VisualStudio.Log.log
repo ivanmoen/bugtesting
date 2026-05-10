@@ -1,0 +1,68 @@
+[da4c:0007][2026-05-10T00:50:00] Opening the package for processing
+[da4c:0007][2026-05-10T00:50:00] Using package payload to get the embedded manifest
+[da4c:0007][2026-05-10T00:50:00] Getting list of files within the package
+[da4c:0007][2026-05-10T00:50:00] Processing file /Contents/Common7/IDE/CodeMarkersEtw.man
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Contents/Common7/IDE/CodeMarkersEtw.man to D:\Program\Common7\IDE\CodeMarkersEtw.man
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /Contents/Common7/IDE/CodeMarkersEtw.man to D:\Program\Common7\IDE\CodeMarkersEtw.man
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\CodeMarkersEtw.man'.
+[da4c:0007][2026-05-10T00:50:00] Processing file /Contents/Common7/IDE/CodeMarkersEtwRc.dll
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Contents/Common7/IDE/CodeMarkersEtwRc.dll to D:\Program\Common7\IDE\CodeMarkersEtwRc.dll
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /Contents/Common7/IDE/CodeMarkersEtwRc.dll to D:\Program\Common7\IDE\CodeMarkersEtwRc.dll
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\CodeMarkersEtwRc.dll'.
+[da4c:0007][2026-05-10T00:50:00] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VSLog/Microsoft.VisualStudio.PerfWatson.Provider.pkgdef
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/VSLog/Microsoft.VisualStudio.PerfWatson.Provider.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Microsoft\VSLog\Microsoft.VisualStudio.PerfWatson.Provider.pkgdef
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/VSLog/Microsoft.VisualStudio.PerfWatson.Provider.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Microsoft\VSLog\Microsoft.VisualStudio.PerfWatson.Provider.pkgdef
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\VSLog\Microsoft.VisualStudio.PerfWatson.Provider.pkgdef'.
+[da4c:0007][2026-05-10T00:50:00] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VSLog/VSLog.pkgdef
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/VSLog/VSLog.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Microsoft\VSLog\VSLog.pkgdef
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/VSLog/VSLog.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Microsoft\VSLog\VSLog.pkgdef
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\VSLog\VSLog.pkgdef'.
+[da4c:0007][2026-05-10T00:50:00] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VSReliability/VsReliability.pkgdef
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/VSReliability/VsReliability.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Microsoft\VSReliability\VsReliability.pkgdef
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/VSReliability/VsReliability.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Microsoft\VSReliability\VsReliability.pkgdef
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\VSReliability\VsReliability.pkgdef'.
+[da4c:0007][2026-05-10T00:50:00] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.CodeMarkers.dll
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.CodeMarkers.dll to D:\Program\Common7\IDE\Microsoft.VisualStudio.CodeMarkers.dll
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.CodeMarkers.dll to D:\Program\Common7\IDE\Microsoft.VisualStudio.CodeMarkers.dll
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\Microsoft.VisualStudio.CodeMarkers.dll'.
+[da4c:0007][2026-05-10T00:50:00] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.PerfWatson.dll
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.PerfWatson.dll to D:\Program\Common7\IDE\Microsoft.VisualStudio.PerfWatson.dll
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.PerfWatson.dll to D:\Program\Common7\IDE\Microsoft.VisualStudio.PerfWatson.dll
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\Microsoft.VisualStudio.PerfWatson.dll'.
+[da4c:0007][2026-05-10T00:50:00] Queueing D:\Program\Common7\IDE\Microsoft.VisualStudio.PerfWatson.dll for X86 ngen
+[da4c:0007][2026-05-10T00:50:00] Successfully queued file '/Contents/Common7/IDE/Microsoft.VisualStudio.PerfWatson.dll' for ngen
+[da4c:0007][2026-05-10T00:50:00] Processing file /Contents/Common7/IDE/msdia140.dll
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Contents/Common7/IDE/msdia140.dll to D:\Program\Common7\IDE\msdia140.dll
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/msdia140.dll to D:\Program\Common7\IDE\msdia140.dll
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\msdia140.dll'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/PerfWatson2.exe
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/PerfWatson2.exe to D:\Program\Common7\IDE\PerfWatson2.exe
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/PerfWatson2.exe to D:\Program\Common7\IDE\PerfWatson2.exe
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\PerfWatson2.exe'.
+[da4c:0007][2026-05-10T00:50:01] Queueing D:\Program\Common7\IDE\PerfWatson2.exe for X86 ngen
+[da4c:0007][2026-05-10T00:50:01] Successfully queued file '/Contents/Common7/IDE/PerfWatson2.exe' for ngen
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/PerfWatson2.exe.config
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/PerfWatson2.exe.config to D:\Program\Common7\IDE\PerfWatson2.exe.config
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/PerfWatson2.exe.config to D:\Program\Common7\IDE\PerfWatson2.exe.config
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\PerfWatson2.exe.config'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.PerfWatson.Provider.dll
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.PerfWatson.Provider.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.PerfWatson.Provider.dll
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.PerfWatson.Provider.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.PerfWatson.Provider.dll
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.PerfWatson.Provider.dll'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/ResponsivenessTrackingManifest.xml
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/ResponsivenessTrackingManifest.xml to D:\Program\Common7\IDE\ResponsivenessTrackingManifest.xml
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/ResponsivenessTrackingManifest.xml to D:\Program\Common7\IDE\ResponsivenessTrackingManifest.xml
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\ResponsivenessTrackingManifest.xml'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/VsLog.dll
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/VsLog.dll to D:\Program\Common7\IDE\VsLog.dll
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/VsLog.dll to D:\Program\Common7\IDE\VsLog.dll
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\VsLog.dll'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/VSReliability.dll
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/VSReliability.dll to D:\Program\Common7\IDE\VSReliability.dll
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/VSReliability.dll to D:\Program\Common7\IDE\VSReliability.dll
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\VSReliability.dll'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/x64/VSReliability.dll
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/x64/VSReliability.dll to D:\Program\Common7\IDE\x64\VSReliability.dll
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/x64/VSReliability.dll to D:\Program\Common7\IDE\x64\VSReliability.dll
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\x64\VSReliability.dll'.
+[da4c:0007][2026-05-10T00:50:01] Package executed successfully. Return code: 0

@@ -1,0 +1,7 @@
+[18d4:0007][2026-05-10T02:03:56] Opening the package for processing
+[18d4:0007][2026-05-10T02:03:56] Using package payload to get the embedded manifest
+[18d4:0007][2026-05-10T02:03:56] Getting list of files within the package
+[18d4:0007][2026-05-10T02:03:56] Installing ProgId: VisualStudio.shproj.0240ddbe
+[18d4:0007][2026-05-10T02:03:56] Processing file extension for install .shproj
+[18d4:0007][2026-05-10T02:03:56] RegistrationPath: Software\Microsoft\VisualStudio_0240ddbe\Capabilities\FileAssociations
+[18d4:0007][2026-05-10T02:03:56] Package executed successfully. Return code: 0

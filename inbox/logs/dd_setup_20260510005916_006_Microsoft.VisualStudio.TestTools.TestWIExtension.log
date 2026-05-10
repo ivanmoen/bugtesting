@@ -1,0 +1,10 @@
+[bd94:0009][2026-05-10T01:00:38] Using cached package manifest as the embedded manifest
+[bd94:0009][2026-05-10T01:00:38] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Unit Test Explorer/TestWIExtension/extension.vsixmanifest
+[bd94:0009][2026-05-10T01:00:38] D:\Program\Common7\IDE\Extensions\Microsoft\Unit Test Explorer\TestWIExtension\extension.vsixmanifest file deleted.
+[bd94:0009][2026-05-10T01:00:38] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Unit Test Explorer/TestWIExtension/Microsoft.TeamFoundation.TestManagement.TestMethodAssociationExtension.dll
+[bd94:0009][2026-05-10T01:00:38] D:\Program\Common7\IDE\Extensions\Microsoft\Unit Test Explorer\TestWIExtension\Microsoft.TeamFoundation.TestManagement.TestMethodAssociationExtension.dll file deleted.
+[bd94:0009][2026-05-10T01:00:38] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Unit Test Explorer/TestWIExtension/Microsoft.TeamFoundation.TestManagement.TestMethodAssociationExtension.pkgdef
+[bd94:0009][2026-05-10T01:00:38] D:\Program\Common7\IDE\Extensions\Microsoft\Unit Test Explorer\TestWIExtension\Microsoft.TeamFoundation.TestManagement.TestMethodAssociationExtension.pkgdef file deleted.
+[bd94:0009][2026-05-10T01:00:38] Started: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:38] Completed: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:38] Package executed successfully. Return code: 0

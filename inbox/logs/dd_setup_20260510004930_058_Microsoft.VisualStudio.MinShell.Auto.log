@@ -1,0 +1,178 @@
+[da4c:0007][2026-05-10T00:49:47] Opening the package for processing
+[da4c:0007][2026-05-10T00:49:47] Using package payload to get the embedded manifest
+[da4c:0007][2026-05-10T00:49:47] Getting list of files within the package
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/EditorColors.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/EditorColors.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\EditorColors.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/EditorColors.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\EditorColors.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\EditorColors.pkgdef'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell.Dark.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Shell.Dark.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Shell.Dark.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Shell.Dark.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Shell.Dark.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Shell.Dark.pkgdef'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell.HighContrast.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Shell.HighContrast.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Shell.HighContrast.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Shell.HighContrast.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Shell.HighContrast.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Shell.HighContrast.pkgdef'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell.Light.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Shell.Light.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Shell.Light.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Shell.Light.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Shell.Light.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Shell.Light.pkgdef'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.FeatureFlags.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.FeatureFlags.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.FeatureFlags.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.FeatureFlags.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.FeatureFlags.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.FeatureFlags.pkgdef'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.IDE.ToolboxControlsInstaller.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.IDE.ToolboxControlsInstaller.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.IDE.ToolboxControlsInstaller.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.IDE.ToolboxControlsInstaller.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.IDE.ToolboxControlsInstaller.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.IDE.ToolboxControlsInstaller.pkgdef'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.ImageCatalog.imagemanifest
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.ImageCatalog.imagemanifest to D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.ImageCatalog.imagemanifest
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.ImageCatalog.imagemanifest to D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.ImageCatalog.imagemanifest
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.ImageCatalog.imagemanifest'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.Platform.WindowManagement.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.Platform.WindowManagement.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.Platform.WindowManagement.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.Platform.WindowManagement.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.Platform.WindowManagement.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.Platform.WindowManagement.pkgdef'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.Platform.WindowManagement.ThemeImages.imagemanifest
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.Platform.WindowManagement.ThemeImages.imagemanifest to D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.Platform.WindowManagement.ThemeImages.imagemanifest
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.Platform.WindowManagement.ThemeImages.imagemanifest to D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.Platform.WindowManagement.ThemeImages.imagemanifest
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.Platform.WindowManagement.ThemeImages.imagemanifest'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.Toolbox.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.Toolbox.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.Toolbox.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.Toolbox.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.Toolbox.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.Toolbox.pkgdef'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.Blue.ExtraContrast.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.Blue.ExtraContrast.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Theme.Blue.ExtraContrast.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.Blue.ExtraContrast.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Theme.Blue.ExtraContrast.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Theme.Blue.ExtraContrast.pkgdef'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.Blue.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.Blue.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Theme.Blue.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.Blue.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Theme.Blue.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Theme.Blue.pkgdef'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.Bubblegum.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.Bubblegum.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Theme.Bubblegum.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.Bubblegum.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Theme.Bubblegum.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Theme.Bubblegum.pkgdef'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.CoolBreeze.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.CoolBreeze.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Theme.CoolBreeze.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.CoolBreeze.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Theme.CoolBreeze.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Theme.CoolBreeze.pkgdef'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.CoolSlate.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.CoolSlate.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Theme.CoolSlate.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.CoolSlate.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Theme.CoolSlate.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Theme.CoolSlate.pkgdef'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.Dark.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.Dark.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Theme.Dark.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.Dark.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Theme.Dark.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Theme.Dark.pkgdef'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.HighContrast.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.HighContrast.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Theme.HighContrast.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.HighContrast.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Theme.HighContrast.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Theme.HighContrast.pkgdef'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.IcyMint.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.IcyMint.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Theme.IcyMint.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.IcyMint.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Theme.IcyMint.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Theme.IcyMint.pkgdef'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.JuicyPlum.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.JuicyPlum.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Theme.JuicyPlum.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.JuicyPlum.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Theme.JuicyPlum.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Theme.JuicyPlum.pkgdef'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.Light.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.Light.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Theme.Light.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.Light.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Theme.Light.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Theme.Light.pkgdef'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.MangoParadise.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.MangoParadise.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Theme.MangoParadise.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.MangoParadise.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Theme.MangoParadise.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Theme.MangoParadise.pkgdef'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.MoonlightGlow.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.MoonlightGlow.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Theme.MoonlightGlow.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.MoonlightGlow.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Theme.MoonlightGlow.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Theme.MoonlightGlow.pkgdef'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.MysticalForest.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.MysticalForest.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Theme.MysticalForest.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.MysticalForest.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Theme.MysticalForest.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Theme.MysticalForest.pkgdef'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.Registration.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.Registration.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Theme.Registration.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.Registration.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Theme.Registration.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Theme.Registration.pkgdef'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.SilkyPink.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.SilkyPink.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Theme.SilkyPink.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.SilkyPink.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Theme.SilkyPink.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Theme.SilkyPink.pkgdef'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.SpicyRed.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.SpicyRed.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Theme.SpicyRed.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.SpicyRed.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Theme.SpicyRed.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Theme.SpicyRed.pkgdef'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.SunnyDay.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.SunnyDay.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Theme.SunnyDay.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Theme.SunnyDay.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Theme.SunnyDay.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Theme.SunnyDay.pkgdef'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/DefaultLayout.winprf
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/DefaultLayout.winprf to D:\Program\Common7\IDE\DefaultLayout.winprf
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/DefaultLayout.winprf to D:\Program\Common7\IDE\DefaultLayout.winprf
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\DefaultLayout.winprf'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/en/Microsoft.VisualStudio.ImageCatalog.resources.dll
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/en/Microsoft.VisualStudio.ImageCatalog.resources.dll to D:\Program\Common7\IDE\en\Microsoft.VisualStudio.ImageCatalog.resources.dll
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/en/Microsoft.VisualStudio.ImageCatalog.resources.dll to D:\Program\Common7\IDE\en\Microsoft.VisualStudio.ImageCatalog.resources.dll
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\en\Microsoft.VisualStudio.ImageCatalog.resources.dll'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.ImageCatalog.dll
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.ImageCatalog.dll to D:\Program\Common7\IDE\Microsoft.VisualStudio.ImageCatalog.dll
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.ImageCatalog.dll to D:\Program\Common7\IDE\Microsoft.VisualStudio.ImageCatalog.dll
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\Microsoft.VisualStudio.ImageCatalog.dll'.
+[da4c:0007][2026-05-10T00:49:47] Queueing D:\Program\Common7\IDE\Microsoft.VisualStudio.ImageCatalog.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:47] Successfully queued file '/Contents/Common7/IDE/Microsoft.VisualStudio.ImageCatalog.dll' for ngen
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.Imaging.dll
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Imaging.dll to D:\Program\Common7\IDE\Microsoft.VisualStudio.Imaging.dll
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Imaging.dll to D:\Program\Common7\IDE\Microsoft.VisualStudio.Imaging.dll
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\Microsoft.VisualStudio.Imaging.dll'.
+[da4c:0007][2026-05-10T00:49:47] Queueing D:\Program\Common7\IDE\Microsoft.VisualStudio.Imaging.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:47] Successfully queued file '/Contents/Common7/IDE/Microsoft.VisualStudio.Imaging.dll' for ngen
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.Platform.WindowManagement.dll
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Platform.WindowManagement.dll to D:\Program\Common7\IDE\Microsoft.VisualStudio.Platform.WindowManagement.dll
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Platform.WindowManagement.dll to D:\Program\Common7\IDE\Microsoft.VisualStudio.Platform.WindowManagement.dll
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\Microsoft.VisualStudio.Platform.WindowManagement.dll'.
+[da4c:0007][2026-05-10T00:49:47] Queueing D:\Program\Common7\IDE\Microsoft.VisualStudio.Platform.WindowManagement.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:47] Successfully queued file '/Contents/Common7/IDE/Microsoft.VisualStudio.Platform.WindowManagement.dll' for ngen
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.Shell.Styles.dll
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Shell.Styles.dll to D:\Program\Common7\IDE\Microsoft.VisualStudio.Shell.Styles.dll
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Shell.Styles.dll to D:\Program\Common7\IDE\Microsoft.VisualStudio.Shell.Styles.dll
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\Microsoft.VisualStudio.Shell.Styles.dll'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.Utilities.dll
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Utilities.dll to D:\Program\Common7\IDE\Microsoft.VisualStudio.Utilities.dll
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Utilities.dll to D:\Program\Common7\IDE\Microsoft.VisualStudio.Utilities.dll
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\Microsoft.VisualStudio.Utilities.dll'.
+[da4c:0007][2026-05-10T00:49:47] Queueing D:\Program\Common7\IDE\Microsoft.VisualStudio.Utilities.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:47] Successfully queued file '/Contents/Common7/IDE/Microsoft.VisualStudio.Utilities.dll' for ngen
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/Microsoft.WizardFramework.dll
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/Microsoft.WizardFramework.dll to D:\Program\Common7\IDE\Microsoft.WizardFramework.dll
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/Microsoft.WizardFramework.dll to D:\Program\Common7\IDE\Microsoft.WizardFramework.dll
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\Microsoft.WizardFramework.dll'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/Microsoft.WizardFrameworkVS.dll
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/Microsoft.WizardFrameworkVS.dll to D:\Program\Common7\IDE\Microsoft.WizardFrameworkVS.dll
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/Microsoft.WizardFrameworkVS.dll to D:\Program\Common7\IDE\Microsoft.WizardFrameworkVS.dll
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\Microsoft.WizardFrameworkVS.dll'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Internal.VisualStudio.Shell.Framework.dll
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Internal.VisualStudio.Shell.Framework.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.Internal.VisualStudio.Shell.Framework.dll
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Internal.VisualStudio.Shell.Framework.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.Internal.VisualStudio.Shell.Framework.dll
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.Internal.VisualStudio.Shell.Framework.dll'.
+[da4c:0007][2026-05-10T00:49:47] Queueing D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.Internal.VisualStudio.Shell.Framework.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:47] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/Microsoft.Internal.VisualStudio.Shell.Framework.dll' for ngen
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Internal.VisualStudio.UserNotifications.dll
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Internal.VisualStudio.UserNotifications.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.Internal.VisualStudio.UserNotifications.dll
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Internal.VisualStudio.UserNotifications.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.Internal.VisualStudio.UserNotifications.dll
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.Internal.VisualStudio.UserNotifications.dll'.
+[da4c:0007][2026-05-10T00:49:47] Queueing D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.Internal.VisualStudio.UserNotifications.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:47] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/Microsoft.Internal.VisualStudio.UserNotifications.dll' for ngen
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.IDE.ToolboxControlsInstaller.dll
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.IDE.ToolboxControlsInstaller.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.IDE.ToolboxControlsInstaller.dll
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.IDE.ToolboxControlsInstaller.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.IDE.ToolboxControlsInstaller.dll
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.IDE.ToolboxControlsInstaller.dll'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Toolbox.dll
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Toolbox.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Toolbox.dll
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Toolbox.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Toolbox.dll
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Toolbox.dll'.
+[da4c:0007][2026-05-10T00:49:47] Queueing D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Toolbox.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:47] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Toolbox.dll' for ngen
+[da4c:0007][2026-05-10T00:49:47] Package executed successfully. Return code: 0

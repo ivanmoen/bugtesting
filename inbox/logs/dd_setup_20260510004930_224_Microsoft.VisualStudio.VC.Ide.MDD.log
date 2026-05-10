@@ -1,0 +1,96 @@
+[da4c:0007][2026-05-10T00:50:14] Opening the package for processing
+[da4c:0007][2026-05-10T00:50:14] Using package payload to get the embedded manifest
+[da4c:0007][2026-05-10T00:50:14] Getting list of files within the package
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.Android.natvis
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.Android.natvis to D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.Android.natvis
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.Android.natvis to D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.Android.natvis
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.Android.natvis'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.AndroidDebugLauncher.dll
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.AndroidDebugLauncher.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.AndroidDebugLauncher.dll
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.AndroidDebugLauncher.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.AndroidDebugLauncher.dll
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.AndroidDebugLauncher.dll'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.AndroidDebugLauncher.pkgdef
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.AndroidDebugLauncher.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.AndroidDebugLauncher.pkgdef
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.AndroidDebugLauncher.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.AndroidDebugLauncher.pkgdef
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.AndroidDebugLauncher.pkgdef'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.DebugEngineHost.dll
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.DebugEngineHost.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.DebugEngineHost.dll
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.DebugEngineHost.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.DebugEngineHost.dll
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.DebugEngineHost.dll'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.IOSDebugLauncher.dll
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.IOSDebugLauncher.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.IOSDebugLauncher.dll
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.IOSDebugLauncher.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.IOSDebugLauncher.dll
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.IOSDebugLauncher.dll'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.IOSDebugLauncher.pkgdef
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.IOSDebugLauncher.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.IOSDebugLauncher.pkgdef
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.IOSDebugLauncher.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.IOSDebugLauncher.pkgdef
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.IOSDebugLauncher.pkgdef'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.JDbg.dll
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.JDbg.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.JDbg.dll
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.JDbg.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.JDbg.dll
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.JDbg.dll'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.Kofe.Engine.dll
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.Kofe.Engine.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.Kofe.Engine.dll
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.Kofe.Engine.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.Kofe.Engine.dll
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.Kofe.Engine.dll'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.Kofe.Engine.pkgdef
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.Kofe.Engine.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.Kofe.Engine.pkgdef
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.Kofe.Engine.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.Kofe.Engine.pkgdef
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.Kofe.Engine.pkgdef'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.Kofe.IJDWP.dll
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.Kofe.IJDWP.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.Kofe.IJDWP.dll
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.Kofe.IJDWP.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.Kofe.IJDWP.dll
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.Kofe.IJDWP.dll'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.Kofe.JDWP.config
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.Kofe.JDWP.config to D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.Kofe.JDWP.config
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.Kofe.JDWP.config to D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.Kofe.JDWP.config
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.Kofe.JDWP.config'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.Kofe.JDWP.dll
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.Kofe.JDWP.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.Kofe.JDWP.dll
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.Kofe.JDWP.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.Kofe.JDWP.dll
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.Kofe.JDWP.dll'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.Kofe.Package.dll
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.Kofe.Package.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.Kofe.Package.dll
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.Kofe.Package.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.Kofe.Package.dll
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.Kofe.Package.dll'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.Kofe.Package.pkgdef
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.Kofe.Package.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.Kofe.Package.pkgdef
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.Kofe.Package.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.Kofe.Package.pkgdef
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.Kofe.Package.pkgdef'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.MICore.dll
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.MICore.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.MICore.dll
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.MICore.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.MICore.dll
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.MICore.dll'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.MICore.XmlSerializers.dll
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.MICore.XmlSerializers.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.MICore.XmlSerializers.dll
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.MICore.XmlSerializers.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.MICore.XmlSerializers.dll
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.MICore.XmlSerializers.dll'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.MIDebugEngine.dll
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.MIDebugEngine.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.MIDebugEngine.dll
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.MIDebugEngine.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.MIDebugEngine.dll
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.MIDebugEngine.dll'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.MIDebugEngine.pkgdef
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.MIDebugEngine.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.MIDebugEngine.pkgdef
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.MIDebugEngine.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.MIDebugEngine.pkgdef
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.MIDebugEngine.pkgdef'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.MIDebugPackage.dll
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.MIDebugPackage.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.MIDebugPackage.dll
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.MIDebugPackage.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.MIDebugPackage.dll
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.MIDebugPackage.dll'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.MIDebugPackage.pkgdef
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.MIDebugPackage.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.MIDebugPackage.pkgdef
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.MIDebugPackage.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.MIDebugPackage.pkgdef
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.MIDebugPackage.pkgdef'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.SSHDebugPS.dll
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.SSHDebugPS.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.SSHDebugPS.dll
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.SSHDebugPS.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.SSHDebugPS.dll
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.SSHDebugPS.dll'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.SSHDebugPS.pkgdef
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.SSHDebugPS.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.SSHDebugPS.pkgdef
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/Microsoft.SSHDebugPS.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.SSHDebugPS.pkgdef
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\Microsoft.SSHDebugPS.pkgdef'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/OpenFolderSchema.json
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/OpenFolderSchema.json to D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\OpenFolderSchema.json
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/MDD/Debugger/OpenFolderSchema.json to D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\OpenFolderSchema.json
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\MDD\Debugger\OpenFolderSchema.json'.
+[da4c:0007][2026-05-10T00:50:14] Package executed successfully. Return code: 0

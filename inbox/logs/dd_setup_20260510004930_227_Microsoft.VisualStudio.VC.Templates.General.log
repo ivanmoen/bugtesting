@@ -1,0 +1,236 @@
+[da4c:0007][2026-05-10T00:50:14] Opening the package for processing
+[da4c:0007][2026-05-10T00:50:14] Using package payload to get the embedded manifest
+[da4c:0007][2026-05-10T00:50:14] Getting list of files within the package
+[da4c:0007][2026-05-10T00:50:14] Processing file /contents/Common7/IDE/ItemTemplates/Microsoft.VisualStudio.VC.Templates.General.Item..vstman
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /contents/Common7/IDE/ItemTemplates/Microsoft.VisualStudio.VC.Templates.General.Item..vstman to D:\Program\Common7\IDE\ItemTemplates\Microsoft.VisualStudio.VC.Templates.General.Item..vstman
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /contents/Common7/IDE/ItemTemplates/Microsoft.VisualStudio.VC.Templates.General.Item..vstman to D:\Program\Common7\IDE\ItemTemplates\Microsoft.VisualStudio.VC.Templates.General.Item..vstman
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\ItemTemplates\Microsoft.VisualStudio.VC.Templates.General.Item..vstman'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/ItemTemplates/VC/Code/AddClass/AddClass.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/ItemTemplates/VC/Code/AddClass/AddClass.vstemplate to D:\Program\Common7\IDE\ItemTemplates\VC\Code\AddClass\AddClass.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/ItemTemplates/VC/Code/AddClass/AddClass.vstemplate to D:\Program\Common7\IDE\ItemTemplates\VC\Code\AddClass\AddClass.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\ItemTemplates\VC\Code\AddClass\AddClass.vstemplate'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/ItemTemplates/VC/Code/AddClass/OpenFolderAddClass.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/ItemTemplates/VC/Code/AddClass/OpenFolderAddClass.vstemplate to D:\Program\Common7\IDE\ItemTemplates\VC\Code\AddClass\OpenFolderAddClass.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/ItemTemplates/VC/Code/AddClass/OpenFolderAddClass.vstemplate to D:\Program\Common7\IDE\ItemTemplates\VC\Code\AddClass\OpenFolderAddClass.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\ItemTemplates\VC\Code\AddClass\OpenFolderAddClass.vstemplate'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/ItemTemplates/VC/Code/Code.VSTDIR
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/ItemTemplates/VC/Code/Code.VSTDIR to D:\Program\Common7\IDE\ItemTemplates\VC\Code\Code.VSTDIR
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/ItemTemplates/VC/Code/Code.VSTDIR to D:\Program\Common7\IDE\ItemTemplates\VC\Code\Code.VSTDIR
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\ItemTemplates\VC\Code\Code.VSTDIR'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/ItemTemplates/VC/Code/Module/Module.ixx
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/ItemTemplates/VC/Code/Module/Module.ixx to D:\Program\Common7\IDE\ItemTemplates\VC\Code\Module\Module.ixx
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/ItemTemplates/VC/Code/Module/Module.ixx to D:\Program\Common7\IDE\ItemTemplates\VC\Code\Module\Module.ixx
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\ItemTemplates\VC\Code\Module\Module.ixx'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/ItemTemplates/VC/Code/Module/Module.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/ItemTemplates/VC/Code/Module/Module.vstemplate to D:\Program\Common7\IDE\ItemTemplates\VC\Code\Module\Module.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/ItemTemplates/VC/Code/Module/Module.vstemplate to D:\Program\Common7\IDE\ItemTemplates\VC\Code\Module\Module.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\ItemTemplates\VC\Code\Module\Module.vstemplate'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/ItemTemplates/VC/Formatting/ClangFormat/ClangFormat.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/ItemTemplates/VC/Formatting/ClangFormat/ClangFormat.vstemplate to D:\Program\Common7\IDE\ItemTemplates\VC\Formatting\ClangFormat\ClangFormat.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/ItemTemplates/VC/Formatting/ClangFormat/ClangFormat.vstemplate to D:\Program\Common7\IDE\ItemTemplates\VC\Formatting\ClangFormat\ClangFormat.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\ItemTemplates\VC\Formatting\ClangFormat\ClangFormat.vstemplate'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/ItemTemplates/VC/Formatting/Formatting.vstdir
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/ItemTemplates/VC/Formatting/Formatting.vstdir to D:\Program\Common7\IDE\ItemTemplates\VC\Formatting\Formatting.vstdir
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/ItemTemplates/VC/Formatting/Formatting.vstdir to D:\Program\Common7\IDE\ItemTemplates\VC\Formatting\Formatting.vstdir
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\ItemTemplates\VC\Formatting\Formatting.vstdir'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/HLSL.VSTDIR
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/HLSL.VSTDIR to D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\HLSL.VSTDIR
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/HLSL.VSTDIR to D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\HLSL.VSTDIR
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\HLSL.VSTDIR'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /contents/Common7/IDE/ProjectTemplates/Microsoft.VisualStudio.VC.Templates.General.Project..vstman
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /contents/Common7/IDE/ProjectTemplates/Microsoft.VisualStudio.VC.Templates.General.Project..vstman to D:\Program\Common7\IDE\ProjectTemplates\Microsoft.VisualStudio.VC.Templates.General.Project..vstman
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /contents/Common7/IDE/ProjectTemplates/Microsoft.VisualStudio.VC.Templates.General.Project..vstman to D:\Program\Common7\IDE\ProjectTemplates\Microsoft.VisualStudio.VC.Templates.General.Project..vstman
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\ProjectTemplates\Microsoft.VisualStudio.VC.Templates.General.Project..vstman'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/Other/Other.VSTDIR
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/ProjectTemplates/VC/Other/Other.VSTDIR to D:\Program\Common7\IDE\ProjectTemplates\VC\Other\Other.VSTDIR
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/ProjectTemplates/VC/Other/Other.VSTDIR to D:\Program\Common7\IDE\ProjectTemplates\VC\Other\Other.VSTDIR
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\ProjectTemplates\VC\Other\Other.VSTDIR'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/Other/sharedvcxitems/shared.ico
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/ProjectTemplates/VC/Other/sharedvcxitems/shared.ico to D:\Program\Common7\IDE\ProjectTemplates\VC\Other\sharedvcxitems\shared.ico
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/ProjectTemplates/VC/Other/sharedvcxitems/shared.ico to D:\Program\Common7\IDE\ProjectTemplates\VC\Other\sharedvcxitems\shared.ico
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\ProjectTemplates\VC\Other\sharedvcxitems\shared.ico'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/Other/sharedvcxitems/shared.vcxitems
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/ProjectTemplates/VC/Other/sharedvcxitems/shared.vcxitems to D:\Program\Common7\IDE\ProjectTemplates\VC\Other\sharedvcxitems\shared.vcxitems
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/ProjectTemplates/VC/Other/sharedvcxitems/shared.vcxitems to D:\Program\Common7\IDE\ProjectTemplates\VC\Other\sharedvcxitems\shared.vcxitems
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\ProjectTemplates\VC\Other\sharedvcxitems\shared.vcxitems'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/Other/sharedvcxitems/shared.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/ProjectTemplates/VC/Other/sharedvcxitems/shared.vstemplate to D:\Program\Common7\IDE\ProjectTemplates\VC\Other\sharedvcxitems\shared.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/ProjectTemplates/VC/Other/sharedvcxitems/shared.vstemplate to D:\Program\Common7\IDE\ProjectTemplates\VC\Other\sharedvcxitems\shared.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\ProjectTemplates\VC\Other\sharedvcxitems\shared.vstemplate'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/VC/VCContextItems/AddFunction.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/VC/VCContextItems/AddFunction.vstemplate to D:\Program\Common7\IDE\VC\VCContextItems\AddFunction.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/VC/VCContextItems/AddFunction.vstemplate to D:\Program\Common7\IDE\VC\VCContextItems\AddFunction.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\VC\VCContextItems\AddFunction.vstemplate'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/VC/VCContextItems/AddMethod.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/VC/VCContextItems/AddMethod.vstemplate to D:\Program\Common7\IDE\VC\VCContextItems\AddMethod.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/VC/VCContextItems/AddMethod.vstemplate to D:\Program\Common7\IDE\VC\VCContextItems\AddMethod.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\VC\VCContextItems\AddMethod.vstemplate'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/VC/VCContextItems/AddProperty.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/VC/VCContextItems/AddProperty.vstemplate to D:\Program\Common7\IDE\VC\VCContextItems\AddProperty.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/VC/VCContextItems/AddProperty.vstemplate to D:\Program\Common7\IDE\VC\VCContextItems\AddProperty.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\VC\VCContextItems\AddProperty.vstemplate'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/VC/VCContextItems/addresource.vsz
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/VC/VCContextItems/addresource.vsz to D:\Program\Common7\IDE\VC\VCContextItems\addresource.vsz
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/VC/VCContextItems/addresource.vsz to D:\Program\Common7\IDE\VC\VCContextItems\addresource.vsz
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\VC\VCContextItems\addresource.vsz'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/VC/VCContextItems/AddVariable.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/VC/VCContextItems/AddVariable.vstemplate to D:\Program\Common7\IDE\VC\VCContextItems\AddVariable.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/VC/VCContextItems/AddVariable.vstemplate to D:\Program\Common7\IDE\VC\VCContextItems\AddVariable.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\VC\VCContextItems\AddVariable.vstemplate'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/VC/VCContextItems/DlgClassWiz.vsz
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/VC/VCContextItems/DlgClassWiz.vsz to D:\Program\Common7\IDE\VC\VCContextItems\DlgClassWiz.vsz
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/VC/VCContextItems/DlgClassWiz.vsz to D:\Program\Common7\IDE\VC\VCContextItems\DlgClassWiz.vsz
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\VC\VCContextItems\DlgClassWiz.vsz'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/VC/VCContextItems/IDLMethod.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/VC/VCContextItems/IDLMethod.vstemplate to D:\Program\Common7\IDE\VC\VCContextItems\IDLMethod.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/VC/VCContextItems/IDLMethod.vstemplate to D:\Program\Common7\IDE\VC\VCContextItems\IDLMethod.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\VC\VCContextItems\IDLMethod.vstemplate'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/VC/VCContextItems/IDLProperty.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/VC/VCContextItems/IDLProperty.vstemplate to D:\Program\Common7\IDE\VC\VCContextItems\IDLProperty.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/VC/VCContextItems/IDLProperty.vstemplate to D:\Program\Common7\IDE\VC\VCContextItems\IDLProperty.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\VC\VCContextItems\IDLProperty.vstemplate'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Code/code.vsdir
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Code/code.vsdir to D:\Program\Common7\IDE\VC\VCProjectItems\Code\code.vsdir
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Code/code.vsdir to D:\Program\Common7\IDE\VC\VCProjectItems\Code\code.vsdir
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\VC\VCProjectItems\Code\code.vsdir'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Code/deffile.vsz
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Code/deffile.vsz to D:\Program\Common7\IDE\VC\VCProjectItems\Code\deffile.vsz
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Code/deffile.vsz to D:\Program\Common7\IDE\VC\VCProjectItems\Code\deffile.vsz
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\VC\VCProjectItems\Code\deffile.vsz'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Code/idlfile.idl
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Code/idlfile.idl to D:\Program\Common7\IDE\VC\VCProjectItems\Code\idlfile.idl
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Code/idlfile.idl to D:\Program\Common7\IDE\VC\VCProjectItems\Code\idlfile.idl
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\VC\VCProjectItems\Code\idlfile.idl'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Data/addxmlschema.vsz
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Data/addxmlschema.vsz to D:\Program\Common7\IDE\VC\VCProjectItems\Data\addxmlschema.vsz
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Data/addxmlschema.vsz to D:\Program\Common7\IDE\VC\VCProjectItems\Data\addxmlschema.vsz
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\VC\VCProjectItems\Data\addxmlschema.vsz'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Data/data.vsdir
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Data/data.vsdir to D:\Program\Common7\IDE\VC\VCProjectItems\Data\data.vsdir
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Data/data.vsdir to D:\Program\Common7\IDE\VC\VCProjectItems\Data\data.vsdir
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\VC\VCProjectItems\Data\data.vsdir'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Data/script.sql
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Data/script.sql to D:\Program\Common7\IDE\VC\VCProjectItems\Data\script.sql
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Data/script.sql to D:\Program\Common7\IDE\VC\VCProjectItems\Data\script.sql
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\VC\VCProjectItems\Data\script.sql'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/VC/VCProjectItems/hfile.h
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/hfile.h to D:\Program\Common7\IDE\VC\VCProjectItems\hfile.h
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/hfile.h to D:\Program\Common7\IDE\VC\VCProjectItems\hfile.h
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\VC\VCProjectItems\hfile.h'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/VC/VCProjectItems/newc++file.cpp
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/newc++file.cpp to D:\Program\Common7\IDE\VC\VCProjectItems\newc++file.cpp
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/newc++file.cpp to D:\Program\Common7\IDE\VC\VCProjectItems\newc++file.cpp
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\VC\VCProjectItems\newc++file.cpp'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/VC/VCProjectItems/PropertySheets/propertysheets.vsdir
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/PropertySheets/propertysheets.vsdir to D:\Program\Common7\IDE\VC\VCProjectItems\PropertySheets\propertysheets.vsdir
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/PropertySheets/propertysheets.vsdir to D:\Program\Common7\IDE\VC\VCProjectItems\PropertySheets\propertysheets.vsdir
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\VC\VCProjectItems\PropertySheets\propertysheets.vsdir'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/VC/VCProjectItems/PropertySheets/propertysheets.vsz
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/PropertySheets/propertysheets.vsz to D:\Program\Common7\IDE\VC\VCProjectItems\PropertySheets\propertysheets.vsz
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/PropertySheets/propertysheets.vsz to D:\Program\Common7\IDE\VC\VCProjectItems\PropertySheets\propertysheets.vsz
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\VC\VCProjectItems\PropertySheets\propertysheets.vsz'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Resource/bitmap.bmp
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Resource/bitmap.bmp to D:\Program\Common7\IDE\VC\VCProjectItems\Resource\bitmap.bmp
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Resource/bitmap.bmp to D:\Program\Common7\IDE\VC\VCProjectItems\Resource\bitmap.bmp
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\VC\VCProjectItems\Resource\bitmap.bmp'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Resource/cursor.cur
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Resource/cursor.cur to D:\Program\Common7\IDE\VC\VCProjectItems\Resource\cursor.cur
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Resource/cursor.cur to D:\Program\Common7\IDE\VC\VCProjectItems\Resource\cursor.cur
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\VC\VCProjectItems\Resource\cursor.cur'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Resource/icon.ico
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Resource/icon.ico to D:\Program\Common7\IDE\VC\VCProjectItems\Resource\icon.ico
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Resource/icon.ico to D:\Program\Common7\IDE\VC\VCProjectItems\Resource\icon.ico
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\VC\VCProjectItems\Resource\icon.ico'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Resource/newresx.resx
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Resource/newresx.resx to D:\Program\Common7\IDE\VC\VCProjectItems\Resource\newresx.resx
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Resource/newresx.resx to D:\Program\Common7\IDE\VC\VCProjectItems\Resource\newresx.resx
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\VC\VCProjectItems\Resource\newresx.resx'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Resource/rcfile.vsz
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Resource/rcfile.vsz to D:\Program\Common7\IDE\VC\VCProjectItems\Resource\rcfile.vsz
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Resource/rcfile.vsz to D:\Program\Common7\IDE\VC\VCProjectItems\Resource\rcfile.vsz
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\VC\VCProjectItems\Resource\rcfile.vsz'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Resource/resource.vsdir
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Resource/resource.vsdir to D:\Program\Common7\IDE\VC\VCProjectItems\Resource\resource.vsdir
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Resource/resource.vsdir to D:\Program\Common7\IDE\VC\VCProjectItems\Resource\resource.vsdir
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\VC\VCProjectItems\Resource\resource.vsdir'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Resource/resource_extra.vsdir
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Resource/resource_extra.vsdir to D:\Program\Common7\IDE\VC\VCProjectItems\Resource\resource_extra.vsdir
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Resource/resource_extra.vsdir to D:\Program\Common7\IDE\VC\VCProjectItems\Resource\resource_extra.vsdir
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\VC\VCProjectItems\Resource\resource_extra.vsdir'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Resource/restempl.rct
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Resource/restempl.rct to D:\Program\Common7\IDE\VC\VCProjectItems\Resource\restempl.rct
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Resource/restempl.rct to D:\Program\Common7\IDE\VC\VCProjectItems\Resource\restempl.rct
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\VC\VCProjectItems\Resource\restempl.rct'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Resource/rgsfile.rgs
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Resource/rgsfile.rgs to D:\Program\Common7\IDE\VC\VCProjectItems\Resource\rgsfile.rgs
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Resource/rgsfile.rgs to D:\Program\Common7\IDE\VC\VCProjectItems\Resource\rgsfile.rgs
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\VC\VCProjectItems\Resource\rgsfile.rgs'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Utility/app.config
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Utility/app.config to D:\Program\Common7\IDE\VC\VCProjectItems\Utility\app.config
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Utility/app.config to D:\Program\Common7\IDE\VC\VCProjectItems\Utility\app.config
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\VC\VCProjectItems\Utility\app.config'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Utility/ClassDiagram.cd
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Utility/ClassDiagram.cd to D:\Program\Common7\IDE\VC\VCProjectItems\Utility\ClassDiagram.cd
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Utility/ClassDiagram.cd to D:\Program\Common7\IDE\VC\VCProjectItems\Utility\ClassDiagram.cd
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\VC\VCProjectItems\Utility\ClassDiagram.cd'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Utility/natvis.natvis
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Utility/natvis.natvis to D:\Program\Common7\IDE\VC\VCProjectItems\Utility\natvis.natvis
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Utility/natvis.natvis to D:\Program\Common7\IDE\VC\VCProjectItems\Utility\natvis.natvis
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\VC\VCProjectItems\Utility\natvis.natvis'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Utility/rgsfile.rgs
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Utility/rgsfile.rgs to D:\Program\Common7\IDE\VC\VCProjectItems\Utility\rgsfile.rgs
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Utility/rgsfile.rgs to D:\Program\Common7\IDE\VC\VCProjectItems\Utility\rgsfile.rgs
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\VC\VCProjectItems\Utility\rgsfile.rgs'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Utility/RuleSet.ruleset
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Utility/RuleSet.ruleset to D:\Program\Common7\IDE\VC\VCProjectItems\Utility\RuleSet.ruleset
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Utility/RuleSet.ruleset to D:\Program\Common7\IDE\VC\VCProjectItems\Utility\RuleSet.ruleset
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\VC\VCProjectItems\Utility\RuleSet.ruleset'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Utility/text.txt
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Utility/text.txt to D:\Program\Common7\IDE\VC\VCProjectItems\Utility\text.txt
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Utility/text.txt to D:\Program\Common7\IDE\VC\VCProjectItems\Utility\text.txt
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\VC\VCProjectItems\Utility\text.txt'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Utility/VCUtilityItems.vsdir
+[da4c:0007][2026-05-10T00:50:15] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Utility/VCUtilityItems.vsdir to D:\Program\Common7\IDE\VC\VCProjectItems\Utility\VCUtilityItems.vsdir
+[da4c:0007][2026-05-10T00:50:15] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Utility/VCUtilityItems.vsdir to D:\Program\Common7\IDE\VC\VCProjectItems\Utility\VCUtilityItems.vsdir
+[da4c:0007][2026-05-10T00:50:15] Timestamp updated for file 'D:\Program\Common7\IDE\VC\VCProjectItems\Utility\VCUtilityItems.vsdir'.
+[da4c:0007][2026-05-10T00:50:15] Processing file /Contents/Common7/IDE/VC/VCProjectItems/VCProjectItems.vsdir
+[da4c:0007][2026-05-10T00:50:15] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/VCProjectItems.vsdir to D:\Program\Common7\IDE\VC\VCProjectItems\VCProjectItems.vsdir
+[da4c:0007][2026-05-10T00:50:15] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/VCProjectItems.vsdir to D:\Program\Common7\IDE\VC\VCProjectItems\VCProjectItems.vsdir
+[da4c:0007][2026-05-10T00:50:15] Timestamp updated for file 'D:\Program\Common7\IDE\VC\VCProjectItems\VCProjectItems.vsdir'.
+[da4c:0007][2026-05-10T00:50:15] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Web/NewHtmlPage.htm
+[da4c:0007][2026-05-10T00:50:15] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Web/NewHtmlPage.htm to D:\Program\Common7\IDE\VC\VCProjectItems\Web\NewHtmlPage.htm
+[da4c:0007][2026-05-10T00:50:15] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Web/NewHtmlPage.htm to D:\Program\Common7\IDE\VC\VCProjectItems\Web\NewHtmlPage.htm
+[da4c:0007][2026-05-10T00:50:15] Timestamp updated for file 'D:\Program\Common7\IDE\VC\VCProjectItems\Web\NewHtmlPage.htm'.
+[da4c:0007][2026-05-10T00:50:15] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Web/newstylesheet.css
+[da4c:0007][2026-05-10T00:50:15] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Web/newstylesheet.css to D:\Program\Common7\IDE\VC\VCProjectItems\Web\newstylesheet.css
+[da4c:0007][2026-05-10T00:50:15] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Web/newstylesheet.css to D:\Program\Common7\IDE\VC\VCProjectItems\Web\newstylesheet.css
+[da4c:0007][2026-05-10T00:50:15] Timestamp updated for file 'D:\Program\Common7\IDE\VC\VCProjectItems\Web\newstylesheet.css'.
+[da4c:0007][2026-05-10T00:50:15] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Web/newxmlpage.xml
+[da4c:0007][2026-05-10T00:50:15] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Web/newxmlpage.xml to D:\Program\Common7\IDE\VC\VCProjectItems\Web\newxmlpage.xml
+[da4c:0007][2026-05-10T00:50:15] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Web/newxmlpage.xml to D:\Program\Common7\IDE\VC\VCProjectItems\Web\newxmlpage.xml
+[da4c:0007][2026-05-10T00:50:15] Timestamp updated for file 'D:\Program\Common7\IDE\VC\VCProjectItems\Web\newxmlpage.xml'.
+[da4c:0007][2026-05-10T00:50:15] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Web/VCWebItems.vsdir
+[da4c:0007][2026-05-10T00:50:15] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Web/VCWebItems.vsdir to D:\Program\Common7\IDE\VC\VCProjectItems\Web\VCWebItems.vsdir
+[da4c:0007][2026-05-10T00:50:15] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Web/VCWebItems.vsdir to D:\Program\Common7\IDE\VC\VCProjectItems\Web\VCWebItems.vsdir
+[da4c:0007][2026-05-10T00:50:15] Timestamp updated for file 'D:\Program\Common7\IDE\VC\VCProjectItems\Web\VCWebItems.vsdir'.
+[da4c:0007][2026-05-10T00:50:15] Processing file /Contents/Common7/IDE/VC/VCProjectItems/Web/xsltfile.xslt
+[da4c:0007][2026-05-10T00:50:15] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Web/xsltfile.xslt to D:\Program\Common7\IDE\VC\VCProjectItems\Web\xsltfile.xslt
+[da4c:0007][2026-05-10T00:50:15] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItems/Web/xsltfile.xslt to D:\Program\Common7\IDE\VC\VCProjectItems\Web\xsltfile.xslt
+[da4c:0007][2026-05-10T00:50:15] Timestamp updated for file 'D:\Program\Common7\IDE\VC\VCProjectItems\Web\xsltfile.xslt'.
+[da4c:0007][2026-05-10T00:50:15] Processing file /Contents/Common7/IDE/VC/VCProjectItemsCMake/Code/Code.vsdir
+[da4c:0007][2026-05-10T00:50:15] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItemsCMake/Code/Code.vsdir to D:\Program\Common7\IDE\VC\VCProjectItemsCMake\Code\Code.vsdir
+[da4c:0007][2026-05-10T00:50:15] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItemsCMake/Code/Code.vsdir to D:\Program\Common7\IDE\VC\VCProjectItemsCMake\Code\Code.vsdir
+[da4c:0007][2026-05-10T00:50:15] Timestamp updated for file 'D:\Program\Common7\IDE\VC\VCProjectItemsCMake\Code\Code.vsdir'.
+[da4c:0007][2026-05-10T00:50:15] Processing file /Contents/Common7/IDE/VC/VCProjectItemsCMake/Code/Module.ixx
+[da4c:0007][2026-05-10T00:50:15] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItemsCMake/Code/Module.ixx to D:\Program\Common7\IDE\VC\VCProjectItemsCMake\Code\Module.ixx
+[da4c:0007][2026-05-10T00:50:15] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItemsCMake/Code/Module.ixx to D:\Program\Common7\IDE\VC\VCProjectItemsCMake\Code\Module.ixx
+[da4c:0007][2026-05-10T00:50:15] Timestamp updated for file 'D:\Program\Common7\IDE\VC\VCProjectItemsCMake\Code\Module.ixx'.
+[da4c:0007][2026-05-10T00:50:15] Processing file /Contents/Common7/IDE/VC/VCProjectItemsCMake/VCProjectItemsCMake.vsdir
+[da4c:0007][2026-05-10T00:50:15] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItemsCMake/VCProjectItemsCMake.vsdir to D:\Program\Common7\IDE\VC\VCProjectItemsCMake\VCProjectItemsCMake.vsdir
+[da4c:0007][2026-05-10T00:50:15] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItemsCMake/VCProjectItemsCMake.vsdir to D:\Program\Common7\IDE\VC\VCProjectItemsCMake\VCProjectItemsCMake.vsdir
+[da4c:0007][2026-05-10T00:50:15] Timestamp updated for file 'D:\Program\Common7\IDE\VC\VCProjectItemsCMake\VCProjectItemsCMake.vsdir'.
+[da4c:0007][2026-05-10T00:50:15] Processing file /Contents/Common7/IDE/VC/VCWizards/1033/Images/spacer.gif
+[da4c:0007][2026-05-10T00:50:15] Started: Copying file /Contents/Common7/IDE/VC/VCWizards/1033/Images/spacer.gif to D:\Program\Common7\IDE\VC\VCWizards\1033\Images\spacer.gif
+[da4c:0007][2026-05-10T00:50:15] Completed: Copying file /Contents/Common7/IDE/VC/VCWizards/1033/Images/spacer.gif to D:\Program\Common7\IDE\VC\VCWizards\1033\Images\spacer.gif
+[da4c:0007][2026-05-10T00:50:15] Timestamp updated for file 'D:\Program\Common7\IDE\VC\VCWizards\1033\Images\spacer.gif'.
+[da4c:0007][2026-05-10T00:50:15] Package executed successfully. Return code: 0

@@ -1,0 +1,68 @@
+[3c7c:000c][2026-05-10T01:36:03] Opening the package for processing
+[3c7c:000c][2026-05-10T01:36:03] Using package payload to get the embedded manifest
+[3c7c:000c][2026-05-10T01:36:03] Getting list of files within the package
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/CodeMarkersEtw.man
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/CodeMarkersEtw.man to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CodeMarkersEtw.man
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/CodeMarkersEtw.man to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CodeMarkersEtw.man
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CodeMarkersEtw.man'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/CodeMarkersEtwRc.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/CodeMarkersEtwRc.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CodeMarkersEtwRc.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/CodeMarkersEtwRc.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CodeMarkersEtwRc.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CodeMarkersEtwRc.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VSLog/Microsoft.VisualStudio.PerfWatson.Provider.pkgdef
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/VSLog/Microsoft.VisualStudio.PerfWatson.Provider.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VSLog\Microsoft.VisualStudio.PerfWatson.Provider.pkgdef
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/VSLog/Microsoft.VisualStudio.PerfWatson.Provider.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VSLog\Microsoft.VisualStudio.PerfWatson.Provider.pkgdef
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VSLog\Microsoft.VisualStudio.PerfWatson.Provider.pkgdef'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VSLog/VSLog.pkgdef
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/VSLog/VSLog.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VSLog\VSLog.pkgdef
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/VSLog/VSLog.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VSLog\VSLog.pkgdef
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VSLog\VSLog.pkgdef'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VSReliability/VsReliability.pkgdef
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/VSReliability/VsReliability.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VSReliability\VsReliability.pkgdef
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/VSReliability/VsReliability.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VSReliability\VsReliability.pkgdef
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VSReliability\VsReliability.pkgdef'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.CodeMarkers.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.CodeMarkers.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.CodeMarkers.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.CodeMarkers.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.CodeMarkers.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.CodeMarkers.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.PerfWatson.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.PerfWatson.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.PerfWatson.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.PerfWatson.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.PerfWatson.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.PerfWatson.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.PerfWatson.dll for X86 ngen
+[3c7c:000c][2026-05-10T01:36:03] Successfully queued file '/Contents/Common7/IDE/Microsoft.VisualStudio.PerfWatson.dll' for ngen
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/msdia140.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/msdia140.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\msdia140.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/msdia140.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\msdia140.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\msdia140.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/PerfWatson2.exe
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/PerfWatson2.exe to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PerfWatson2.exe
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/PerfWatson2.exe to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PerfWatson2.exe
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PerfWatson2.exe'.
+[3c7c:000c][2026-05-10T01:36:03] Queueing C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PerfWatson2.exe for X86 ngen
+[3c7c:000c][2026-05-10T01:36:03] Successfully queued file '/Contents/Common7/IDE/PerfWatson2.exe' for ngen
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/PerfWatson2.exe.config
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/PerfWatson2.exe.config to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PerfWatson2.exe.config
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/PerfWatson2.exe.config to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PerfWatson2.exe.config
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PerfWatson2.exe.config'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.PerfWatson.Provider.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.PerfWatson.Provider.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.PerfWatson.Provider.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.PerfWatson.Provider.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.PerfWatson.Provider.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.PerfWatson.Provider.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/ResponsivenessTrackingManifest.xml
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/ResponsivenessTrackingManifest.xml to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ResponsivenessTrackingManifest.xml
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/ResponsivenessTrackingManifest.xml to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ResponsivenessTrackingManifest.xml
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ResponsivenessTrackingManifest.xml'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/VsLog.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/VsLog.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VsLog.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/VsLog.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VsLog.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VsLog.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/VSReliability.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/VSReliability.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSReliability.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/VSReliability.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSReliability.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSReliability.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/x64/VSReliability.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/x64/VSReliability.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\x64\VSReliability.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/x64/VSReliability.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\x64\VSReliability.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\x64\VSReliability.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Package executed successfully. Return code: 0

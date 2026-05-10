@@ -1,0 +1,8 @@
+[da4c:0007][2026-05-10T00:49:56] Opening the package for processing
+[da4c:0007][2026-05-10T00:49:56] Using package payload to get the embedded manifest
+[da4c:0007][2026-05-10T00:49:56] Getting list of files within the package
+[da4c:0007][2026-05-10T00:49:56] Processing file /Contents/Common7/IDE/Remote%20Debugger/x86/1033/vsdebugeng.script.resources.dll
+[da4c:0007][2026-05-10T00:49:56] Started: Copying file /Contents/Common7/IDE/Remote%20Debugger/x86/1033/vsdebugeng.script.resources.dll to D:\Program\Common7\IDE\Remote Debugger\x86\1033\vsdebugeng.script.resources.dll
+[da4c:0007][2026-05-10T00:49:56] Completed: Copying file /Contents/Common7/IDE/Remote%20Debugger/x86/1033/vsdebugeng.script.resources.dll to D:\Program\Common7\IDE\Remote Debugger\x86\1033\vsdebugeng.script.resources.dll
+[da4c:0007][2026-05-10T00:49:56] Timestamp updated for file 'D:\Program\Common7\IDE\Remote Debugger\x86\1033\vsdebugeng.script.resources.dll'.
+[da4c:0007][2026-05-10T00:49:56] Package executed successfully. Return code: 0

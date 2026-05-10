@@ -1,0 +1,162 @@
+[2e2c:0007][2026-05-10T01:24:14] Opening the package for processing
+[2e2c:0007][2026-05-10T01:24:14] Using package payload to get the embedded manifest
+[2e2c:0007][2026-05-10T01:24:14] Getting list of files within the package
+[2e2c:0007][2026-05-10T01:24:14] Processing file /Contents/Common7/IDE/adodb.manifest
+[2e2c:0007][2026-05-10T01:24:14] Started: Copying file /Contents/Common7/IDE/adodb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\adodb.manifest
+[2e2c:0007][2026-05-10T01:24:14] Completed: Copying file /Contents/Common7/IDE/adodb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\adodb.manifest
+[2e2c:0007][2026-05-10T01:24:14] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\adodb.manifest'.
+[2e2c:0007][2026-05-10T01:24:14] Processing file /Contents/Common7/IDE/Automation/clientbuildmgr.tlb
+[2e2c:0007][2026-05-10T01:24:14] Started: Copying file /Contents/Common7/IDE/Automation/clientbuildmgr.tlb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\clientbuildmgr.tlb
+[2e2c:0007][2026-05-10T01:24:14] Completed: Copying file /Contents/Common7/IDE/Automation/clientbuildmgr.tlb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\clientbuildmgr.tlb
+[2e2c:0007][2026-05-10T01:24:14] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\clientbuildmgr.tlb'.
+[2e2c:0007][2026-05-10T01:24:14] Processing file /Contents/Common7/IDE/Automation/clientbuildmgr.tlb.manifest
+[2e2c:0007][2026-05-10T01:24:14] Started: Copying file /Contents/Common7/IDE/Automation/clientbuildmgr.tlb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\clientbuildmgr.tlb.manifest
+[2e2c:0007][2026-05-10T01:24:14] Completed: Copying file /Contents/Common7/IDE/Automation/clientbuildmgr.tlb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\clientbuildmgr.tlb.manifest
+[2e2c:0007][2026-05-10T01:24:14] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\clientbuildmgr.tlb.manifest'.
+[2e2c:0007][2026-05-10T01:24:14] Processing file /Contents/Common7/IDE/Automation/DiagnosticsTap.dll
+[2e2c:0007][2026-05-10T01:24:14] Started: Copying file /Contents/Common7/IDE/Automation/DiagnosticsTap.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\DiagnosticsTap.dll
+[2e2c:0007][2026-05-10T01:24:14] Completed: Copying file /Contents/Common7/IDE/Automation/DiagnosticsTap.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\DiagnosticsTap.dll
+[2e2c:0007][2026-05-10T01:24:14] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\DiagnosticsTap.dll'.
+[2e2c:0007][2026-05-10T01:24:14] Processing file /Contents/Common7/IDE/Automation/DiagnosticsTap.dll.manifest
+[2e2c:0007][2026-05-10T01:24:14] Started: Copying file /Contents/Common7/IDE/Automation/DiagnosticsTap.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\DiagnosticsTap.dll.manifest
+[2e2c:0007][2026-05-10T01:24:14] Completed: Copying file /Contents/Common7/IDE/Automation/DiagnosticsTap.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\DiagnosticsTap.dll.manifest
+[2e2c:0007][2026-05-10T01:24:14] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\DiagnosticsTap.dll.manifest'.
+[2e2c:0007][2026-05-10T01:24:14] Processing file /Contents/Common7/IDE/Automation/msdia140.dll
+[2e2c:0007][2026-05-10T01:24:14] Started: Copying file /Contents/Common7/IDE/Automation/msdia140.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msdia140.dll
+[2e2c:0007][2026-05-10T01:24:14] Completed: Copying file /Contents/Common7/IDE/Automation/msdia140.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msdia140.dll
+[2e2c:0007][2026-05-10T01:24:14] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msdia140.dll'.
+[2e2c:0007][2026-05-10T01:24:14] Processing file /Contents/Common7/IDE/Automation/msdia140.dll.manifest
+[2e2c:0007][2026-05-10T01:24:14] Started: Copying file /Contents/Common7/IDE/Automation/msdia140.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msdia140.dll.manifest
+[2e2c:0007][2026-05-10T01:24:14] Completed: Copying file /Contents/Common7/IDE/Automation/msdia140.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msdia140.dll.manifest
+[2e2c:0007][2026-05-10T01:24:14] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\msdia140.dll.manifest'.
+[2e2c:0007][2026-05-10T01:24:14] Processing file /Contents/Common7/IDE/Automation/wfinterop.tlb
+[2e2c:0007][2026-05-10T01:24:14] Started: Copying file /Contents/Common7/IDE/Automation/wfinterop.tlb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\wfinterop.tlb
+[2e2c:0007][2026-05-10T01:24:14] Completed: Copying file /Contents/Common7/IDE/Automation/wfinterop.tlb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\wfinterop.tlb
+[2e2c:0007][2026-05-10T01:24:14] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\wfinterop.tlb'.
+[2e2c:0007][2026-05-10T01:24:14] Processing file /Contents/Common7/IDE/Automation/wfinterop.tlb.manifest
+[2e2c:0007][2026-05-10T01:24:14] Started: Copying file /Contents/Common7/IDE/Automation/wfinterop.tlb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\wfinterop.tlb.manifest
+[2e2c:0007][2026-05-10T01:24:14] Completed: Copying file /Contents/Common7/IDE/Automation/wfinterop.tlb.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\wfinterop.tlb.manifest
+[2e2c:0007][2026-05-10T01:24:14] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\wfinterop.tlb.manifest'.
+[2e2c:0007][2026-05-10T01:24:14] Processing file /Contents/Common7/IDE/compluslm.dll
+[2e2c:0007][2026-05-10T01:24:14] Started: Copying file /Contents/Common7/IDE/compluslm.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\compluslm.dll
+[2e2c:0007][2026-05-10T01:24:14] Completed: Copying file /Contents/Common7/IDE/compluslm.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\compluslm.dll
+[2e2c:0007][2026-05-10T01:24:14] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\compluslm.dll'.
+[2e2c:0007][2026-05-10T01:24:14] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.ConfigurationUI.dll
+[2e2c:0007][2026-05-10T01:24:14] Started: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.ConfigurationUI.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.ConfigurationUI.dll
+[2e2c:0007][2026-05-10T01:24:14] Completed: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.ConfigurationUI.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.ConfigurationUI.dll
+[2e2c:0007][2026-05-10T01:24:14] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.ConfigurationUI.dll'.
+[2e2c:0007][2026-05-10T01:24:14] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.ManagedInterfaces.manifest
+[2e2c:0007][2026-05-10T01:24:14] Started: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.ManagedInterfaces.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.ManagedInterfaces.manifest
+[2e2c:0007][2026-05-10T01:24:14] Completed: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.ManagedInterfaces.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.ManagedInterfaces.manifest
+[2e2c:0007][2026-05-10T01:24:14] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.ManagedInterfaces.manifest'.
+[2e2c:0007][2026-05-10T01:24:14] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.QualityTools.Wizard.TestProjectWizards.manifest
+[2e2c:0007][2026-05-10T01:24:14] Started: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.QualityTools.Wizard.TestProjectWizards.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.QualityTools.Wizard.TestProjectWizards.manifest
+[2e2c:0007][2026-05-10T01:24:14] Completed: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.QualityTools.Wizard.TestProjectWizards.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.QualityTools.Wizard.TestProjectWizards.manifest
+[2e2c:0007][2026-05-10T01:24:14] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.QualityTools.Wizard.TestProjectWizards.manifest'.
+[2e2c:0007][2026-05-10T01:24:14] Processing file /Contents/Common7/IDE/PrivateAssemblies/DDConfig.dll
+[2e2c:0007][2026-05-10T01:24:14] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/DDConfig.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\DDConfig.dll
+[2e2c:0007][2026-05-10T01:24:14] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/DDConfig.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\DDConfig.dll
+[2e2c:0007][2026-05-10T01:24:14] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\DDConfig.dll'.
+[2e2c:0007][2026-05-10T01:24:14] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Alm.Shared.Remoting.RemoteContainer.dll
+[2e2c:0007][2026-05-10T01:24:14] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Alm.Shared.Remoting.RemoteContainer.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Alm.Shared.Remoting.RemoteContainer.dll
+[2e2c:0007][2026-05-10T01:24:14] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Alm.Shared.Remoting.RemoteContainer.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Alm.Shared.Remoting.RemoteContainer.dll
+[2e2c:0007][2026-05-10T01:24:14] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Alm.Shared.Remoting.RemoteContainer.dll'.
+[2e2c:0007][2026-05-10T01:24:14] Queueing D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Alm.Shared.Remoting.RemoteContainer.dll for X86 ngen
+[2e2c:0007][2026-05-10T01:24:14] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/Microsoft.Alm.Shared.Remoting.RemoteContainer.dll' for ngen
+[2e2c:0007][2026-05-10T01:24:14] Processing file /Contents/Common7/IDE/Remote%20Debugger/x64/concrt140.dll
+[2e2c:0007][2026-05-10T01:24:14] Started: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/concrt140.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\concrt140.dll
+[2e2c:0007][2026-05-10T01:24:14] Completed: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/concrt140.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\concrt140.dll
+[2e2c:0007][2026-05-10T01:24:14] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\concrt140.dll'.
+[2e2c:0007][2026-05-10T01:24:14] Processing file /Contents/Common7/IDE/Remote%20Debugger/x64/D3DCompiler_47.dll
+[2e2c:0007][2026-05-10T01:24:14] Started: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/D3DCompiler_47.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\D3DCompiler_47.dll
+[2e2c:0007][2026-05-10T01:24:14] Completed: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/D3DCompiler_47.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\D3DCompiler_47.dll
+[2e2c:0007][2026-05-10T01:24:14] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\D3DCompiler_47.dll'.
+[2e2c:0007][2026-05-10T01:24:14] Processing file /Contents/Common7/IDE/Remote%20Debugger/x64/GpuDebugEngine.dll
+[2e2c:0007][2026-05-10T01:24:14] Started: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/GpuDebugEngine.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\GpuDebugEngine.dll
+[2e2c:0007][2026-05-10T01:24:14] Completed: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/GpuDebugEngine.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\GpuDebugEngine.dll
+[2e2c:0007][2026-05-10T01:24:14] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\GpuDebugEngine.dll'.
+[2e2c:0007][2026-05-10T01:24:14] Processing file /Contents/Common7/IDE/Remote%20Debugger/x64/GpuEnvSetup.dll
+[2e2c:0007][2026-05-10T01:24:14] Started: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/GpuEnvSetup.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\GpuEnvSetup.dll
+[2e2c:0007][2026-05-10T01:24:14] Completed: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/GpuEnvSetup.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\GpuEnvSetup.dll
+[2e2c:0007][2026-05-10T01:24:14] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\GpuEnvSetup.dll'.
+[2e2c:0007][2026-05-10T01:24:14] Processing file /Contents/Common7/IDE/Remote%20Debugger/x64/VsDebugEng.Xaml.dll
+[2e2c:0007][2026-05-10T01:24:14] Started: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/VsDebugEng.Xaml.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\VsDebugEng.Xaml.dll
+[2e2c:0007][2026-05-10T01:24:14] Completed: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/VsDebugEng.Xaml.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\VsDebugEng.Xaml.dll
+[2e2c:0007][2026-05-10T01:24:14] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\VsDebugEng.Xaml.dll'.
+[2e2c:0007][2026-05-10T01:24:14] Processing file /Contents/Common7/IDE/Remote%20Debugger/x86/concrt140.dll
+[2e2c:0007][2026-05-10T01:24:14] Started: Copying file /Contents/Common7/IDE/Remote%20Debugger/x86/concrt140.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x86\concrt140.dll
+[2e2c:0007][2026-05-10T01:24:14] Completed: Copying file /Contents/Common7/IDE/Remote%20Debugger/x86/concrt140.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x86\concrt140.dll
+[2e2c:0007][2026-05-10T01:24:14] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x86\concrt140.dll'.
+[2e2c:0007][2026-05-10T01:24:14] Processing file /Contents/Common7/IDE/Remote%20Debugger/x86/D3DCompiler_47.dll
+[2e2c:0007][2026-05-10T01:24:14] Started: Copying file /Contents/Common7/IDE/Remote%20Debugger/x86/D3DCompiler_47.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x86\D3DCompiler_47.dll
+[2e2c:0007][2026-05-10T01:24:14] Completed: Copying file /Contents/Common7/IDE/Remote%20Debugger/x86/D3DCompiler_47.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x86\D3DCompiler_47.dll
+[2e2c:0007][2026-05-10T01:24:14] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x86\D3DCompiler_47.dll'.
+[2e2c:0007][2026-05-10T01:24:14] Processing file /Contents/Common7/IDE/Remote%20Debugger/x86/GpuDebugEngine.dll
+[2e2c:0007][2026-05-10T01:24:14] Started: Copying file /Contents/Common7/IDE/Remote%20Debugger/x86/GpuDebugEngine.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x86\GpuDebugEngine.dll
+[2e2c:0007][2026-05-10T01:24:14] Completed: Copying file /Contents/Common7/IDE/Remote%20Debugger/x86/GpuDebugEngine.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x86\GpuDebugEngine.dll
+[2e2c:0007][2026-05-10T01:24:14] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x86\GpuDebugEngine.dll'.
+[2e2c:0007][2026-05-10T01:24:14] Processing file /Contents/Common7/IDE/Remote%20Debugger/x86/GpuEnvSetup.dll
+[2e2c:0007][2026-05-10T01:24:14] Started: Copying file /Contents/Common7/IDE/Remote%20Debugger/x86/GpuEnvSetup.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x86\GpuEnvSetup.dll
+[2e2c:0007][2026-05-10T01:24:14] Completed: Copying file /Contents/Common7/IDE/Remote%20Debugger/x86/GpuEnvSetup.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x86\GpuEnvSetup.dll
+[2e2c:0007][2026-05-10T01:24:14] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x86\GpuEnvSetup.dll'.
+[2e2c:0007][2026-05-10T01:24:14] Processing file /Contents/Common7/IDE/Remote%20Debugger/x86/VsDebugEng.Xaml.dll
+[2e2c:0007][2026-05-10T01:24:14] Started: Copying file /Contents/Common7/IDE/Remote%20Debugger/x86/VsDebugEng.Xaml.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x86\VsDebugEng.Xaml.dll
+[2e2c:0007][2026-05-10T01:24:14] Completed: Copying file /Contents/Common7/IDE/Remote%20Debugger/x86/VsDebugEng.Xaml.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x86\VsDebugEng.Xaml.dll
+[2e2c:0007][2026-05-10T01:24:14] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x86\VsDebugEng.Xaml.dll'.
+[2e2c:0007][2026-05-10T01:24:14] Processing file /Contents/Common7/IDE/VS%20SCC/msemp.dll
+[2e2c:0007][2026-05-10T01:24:14] Started: Copying file /Contents/Common7/IDE/VS%20SCC/msemp.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VS SCC\msemp.dll
+[2e2c:0007][2026-05-10T01:24:14] Completed: Copying file /Contents/Common7/IDE/VS%20SCC/msemp.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VS SCC\msemp.dll
+[2e2c:0007][2026-05-10T01:24:14] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VS SCC\msemp.dll'.
+[2e2c:0007][2026-05-10T01:24:14] Processing file /Contents/Common7/IDE/VS%20SCC/msemp.dll.manifest
+[2e2c:0007][2026-05-10T01:24:14] Started: Copying file /Contents/Common7/IDE/VS%20SCC/msemp.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VS SCC\msemp.dll.manifest
+[2e2c:0007][2026-05-10T01:24:14] Completed: Copying file /Contents/Common7/IDE/VS%20SCC/msemp.dll.manifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VS SCC\msemp.dll.manifest
+[2e2c:0007][2026-05-10T01:24:14] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VS SCC\msemp.dll.manifest'.
+[2e2c:0007][2026-05-10T01:24:14] Processing file /Contents/Common7/IDE/VS%20SCC/VssProvider.dll
+[2e2c:0007][2026-05-10T01:24:14] Started: Copying file /Contents/Common7/IDE/VS%20SCC/VssProvider.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VS SCC\VssProvider.dll
+[2e2c:0007][2026-05-10T01:24:14] Completed: Copying file /Contents/Common7/IDE/VS%20SCC/VssProvider.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VS SCC\VssProvider.dll
+[2e2c:0007][2026-05-10T01:24:14] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VS SCC\VssProvider.dll'.
+[2e2c:0007][2026-05-10T01:24:14] Processing file /Contents/Common7/IDE/VS%20SCC/VssProviderStub.dll
+[2e2c:0007][2026-05-10T01:24:14] Started: Copying file /Contents/Common7/IDE/VS%20SCC/VssProviderStub.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VS SCC\VssProviderStub.dll
+[2e2c:0007][2026-05-10T01:24:14] Completed: Copying file /Contents/Common7/IDE/VS%20SCC/VssProviderStub.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VS SCC\VssProviderStub.dll
+[2e2c:0007][2026-05-10T01:24:14] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VS SCC\VssProviderStub.dll'.
+[2e2c:0007][2026-05-10T01:24:14] Processing file /Contents/Common7/IDE/vshost32-clr2.exe
+[2e2c:0007][2026-05-10T01:24:14] Started: Copying file /Contents/Common7/IDE/vshost32-clr2.exe to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\vshost32-clr2.exe
+[2e2c:0007][2026-05-10T01:24:14] Completed: Copying file /Contents/Common7/IDE/vshost32-clr2.exe to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\vshost32-clr2.exe
+[2e2c:0007][2026-05-10T01:24:14] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\vshost32-clr2.exe'.
+[2e2c:0007][2026-05-10T01:24:14] Processing file /Contents/Common7/IDE/vshost32.exe
+[2e2c:0007][2026-05-10T01:24:14] Started: Copying file /Contents/Common7/IDE/vshost32.exe to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\vshost32.exe
+[2e2c:0007][2026-05-10T01:24:14] Completed: Copying file /Contents/Common7/IDE/vshost32.exe to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\vshost32.exe
+[2e2c:0007][2026-05-10T01:24:14] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\vshost32.exe'.
+[2e2c:0007][2026-05-10T01:24:14] Processing file /Contents/Common7/IDE/vssln.dll
+[2e2c:0007][2026-05-10T01:24:14] Started: Copying file /Contents/Common7/IDE/vssln.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\vssln.dll
+[2e2c:0007][2026-05-10T01:24:14] Completed: Copying file /Contents/Common7/IDE/vssln.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\vssln.dll
+[2e2c:0007][2026-05-10T01:24:14] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\vssln.dll'.
+[2e2c:0007][2026-05-10T01:24:14] Processing file /Contents/Common7/Packages/CompSvcsPkg.dll
+[2e2c:0007][2026-05-10T01:24:14] Started: Copying file /Contents/Common7/Packages/CompSvcsPkg.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\CompSvcsPkg.dll
+[2e2c:0007][2026-05-10T01:24:14] Completed: Copying file /Contents/Common7/Packages/CompSvcsPkg.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\CompSvcsPkg.dll
+[2e2c:0007][2026-05-10T01:24:14] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\CompSvcsPkg.dll'.
+[2e2c:0007][2026-05-10T01:24:14] Processing file /Contents/Common7/Packages/Debugger/GpuEnvSetup.dll
+[2e2c:0007][2026-05-10T01:24:14] Started: Copying file /Contents/Common7/Packages/Debugger/GpuEnvSetup.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\GpuEnvSetup.dll
+[2e2c:0007][2026-05-10T01:24:14] Completed: Copying file /Contents/Common7/Packages/Debugger/GpuEnvSetup.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\GpuEnvSetup.dll
+[2e2c:0007][2026-05-10T01:24:14] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\GpuEnvSetup.dll'.
+[2e2c:0007][2026-05-10T01:24:14] Processing file /Contents/Common7/Packages/Debugger/GpuEnvSetup.vsdconfig
+[2e2c:0007][2026-05-10T01:24:14] Started: Copying file /Contents/Common7/Packages/Debugger/GpuEnvSetup.vsdconfig to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\GpuEnvSetup.vsdconfig
+[2e2c:0007][2026-05-10T01:24:14] Completed: Copying file /Contents/Common7/Packages/Debugger/GpuEnvSetup.vsdconfig to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\GpuEnvSetup.vsdconfig
+[2e2c:0007][2026-05-10T01:24:14] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\GpuEnvSetup.vsdconfig'.
+[2e2c:0007][2026-05-10T01:24:14] Processing file /Contents/Common7/Packages/Debugger/HlslEE.dll
+[2e2c:0007][2026-05-10T01:24:14] Started: Copying file /Contents/Common7/Packages/Debugger/HlslEE.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\HlslEE.dll
+[2e2c:0007][2026-05-10T01:24:14] Completed: Copying file /Contents/Common7/Packages/Debugger/HlslEE.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\HlslEE.dll
+[2e2c:0007][2026-05-10T01:24:14] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\HlslEE.dll'.
+[2e2c:0007][2026-05-10T01:24:14] Processing file /Contents/Common7/Packages/Debugger/HlslEE.vsdconfig
+[2e2c:0007][2026-05-10T01:24:14] Started: Copying file /Contents/Common7/Packages/Debugger/HlslEE.vsdconfig to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\HlslEE.vsdconfig
+[2e2c:0007][2026-05-10T01:24:14] Completed: Copying file /Contents/Common7/Packages/Debugger/HlslEE.vsdconfig to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\HlslEE.vsdconfig
+[2e2c:0007][2026-05-10T01:24:14] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\HlslEE.vsdconfig'.
+[2e2c:0007][2026-05-10T01:24:14] Processing file /Contents/Common7/Packages/Debugger/jsee.dll
+[2e2c:0007][2026-05-10T01:24:14] Started: Copying file /Contents/Common7/Packages/Debugger/jsee.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\jsee.dll
+[2e2c:0007][2026-05-10T01:24:14] Completed: Copying file /Contents/Common7/Packages/Debugger/jsee.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\jsee.dll
+[2e2c:0007][2026-05-10T01:24:14] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\jsee.dll'.
+[2e2c:0007][2026-05-10T01:24:14] Processing file /Contents/Common7/Packages/dirprj.dll
+[2e2c:0007][2026-05-10T01:24:14] Started: Copying file /Contents/Common7/Packages/dirprj.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\dirprj.dll
+[2e2c:0007][2026-05-10T01:24:14] Completed: Copying file /Contents/Common7/Packages/dirprj.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\dirprj.dll
+[2e2c:0007][2026-05-10T01:24:14] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\dirprj.dll'.
+[2e2c:0007][2026-05-10T01:24:14] Package executed successfully. Return code: 0

@@ -1,0 +1,57 @@
+[18d4:0007][2026-05-10T02:03:32] Opening the package for processing
+[18d4:0007][2026-05-10T02:03:32] Using package payload to get the embedded manifest
+[18d4:0007][2026-05-10T02:03:32] Getting list of files within the package
+[18d4:0007][2026-05-10T02:03:32] Processing file /Contents/Common7/IDE/1033/cmddefui.dll
+[18d4:0007][2026-05-10T02:03:32] Started: Copying file /Contents/Common7/IDE/1033/cmddefui.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\1033\cmddefui.dll
+[18d4:0007][2026-05-10T02:03:32] Completed: Copying file /Contents/Common7/IDE/1033/cmddefui.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\1033\cmddefui.dll
+[18d4:0007][2026-05-10T02:03:32] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\1033\cmddefui.dll'.
+[18d4:0007][2026-05-10T02:03:32] Processing file /Contents/Common7/IDE/1033/Microsoft.VisualStudioUI.dll
+[18d4:0007][2026-05-10T02:03:32] Started: Copying file /Contents/Common7/IDE/1033/Microsoft.VisualStudioUI.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\1033\Microsoft.VisualStudioUI.dll
+[18d4:0007][2026-05-10T02:03:32] Completed: Copying file /Contents/Common7/IDE/1033/Microsoft.VisualStudioUI.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\1033\Microsoft.VisualStudioUI.dll
+[18d4:0007][2026-05-10T02:03:32] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\1033\Microsoft.VisualStudioUI.dll'.
+[18d4:0007][2026-05-10T02:03:32] Processing file /Contents/Common7/IDE/1033/msenvui.dll
+[18d4:0007][2026-05-10T02:03:32] Started: Copying file /Contents/Common7/IDE/1033/msenvui.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\1033\msenvui.dll
+[18d4:0007][2026-05-10T02:03:32] Completed: Copying file /Contents/Common7/IDE/1033/msenvui.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\1033\msenvui.dll
+[18d4:0007][2026-05-10T02:03:32] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\1033\msenvui.dll'.
+[18d4:0007][2026-05-10T02:03:32] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Search/en/Microsoft.VisualStudio.Platform.SearchProviders.resources.dll
+[18d4:0007][2026-05-10T02:03:32] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Search/en/Microsoft.VisualStudio.Platform.SearchProviders.resources.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Search\en\Microsoft.VisualStudio.Platform.SearchProviders.resources.dll
+[18d4:0007][2026-05-10T02:03:32] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Search/en/Microsoft.VisualStudio.Platform.SearchProviders.resources.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Search\en\Microsoft.VisualStudio.Platform.SearchProviders.resources.dll
+[18d4:0007][2026-05-10T02:03:32] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Search\en\Microsoft.VisualStudio.Platform.SearchProviders.resources.dll'.
+[18d4:0007][2026-05-10T02:03:32] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Search/en/Microsoft.VisualStudio.Search.Implementation.resources.dll
+[18d4:0007][2026-05-10T02:03:32] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Search/en/Microsoft.VisualStudio.Search.Implementation.resources.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Search\en\Microsoft.VisualStudio.Search.Implementation.resources.dll
+[18d4:0007][2026-05-10T02:03:32] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Search/en/Microsoft.VisualStudio.Search.Implementation.resources.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Search\en\Microsoft.VisualStudio.Search.Implementation.resources.dll
+[18d4:0007][2026-05-10T02:03:32] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Search\en\Microsoft.VisualStudio.Search.Implementation.resources.dll'.
+[18d4:0007][2026-05-10T02:03:32] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/TreeNavigation/en/Microsoft.VisualStudio.Shell.TreeNavigation.HierarchyProvider.resources.dll
+[18d4:0007][2026-05-10T02:03:32] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/TreeNavigation/en/Microsoft.VisualStudio.Shell.TreeNavigation.HierarchyProvider.resources.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\TreeNavigation\en\Microsoft.VisualStudio.Shell.TreeNavigation.HierarchyProvider.resources.dll
+[18d4:0007][2026-05-10T02:03:32] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/TreeNavigation/en/Microsoft.VisualStudio.Shell.TreeNavigation.HierarchyProvider.resources.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\TreeNavigation\en\Microsoft.VisualStudio.Shell.TreeNavigation.HierarchyProvider.resources.dll
+[18d4:0007][2026-05-10T02:03:32] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\TreeNavigation\en\Microsoft.VisualStudio.Shell.TreeNavigation.HierarchyProvider.resources.dll'.
+[18d4:0007][2026-05-10T02:03:32] Processing file /Contents/Common7/IDE/en/Microsoft.VisualStudio.ProductKeyDialog.resources.dll
+[18d4:0007][2026-05-10T02:03:32] Started: Copying file /Contents/Common7/IDE/en/Microsoft.VisualStudio.ProductKeyDialog.resources.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\en\Microsoft.VisualStudio.ProductKeyDialog.resources.dll
+[18d4:0007][2026-05-10T02:03:32] Completed: Copying file /Contents/Common7/IDE/en/Microsoft.VisualStudio.ProductKeyDialog.resources.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\en\Microsoft.VisualStudio.ProductKeyDialog.resources.dll
+[18d4:0007][2026-05-10T02:03:32] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\en\Microsoft.VisualStudio.ProductKeyDialog.resources.dll'.
+[18d4:0007][2026-05-10T02:03:32] Processing file /Contents/Common7/IDE/ShellExtensions/Platform/1033/appenvmui.dll
+[18d4:0007][2026-05-10T02:03:32] Started: Copying file /Contents/Common7/IDE/ShellExtensions/Platform/1033/appenvmui.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ShellExtensions\Platform\1033\appenvmui.dll
+[18d4:0007][2026-05-10T02:03:32] Completed: Copying file /Contents/Common7/IDE/ShellExtensions/Platform/1033/appenvmui.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ShellExtensions\Platform\1033\appenvmui.dll
+[18d4:0007][2026-05-10T02:03:32] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ShellExtensions\Platform\1033\appenvmui.dll'.
+[18d4:0007][2026-05-10T02:03:32] Processing file /Contents/Common7/ServiceHub/SharedAssemblies/en/Microsoft.VisualStudio.Utilities.resources.dll
+[18d4:0007][2026-05-10T02:03:32] Started: Copying file /Contents/Common7/ServiceHub/SharedAssemblies/en/Microsoft.VisualStudio.Utilities.resources.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\ServiceHub\SharedAssemblies\en\Microsoft.VisualStudio.Utilities.resources.dll
+[18d4:0007][2026-05-10T02:03:32] Completed: Copying file /Contents/Common7/ServiceHub/SharedAssemblies/en/Microsoft.VisualStudio.Utilities.resources.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\ServiceHub\SharedAssemblies\en\Microsoft.VisualStudio.Utilities.resources.dll
+[18d4:0007][2026-05-10T02:03:32] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\ServiceHub\SharedAssemblies\en\Microsoft.VisualStudio.Utilities.resources.dll'.
+[18d4:0007][2026-05-10T02:03:32] Processing file /Contents/Licenses/1033/Redist.txt
+[18d4:0007][2026-05-10T02:03:32] Started: Copying file /Contents/Licenses/1033/Redist.txt to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Licenses\1033\Redist.txt
+[18d4:0007][2026-05-10T02:03:32] Completed: Copying file /Contents/Licenses/1033/Redist.txt to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Licenses\1033\Redist.txt
+[18d4:0007][2026-05-10T02:03:32] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Licenses\1033\Redist.txt'.
+[18d4:0007][2026-05-10T02:03:32] Processing file /Contents/Licenses/1033/ThirdPartyNotices.txt
+[18d4:0007][2026-05-10T02:03:32] Started: Copying file /Contents/Licenses/1033/ThirdPartyNotices.txt to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Licenses\1033\ThirdPartyNotices.txt
+[18d4:0007][2026-05-10T02:03:32] Completed: Copying file /Contents/Licenses/1033/ThirdPartyNotices.txt to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Licenses\1033\ThirdPartyNotices.txt
+[18d4:0007][2026-05-10T02:03:32] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Licenses\1033\ThirdPartyNotices.txt'.
+[18d4:0007][2026-05-10T02:03:32] Installing ProgId: VisualStudio.git-client.0240ddbe
+[18d4:0007][2026-05-10T02:03:32] Installing ProgId: VisualStudio.vsweb.0240ddbe
+[18d4:0007][2026-05-10T02:03:32] Installing ProgId: VisualStudio.vstfs.0240ddbe
+[18d4:0007][2026-05-10T02:03:32] Installing URL protocol 'git-client'
+[18d4:0007][2026-05-10T02:03:32] RegistrationPath: Software\Microsoft\VisualStudio_0240ddbe\Capabilities\UrlAssociations
+[18d4:0007][2026-05-10T02:03:32] Installing URL protocol 'vsweb'
+[18d4:0007][2026-05-10T02:03:32] RegistrationPath: Software\Microsoft\VisualStudio_0240ddbe\Capabilities\UrlAssociations
+[18d4:0007][2026-05-10T02:03:32] Installing URL protocol 'vstfs'
+[18d4:0007][2026-05-10T02:03:32] RegistrationPath: Software\Microsoft\VisualStudio_0240ddbe\Capabilities\UrlAssociations
+[18d4:0007][2026-05-10T02:03:32] Package executed successfully. Return code: 0

@@ -1,0 +1,104 @@
+[0c48:0003][2026-05-10T01:44:45] Using cached package manifest as the embedded manifest
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/Automation/dte80a.olb
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dte80a.olb file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/Automation/dte80.olb
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\dte80.olb file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/Automation/VxExtensibilitylib4.tlb
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\VxExtensibilitylib4.tlb file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/Automation/VxExtensibilitylib.tlb
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\VxExtensibilitylib.tlb file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/Automation/VxExtensibilitylib2.tlb
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\VxExtensibilitylib2.tlb file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/Automation/VBCodeModelExtensibility.tlb
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\VBCodeModelExtensibility.tlb file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/Automation/VxExtensibilitylib3.tlb
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Automation\VxExtensibilitylib3.tlb file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Microsoft.VisualStudio.MinShell.Interop.pkgdef
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Microsoft.VisualStudio.MinShell.Interop.pkgdef file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PrivateAssemblies/System.Web.DynamicData.VisualStudio.15.0.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\System.Web.DynamicData.VisualStudio.15.0.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PrivateAssemblies/System.Web.Extensions.Design.VisualStudio.15.0.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\System.Web.Extensions.Design.VisualStudio.15.0.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PrivateAssemblies/System.Web.Extensions.VisualStudio.15.0.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\System.Web.Extensions.VisualStudio.15.0.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PrivateAssemblies/System.Web.VisualStudio.15.0.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\System.Web.VisualStudio.15.0.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Internal.VisualStudio.Interop.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Internal.VisualStudio.Interop.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PublicAssemblies/envdte.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\envdte.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PublicAssemblies/envdte100.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\envdte100.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PublicAssemblies/envdte80.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\envdte80.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PublicAssemblies/envdte90.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\envdte90.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PublicAssemblies/envdte90a.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\envdte90a.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.CommandBars.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.CommandBars.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.ProjectAggregator.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.ProjectAggregator.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.VSHelp.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.VSHelp.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.VSHelp80.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.VSHelp80.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.MSXML.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.MSXML.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.OLE.Interop.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.OLE.Interop.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Interop.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Interop.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Interop.10.0.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Interop.10.0.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Interop.11.0.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Interop.11.0.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Interop.12.0.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Interop.12.0.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Interop.8.0.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Interop.8.0.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Interop.9.0.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Interop.9.0.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextManager.Interop.10.0.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextManager.Interop.11.0.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextManager.Interop.11.0.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextManager.Interop.12.0.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextManager.Interop.12.0.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextManager.Interop.8.0.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextManager.Interop.9.0.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextManager.Interop.9.0.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextManager.Interop.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextManager.Interop.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PublicAssemblies/VSLangProj100.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VSLangProj100.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PublicAssemblies/VSLangProj110.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VSLangProj110.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PublicAssemblies/VSLangProj140.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VSLangProj140.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PublicAssemblies/VSLangProj150.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VSLangProj150.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PublicAssemblies/VSLangProj157.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VSLangProj157.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PublicAssemblies/VSLangProj158.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VSLangProj158.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PublicAssemblies/VSLangProj165.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VSLangProj165.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PublicAssemblies/VSLangProj90.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VSLangProj90.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PublicAssemblies/stdole.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\stdole.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PublicAssemblies/VSLangProj.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VSLangProj.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PublicAssemblies/VSLangProj2.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VSLangProj2.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PublicAssemblies/VSLangProj80.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VSLangProj80.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Interop.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Interop.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Started: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:45] Completed: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:45] Package executed successfully. Return code: 0

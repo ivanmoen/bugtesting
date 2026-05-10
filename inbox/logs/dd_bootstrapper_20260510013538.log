@@ -1,0 +1,42 @@
+[261c:0001][2026-05-10T01:35:39] Assembly version: 3.14.2086.54749.
+[261c:0001][2026-05-10T01:35:39] Creating new ExperimentationService
+[261c:0001][2026-05-10T01:35:39] Telemetry property VS.ABExp.Flights : lazytoolboxinit;fwlargebuffer;refactoring;spmoretempsbtn1;asloff;keybindgoldbarext;asynccsproj;vsfricheditor;completionapi;4f604693:30775293
+[261c:0001][2026-05-10T01:35:39] Command line arguments = install,--passive,--wait,--norestart,--installPath,C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools,--add,Microsoft.VisualStudio.Workload.VCTools,--add,Microsoft.VisualStudio.Component.Windows11SDK.22621,--env,_SFX_CAB_EXE_PACKAGE:C:\Users\Werguru\AppData\Local\Temp\vs_BuildTools_6004.exe _SFX_CAB_EXE_ORIGINALWORKINGDIR:C:\Windows\system32
+[261c:0001][2026-05-10T01:35:39] C2R signature did not exist or could not be read: 
+[261c:0001][2026-05-10T01:35:39] Parent process name = vs_BuildTools_6004
+[261c:0001][2026-05-10T01:35:39] Parent process product version = 17.14.37216.2
+[261c:0001][2026-05-10T01:35:39] CampaignId = 
+[261c:0001][2026-05-10T01:35:39] Warning: ResponseId not available in 'vs_setup_bootstrapper.config'. Trying to parse filename.
+[261c:0001][2026-05-10T01:35:39] Warning: loading config settings: -update --update --layout -offline --offline --locale --layout --originalworkingdir --installLayoutPath --env
+[261c:0001][2026-05-10T01:35:40] DownloadURL = https://aka.ms/vs/17/release/installer
+[261c:0001][2026-05-10T01:35:40] InstallLocation = C:\Program Files (x86)\Microsoft Visual Studio\Installer
+[261c:0001][2026-05-10T01:35:40] OfflineFilePath = 
+[261c:0001][2026-05-10T01:35:40] LayoutLocation = 
+[261c:0001][2026-05-10T01:35:40] ExecutableArguments = /finalizeInstall install --in "C:\ProgramData\Microsoft\VisualStudio\Packages\_bootstrapper\vs_setup_bootstrapper_202605100135395195.json" install --passive --norestart --installPath "C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools" --add Microsoft.VisualStudio.Workload.VCTools --add Microsoft.VisualStudio.Component.Windows11SDK.22621 --locale en-US --activityId "f39a270c-1052-4a90-bfde-20e3e5a85b21"
+[261c:0001][2026-05-10T01:35:40] OSVersion = Microsoft Windows NT 10.0.26200.0
+[261c:0001][2026-05-10T01:35:40] Starting to detect the existing VS and .NET...
+[261c:0001][2026-05-10T01:35:40] Finished detecting the existing VS and .Net
+[261c:0003][2026-05-10T01:35:40] Authentication Environment variable setting value: null
+[261c:0003][2026-05-10T01:35:40] Authenticate: True
+[261c:0020][2026-05-10T01:35:40] Download requested: https://download.visualstudio.microsoft.com/download/pr/955183c0-a333-4c1d-a0f6-40e980d185f6/b1d9cb6a6ac9efd3251cdc25c246dce1/latestinstaller.json
+[261c:0021][2026-05-10T01:35:40] Attempting download 'https://download.visualstudio.microsoft.com/download/pr/955183c0-a333-4c1d-a0f6-40e980d185f6/b1d9cb6a6ac9efd3251cdc25c246dce1/latestinstaller.json' using engine 'WebClient'
+[261c:0021][2026-05-10T01:35:40] ManifestVerifier Result: Success
+[261c:0021][2026-05-10T01:35:40] Download of 'https://download.visualstudio.microsoft.com/download/pr/955183c0-a333-4c1d-a0f6-40e980d185f6/b1d9cb6a6ac9efd3251cdc25c246dce1/latestinstaller.json' succeeded using engine 'WebClient'
+[261c:0003][2026-05-10T01:35:40] ManifestVerifier Result: Success
+[261c:0003][2026-05-10T01:35:40] Latest installer feed version 4.5.35.302252060 greater than self update min version: 3.14.2086.286130193
+[261c:0003][2026-05-10T01:35:40] Comparing client version '4.5.35.302252060' to autoSelfUpdateMinVersion '4.5.35.302252060'
+[261c:0003][2026-05-10T01:35:40] Current OptIn value is 1
+[261c:0022][2026-05-10T01:35:40] Download requested: https://download.visualstudio.microsoft.com/download/pr/955183c0-a333-4c1d-a0f6-40e980d185f6/b1d9cb6a6ac9efd3251cdc25c246dce1/latestinstaller.json
+[261c:0026][2026-05-10T01:35:40] Attempting download 'https://download.visualstudio.microsoft.com/download/pr/955183c0-a333-4c1d-a0f6-40e980d185f6/b1d9cb6a6ac9efd3251cdc25c246dce1/latestinstaller.json' using engine 'WebClient'
+[261c:0026][2026-05-10T01:35:40] ManifestVerifier Result: Success
+[261c:0026][2026-05-10T01:35:40] Download of 'https://download.visualstudio.microsoft.com/download/pr/955183c0-a333-4c1d-a0f6-40e980d185f6/b1d9cb6a6ac9efd3251cdc25c246dce1/latestinstaller.json' succeeded using engine 'WebClient'
+[261c:0003][2026-05-10T01:35:40] ManifestVerifier Result: Success
+[261c:0003][2026-05-10T01:35:40] Latest installer feed version 4.5.35.302252060 greater than self update min version: 3.14.2086.286130193
+[261c:0003][2026-05-10T01:35:40] Comparing client version '4.5.35.302252060' to autoSelfUpdateMinVersion '4.5.35.302252060'
+[261c:000b][2026-05-10T01:35:40] Start named pipe: 81f15876-2a2f-4475-ad7f-16ac61eb58cb
+[261c:0003][2026-05-10T01:35:40] Starting VS setup process 'setup.exe' with arguments '/finalizeInstall install --in "C:\ProgramData\Microsoft\VisualStudio\Packages\_bootstrapper\vs_setup_bootstrapper_202605100135395195.json" install --passive --norestart --installPath "C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools" --add Microsoft.VisualStudio.Workload.VCTools --add Microsoft.VisualStudio.Component.Windows11SDK.22621 --locale en-US --activityId "f39a270c-1052-4a90-bfde-20e3e5a85b21" --pipe "81f15876-2a2f-4475-ad7f-16ac61eb58cb"'.
+[261c:0003][2026-05-10T01:35:40] VS setup process C:\Program Files (x86)\Microsoft Visual Studio\Installer\setup.exe started. All done.
+[261c:0003][2026-05-10T01:35:40] Waiting for setup process to complete...
+[261c:000b][2026-05-10T01:35:44] Pipe disconnected.
+[261c:0003][2026-05-10T01:36:12] VS setup process exited with code 0
+[261c:0003][2026-05-10T01:36:12] Bootstrapper Successfully completed.

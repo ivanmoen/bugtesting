@@ -1,0 +1,208 @@
+[da4c:0007][2026-05-10T00:50:01] Opening the package for processing
+[da4c:0007][2026-05-10T00:50:01] Using package payload to get the embedded manifest
+[da4c:0007][2026-05-10T00:50:01] Getting list of files within the package
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/Automation/dte80.olb
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/Automation/dte80.olb to D:\Program\Common7\IDE\Automation\dte80.olb
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/Automation/dte80.olb to D:\Program\Common7\IDE\Automation\dte80.olb
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\dte80.olb'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/Automation/dte80a.olb
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/Automation/dte80a.olb to D:\Program\Common7\IDE\Automation\dte80a.olb
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/Automation/dte80a.olb to D:\Program\Common7\IDE\Automation\dte80a.olb
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\dte80a.olb'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/Automation/VBCodeModelExtensibility.tlb
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/Automation/VBCodeModelExtensibility.tlb to D:\Program\Common7\IDE\Automation\VBCodeModelExtensibility.tlb
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/Automation/VBCodeModelExtensibility.tlb to D:\Program\Common7\IDE\Automation\VBCodeModelExtensibility.tlb
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\VBCodeModelExtensibility.tlb'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/Automation/VxExtensibilitylib.tlb
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/Automation/VxExtensibilitylib.tlb to D:\Program\Common7\IDE\Automation\VxExtensibilitylib.tlb
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/Automation/VxExtensibilitylib.tlb to D:\Program\Common7\IDE\Automation\VxExtensibilitylib.tlb
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\VxExtensibilitylib.tlb'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/Automation/VxExtensibilitylib2.tlb
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/Automation/VxExtensibilitylib2.tlb to D:\Program\Common7\IDE\Automation\VxExtensibilitylib2.tlb
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/Automation/VxExtensibilitylib2.tlb to D:\Program\Common7\IDE\Automation\VxExtensibilitylib2.tlb
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\VxExtensibilitylib2.tlb'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/Automation/VxExtensibilitylib3.tlb
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/Automation/VxExtensibilitylib3.tlb to D:\Program\Common7\IDE\Automation\VxExtensibilitylib3.tlb
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/Automation/VxExtensibilitylib3.tlb to D:\Program\Common7\IDE\Automation\VxExtensibilitylib3.tlb
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\VxExtensibilitylib3.tlb'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/Automation/VxExtensibilitylib4.tlb
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/Automation/VxExtensibilitylib4.tlb to D:\Program\Common7\IDE\Automation\VxExtensibilitylib4.tlb
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/Automation/VxExtensibilitylib4.tlb to D:\Program\Common7\IDE\Automation\VxExtensibilitylib4.tlb
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\VxExtensibilitylib4.tlb'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Microsoft.VisualStudio.MinShell.Interop.pkgdef
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Microsoft.VisualStudio.MinShell.Interop.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Microsoft.VisualStudio.MinShell.Interop.pkgdef
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Microsoft.VisualStudio.MinShell.Interop.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Microsoft.VisualStudio.MinShell.Interop.pkgdef
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Microsoft.VisualStudio.MinShell.Interop.pkgdef'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Internal.VisualStudio.Interop.dll
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Internal.VisualStudio.Interop.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.Internal.VisualStudio.Interop.dll
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Internal.VisualStudio.Interop.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.Internal.VisualStudio.Interop.dll
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.Internal.VisualStudio.Interop.dll'.
+[da4c:0007][2026-05-10T00:50:01] Queueing D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.Internal.VisualStudio.Interop.dll for X86 ngen
+[da4c:0007][2026-05-10T00:50:01] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/Microsoft.Internal.VisualStudio.Interop.dll' for ngen
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/PrivateAssemblies/System.Web.DynamicData.VisualStudio.15.0.dll
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/System.Web.DynamicData.VisualStudio.15.0.dll to D:\Program\Common7\IDE\PrivateAssemblies\System.Web.DynamicData.VisualStudio.15.0.dll
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/System.Web.DynamicData.VisualStudio.15.0.dll to D:\Program\Common7\IDE\PrivateAssemblies\System.Web.DynamicData.VisualStudio.15.0.dll
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\System.Web.DynamicData.VisualStudio.15.0.dll'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/PrivateAssemblies/System.Web.Extensions.Design.VisualStudio.15.0.dll
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/System.Web.Extensions.Design.VisualStudio.15.0.dll to D:\Program\Common7\IDE\PrivateAssemblies\System.Web.Extensions.Design.VisualStudio.15.0.dll
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/System.Web.Extensions.Design.VisualStudio.15.0.dll to D:\Program\Common7\IDE\PrivateAssemblies\System.Web.Extensions.Design.VisualStudio.15.0.dll
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\System.Web.Extensions.Design.VisualStudio.15.0.dll'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/PrivateAssemblies/System.Web.Extensions.VisualStudio.15.0.dll
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/System.Web.Extensions.VisualStudio.15.0.dll to D:\Program\Common7\IDE\PrivateAssemblies\System.Web.Extensions.VisualStudio.15.0.dll
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/System.Web.Extensions.VisualStudio.15.0.dll to D:\Program\Common7\IDE\PrivateAssemblies\System.Web.Extensions.VisualStudio.15.0.dll
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\System.Web.Extensions.VisualStudio.15.0.dll'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/PrivateAssemblies/System.Web.VisualStudio.15.0.dll
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/System.Web.VisualStudio.15.0.dll to D:\Program\Common7\IDE\PrivateAssemblies\System.Web.VisualStudio.15.0.dll
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/System.Web.VisualStudio.15.0.dll to D:\Program\Common7\IDE\PrivateAssemblies\System.Web.VisualStudio.15.0.dll
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\System.Web.VisualStudio.15.0.dll'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/PublicAssemblies/envdte.dll
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/envdte.dll to D:\Program\Common7\IDE\PublicAssemblies\envdte.dll
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/envdte.dll to D:\Program\Common7\IDE\PublicAssemblies\envdte.dll
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\envdte.dll'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/PublicAssemblies/envdte100.dll
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/envdte100.dll to D:\Program\Common7\IDE\PublicAssemblies\envdte100.dll
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/envdte100.dll to D:\Program\Common7\IDE\PublicAssemblies\envdte100.dll
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\envdte100.dll'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/PublicAssemblies/envdte80.dll
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/envdte80.dll to D:\Program\Common7\IDE\PublicAssemblies\envdte80.dll
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/envdte80.dll to D:\Program\Common7\IDE\PublicAssemblies\envdte80.dll
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\envdte80.dll'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/PublicAssemblies/envdte90.dll
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/envdte90.dll to D:\Program\Common7\IDE\PublicAssemblies\envdte90.dll
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/envdte90.dll to D:\Program\Common7\IDE\PublicAssemblies\envdte90.dll
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\envdte90.dll'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/PublicAssemblies/envdte90a.dll
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/envdte90a.dll to D:\Program\Common7\IDE\PublicAssemblies\envdte90a.dll
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/envdte90a.dll to D:\Program\Common7\IDE\PublicAssemblies\envdte90a.dll
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\envdte90a.dll'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.MSXML.dll
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.MSXML.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.MSXML.dll
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.MSXML.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.MSXML.dll
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\Microsoft.MSXML.dll'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.CommandBars.dll
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.CommandBars.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.CommandBars.dll
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.CommandBars.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.CommandBars.dll
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.CommandBars.dll'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Interop.dll
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Interop.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Interop.dll
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Interop.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Interop.dll
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Interop.dll'.
+[da4c:0007][2026-05-10T00:50:01] Queueing D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Interop.dll for X86 ngen
+[da4c:0007][2026-05-10T00:50:01] Successfully queued file '/Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Interop.dll' for ngen
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.OLE.Interop.dll
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.OLE.Interop.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.OLE.Interop.dll
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.OLE.Interop.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.OLE.Interop.dll
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.OLE.Interop.dll'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.ProjectAggregator.dll
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.ProjectAggregator.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.ProjectAggregator.dll
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.ProjectAggregator.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.ProjectAggregator.dll
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.ProjectAggregator.dll'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Interop.10.0.dll
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Interop.10.0.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Interop.10.0.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Interop.10.0.dll'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Interop.11.0.dll
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Interop.11.0.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Interop.11.0.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Interop.11.0.dll'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Interop.12.0.dll
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Interop.12.0.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Interop.12.0.dll
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Interop.12.0.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Interop.12.0.dll
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Interop.12.0.dll'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Interop.8.0.dll
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Interop.8.0.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Interop.8.0.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Interop.8.0.dll'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Interop.9.0.dll
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Interop.9.0.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Interop.9.0.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Interop.9.0.dll'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Interop.dll
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Interop.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Interop.dll
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Interop.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Interop.dll
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Interop.dll'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextManager.Interop.10.0.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextManager.Interop.10.0.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextManager.Interop.10.0.dll'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextManager.Interop.11.0.dll
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextManager.Interop.11.0.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextManager.Interop.11.0.dll
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextManager.Interop.11.0.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextManager.Interop.11.0.dll
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextManager.Interop.11.0.dll'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextManager.Interop.12.0.dll
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextManager.Interop.12.0.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextManager.Interop.12.0.dll
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextManager.Interop.12.0.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextManager.Interop.12.0.dll
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextManager.Interop.12.0.dll'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextManager.Interop.8.0.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextManager.Interop.8.0.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextManager.Interop.8.0.dll'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextManager.Interop.9.0.dll
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextManager.Interop.9.0.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextManager.Interop.9.0.dll
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextManager.Interop.9.0.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextManager.Interop.9.0.dll
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextManager.Interop.9.0.dll'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextManager.Interop.dll
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextManager.Interop.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextManager.Interop.dll
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextManager.Interop.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextManager.Interop.dll
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextManager.Interop.dll'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.VSHelp.dll
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.VSHelp.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.VSHelp.dll
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.VSHelp.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.VSHelp.dll
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.VSHelp.dll'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.VSHelp80.dll
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.VSHelp80.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.VSHelp80.dll
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.VSHelp80.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.VSHelp80.dll
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.VSHelp80.dll'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/PublicAssemblies/stdole.dll
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/stdole.dll to D:\Program\Common7\IDE\PublicAssemblies\stdole.dll
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/stdole.dll to D:\Program\Common7\IDE\PublicAssemblies\stdole.dll
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\stdole.dll'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/PublicAssemblies/VSLangProj.dll
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/VSLangProj.dll to D:\Program\Common7\IDE\PublicAssemblies\VSLangProj.dll
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/VSLangProj.dll to D:\Program\Common7\IDE\PublicAssemblies\VSLangProj.dll
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\VSLangProj.dll'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/PublicAssemblies/VSLangProj100.dll
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/VSLangProj100.dll to D:\Program\Common7\IDE\PublicAssemblies\VSLangProj100.dll
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/VSLangProj100.dll to D:\Program\Common7\IDE\PublicAssemblies\VSLangProj100.dll
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\VSLangProj100.dll'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/PublicAssemblies/VSLangProj110.dll
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/VSLangProj110.dll to D:\Program\Common7\IDE\PublicAssemblies\VSLangProj110.dll
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/VSLangProj110.dll to D:\Program\Common7\IDE\PublicAssemblies\VSLangProj110.dll
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\VSLangProj110.dll'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/PublicAssemblies/VSLangProj140.dll
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/VSLangProj140.dll to D:\Program\Common7\IDE\PublicAssemblies\VSLangProj140.dll
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/VSLangProj140.dll to D:\Program\Common7\IDE\PublicAssemblies\VSLangProj140.dll
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\VSLangProj140.dll'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/PublicAssemblies/VSLangProj150.dll
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/VSLangProj150.dll to D:\Program\Common7\IDE\PublicAssemblies\VSLangProj150.dll
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/VSLangProj150.dll to D:\Program\Common7\IDE\PublicAssemblies\VSLangProj150.dll
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\VSLangProj150.dll'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/PublicAssemblies/VSLangProj157.dll
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/VSLangProj157.dll to D:\Program\Common7\IDE\PublicAssemblies\VSLangProj157.dll
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/VSLangProj157.dll to D:\Program\Common7\IDE\PublicAssemblies\VSLangProj157.dll
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\VSLangProj157.dll'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/PublicAssemblies/VSLangProj158.dll
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/VSLangProj158.dll to D:\Program\Common7\IDE\PublicAssemblies\VSLangProj158.dll
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/VSLangProj158.dll to D:\Program\Common7\IDE\PublicAssemblies\VSLangProj158.dll
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\VSLangProj158.dll'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/PublicAssemblies/VSLangProj165.dll
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/VSLangProj165.dll to D:\Program\Common7\IDE\PublicAssemblies\VSLangProj165.dll
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/VSLangProj165.dll to D:\Program\Common7\IDE\PublicAssemblies\VSLangProj165.dll
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\VSLangProj165.dll'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/PublicAssemblies/VSLangProj2.dll
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/VSLangProj2.dll to D:\Program\Common7\IDE\PublicAssemblies\VSLangProj2.dll
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/VSLangProj2.dll to D:\Program\Common7\IDE\PublicAssemblies\VSLangProj2.dll
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\VSLangProj2.dll'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/PublicAssemblies/VSLangProj80.dll
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/VSLangProj80.dll to D:\Program\Common7\IDE\PublicAssemblies\VSLangProj80.dll
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/VSLangProj80.dll to D:\Program\Common7\IDE\PublicAssemblies\VSLangProj80.dll
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\VSLangProj80.dll'.
+[da4c:0007][2026-05-10T00:50:01] Processing file /Contents/Common7/IDE/PublicAssemblies/VSLangProj90.dll
+[da4c:0007][2026-05-10T00:50:01] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/VSLangProj90.dll to D:\Program\Common7\IDE\PublicAssemblies\VSLangProj90.dll
+[da4c:0007][2026-05-10T00:50:01] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/VSLangProj90.dll to D:\Program\Common7\IDE\PublicAssemblies\VSLangProj90.dll
+[da4c:0007][2026-05-10T00:50:01] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\VSLangProj90.dll'.
+[da4c:0007][2026-05-10T00:50:01] Package executed successfully. Return code: 0

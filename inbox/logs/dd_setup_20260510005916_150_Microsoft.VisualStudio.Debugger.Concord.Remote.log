@@ -1,0 +1,34 @@
+[bd94:0009][2026-05-10T01:00:52] Using cached package manifest as the embedded manifest
+[bd94:0009][2026-05-10T01:00:52] Processing file /Contents/Common7/IDE/Remote Debugger/x86/vsdebugeng.manimpl.45.dll
+[bd94:0009][2026-05-10T01:00:52] D:\Program\Common7\IDE\Remote Debugger\x86\vsdebugeng.manimpl.45.dll file deleted.
+[bd94:0009][2026-05-10T01:00:52] Processing file /Contents/Common7/IDE/Remote Debugger/x86/MemoryAnalyzer.Extensions.dll
+[bd94:0009][2026-05-10T01:00:52] D:\Program\Common7\IDE\Remote Debugger\x86\MemoryAnalyzer.Extensions.dll file deleted.
+[bd94:0009][2026-05-10T01:00:52] Processing file /Contents/Common7/IDE/Remote Debugger/x86/vsdebugeng.manimpl.dll
+[bd94:0009][2026-05-10T01:00:52] D:\Program\Common7\IDE\Remote Debugger\x86\vsdebugeng.manimpl.dll file deleted.
+[bd94:0009][2026-05-10T01:00:52] Processing file /Contents/Common7/IDE/Remote Debugger/x86/VsDebugLaunchNotify.exe
+[bd94:0009][2026-05-10T01:00:52] D:\Program\Common7\IDE\Remote Debugger\x86\VsDebugLaunchNotify.exe file deleted.
+[bd94:0009][2026-05-10T01:00:52] Processing file /Contents/Common7/IDE/Remote Debugger/x86/VsDebugWERHelper.exe
+[bd94:0009][2026-05-10T01:00:52] D:\Program\Common7\IDE\Remote Debugger\x86\VsDebugWERHelper.exe file deleted.
+[bd94:0009][2026-05-10T01:00:52] Processing file /Contents/Common7/IDE/Remote Debugger/x86/Microsoft.VisualStudio.Debugger.Engine.dll
+[bd94:0009][2026-05-10T01:00:52] D:\Program\Common7\IDE\Remote Debugger\x86\Microsoft.VisualStudio.Debugger.Engine.dll file deleted.
+[bd94:0009][2026-05-10T01:00:52] Processing file /Contents/Common7/IDE/Remote Debugger/x86/vsdebugeng.dll
+[bd94:0009][2026-05-10T01:00:52] D:\Program\Common7\IDE\Remote Debugger\x86\vsdebugeng.dll file deleted.
+[bd94:0009][2026-05-10T01:00:52] Processing file /Contents/Common7/IDE/Remote Debugger/x86/vsdebugeng.impl.dll
+[bd94:0009][2026-05-10T01:00:52] D:\Program\Common7\IDE\Remote Debugger\x86\vsdebugeng.impl.dll file deleted.
+[bd94:0009][2026-05-10T01:00:52] Processing file /Contents/Common7/IDE/Remote Debugger/x86/Microsoft.VisualStudio.Debugger.Metadata.dll
+[bd94:0009][2026-05-10T01:00:52] D:\Program\Common7\IDE\Remote Debugger\x86\Microsoft.VisualStudio.Debugger.Metadata.dll file deleted.
+[bd94:0009][2026-05-10T01:00:52] Processing file /Contents/Common7/IDE/Remote Debugger/x86/Microsoft.VisualStudio.vil.dll
+[bd94:0009][2026-05-10T01:00:52] D:\Program\Common7\IDE\Remote Debugger\x86\Microsoft.VisualStudio.vil.dll file deleted.
+[bd94:0009][2026-05-10T01:00:52] Processing file /Contents/Common7/IDE/Remote Debugger/x86/Microsoft.VisualStudio.vil.host.dll
+[bd94:0009][2026-05-10T01:00:52] D:\Program\Common7\IDE\Remote Debugger\x86\Microsoft.VisualStudio.vil.host.dll file deleted.
+[bd94:0009][2026-05-10T01:00:52] Processing file /Contents/Common7/IDE/Remote Debugger/x86/iisresolver.dll
+[bd94:0009][2026-05-10T01:00:52] D:\Program\Common7\IDE\Remote Debugger\x86\iisresolver.dll file deleted.
+[bd94:0009][2026-05-10T01:00:52] Processing file /Contents/Common7/IDE/Remote Debugger/x86/Runtime/Microsoft.VisualStudio.Debugger.Runtime.NetCoreApp.dll
+[bd94:0009][2026-05-10T01:00:52] D:\Program\Common7\IDE\Remote Debugger\x86\Runtime\Microsoft.VisualStudio.Debugger.Runtime.NetCoreApp.dll file deleted.
+[bd94:0009][2026-05-10T01:00:52] Processing file /Contents/Common7/IDE/Remote Debugger/x86/Runtime/Microsoft.VisualStudio.Debugger.Runtime.Desktop.dll
+[bd94:0009][2026-05-10T01:00:52] D:\Program\Common7\IDE\Remote Debugger\x86\Runtime\Microsoft.VisualStudio.Debugger.Runtime.Desktop.dll file deleted.
+[bd94:0009][2026-05-10T01:00:52] Processing file /Contents/Common7/IDE/Remote Debugger/x86/Runtime/Microsoft.VisualStudio.Debugger.Runtime.Impl.dll
+[bd94:0009][2026-05-10T01:00:52] D:\Program\Common7\IDE\Remote Debugger\x86\Runtime\Microsoft.VisualStudio.Debugger.Runtime.Impl.dll file deleted.
+[bd94:0009][2026-05-10T01:00:52] Started: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:52] Completed: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:52] Package executed successfully. Return code: 0

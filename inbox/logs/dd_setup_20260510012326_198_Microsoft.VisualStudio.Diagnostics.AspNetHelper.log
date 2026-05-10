@@ -1,0 +1,4 @@
+[2e2c:0007][2026-05-10T01:24:13] Opening the package for processing
+[2e2c:0007][2026-05-10T01:24:13] Using package payload to get the embedded manifest
+[2e2c:0007][2026-05-10T01:24:13] Getting list of files within the package
+[2e2c:0007][2026-05-10T01:24:13] Package executed successfully. Return code: 0

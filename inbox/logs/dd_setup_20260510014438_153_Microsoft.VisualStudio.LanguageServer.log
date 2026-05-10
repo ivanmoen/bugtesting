@@ -1,0 +1,78 @@
+[0c48:0003][2026-05-10T01:44:47] Using cached package manifest as the embedded manifest
+[0c48:0003][2026-05-10T01:44:47] Processing file /extension.vsixmanifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\LanguageServer\extension.vsixmanifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /LanguageServer.Container.pkgdef
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\LanguageServer\LanguageServer.Container.pkgdef file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Microsoft.VisualStudio.LanguageServer.Client.pkgdef
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\LanguageServer\Microsoft.VisualStudio.LanguageServer.Client.pkgdef file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Microsoft.VisualStudio.LanguageServer.Client.Implementation.pkgdef
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\LanguageServer\Microsoft.VisualStudio.LanguageServer.Client.Implementation.pkgdef file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Microsoft.VisualStudio.LanguageServer.Client.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\LanguageServer\Microsoft.VisualStudio.LanguageServer.Client.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Microsoft.VisualStudio.LanguageServer.Protocol.Extensions.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\LanguageServer\Microsoft.VisualStudio.LanguageServer.Protocol.Extensions.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Microsoft.VisualStudio.LanguageServer.Protocol.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\LanguageServer\Microsoft.VisualStudio.LanguageServer.Protocol.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /zh-Hans/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\LanguageServer\zh-Hans\Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /zh-Hant/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\LanguageServer\zh-Hant\Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /de/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\LanguageServer\de\Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /es/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\LanguageServer\es\Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /fr/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\LanguageServer\fr\Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /it/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\LanguageServer\it\Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /ja/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\LanguageServer\ja\Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /ko/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\LanguageServer\ko\Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /ru/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\LanguageServer\ru\Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /cs/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\LanguageServer\cs\Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /pt-BR/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\LanguageServer\pt-BR\Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /pl/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\LanguageServer\pl\Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /tr/Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\LanguageServer\tr\Microsoft.VisualStudio.LanguageServer.Protocol.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Microsoft.VisualStudio.LanguageServer.Protocol.Internal.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\LanguageServer\Microsoft.VisualStudio.LanguageServer.Protocol.Internal.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Microsoft.VisualStudio.LanguageServer.Client.Implementation.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\LanguageServer\Microsoft.VisualStudio.LanguageServer.Client.Implementation.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /zh-Hans/Microsoft.VisualStudio.LanguageServer.Client.Implementation.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\LanguageServer\zh-Hans\Microsoft.VisualStudio.LanguageServer.Client.Implementation.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /zh-Hant/Microsoft.VisualStudio.LanguageServer.Client.Implementation.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\LanguageServer\zh-Hant\Microsoft.VisualStudio.LanguageServer.Client.Implementation.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /de/Microsoft.VisualStudio.LanguageServer.Client.Implementation.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\LanguageServer\de\Microsoft.VisualStudio.LanguageServer.Client.Implementation.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /es/Microsoft.VisualStudio.LanguageServer.Client.Implementation.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\LanguageServer\es\Microsoft.VisualStudio.LanguageServer.Client.Implementation.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /fr/Microsoft.VisualStudio.LanguageServer.Client.Implementation.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\LanguageServer\fr\Microsoft.VisualStudio.LanguageServer.Client.Implementation.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /it/Microsoft.VisualStudio.LanguageServer.Client.Implementation.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\LanguageServer\it\Microsoft.VisualStudio.LanguageServer.Client.Implementation.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /ja/Microsoft.VisualStudio.LanguageServer.Client.Implementation.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\LanguageServer\ja\Microsoft.VisualStudio.LanguageServer.Client.Implementation.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /ko/Microsoft.VisualStudio.LanguageServer.Client.Implementation.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\LanguageServer\ko\Microsoft.VisualStudio.LanguageServer.Client.Implementation.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /ru/Microsoft.VisualStudio.LanguageServer.Client.Implementation.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\LanguageServer\ru\Microsoft.VisualStudio.LanguageServer.Client.Implementation.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /cs/Microsoft.VisualStudio.LanguageServer.Client.Implementation.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\LanguageServer\cs\Microsoft.VisualStudio.LanguageServer.Client.Implementation.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /pt-BR/Microsoft.VisualStudio.LanguageServer.Client.Implementation.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\LanguageServer\pt-BR\Microsoft.VisualStudio.LanguageServer.Client.Implementation.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /pl/Microsoft.VisualStudio.LanguageServer.Client.Implementation.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\LanguageServer\pl\Microsoft.VisualStudio.LanguageServer.Client.Implementation.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /tr/Microsoft.VisualStudio.LanguageServer.Client.Implementation.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\LanguageServer\tr\Microsoft.VisualStudio.LanguageServer.Client.Implementation.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /manifest.json
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\LanguageServer\manifest.json file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /catalog.json
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\LanguageServer\catalog.json file deleted.
+[0c48:0003][2026-05-10T01:44:47] Started: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:47] Completed: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:47] Package executed successfully. Return code: 0

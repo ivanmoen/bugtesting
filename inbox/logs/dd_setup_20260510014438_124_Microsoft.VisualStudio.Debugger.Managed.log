@@ -1,0 +1,96 @@
+[0c48:0003][2026-05-10T01:44:47] Using cached package manifest as the embedded manifest
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/SHMetapdb.pkgdef
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\SHMetapdb.pkgdef file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/cscompee.pkgdef
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\cscompee.pkgdef file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/Packages/Debugger/shmetapdb.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\shmetapdb.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/Packages/Debugger/cpde.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\cpde.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/Packages/Debugger/cscompee.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\cscompee.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VCSharp_EE_Registry.pkgdef
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\VCSharp_EE_Registry.pkgdef file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/Visualizers/Microsoft.VisualStudio.DebuggerVisualizers.Package.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\Visualizers\Microsoft.VisualStudio.DebuggerVisualizers.Package.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/Visualizers/Microsoft.VisualStudio.DebuggerVisualizers.Package.pkgdef
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\Visualizers\Microsoft.VisualStudio.DebuggerVisualizers.Package.pkgdef file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/Visualizers/Microsoft.VisualStudio.DebuggerVisualizers.ExtensionProviders.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\Visualizers\Microsoft.VisualStudio.DebuggerVisualizers.ExtensionProviders.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/Visualizers/extension.vsixmanifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\Visualizers\extension.vsixmanifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/Visualizers/IEnumerableVisualizer.UI.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\Visualizers\IEnumerableVisualizer.UI.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/Visualizers/DataSetVisualizer.UI.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\Visualizers\DataSetVisualizer.UI.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/Visualizers/.vsextension/extension.json
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\Visualizers\.vsextension\extension.json file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/Visualizers/.vsextension/string-resources.json
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\Visualizers\.vsextension\string-resources.json file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/Visualizers/net2.0/DataSetVisualizer.DebuggeeSide.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\Visualizers\net2.0\DataSetVisualizer.DebuggeeSide.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/Visualizers/net2.0/IEnumerableVisualizer.DebuggeeSide.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\Visualizers\net2.0\IEnumerableVisualizer.DebuggeeSide.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/Visualizers/net4.6.2/IEnumerableVisualizer.DebuggeeSide.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\Visualizers\net4.6.2\IEnumerableVisualizer.DebuggeeSide.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/Visualizers/netstandard2.0/DataSetVisualizer.DebuggeeSide.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\Visualizers\netstandard2.0\DataSetVisualizer.DebuggeeSide.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/Visualizers/netstandard2.0/IEnumerableVisualizer.DebuggeeSide.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\Visualizers\netstandard2.0\IEnumerableVisualizer.DebuggeeSide.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/Packages/Debugger/dbgshim.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\dbgshim.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/Packages/Debugger/monomscordbi.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\monomscordbi.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/Packages/Debugger/MCppEE.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\MCppEE.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/Packages/Debugger/MCppEE.vsdconfig
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\MCppEE.vsdconfig file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/Packages/Debugger/Visualizers/WpfTreeVisualizer.UI.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\Visualizers\WpfTreeVisualizer.UI.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/Packages/Debugger/Visualizers/WpfTreeVisualizer.Common.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\Visualizers\WpfTreeVisualizer.Common.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/Packages/Debugger/Visualizers/net2.0/Microsoft.VisualStudio.DebuggerVisualizers.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\Visualizers\net2.0\Microsoft.VisualStudio.DebuggerVisualizers.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/Packages/Debugger/Visualizers/net2.0/WpfTreeVisualizer.DebuggeeSide.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\Visualizers\net2.0\WpfTreeVisualizer.DebuggeeSide.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/Packages/Debugger/Visualizers/net2.0/WpfTreeVisualizer.Common.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\Visualizers\net2.0\WpfTreeVisualizer.Common.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/Packages/Debugger/Visualizers/net4.6.2/Microsoft.VisualStudio.DebuggerVisualizers.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\Visualizers\net4.6.2\Microsoft.VisualStudio.DebuggerVisualizers.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/Packages/Debugger/Visualizers/netstandard2.0/Microsoft.VisualStudio.DebuggerVisualizers.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\Visualizers\netstandard2.0\Microsoft.VisualStudio.DebuggerVisualizers.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/Packages/Debugger/Visualizers/netstandard2.0/Microsoft.VisualStudio.NetCoreSerializationHelper.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\Visualizers\netstandard2.0\Microsoft.VisualStudio.NetCoreSerializationHelper.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/Packages/Debugger/Visualizers/netstandard2.0/Microsoft.VisualStudio.NetCoreAssemblyResolution.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\Visualizers\netstandard2.0\Microsoft.VisualStudio.NetCoreAssemblyResolution.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/Packages/Debugger/Visualizers/netcoreapp/WpfTreeVisualizer.DebuggeeSide.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\Visualizers\netcoreapp\WpfTreeVisualizer.DebuggeeSide.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/Packages/Debugger/Visualizers/netcoreapp/WpfTreeVisualizer.Common.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\Visualizers\netcoreapp\WpfTreeVisualizer.Common.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/Packages/Debugger/Visualizers/Newtonsoft.Json/net3.5/Microsoft.VisualStudio.NewtonsoftSerializationHelper.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\Visualizers\Newtonsoft.Json\net3.5\Microsoft.VisualStudio.NewtonsoftSerializationHelper.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/Packages/Debugger/Visualizers/Newtonsoft.Json/net3.5/Newtonsoft.Json.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\Visualizers\Newtonsoft.Json\net3.5\Newtonsoft.Json.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/Packages/Debugger/Visualizers/Newtonsoft.Json/net4.5/Microsoft.VisualStudio.NewtonsoftSerializationHelper.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\Visualizers\Newtonsoft.Json\net4.5\Microsoft.VisualStudio.NewtonsoftSerializationHelper.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/Packages/Debugger/Visualizers/Newtonsoft.Json/net4.5/Newtonsoft.Json.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\Visualizers\Newtonsoft.Json\net4.5\Newtonsoft.Json.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/Packages/Debugger/Visualizers/Newtonsoft.Json/netstandard2.0/Microsoft.VisualStudio.NewtonsoftSerializationHelper.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\Visualizers\Newtonsoft.Json\netstandard2.0\Microsoft.VisualStudio.NewtonsoftSerializationHelper.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/Packages/Debugger/Visualizers/Newtonsoft.Json/netstandard2.0/Newtonsoft.Json.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\Visualizers\Newtonsoft.Json\netstandard2.0\Newtonsoft.Json.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/Packages/Debugger/Visualizers/Original/autoexp.cs
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\Visualizers\Original\autoexp.cs file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/Packages/Debugger/Visualizers/Original/autoexp.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\Visualizers\Original\autoexp.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.DebuggerVisualizers.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.DebuggerVisualizers.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.OutOfProcessVisualizers.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.OutOfProcessVisualizers.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/ReferenceAssemblies/v2.0/Microsoft.VisualStudio.DebuggerVisualizers.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ReferenceAssemblies\v2.0\Microsoft.VisualStudio.DebuggerVisualizers.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/ReferenceAssemblies/v4.0/Microsoft.VisualStudio.DebuggerVisualizers.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ReferenceAssemblies\v4.0\Microsoft.VisualStudio.DebuggerVisualizers.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Started: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:47] Completed: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:47] Package executed successfully. Return code: 0

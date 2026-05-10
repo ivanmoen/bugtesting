@@ -1,0 +1,1162 @@
+[3474:0009][2026-05-10T01:46:26] Using cached package manifest as the embedded manifest
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/Common7/Tools/vsdevcmd/core/msbuild.bat
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\vsdevcmd\core\msbuild.bat file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/Tracker.exe
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Tracker.exe file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/FileTracker32.dll
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\FileTracker32.dll file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/FileTracker64.dll
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\FileTracker64.dll file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/FileTrackerA4.dll
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\FileTrackerA4.dll file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/Tracker.exe
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\Tracker.exe file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/FileTracker32.dll
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\FileTracker32.dll file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/FileTracker64.dll
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\FileTracker64.dll file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/FileTrackerA4.dll
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\FileTrackerA4.dll file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/arm64/Tracker.exe
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\arm64\Tracker.exe file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/arm64/FileTracker32.dll
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\arm64\FileTracker32.dll file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/arm64/FileTracker64.dll
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\arm64\FileTracker64.dll file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/arm64/FileTrackerA4.dll
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\arm64\FileTrackerA4.dll file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/1033/TrackerUI.dll
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\1033\TrackerUI.dll file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/1033/FileTracker32UI.dll
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\1033\FileTracker32UI.dll file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/1033/FileTracker64UI.dll
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\1033\FileTracker64UI.dll file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/1033/FileTrackerA4UI.dll
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\1033\FileTrackerA4UI.dll file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/1033/TrackerUI.dll
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\1033\TrackerUI.dll file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/1033/FileTracker32UI.dll
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\1033\FileTracker32UI.dll file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/1033/FileTracker64UI.dll
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\1033\FileTracker64UI.dll file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/1033/FileTrackerA4UI.dll
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\1033\FileTrackerA4UI.dll file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/arm64/1033/TrackerUI.dll
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\arm64\1033\TrackerUI.dll file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/arm64/1033/FileTracker32UI.dll
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\arm64\1033\FileTracker32UI.dll file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/arm64/1033/FileTracker64UI.dll
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\arm64\1033\FileTracker64UI.dll file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/arm64/1033/FileTrackerA4UI.dll
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\arm64\1033\FileTrackerA4UI.dll file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/en-US/CSharp.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\en-US\CSharp.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/en-US/CSharp.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\en-US\CSharp.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/en-US/Debugger_General.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\en-US\Debugger_General.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/en-US/EmbeddedResource.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\en-US\EmbeddedResource.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/en-US/Folder.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\en-US\Folder.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/en-US/General.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\en-US\General.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/en-US/General.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\en-US\General.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/en-US/General_File.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\en-US\General_File.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/en-US/None.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\en-US\None.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/en-US/ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\en-US\ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/en-US/projectreference.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\en-US\projectreference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/en-US/ResolvedAssemblyReference.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\en-US\ResolvedAssemblyReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/en-US/ResolvedCOMReference.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\en-US\ResolvedCOMReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/en-US/ResolvedProjectReference.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\en-US\ResolvedProjectReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/en-US/Scc.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\en-US\Scc.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/en-US/SpecialFolder.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\en-US\SpecialFolder.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/en-US/SubProject.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\en-US\SubProject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/en-US/VisualBasic.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\en-US\VisualBasic.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/en-US/VisualBasic.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\en-US\VisualBasic.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/en-US/VisualBasic.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\en-US\VisualBasic.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/en-US/AssemblyReference.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\en-US\AssemblyReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/en-US/comreference.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\en-US\comreference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/en-US/Content.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\en-US\Content.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/en-US/Cpp.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\en-US\Cpp.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/en-US/CSharp.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\en-US\CSharp.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/en-US/CSharp.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\en-US\CSharp.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/en-US/CSharp.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\en-US\CSharp.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/en-US/Debugger_General.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\en-US\Debugger_General.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/en-US/EmbeddedResource.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\en-US\EmbeddedResource.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/en-US/Folder.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\en-US\Folder.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/en-US/General.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\en-US\General.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/en-US/General.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\en-US\General.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/en-US/General_File.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\en-US\General_File.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/en-US/None.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\en-US\None.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/en-US/ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\en-US\ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/en-US/projectreference.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\en-US\projectreference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/en-US/ResolvedAssemblyReference.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\en-US\ResolvedAssemblyReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/en-US/ResolvedCOMReference.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\en-US\ResolvedCOMReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/en-US/ResolvedProjectReference.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\en-US\ResolvedProjectReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/en-US/Scc.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\en-US\Scc.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/en-US/SpecialFolder.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\en-US\SpecialFolder.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/en-US/SubProject.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\en-US\SubProject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/en-US/VisualBasic.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\en-US\VisualBasic.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/en-US/VisualBasic.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\en-US\VisualBasic.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/en-US/VisualBasic.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\en-US\VisualBasic.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/en-US/AssemblyReference.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\en-US\AssemblyReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/en-US/comreference.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\en-US\comreference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/en-US/Content.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\en-US\Content.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/en-US/Cpp.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\en-US\Cpp.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/en-US/CSharp.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\en-US\CSharp.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/1031/FileTracker32UI.dll
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\1031\FileTracker32UI.dll file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/1031/FileTracker64UI.dll
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\1031\FileTracker64UI.dll file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/1031/TrackerUI.dll
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\1031\TrackerUI.dll file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/1031/FileTracker32UI.dll
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\1031\FileTracker32UI.dll file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/1031/FileTracker64UI.dll
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\1031\FileTracker64UI.dll file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/1031/TrackerUI.dll
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\1031\TrackerUI.dll file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/de-DE/CSharp.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\de-DE\CSharp.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/de-DE/CSharp.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\de-DE\CSharp.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/de-DE/Debugger_General.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\de-DE\Debugger_General.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/de-DE/EmbeddedResource.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\de-DE\EmbeddedResource.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/de-DE/Folder.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\de-DE\Folder.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/de-DE/General.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\de-DE\General.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/de-DE/General.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\de-DE\General.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/de-DE/General_File.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\de-DE\General_File.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/de-DE/None.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\de-DE\None.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/de-DE/ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\de-DE\ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/de-DE/projectreference.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\de-DE\projectreference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/de-DE/ResolvedAssemblyReference.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\de-DE\ResolvedAssemblyReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/de-DE/ResolvedCOMReference.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\de-DE\ResolvedCOMReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/de-DE/ResolvedProjectReference.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\de-DE\ResolvedProjectReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/de-DE/Scc.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\de-DE\Scc.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/de-DE/SpecialFolder.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\de-DE\SpecialFolder.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/de-DE/SubProject.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\de-DE\SubProject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/de-DE/VisualBasic.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\de-DE\VisualBasic.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/de-DE/VisualBasic.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\de-DE\VisualBasic.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/de-DE/VisualBasic.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\de-DE\VisualBasic.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/de-DE/AssemblyReference.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\de-DE\AssemblyReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/de-DE/comreference.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\de-DE\comreference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/de-DE/Content.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\de-DE\Content.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/de-DE/Cpp.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\de-DE\Cpp.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/de-DE/CSharp.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\de-DE\CSharp.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/de-DE/CSharp.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\de-DE\CSharp.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/de-DE/CSharp.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\de-DE\CSharp.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/de-DE/Debugger_General.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\de-DE\Debugger_General.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/de-DE/EmbeddedResource.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\de-DE\EmbeddedResource.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/de-DE/Folder.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\de-DE\Folder.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/de-DE/General.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\de-DE\General.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/de-DE/General.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\de-DE\General.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/de-DE/General_File.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\de-DE\General_File.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/de-DE/None.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\de-DE\None.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/de-DE/ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\de-DE\ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/de-DE/projectreference.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\de-DE\projectreference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/de-DE/ResolvedAssemblyReference.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\de-DE\ResolvedAssemblyReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/de-DE/ResolvedCOMReference.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\de-DE\ResolvedCOMReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/de-DE/ResolvedProjectReference.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\de-DE\ResolvedProjectReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/de-DE/Scc.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\de-DE\Scc.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/de-DE/SpecialFolder.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\de-DE\SpecialFolder.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/de-DE/SubProject.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\de-DE\SubProject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/de-DE/VisualBasic.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\de-DE\VisualBasic.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/de-DE/VisualBasic.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\de-DE\VisualBasic.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/de-DE/VisualBasic.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\de-DE\VisualBasic.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/de-DE/AssemblyReference.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\de-DE\AssemblyReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/de-DE/comreference.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\de-DE\comreference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/de-DE/Content.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\de-DE\Content.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/de-DE/Cpp.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\de-DE\Cpp.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/de-DE/CSharp.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\de-DE\CSharp.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/1049/FileTracker32UI.dll
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\1049\FileTracker32UI.dll file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/1049/FileTracker64UI.dll
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\1049\FileTracker64UI.dll file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/1049/TrackerUI.dll
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\1049\TrackerUI.dll file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/1049/FileTracker32UI.dll
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\1049\FileTracker32UI.dll file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/1049/FileTracker64UI.dll
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\1049\FileTracker64UI.dll file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/1049/TrackerUI.dll
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\1049\TrackerUI.dll file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/ru-RU/CSharp.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ru-RU\CSharp.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/ru-RU/CSharp.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ru-RU\CSharp.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/ru-RU/Debugger_General.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ru-RU\Debugger_General.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/ru-RU/EmbeddedResource.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ru-RU\EmbeddedResource.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/ru-RU/Folder.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ru-RU\Folder.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/ru-RU/General.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ru-RU\General.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/ru-RU/General.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ru-RU\General.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/ru-RU/General_File.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ru-RU\General_File.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/ru-RU/None.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ru-RU\None.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/ru-RU/ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ru-RU\ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/ru-RU/projectreference.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ru-RU\projectreference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/ru-RU/ResolvedAssemblyReference.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ru-RU\ResolvedAssemblyReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/ru-RU/ResolvedCOMReference.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ru-RU\ResolvedCOMReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/ru-RU/ResolvedProjectReference.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ru-RU\ResolvedProjectReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/ru-RU/Scc.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ru-RU\Scc.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/ru-RU/SpecialFolder.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ru-RU\SpecialFolder.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/ru-RU/SubProject.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ru-RU\SubProject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/ru-RU/VisualBasic.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ru-RU\VisualBasic.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/ru-RU/VisualBasic.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ru-RU\VisualBasic.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/ru-RU/VisualBasic.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ru-RU\VisualBasic.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/ru-RU/AssemblyReference.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ru-RU\AssemblyReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/ru-RU/comreference.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ru-RU\comreference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/ru-RU/Content.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ru-RU\Content.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/ru-RU/Cpp.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ru-RU\Cpp.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/ru-RU/CSharp.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ru-RU\CSharp.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/ru-RU/CSharp.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ru-RU\CSharp.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/ru-RU/CSharp.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ru-RU\CSharp.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/ru-RU/Debugger_General.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ru-RU\Debugger_General.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/ru-RU/EmbeddedResource.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ru-RU\EmbeddedResource.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/ru-RU/Folder.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ru-RU\Folder.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/ru-RU/General.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ru-RU\General.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/ru-RU/General.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ru-RU\General.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/ru-RU/General_File.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ru-RU\General_File.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/ru-RU/None.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ru-RU\None.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/ru-RU/ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ru-RU\ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/ru-RU/projectreference.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ru-RU\projectreference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/ru-RU/ResolvedAssemblyReference.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ru-RU\ResolvedAssemblyReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/ru-RU/ResolvedCOMReference.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ru-RU\ResolvedCOMReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/ru-RU/ResolvedProjectReference.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ru-RU\ResolvedProjectReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/ru-RU/Scc.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ru-RU\Scc.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/ru-RU/SpecialFolder.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ru-RU\SpecialFolder.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/ru-RU/SubProject.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ru-RU\SubProject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/ru-RU/VisualBasic.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ru-RU\VisualBasic.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/ru-RU/VisualBasic.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ru-RU\VisualBasic.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/ru-RU/VisualBasic.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ru-RU\VisualBasic.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/ru-RU/AssemblyReference.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ru-RU\AssemblyReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/ru-RU/comreference.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ru-RU\comreference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/ru-RU/Content.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ru-RU\Content.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/ru-RU/Cpp.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ru-RU\Cpp.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/ru-RU/CSharp.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ru-RU\CSharp.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/1028/FileTracker32UI.dll
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\1028\FileTracker32UI.dll file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/1028/FileTracker64UI.dll
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\1028\FileTracker64UI.dll file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/1028/TrackerUI.dll
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\1028\TrackerUI.dll file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/1028/FileTracker32UI.dll
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\1028\FileTracker32UI.dll file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/1028/FileTracker64UI.dll
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\1028\FileTracker64UI.dll file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/1028/TrackerUI.dll
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\1028\TrackerUI.dll file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/zh-TW/CSharp.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-TW\CSharp.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/zh-TW/CSharp.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-TW\CSharp.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/zh-TW/Debugger_General.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-TW\Debugger_General.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/zh-TW/EmbeddedResource.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-TW\EmbeddedResource.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/zh-TW/Folder.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-TW\Folder.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/zh-TW/General.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-TW\General.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/zh-TW/General.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-TW\General.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/zh-TW/General_File.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-TW\General_File.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/zh-TW/None.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-TW\None.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/zh-TW/ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-TW\ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/zh-TW/projectreference.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-TW\projectreference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/zh-TW/ResolvedAssemblyReference.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-TW\ResolvedAssemblyReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/zh-TW/ResolvedCOMReference.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-TW\ResolvedCOMReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/zh-TW/ResolvedProjectReference.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-TW\ResolvedProjectReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/zh-TW/Scc.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-TW\Scc.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/zh-TW/SpecialFolder.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-TW\SpecialFolder.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/zh-TW/SubProject.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-TW\SubProject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/zh-TW/VisualBasic.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-TW\VisualBasic.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/zh-TW/VisualBasic.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-TW\VisualBasic.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/zh-TW/VisualBasic.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-TW\VisualBasic.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/zh-TW/AssemblyReference.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-TW\AssemblyReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/zh-TW/comreference.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-TW\comreference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/zh-TW/Content.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-TW\Content.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/zh-TW/Cpp.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-TW\Cpp.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/zh-TW/CSharp.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:26] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-TW\CSharp.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:26] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-TW/CSharp.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-TW\CSharp.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-TW/CSharp.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-TW\CSharp.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-TW/Debugger_General.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-TW\Debugger_General.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-TW/EmbeddedResource.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-TW\EmbeddedResource.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-TW/Folder.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-TW\Folder.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-TW/General.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-TW\General.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-TW/General.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-TW\General.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-TW/General_File.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-TW\General_File.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-TW/None.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-TW\None.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-TW/ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-TW\ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-TW/projectreference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-TW\projectreference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-TW/ResolvedAssemblyReference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-TW\ResolvedAssemblyReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-TW/ResolvedCOMReference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-TW\ResolvedCOMReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-TW/ResolvedProjectReference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-TW\ResolvedProjectReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-TW/Scc.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-TW\Scc.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-TW/SpecialFolder.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-TW\SpecialFolder.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-TW/SubProject.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-TW\SubProject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-TW/VisualBasic.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-TW\VisualBasic.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-TW/VisualBasic.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-TW\VisualBasic.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-TW/VisualBasic.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-TW\VisualBasic.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-TW/AssemblyReference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-TW\AssemblyReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-TW/comreference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-TW\comreference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-TW/Content.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-TW\Content.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-TW/Cpp.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-TW\Cpp.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-TW/CSharp.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-TW\CSharp.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/1036/FileTracker32UI.dll
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\1036\FileTracker32UI.dll file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/1036/FileTracker64UI.dll
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\1036\FileTracker64UI.dll file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/1036/TrackerUI.dll
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\1036\TrackerUI.dll file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/1036/FileTracker32UI.dll
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\1036\FileTracker32UI.dll file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/1036/FileTracker64UI.dll
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\1036\FileTracker64UI.dll file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/1036/TrackerUI.dll
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\1036\TrackerUI.dll file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/fr-FR/CSharp.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\fr-FR\CSharp.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/fr-FR/CSharp.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\fr-FR\CSharp.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/fr-FR/Debugger_General.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\fr-FR\Debugger_General.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/fr-FR/EmbeddedResource.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\fr-FR\EmbeddedResource.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/fr-FR/Folder.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\fr-FR\Folder.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/fr-FR/General.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\fr-FR\General.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/fr-FR/General.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\fr-FR\General.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/fr-FR/General_File.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\fr-FR\General_File.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/fr-FR/None.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\fr-FR\None.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/fr-FR/ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\fr-FR\ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/fr-FR/projectreference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\fr-FR\projectreference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/fr-FR/ResolvedAssemblyReference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\fr-FR\ResolvedAssemblyReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/fr-FR/ResolvedCOMReference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\fr-FR\ResolvedCOMReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/fr-FR/ResolvedProjectReference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\fr-FR\ResolvedProjectReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/fr-FR/Scc.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\fr-FR\Scc.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/fr-FR/SpecialFolder.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\fr-FR\SpecialFolder.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/fr-FR/SubProject.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\fr-FR\SubProject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/fr-FR/VisualBasic.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\fr-FR\VisualBasic.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/fr-FR/VisualBasic.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\fr-FR\VisualBasic.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/fr-FR/VisualBasic.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\fr-FR\VisualBasic.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/fr-FR/AssemblyReference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\fr-FR\AssemblyReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/fr-FR/comreference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\fr-FR\comreference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/fr-FR/Content.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\fr-FR\Content.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/fr-FR/Cpp.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\fr-FR\Cpp.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/fr-FR/CSharp.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\fr-FR\CSharp.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/fr-FR/CSharp.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\fr-FR\CSharp.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/fr-FR/CSharp.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\fr-FR\CSharp.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/fr-FR/Debugger_General.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\fr-FR\Debugger_General.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/fr-FR/EmbeddedResource.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\fr-FR\EmbeddedResource.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/fr-FR/Folder.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\fr-FR\Folder.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/fr-FR/General.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\fr-FR\General.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/fr-FR/General.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\fr-FR\General.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/fr-FR/General_File.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\fr-FR\General_File.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/fr-FR/None.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\fr-FR\None.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/fr-FR/ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\fr-FR\ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/fr-FR/projectreference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\fr-FR\projectreference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/fr-FR/ResolvedAssemblyReference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\fr-FR\ResolvedAssemblyReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/fr-FR/ResolvedCOMReference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\fr-FR\ResolvedCOMReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/fr-FR/ResolvedProjectReference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\fr-FR\ResolvedProjectReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/fr-FR/Scc.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\fr-FR\Scc.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/fr-FR/SpecialFolder.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\fr-FR\SpecialFolder.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/fr-FR/SubProject.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\fr-FR\SubProject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/fr-FR/VisualBasic.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\fr-FR\VisualBasic.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/fr-FR/VisualBasic.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\fr-FR\VisualBasic.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/fr-FR/VisualBasic.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\fr-FR\VisualBasic.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/fr-FR/AssemblyReference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\fr-FR\AssemblyReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/fr-FR/comreference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\fr-FR\comreference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/fr-FR/Content.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\fr-FR\Content.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/fr-FR/Cpp.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\fr-FR\Cpp.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/fr-FR/CSharp.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\fr-FR\CSharp.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/1040/FileTracker32UI.dll
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\1040\FileTracker32UI.dll file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/1040/FileTracker64UI.dll
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\1040\FileTracker64UI.dll file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/1040/TrackerUI.dll
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\1040\TrackerUI.dll file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/1040/FileTracker32UI.dll
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\1040\FileTracker32UI.dll file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/1040/FileTracker64UI.dll
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\1040\FileTracker64UI.dll file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/1040/TrackerUI.dll
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\1040\TrackerUI.dll file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/it-IT/CSharp.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\it-IT\CSharp.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/it-IT/CSharp.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\it-IT\CSharp.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/it-IT/Debugger_General.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\it-IT\Debugger_General.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/it-IT/EmbeddedResource.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\it-IT\EmbeddedResource.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/it-IT/Folder.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\it-IT\Folder.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/it-IT/General.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\it-IT\General.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/it-IT/General.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\it-IT\General.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/it-IT/General_File.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\it-IT\General_File.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/it-IT/None.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\it-IT\None.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/it-IT/ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\it-IT\ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/it-IT/projectreference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\it-IT\projectreference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/it-IT/ResolvedAssemblyReference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\it-IT\ResolvedAssemblyReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/it-IT/ResolvedCOMReference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\it-IT\ResolvedCOMReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/it-IT/ResolvedProjectReference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\it-IT\ResolvedProjectReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/it-IT/Scc.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\it-IT\Scc.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/it-IT/SpecialFolder.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\it-IT\SpecialFolder.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/it-IT/SubProject.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\it-IT\SubProject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/it-IT/VisualBasic.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\it-IT\VisualBasic.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/it-IT/VisualBasic.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\it-IT\VisualBasic.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/it-IT/VisualBasic.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\it-IT\VisualBasic.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/it-IT/AssemblyReference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\it-IT\AssemblyReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/it-IT/comreference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\it-IT\comreference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/it-IT/Content.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\it-IT\Content.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/it-IT/Cpp.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\it-IT\Cpp.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/it-IT/CSharp.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\it-IT\CSharp.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/it-IT/CSharp.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\it-IT\CSharp.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/it-IT/CSharp.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\it-IT\CSharp.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/it-IT/Debugger_General.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\it-IT\Debugger_General.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/it-IT/EmbeddedResource.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\it-IT\EmbeddedResource.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/it-IT/Folder.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\it-IT\Folder.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/it-IT/General.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\it-IT\General.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/it-IT/General.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\it-IT\General.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/it-IT/General_File.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\it-IT\General_File.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/it-IT/None.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\it-IT\None.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/it-IT/ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\it-IT\ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/it-IT/projectreference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\it-IT\projectreference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/it-IT/ResolvedAssemblyReference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\it-IT\ResolvedAssemblyReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/it-IT/ResolvedCOMReference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\it-IT\ResolvedCOMReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/it-IT/ResolvedProjectReference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\it-IT\ResolvedProjectReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/it-IT/Scc.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\it-IT\Scc.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/it-IT/SpecialFolder.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\it-IT\SpecialFolder.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/it-IT/SubProject.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\it-IT\SubProject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/it-IT/VisualBasic.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\it-IT\VisualBasic.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/it-IT/VisualBasic.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\it-IT\VisualBasic.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/it-IT/VisualBasic.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\it-IT\VisualBasic.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/it-IT/AssemblyReference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\it-IT\AssemblyReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/it-IT/comreference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\it-IT\comreference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/it-IT/Content.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\it-IT\Content.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/it-IT/Cpp.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\it-IT\Cpp.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/it-IT/CSharp.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\it-IT\CSharp.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/1041/FileTracker32UI.dll
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\1041\FileTracker32UI.dll file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/1041/FileTracker64UI.dll
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\1041\FileTracker64UI.dll file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/1041/TrackerUI.dll
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\1041\TrackerUI.dll file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/1041/FileTracker32UI.dll
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\1041\FileTracker32UI.dll file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/1041/FileTracker64UI.dll
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\1041\FileTracker64UI.dll file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/1041/TrackerUI.dll
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\1041\TrackerUI.dll file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/ja-JP/CSharp.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ja-JP\CSharp.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/ja-JP/CSharp.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ja-JP\CSharp.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/ja-JP/Debugger_General.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ja-JP\Debugger_General.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/ja-JP/EmbeddedResource.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ja-JP\EmbeddedResource.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/ja-JP/Folder.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ja-JP\Folder.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/ja-JP/General.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ja-JP\General.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/ja-JP/General.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ja-JP\General.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/ja-JP/General_File.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ja-JP\General_File.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/ja-JP/None.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ja-JP\None.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/ja-JP/ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ja-JP\ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/ja-JP/projectreference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ja-JP\projectreference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/ja-JP/ResolvedAssemblyReference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ja-JP\ResolvedAssemblyReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/ja-JP/ResolvedCOMReference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ja-JP\ResolvedCOMReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/ja-JP/ResolvedProjectReference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ja-JP\ResolvedProjectReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/ja-JP/Scc.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ja-JP\Scc.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/ja-JP/SpecialFolder.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ja-JP\SpecialFolder.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/ja-JP/SubProject.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ja-JP\SubProject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/ja-JP/VisualBasic.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ja-JP\VisualBasic.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/ja-JP/VisualBasic.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ja-JP\VisualBasic.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/ja-JP/VisualBasic.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ja-JP\VisualBasic.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/ja-JP/AssemblyReference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ja-JP\AssemblyReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/ja-JP/comreference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ja-JP\comreference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/ja-JP/Content.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ja-JP\Content.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/ja-JP/Cpp.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ja-JP\Cpp.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/ja-JP/CSharp.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ja-JP\CSharp.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/ja-JP/CSharp.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ja-JP\CSharp.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/ja-JP/CSharp.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ja-JP\CSharp.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/ja-JP/Debugger_General.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ja-JP\Debugger_General.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/ja-JP/EmbeddedResource.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ja-JP\EmbeddedResource.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/ja-JP/Folder.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ja-JP\Folder.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/ja-JP/General.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ja-JP\General.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/ja-JP/General.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ja-JP\General.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/ja-JP/General_File.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ja-JP\General_File.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/ja-JP/None.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ja-JP\None.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/ja-JP/ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ja-JP\ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/ja-JP/projectreference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ja-JP\projectreference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/ja-JP/ResolvedAssemblyReference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ja-JP\ResolvedAssemblyReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/ja-JP/ResolvedCOMReference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ja-JP\ResolvedCOMReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/ja-JP/ResolvedProjectReference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ja-JP\ResolvedProjectReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/ja-JP/Scc.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ja-JP\Scc.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/ja-JP/SpecialFolder.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ja-JP\SpecialFolder.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/ja-JP/SubProject.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ja-JP\SubProject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/ja-JP/VisualBasic.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ja-JP\VisualBasic.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/ja-JP/VisualBasic.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ja-JP\VisualBasic.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/ja-JP/VisualBasic.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ja-JP\VisualBasic.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/ja-JP/AssemblyReference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ja-JP\AssemblyReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/ja-JP/comreference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ja-JP\comreference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/ja-JP/Content.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ja-JP\Content.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/ja-JP/Cpp.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ja-JP\Cpp.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/ja-JP/CSharp.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ja-JP\CSharp.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/1042/FileTracker32UI.dll
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\1042\FileTracker32UI.dll file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/1042/FileTracker64UI.dll
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\1042\FileTracker64UI.dll file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/1042/TrackerUI.dll
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\1042\TrackerUI.dll file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/1042/FileTracker32UI.dll
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\1042\FileTracker32UI.dll file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/1042/FileTracker64UI.dll
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\1042\FileTracker64UI.dll file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/1042/TrackerUI.dll
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\1042\TrackerUI.dll file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/ko-KR/CSharp.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ko-KR\CSharp.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/ko-KR/CSharp.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ko-KR\CSharp.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/ko-KR/Debugger_General.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ko-KR\Debugger_General.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/ko-KR/EmbeddedResource.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ko-KR\EmbeddedResource.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/ko-KR/Folder.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ko-KR\Folder.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/ko-KR/General.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ko-KR\General.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/ko-KR/General.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ko-KR\General.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/ko-KR/General_File.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ko-KR\General_File.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/ko-KR/None.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ko-KR\None.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/ko-KR/ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ko-KR\ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/ko-KR/projectreference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ko-KR\projectreference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/ko-KR/ResolvedAssemblyReference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ko-KR\ResolvedAssemblyReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/ko-KR/ResolvedCOMReference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ko-KR\ResolvedCOMReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/ko-KR/ResolvedProjectReference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ko-KR\ResolvedProjectReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/ko-KR/Scc.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ko-KR\Scc.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/ko-KR/SpecialFolder.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ko-KR\SpecialFolder.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/ko-KR/SubProject.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ko-KR\SubProject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/ko-KR/VisualBasic.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ko-KR\VisualBasic.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/ko-KR/VisualBasic.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ko-KR\VisualBasic.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/ko-KR/VisualBasic.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ko-KR\VisualBasic.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/ko-KR/AssemblyReference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ko-KR\AssemblyReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/ko-KR/comreference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ko-KR\comreference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/ko-KR/Content.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ko-KR\Content.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/ko-KR/Cpp.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ko-KR\Cpp.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/ko-KR/CSharp.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ko-KR\CSharp.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/ko-KR/CSharp.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ko-KR\CSharp.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/ko-KR/CSharp.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ko-KR\CSharp.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/ko-KR/Debugger_General.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ko-KR\Debugger_General.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/ko-KR/EmbeddedResource.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ko-KR\EmbeddedResource.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/ko-KR/Folder.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ko-KR\Folder.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/ko-KR/General.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ko-KR\General.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/ko-KR/General.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ko-KR\General.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/ko-KR/General_File.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ko-KR\General_File.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/ko-KR/None.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ko-KR\None.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/ko-KR/ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ko-KR\ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/ko-KR/projectreference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ko-KR\projectreference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/ko-KR/ResolvedAssemblyReference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ko-KR\ResolvedAssemblyReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/ko-KR/ResolvedCOMReference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ko-KR\ResolvedCOMReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/ko-KR/ResolvedProjectReference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ko-KR\ResolvedProjectReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/ko-KR/Scc.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ko-KR\Scc.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/ko-KR/SpecialFolder.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ko-KR\SpecialFolder.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/ko-KR/SubProject.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ko-KR\SubProject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/ko-KR/VisualBasic.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ko-KR\VisualBasic.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/ko-KR/VisualBasic.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ko-KR\VisualBasic.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/ko-KR/VisualBasic.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ko-KR\VisualBasic.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/ko-KR/AssemblyReference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ko-KR\AssemblyReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/ko-KR/comreference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ko-KR\comreference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/ko-KR/Content.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ko-KR\Content.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/ko-KR/Cpp.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ko-KR\Cpp.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/ko-KR/CSharp.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ko-KR\CSharp.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/2052/FileTracker32UI.dll
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\2052\FileTracker32UI.dll file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/2052/FileTracker64UI.dll
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\2052\FileTracker64UI.dll file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/2052/TrackerUI.dll
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\2052\TrackerUI.dll file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/2052/FileTracker32UI.dll
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\2052\FileTracker32UI.dll file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/2052/FileTracker64UI.dll
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\2052\FileTracker64UI.dll file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/2052/TrackerUI.dll
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\2052\TrackerUI.dll file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/zh-CN/CSharp.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-CN\CSharp.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/zh-CN/CSharp.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-CN\CSharp.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/zh-CN/Debugger_General.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-CN\Debugger_General.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/zh-CN/EmbeddedResource.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-CN\EmbeddedResource.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/zh-CN/Folder.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-CN\Folder.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/zh-CN/General.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-CN\General.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/zh-CN/General.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-CN\General.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/zh-CN/General_File.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-CN\General_File.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/zh-CN/None.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-CN\None.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/zh-CN/ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-CN\ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/zh-CN/projectreference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-CN\projectreference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/zh-CN/ResolvedAssemblyReference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-CN\ResolvedAssemblyReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/zh-CN/ResolvedCOMReference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-CN\ResolvedCOMReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/zh-CN/ResolvedProjectReference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-CN\ResolvedProjectReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/zh-CN/Scc.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-CN\Scc.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/zh-CN/SpecialFolder.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-CN\SpecialFolder.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/zh-CN/SubProject.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-CN\SubProject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/zh-CN/VisualBasic.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-CN\VisualBasic.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/zh-CN/VisualBasic.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-CN\VisualBasic.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/zh-CN/VisualBasic.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-CN\VisualBasic.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/zh-CN/AssemblyReference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-CN\AssemblyReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/zh-CN/comreference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-CN\comreference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/zh-CN/Content.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-CN\Content.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/zh-CN/Cpp.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-CN\Cpp.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/zh-CN/CSharp.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-CN\CSharp.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-CN/CSharp.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-CN\CSharp.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-CN/CSharp.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-CN\CSharp.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-CN/Debugger_General.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-CN\Debugger_General.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-CN/EmbeddedResource.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-CN\EmbeddedResource.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-CN/Folder.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-CN\Folder.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-CN/General.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-CN\General.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-CN/General.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-CN\General.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-CN/General_File.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-CN\General_File.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-CN/None.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-CN\None.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-CN/ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-CN\ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-CN/projectreference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-CN\projectreference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-CN/ResolvedAssemblyReference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-CN\ResolvedAssemblyReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-CN/ResolvedCOMReference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-CN\ResolvedCOMReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-CN/ResolvedProjectReference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-CN\ResolvedProjectReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-CN/Scc.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-CN\Scc.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-CN/SpecialFolder.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-CN\SpecialFolder.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-CN/SubProject.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-CN\SubProject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-CN/VisualBasic.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-CN\VisualBasic.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-CN/VisualBasic.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-CN\VisualBasic.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-CN/VisualBasic.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-CN\VisualBasic.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-CN/AssemblyReference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-CN\AssemblyReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-CN/comreference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-CN\comreference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-CN/Content.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-CN\Content.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-CN/Cpp.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-CN\Cpp.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-CN/CSharp.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-CN\CSharp.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/3082/FileTracker32UI.dll
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\3082\FileTracker32UI.dll file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/3082/FileTracker64UI.dll
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\3082\FileTracker64UI.dll file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/3082/TrackerUI.dll
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\3082\TrackerUI.dll file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/3082/FileTracker32UI.dll
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\3082\FileTracker32UI.dll file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/3082/FileTracker64UI.dll
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\3082\FileTracker64UI.dll file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/3082/TrackerUI.dll
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\3082\TrackerUI.dll file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/es-ES/CSharp.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\es-ES\CSharp.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/es-ES/CSharp.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\es-ES\CSharp.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/es-ES/Debugger_General.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\es-ES\Debugger_General.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/es-ES/EmbeddedResource.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\es-ES\EmbeddedResource.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/es-ES/Folder.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\es-ES\Folder.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/es-ES/General.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\es-ES\General.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/es-ES/General.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\es-ES\General.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/es-ES/General_File.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\es-ES\General_File.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/es-ES/None.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\es-ES\None.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/es-ES/ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\es-ES\ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/es-ES/projectreference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\es-ES\projectreference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/es-ES/ResolvedAssemblyReference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\es-ES\ResolvedAssemblyReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/es-ES/ResolvedCOMReference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\es-ES\ResolvedCOMReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/es-ES/ResolvedProjectReference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\es-ES\ResolvedProjectReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/es-ES/Scc.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\es-ES\Scc.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/es-ES/SpecialFolder.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\es-ES\SpecialFolder.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/es-ES/SubProject.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\es-ES\SubProject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/es-ES/VisualBasic.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\es-ES\VisualBasic.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/es-ES/VisualBasic.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\es-ES\VisualBasic.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/es-ES/VisualBasic.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\es-ES\VisualBasic.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/es-ES/AssemblyReference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\es-ES\AssemblyReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/es-ES/comreference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\es-ES\comreference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/es-ES/Content.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\es-ES\Content.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/es-ES/Cpp.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\es-ES\Cpp.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/es-ES/CSharp.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\es-ES\CSharp.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/es-ES/CSharp.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\es-ES\CSharp.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/es-ES/CSharp.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\es-ES\CSharp.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/es-ES/Debugger_General.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\es-ES\Debugger_General.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/es-ES/EmbeddedResource.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\es-ES\EmbeddedResource.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/es-ES/Folder.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\es-ES\Folder.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/es-ES/General.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\es-ES\General.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/es-ES/General.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\es-ES\General.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/es-ES/General_File.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\es-ES\General_File.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/es-ES/None.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\es-ES\None.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/es-ES/ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\es-ES\ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/es-ES/projectreference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\es-ES\projectreference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/es-ES/ResolvedAssemblyReference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\es-ES\ResolvedAssemblyReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/es-ES/ResolvedCOMReference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\es-ES\ResolvedCOMReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/es-ES/ResolvedProjectReference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\es-ES\ResolvedProjectReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/es-ES/Scc.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\es-ES\Scc.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/es-ES/SpecialFolder.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\es-ES\SpecialFolder.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/es-ES/SubProject.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\es-ES\SubProject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/es-ES/VisualBasic.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\es-ES\VisualBasic.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/es-ES/VisualBasic.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\es-ES\VisualBasic.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/es-ES/VisualBasic.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\es-ES\VisualBasic.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/es-ES/AssemblyReference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\es-ES\AssemblyReference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/es-ES/comreference.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\es-ES\comreference.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/es-ES/Content.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\es-ES\Content.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/es-ES/Cpp.ProjectItemsSchema.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\es-ES\Cpp.ProjectItemsSchema.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Bin/amd64/es-ES/CSharp.BrowseObject.xaml
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\es-ES\CSharp.BrowseObject.xaml file deleted.
+[3474:0009][2026-05-10T01:46:27] Started: Deleting empty directories
+[3474:0009][2026-05-10T01:46:27] Completed: Deleting empty directories
+[3474:0009][2026-05-10T01:46:27] Package executed successfully. Return code: 0

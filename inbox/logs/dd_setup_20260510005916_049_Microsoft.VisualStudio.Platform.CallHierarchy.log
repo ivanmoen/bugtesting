@@ -1,0 +1,42 @@
+[bd94:0009][2026-05-10T01:00:41] Using cached package manifest as the embedded manifest
+[bd94:0009][2026-05-10T01:00:41] Processing file /extension.vsixmanifest
+[bd94:0009][2026-05-10T01:00:41] D:\Program\Common7\IDE\CommonExtensions\Microsoft\CallHierarchy\extension.vsixmanifest file deleted.
+[bd94:0009][2026-05-10T01:00:41] Processing file /Microsoft.VisualStudio.Language.CallHierarchy.dll
+[bd94:0009][2026-05-10T01:00:41] D:\Program\Common7\IDE\CommonExtensions\Microsoft\CallHierarchy\Microsoft.VisualStudio.Language.CallHierarchy.dll file deleted.
+[bd94:0009][2026-05-10T01:00:41] Processing file /Microsoft.VisualStudio.Platform.CallHierarchy.pkgdef
+[bd94:0009][2026-05-10T01:00:41] D:\Program\Common7\IDE\CommonExtensions\Microsoft\CallHierarchy\Microsoft.VisualStudio.Platform.CallHierarchy.pkgdef file deleted.
+[bd94:0009][2026-05-10T01:00:41] Processing file /Microsoft.VisualStudio.Language.CallHierarchy.Implementation.dll
+[bd94:0009][2026-05-10T01:00:41] D:\Program\Common7\IDE\CommonExtensions\Microsoft\CallHierarchy\Microsoft.VisualStudio.Language.CallHierarchy.Implementation.dll file deleted.
+[bd94:0009][2026-05-10T01:00:41] Processing file /zh-Hans/Microsoft.VisualStudio.Language.CallHierarchy.Implementation.resources.dll
+[bd94:0009][2026-05-10T01:00:41] D:\Program\Common7\IDE\CommonExtensions\Microsoft\CallHierarchy\zh-Hans\Microsoft.VisualStudio.Language.CallHierarchy.Implementation.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:41] Processing file /zh-Hant/Microsoft.VisualStudio.Language.CallHierarchy.Implementation.resources.dll
+[bd94:0009][2026-05-10T01:00:41] D:\Program\Common7\IDE\CommonExtensions\Microsoft\CallHierarchy\zh-Hant\Microsoft.VisualStudio.Language.CallHierarchy.Implementation.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:41] Processing file /de/Microsoft.VisualStudio.Language.CallHierarchy.Implementation.resources.dll
+[bd94:0009][2026-05-10T01:00:41] D:\Program\Common7\IDE\CommonExtensions\Microsoft\CallHierarchy\de\Microsoft.VisualStudio.Language.CallHierarchy.Implementation.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:41] Processing file /es/Microsoft.VisualStudio.Language.CallHierarchy.Implementation.resources.dll
+[bd94:0009][2026-05-10T01:00:41] D:\Program\Common7\IDE\CommonExtensions\Microsoft\CallHierarchy\es\Microsoft.VisualStudio.Language.CallHierarchy.Implementation.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:41] Processing file /fr/Microsoft.VisualStudio.Language.CallHierarchy.Implementation.resources.dll
+[bd94:0009][2026-05-10T01:00:41] D:\Program\Common7\IDE\CommonExtensions\Microsoft\CallHierarchy\fr\Microsoft.VisualStudio.Language.CallHierarchy.Implementation.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:41] Processing file /it/Microsoft.VisualStudio.Language.CallHierarchy.Implementation.resources.dll
+[bd94:0009][2026-05-10T01:00:41] D:\Program\Common7\IDE\CommonExtensions\Microsoft\CallHierarchy\it\Microsoft.VisualStudio.Language.CallHierarchy.Implementation.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:41] Processing file /ja/Microsoft.VisualStudio.Language.CallHierarchy.Implementation.resources.dll
+[bd94:0009][2026-05-10T01:00:41] D:\Program\Common7\IDE\CommonExtensions\Microsoft\CallHierarchy\ja\Microsoft.VisualStudio.Language.CallHierarchy.Implementation.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:41] Processing file /ko/Microsoft.VisualStudio.Language.CallHierarchy.Implementation.resources.dll
+[bd94:0009][2026-05-10T01:00:41] D:\Program\Common7\IDE\CommonExtensions\Microsoft\CallHierarchy\ko\Microsoft.VisualStudio.Language.CallHierarchy.Implementation.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:41] Processing file /ru/Microsoft.VisualStudio.Language.CallHierarchy.Implementation.resources.dll
+[bd94:0009][2026-05-10T01:00:41] D:\Program\Common7\IDE\CommonExtensions\Microsoft\CallHierarchy\ru\Microsoft.VisualStudio.Language.CallHierarchy.Implementation.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:41] Processing file /cs/Microsoft.VisualStudio.Language.CallHierarchy.Implementation.resources.dll
+[bd94:0009][2026-05-10T01:00:41] D:\Program\Common7\IDE\CommonExtensions\Microsoft\CallHierarchy\cs\Microsoft.VisualStudio.Language.CallHierarchy.Implementation.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:41] Processing file /pt-BR/Microsoft.VisualStudio.Language.CallHierarchy.Implementation.resources.dll
+[bd94:0009][2026-05-10T01:00:41] D:\Program\Common7\IDE\CommonExtensions\Microsoft\CallHierarchy\pt-BR\Microsoft.VisualStudio.Language.CallHierarchy.Implementation.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:41] Processing file /pl/Microsoft.VisualStudio.Language.CallHierarchy.Implementation.resources.dll
+[bd94:0009][2026-05-10T01:00:41] D:\Program\Common7\IDE\CommonExtensions\Microsoft\CallHierarchy\pl\Microsoft.VisualStudio.Language.CallHierarchy.Implementation.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:41] Processing file /tr/Microsoft.VisualStudio.Language.CallHierarchy.Implementation.resources.dll
+[bd94:0009][2026-05-10T01:00:41] D:\Program\Common7\IDE\CommonExtensions\Microsoft\CallHierarchy\tr\Microsoft.VisualStudio.Language.CallHierarchy.Implementation.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:41] Processing file /manifest.json
+[bd94:0009][2026-05-10T01:00:41] D:\Program\Common7\IDE\CommonExtensions\Microsoft\CallHierarchy\manifest.json file deleted.
+[bd94:0009][2026-05-10T01:00:41] Processing file /catalog.json
+[bd94:0009][2026-05-10T01:00:41] D:\Program\Common7\IDE\CommonExtensions\Microsoft\CallHierarchy\catalog.json file deleted.
+[bd94:0009][2026-05-10T01:00:41] Started: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:41] Completed: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:41] Package executed successfully. Return code: 0

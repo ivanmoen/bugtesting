@@ -1,0 +1,18 @@
+[c9c4:0009][2026-05-10T01:02:06] Opening the package for processing
+[c9c4:0009][2026-05-10T01:02:06] Using package payload to get the embedded manifest
+[c9c4:0009][2026-05-10T01:02:06] Getting list of files within the package
+[c9c4:0009][2026-05-10T01:02:06] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Connected/Microsoft.VisualStudio.Shell.Connected.pkgdef
+[c9c4:0009][2026-05-10T01:02:06] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Connected/Microsoft.VisualStudio.Shell.Connected.pkgdef to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Connected\Microsoft.VisualStudio.Shell.Connected.pkgdef
+[c9c4:0009][2026-05-10T01:02:06] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Connected/Microsoft.VisualStudio.Shell.Connected.pkgdef to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Connected\Microsoft.VisualStudio.Shell.Connected.pkgdef
+[c9c4:0009][2026-05-10T01:02:06] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Connected\Microsoft.VisualStudio.Shell.Connected.pkgdef'.
+[c9c4:0009][2026-05-10T01:02:06] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.Shell.Connected.Packages.Subscriptions.imagemanifest
+[c9c4:0009][2026-05-10T01:02:06] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.Shell.Connected.Packages.Subscriptions.imagemanifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.Shell.Connected.Packages.Subscriptions.imagemanifest
+[c9c4:0009][2026-05-10T01:02:06] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.Shell.Connected.Packages.Subscriptions.imagemanifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.Shell.Connected.Packages.Subscriptions.imagemanifest
+[c9c4:0009][2026-05-10T01:02:06] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.Shell.Connected.Packages.Subscriptions.imagemanifest'.
+[c9c4:0009][2026-05-10T01:02:06] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Shell.Connected.dll
+[c9c4:0009][2026-05-10T01:02:06] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Shell.Connected.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Shell.Connected.dll
+[c9c4:0009][2026-05-10T01:02:06] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Shell.Connected.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Shell.Connected.dll
+[c9c4:0009][2026-05-10T01:02:06] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Shell.Connected.dll'.
+[c9c4:0009][2026-05-10T01:02:06] Queueing D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Shell.Connected.dll for X86 ngen
+[c9c4:0009][2026-05-10T01:02:06] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Shell.Connected.dll' for ngen
+[c9c4:0009][2026-05-10T01:02:06] Package executed successfully. Return code: 0

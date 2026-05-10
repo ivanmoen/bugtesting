@@ -1,0 +1,20 @@
+[c9c4:0009][2026-05-10T01:02:01] Opening the package for processing
+[c9c4:0009][2026-05-10T01:02:01] Using package payload to get the embedded manifest
+[c9c4:0009][2026-05-10T01:02:01] Getting list of files within the package
+[c9c4:0009][2026-05-10T01:02:01] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/1033/ImageContentTask.xml
+[c9c4:0009][2026-05-10T01:02:01] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/1033/ImageContentTask.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\1033\ImageContentTask.xml
+[c9c4:0009][2026-05-10T01:02:01] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/1033/ImageContentTask.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\1033\ImageContentTask.xml
+[c9c4:0009][2026-05-10T01:02:01] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\1033\ImageContentTask.xml'.
+[c9c4:0009][2026-05-10T01:02:01] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/1033/MeshContentTask.xml
+[c9c4:0009][2026-05-10T01:02:01] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/1033/MeshContentTask.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\1033\MeshContentTask.xml
+[c9c4:0009][2026-05-10T01:02:01] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/1033/MeshContentTask.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\1033\MeshContentTask.xml
+[c9c4:0009][2026-05-10T01:02:01] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\1033\MeshContentTask.xml'.
+[c9c4:0009][2026-05-10T01:02:01] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/1033/ShaderGraphContentTask.xml
+[c9c4:0009][2026-05-10T01:02:01] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/1033/ShaderGraphContentTask.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\1033\ShaderGraphContentTask.xml
+[c9c4:0009][2026-05-10T01:02:01] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/VsGraphics/1033/ShaderGraphContentTask.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\1033\ShaderGraphContentTask.xml
+[c9c4:0009][2026-05-10T01:02:01] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VsGraphics\1033\ShaderGraphContentTask.xml'.
+[c9c4:0009][2026-05-10T01:02:01] Processing file /Contents/Common7/IDE/VC/vcpackages/en/platform.xml
+[c9c4:0009][2026-05-10T01:02:01] Started: Copying file /Contents/Common7/IDE/VC/vcpackages/en/platform.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\en\platform.xml
+[c9c4:0009][2026-05-10T01:02:01] Completed: Copying file /Contents/Common7/IDE/VC/vcpackages/en/platform.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\en\platform.xml
+[c9c4:0009][2026-05-10T01:02:01] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\en\platform.xml'.
+[c9c4:0009][2026-05-10T01:02:01] Package executed successfully. Return code: 0

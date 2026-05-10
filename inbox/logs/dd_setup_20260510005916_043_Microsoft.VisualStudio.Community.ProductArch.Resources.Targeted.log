@@ -1,0 +1,28 @@
+[bd94:0009][2026-05-10T01:00:41] Using cached package manifest as the embedded manifest
+[bd94:0009][2026-05-10T01:00:41] Processing file /Contents/Common7/IDE/1033/Microsoft.VisualStudio.DesignUI.dll
+[bd94:0009][2026-05-10T01:00:41] D:\Program\Common7\IDE\1033\Microsoft.VisualStudio.DesignUI.dll file deleted.
+[bd94:0009][2026-05-10T01:00:41] Processing file /Contents/Common7/IDE/1033/Microsoft.VisualStudio.Windows.FormsUI.dll
+[bd94:0009][2026-05-10T01:00:41] D:\Program\Common7\IDE\1033\Microsoft.VisualStudio.Windows.FormsUI.dll file deleted.
+[bd94:0009][2026-05-10T01:00:41] Processing file /Contents/Common7/IDE/1033/Microsoft.VisualStudio.ExportTemplateUI.dll
+[bd94:0009][2026-05-10T01:00:41] D:\Program\Common7\IDE\1033\Microsoft.VisualStudio.ExportTemplateUI.dll file deleted.
+[bd94:0009][2026-05-10T01:00:41] Processing file /Contents/Common7/IDE/1033/vsslnui.dll
+[bd94:0009][2026-05-10T01:00:41] D:\Program\Common7\IDE\1033\vsslnui.dll file deleted.
+[bd94:0009][2026-05-10T01:00:41] Processing file /Contents/Common7/IDE/1033/WindowsFormsIntegration.PackageUI.dll
+[bd94:0009][2026-05-10T01:00:41] D:\Program\Common7\IDE\1033\WindowsFormsIntegration.PackageUI.dll file deleted.
+[bd94:0009][2026-05-10T01:00:41] Processing file /Contents/Common7/IDE/VS SCC/1033/msempui.dll
+[bd94:0009][2026-05-10T01:00:41] D:\Program\Common7\IDE\VS SCC\1033\msempui.dll file deleted.
+[bd94:0009][2026-05-10T01:00:41] Processing file /Contents/Common7/IDE/VS SCC/1033/VssProviderStubui.dll
+[bd94:0009][2026-05-10T01:00:41] D:\Program\Common7\IDE\VS SCC\1033\VssProviderStubui.dll file deleted.
+[bd94:0009][2026-05-10T01:00:41] Processing file /Contents/Common7/IDE/VS SCC/1033/VssProviderui.dll
+[bd94:0009][2026-05-10T01:00:41] D:\Program\Common7\IDE\VS SCC\1033\VssProviderui.dll file deleted.
+[bd94:0009][2026-05-10T01:00:41] Processing file /Contents/Common7/IDE/Xml/1033/Microsoft.XmlEditorUI.dll
+[bd94:0009][2026-05-10T01:00:41] D:\Program\Common7\IDE\Xml\1033\Microsoft.XmlEditorUI.dll file deleted.
+[bd94:0009][2026-05-10T01:00:41] Processing file /Contents/Common7/Packages/1033/compsvcspkgui.dll
+[bd94:0009][2026-05-10T01:00:41] D:\Program\Common7\Packages\1033\compsvcspkgui.dll file deleted.
+[bd94:0009][2026-05-10T01:00:41] Processing file /Contents/Common7/Packages/1033/dirprjui.dll
+[bd94:0009][2026-05-10T01:00:41] D:\Program\Common7\Packages\1033\dirprjui.dll file deleted.
+[bd94:0009][2026-05-10T01:00:41] Processing file /Contents/Common7/Packages/Debugger/1033/GpuDebugEngine.resources.dll
+[bd94:0009][2026-05-10T01:00:41] D:\Program\Common7\Packages\Debugger\1033\GpuDebugEngine.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:41] Started: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:41] Completed: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:41] Package executed successfully. Return code: 0

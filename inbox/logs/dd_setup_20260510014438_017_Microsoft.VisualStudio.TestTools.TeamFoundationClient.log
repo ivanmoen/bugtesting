@@ -1,0 +1,74 @@
+[0c48:0003][2026-05-10T01:44:43] Using cached package manifest as the embedded manifest
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/TestWindow/Microsoft.TeamFoundation.TestPlatform.Client.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TestWindow\Microsoft.TeamFoundation.TestPlatform.Client.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.TeamSystem.Common.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.TeamSystem.Common.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.TeamSystem.Common.Framework.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.TeamSystem.Common.Framework.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.TeamSystem.Integration.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.TeamSystem.Integration.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.TeamSystem.PerformanceWizard.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.TeamSystem.PerformanceWizard.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/ReferenceAssemblies/v2.0/Microsoft.TeamFoundation.TestManagement.Client.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ReferenceAssemblies\v2.0\Microsoft.TeamFoundation.TestManagement.Client.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/ReferenceAssemblies/v2.0/Microsoft.TeamFoundation.TestManagement.Common.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ReferenceAssemblies\v2.0\Microsoft.TeamFoundation.TestManagement.Common.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/TestTools/TeamExplorerClient/Microsoft.TeamFoundation.Test.WebApi.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TestTools\TeamExplorerClient\Microsoft.TeamFoundation.Test.WebApi.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/TestTools/TeamExplorerClient/Microsoft.TeamFoundation.Core.WebApi.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TestTools\TeamExplorerClient\Microsoft.TeamFoundation.Core.WebApi.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/TestTools/TeamExplorerClient/Microsoft.TeamFoundation.Build2.WebApi.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TestTools\TeamExplorerClient\Microsoft.TeamFoundation.Build2.WebApi.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/TestTools/TeamExplorerClient/Microsoft.TeamFoundation.WorkItemTracking.WebApi.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TestTools\TeamExplorerClient\Microsoft.TeamFoundation.WorkItemTracking.WebApi.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/TestTools/TeamExplorerClient/Microsoft.TeamFoundation.Build.Client.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TestTools\TeamExplorerClient\Microsoft.TeamFoundation.Build.Client.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/TestTools/TeamExplorerClient/Microsoft.TeamFoundation.Build.Common.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TestTools\TeamExplorerClient\Microsoft.TeamFoundation.Build.Common.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/TestTools/TeamExplorerClient/Microsoft.TeamFoundation.Client.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TestTools\TeamExplorerClient\Microsoft.TeamFoundation.Client.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/TestTools/TeamExplorerClient/Microsoft.TeamFoundation.Lab.Client.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TestTools\TeamExplorerClient\Microsoft.TeamFoundation.Lab.Client.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/TestTools/TeamExplorerClient/Microsoft.TeamFoundation.Lab.Common.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TestTools\TeamExplorerClient\Microsoft.TeamFoundation.Lab.Common.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/TestTools/TeamExplorerClient/Microsoft.TeamFoundation.ProjectManagement.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TestTools\TeamExplorerClient\Microsoft.TeamFoundation.ProjectManagement.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/TestTools/TeamExplorerClient/Microsoft.TeamFoundation.TestManagement.Client.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TestTools\TeamExplorerClient\Microsoft.TeamFoundation.TestManagement.Client.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/TestTools/TeamExplorerClient/Microsoft.TeamFoundation.TestManagement.Common.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TestTools\TeamExplorerClient\Microsoft.TeamFoundation.TestManagement.Common.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/TestTools/TeamExplorerClient/Microsoft.TeamFoundation.TestManagement.Controller.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TestTools\TeamExplorerClient\Microsoft.TeamFoundation.TestManagement.Controller.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/TestTools/TeamExplorerClient/Microsoft.TeamFoundation.VersionControl.Client.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TestTools\TeamExplorerClient\Microsoft.TeamFoundation.VersionControl.Client.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/TestTools/TeamExplorerClient/Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TestTools\TeamExplorerClient\Microsoft.TeamFoundation.WorkItemTracking.Client.DataStoreLoader.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/TestTools/TeamExplorerClient/Microsoft.TeamFoundation.WorkItemTracking.Client.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TestTools\TeamExplorerClient\Microsoft.TeamFoundation.WorkItemTracking.Client.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/TestTools/TeamExplorerClient/Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TestTools\TeamExplorerClient\Microsoft.TeamFoundation.WorkItemTracking.Client.QueryLanguage.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/TestTools/TeamExplorerClient/Microsoft.TeamFoundation.WorkItemTracking.Common.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TestTools\TeamExplorerClient\Microsoft.TeamFoundation.WorkItemTracking.Common.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/TestTools/TeamExplorerClient/Microsoft.TeamFoundation.WorkItemTracking.Proxy.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TestTools\TeamExplorerClient\Microsoft.TeamFoundation.WorkItemTracking.Proxy.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/TestTools/TeamExplorerClient/Microsoft.TeamFoundation.WorkItemTracking.ControlsCore.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TestTools\TeamExplorerClient\Microsoft.TeamFoundation.WorkItemTracking.ControlsCore.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/TestTools/TeamExplorerClient/Microsoft.TeamFoundation.Common.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TestTools\TeamExplorerClient\Microsoft.TeamFoundation.Common.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/TestTools/TeamExplorerClient/Microsoft.VisualStudio.Services.Common.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TestTools\TeamExplorerClient\Microsoft.VisualStudio.Services.Common.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/TestTools/TeamExplorerClient/Microsoft.VisualStudio.Services.WebApi.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TestTools\TeamExplorerClient\Microsoft.VisualStudio.Services.WebApi.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/TestTools/TeamExplorerClient/Microsoft.VisualStudio.Services.Client.Interactive.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TestTools\TeamExplorerClient\Microsoft.VisualStudio.Services.Client.Interactive.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/TestTools/TeamExplorerClient/Microsoft.WITDataStore32.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TestTools\TeamExplorerClient\Microsoft.WITDataStore32.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/TestTools/TeamExplorerClient/Microsoft.WITDataStore64.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TestTools\TeamExplorerClient\Microsoft.WITDataStore64.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/TestTools/TeamExplorerClient/Newtonsoft.Json.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TestTools\TeamExplorerClient\Newtonsoft.Json.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/TestTools/TeamExplorerClient/System.Net.Http.Formatting.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TestTools\TeamExplorerClient\System.Net.Http.Formatting.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Started: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:43] Completed: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:43] Package executed successfully. Return code: 0

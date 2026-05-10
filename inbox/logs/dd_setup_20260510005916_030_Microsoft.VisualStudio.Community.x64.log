@@ -1,0 +1,12 @@
+[bd94:0009][2026-05-10T01:00:40] Using cached package manifest as the embedded manifest
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/Common7/IDE/Script Diagnostics/amd64/DiagnosticsRemoteHelper.dll
+[bd94:0009][2026-05-10T01:00:40] D:\Program\Common7\IDE\Script Diagnostics\amd64\DiagnosticsRemoteHelper.dll file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/Common7/IDE/Script Diagnostics/amd64/DiagnosticsTap.dll
+[bd94:0009][2026-05-10T01:00:40] D:\Program\Common7\IDE\Script Diagnostics\amd64\DiagnosticsTap.dll file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/Common7/IDE/Xml/Microsoft.XslDebugger.dll
+[bd94:0009][2026-05-10T01:00:40] 'D:\Program\Common7\IDE\Xml\Microsoft.XslDebugger.dll' file is already deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/Common7/IDE/Xml/Microsoft.XslDebugger.Host.exe
+[bd94:0009][2026-05-10T01:00:40] 'D:\Program\Common7\IDE\Xml\Microsoft.XslDebugger.Host.exe' file is already deleted.
+[bd94:0009][2026-05-10T01:00:40] Started: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:40] Completed: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:40] Package executed successfully. Return code: 0

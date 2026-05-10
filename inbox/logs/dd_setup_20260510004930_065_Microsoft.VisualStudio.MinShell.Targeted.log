@@ -1,0 +1,600 @@
+[da4c:0007][2026-05-10T00:49:48] Opening the package for processing
+[da4c:0007][2026-05-10T00:49:48] Using package payload to get the embedded manifest
+[da4c:0007][2026-05-10T00:49:48] Getting list of files within the package
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation.manifest to D:\Program\Common7\IDE\Automation.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation.manifest to D:\Program\Common7\IDE\Automation.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/coloader80.dll
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/coloader80.dll to D:\Program\Common7\IDE\Automation\coloader80.dll
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/coloader80.dll to D:\Program\Common7\IDE\Automation\coloader80.dll
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\coloader80.dll'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/coloader80.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/coloader80.dll.manifest to D:\Program\Common7\IDE\Automation\coloader80.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/coloader80.dll.manifest to D:\Program\Common7\IDE\Automation\coloader80.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\coloader80.dll.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/coloader80.tlb
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/coloader80.tlb to D:\Program\Common7\IDE\Automation\coloader80.tlb
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/coloader80.tlb to D:\Program\Common7\IDE\Automation\coloader80.tlb
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\coloader80.tlb'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/contextp.dll
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/contextp.dll to D:\Program\Common7\IDE\Automation\contextp.dll
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/contextp.dll to D:\Program\Common7\IDE\Automation\contextp.dll
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\contextp.dll'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/contextp.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/contextp.dll.manifest to D:\Program\Common7\IDE\Automation\contextp.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/contextp.dll.manifest to D:\Program\Common7\IDE\Automation\contextp.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\contextp.dll.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/cscodemodelextensibility.tlb
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/cscodemodelextensibility.tlb to D:\Program\Common7\IDE\Automation\cscodemodelextensibility.tlb
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/cscodemodelextensibility.tlb to D:\Program\Common7\IDE\Automation\cscodemodelextensibility.tlb
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\cscodemodelextensibility.tlb'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/CSCodeModelExtensibility.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/CSCodeModelExtensibility.tlb.manifest to D:\Program\Common7\IDE\Automation\CSCodeModelExtensibility.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/CSCodeModelExtensibility.tlb.manifest to D:\Program\Common7\IDE\Automation\CSCodeModelExtensibility.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\CSCodeModelExtensibility.tlb.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/csiface.tlb
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/csiface.tlb to D:\Program\Common7\IDE\Automation\csiface.tlb
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/csiface.tlb to D:\Program\Common7\IDE\Automation\csiface.tlb
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\csiface.tlb'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/csiface.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/csiface.tlb.manifest to D:\Program\Common7\IDE\Automation\csiface.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/csiface.tlb.manifest to D:\Program\Common7\IDE\Automation\csiface.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\csiface.tlb.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/DebuggerProxy.dll
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/DebuggerProxy.dll to D:\Program\Common7\IDE\Automation\DebuggerProxy.dll
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/DebuggerProxy.dll to D:\Program\Common7\IDE\Automation\DebuggerProxy.dll
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\DebuggerProxy.dll'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/DebuggerProxy.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/DebuggerProxy.dll.manifest to D:\Program\Common7\IDE\Automation\DebuggerProxy.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/DebuggerProxy.dll.manifest to D:\Program\Common7\IDE\Automation\DebuggerProxy.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\DebuggerProxy.dll.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/dte100.olb
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/dte100.olb to D:\Program\Common7\IDE\Automation\dte100.olb
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/dte100.olb to D:\Program\Common7\IDE\Automation\dte100.olb
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\dte100.olb'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/dte100.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/dte100.olb.manifest to D:\Program\Common7\IDE\Automation\dte100.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/dte100.olb.manifest to D:\Program\Common7\IDE\Automation\dte100.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\dte100.olb.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/dte80.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/dte80.olb.manifest to D:\Program\Common7\IDE\Automation\dte80.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/dte80.olb.manifest to D:\Program\Common7\IDE\Automation\dte80.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\dte80.olb.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/dte80a.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/dte80a.olb.manifest to D:\Program\Common7\IDE\Automation\dte80a.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/dte80a.olb.manifest to D:\Program\Common7\IDE\Automation\dte80a.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\dte80a.olb.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/dte90.olb
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/dte90.olb to D:\Program\Common7\IDE\Automation\dte90.olb
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/dte90.olb to D:\Program\Common7\IDE\Automation\dte90.olb
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\dte90.olb'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/dte90.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/dte90.olb.manifest to D:\Program\Common7\IDE\Automation\dte90.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/dte90.olb.manifest to D:\Program\Common7\IDE\Automation\dte90.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\dte90.olb.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/dte90a.olb
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/dte90a.olb to D:\Program\Common7\IDE\Automation\dte90a.olb
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/dte90a.olb to D:\Program\Common7\IDE\Automation\dte90a.olb
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\dte90a.olb'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/dte90a.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/dte90a.olb.manifest to D:\Program\Common7\IDE\Automation\dte90a.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/dte90a.olb.manifest to D:\Program\Common7\IDE\Automation\dte90a.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\dte90a.olb.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/dteproperties.tlb
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/dteproperties.tlb to D:\Program\Common7\IDE\Automation\dteproperties.tlb
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/dteproperties.tlb to D:\Program\Common7\IDE\Automation\dteproperties.tlb
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\dteproperties.tlb'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/dteproperties.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/dteproperties.tlb.manifest to D:\Program\Common7\IDE\Automation\dteproperties.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/dteproperties.tlb.manifest to D:\Program\Common7\IDE\Automation\dteproperties.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\dteproperties.tlb.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/dteproperties100.tlb
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/dteproperties100.tlb to D:\Program\Common7\IDE\Automation\dteproperties100.tlb
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/dteproperties100.tlb to D:\Program\Common7\IDE\Automation\dteproperties100.tlb
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\dteproperties100.tlb'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/dteproperties100.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/dteproperties100.tlb.manifest to D:\Program\Common7\IDE\Automation\dteproperties100.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/dteproperties100.tlb.manifest to D:\Program\Common7\IDE\Automation\dteproperties100.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\dteproperties100.tlb.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/dteproperties110.tlb
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/dteproperties110.tlb to D:\Program\Common7\IDE\Automation\dteproperties110.tlb
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/dteproperties110.tlb to D:\Program\Common7\IDE\Automation\dteproperties110.tlb
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\dteproperties110.tlb'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/dteproperties110.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/dteproperties110.tlb.manifest to D:\Program\Common7\IDE\Automation\dteproperties110.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/dteproperties110.tlb.manifest to D:\Program\Common7\IDE\Automation\dteproperties110.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\dteproperties110.tlb.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/dteproperties120.tlb
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/dteproperties120.tlb to D:\Program\Common7\IDE\Automation\dteproperties120.tlb
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/dteproperties120.tlb to D:\Program\Common7\IDE\Automation\dteproperties120.tlb
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\dteproperties120.tlb'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/dteproperties120.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/dteproperties120.tlb.manifest to D:\Program\Common7\IDE\Automation\dteproperties120.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/dteproperties120.tlb.manifest to D:\Program\Common7\IDE\Automation\dteproperties120.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\dteproperties120.tlb.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/dteproperties90.tlb
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/dteproperties90.tlb to D:\Program\Common7\IDE\Automation\dteproperties90.tlb
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/dteproperties90.tlb to D:\Program\Common7\IDE\Automation\dteproperties90.tlb
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\dteproperties90.tlb'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/dteproperties90.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/dteproperties90.tlb.manifest to D:\Program\Common7\IDE\Automation\dteproperties90.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/dteproperties90.tlb.manifest to D:\Program\Common7\IDE\Automation\dteproperties90.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\dteproperties90.tlb.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/dteproperties90a.tlb
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/dteproperties90a.tlb to D:\Program\Common7\IDE\Automation\dteproperties90a.tlb
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/dteproperties90a.tlb to D:\Program\Common7\IDE\Automation\dteproperties90a.tlb
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\dteproperties90a.tlb'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/dteproperties90a.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/dteproperties90a.tlb.manifest to D:\Program\Common7\IDE\Automation\dteproperties90a.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/dteproperties90a.tlb.manifest to D:\Program\Common7\IDE\Automation\dteproperties90a.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\dteproperties90a.tlb.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/Microsoft.VisualStudio.CompilerHostObjectsProxy.dll
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/Microsoft.VisualStudio.CompilerHostObjectsProxy.dll to D:\Program\Common7\IDE\Automation\Microsoft.VisualStudio.CompilerHostObjectsProxy.dll
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/Microsoft.VisualStudio.CompilerHostObjectsProxy.dll to D:\Program\Common7\IDE\Automation\Microsoft.VisualStudio.CompilerHostObjectsProxy.dll
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\Microsoft.VisualStudio.CompilerHostObjectsProxy.dll'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/Microsoft.VisualStudio.CompilerHostObjectsProxy.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/Microsoft.VisualStudio.CompilerHostObjectsProxy.dll.manifest to D:\Program\Common7\IDE\Automation\Microsoft.VisualStudio.CompilerHostObjectsProxy.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/Microsoft.VisualStudio.CompilerHostObjectsProxy.dll.manifest to D:\Program\Common7\IDE\Automation\Microsoft.VisualStudio.CompilerHostObjectsProxy.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\Microsoft.VisualStudio.CompilerHostObjectsProxy.dll.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/Microsoft.VisualStudio.Interop.tlb
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/Microsoft.VisualStudio.Interop.tlb to D:\Program\Common7\IDE\Automation\Microsoft.VisualStudio.Interop.tlb
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/Microsoft.VisualStudio.Interop.tlb to D:\Program\Common7\IDE\Automation\Microsoft.VisualStudio.Interop.tlb
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\Microsoft.VisualStudio.Interop.tlb'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/Microsoft.VisualStudio.Interop.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/Microsoft.VisualStudio.Interop.tlb.manifest to D:\Program\Common7\IDE\Automation\Microsoft.VisualStudio.Interop.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/Microsoft.VisualStudio.Interop.tlb.manifest to D:\Program\Common7\IDE\Automation\Microsoft.VisualStudio.Interop.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\Microsoft.VisualStudio.Interop.tlb.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/Microsoft.VisualStudio.ProductKeyDialog.tlb
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/Microsoft.VisualStudio.ProductKeyDialog.tlb to D:\Program\Common7\IDE\Automation\Microsoft.VisualStudio.ProductKeyDialog.tlb
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/Microsoft.VisualStudio.ProductKeyDialog.tlb to D:\Program\Common7\IDE\Automation\Microsoft.VisualStudio.ProductKeyDialog.tlb
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\Microsoft.VisualStudio.ProductKeyDialog.tlb'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/Microsoft.VisualStudio.ProductKeyDialog.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/Microsoft.VisualStudio.ProductKeyDialog.tlb.manifest to D:\Program\Common7\IDE\Automation\Microsoft.VisualStudio.ProductKeyDialog.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/Microsoft.VisualStudio.ProductKeyDialog.tlb.manifest to D:\Program\Common7\IDE\Automation\Microsoft.VisualStudio.ProductKeyDialog.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\Microsoft.VisualStudio.ProductKeyDialog.tlb.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/msenv100p.dll
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/msenv100p.dll to D:\Program\Common7\IDE\Automation\msenv100p.dll
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/msenv100p.dll to D:\Program\Common7\IDE\Automation\msenv100p.dll
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\msenv100p.dll'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/msenv100p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/msenv100p.dll.manifest to D:\Program\Common7\IDE\Automation\msenv100p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/msenv100p.dll.manifest to D:\Program\Common7\IDE\Automation\msenv100p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\msenv100p.dll.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/msenv110p.dll
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/msenv110p.dll to D:\Program\Common7\IDE\Automation\msenv110p.dll
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/msenv110p.dll to D:\Program\Common7\IDE\Automation\msenv110p.dll
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\msenv110p.dll'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/msenv110p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/msenv110p.dll.manifest to D:\Program\Common7\IDE\Automation\msenv110p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/msenv110p.dll.manifest to D:\Program\Common7\IDE\Automation\msenv110p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\msenv110p.dll.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/msenv120p.dll
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/msenv120p.dll to D:\Program\Common7\IDE\Automation\msenv120p.dll
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/msenv120p.dll to D:\Program\Common7\IDE\Automation\msenv120p.dll
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\msenv120p.dll'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/msenv120p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/msenv120p.dll.manifest to D:\Program\Common7\IDE\Automation\msenv120p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/msenv120p.dll.manifest to D:\Program\Common7\IDE\Automation\msenv120p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\msenv120p.dll.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/msenv121p.dll
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/msenv121p.dll to D:\Program\Common7\IDE\Automation\msenv121p.dll
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/msenv121p.dll to D:\Program\Common7\IDE\Automation\msenv121p.dll
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\msenv121p.dll'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/msenv121p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/msenv121p.dll.manifest to D:\Program\Common7\IDE\Automation\msenv121p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/msenv121p.dll.manifest to D:\Program\Common7\IDE\Automation\msenv121p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\msenv121p.dll.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/msenv140p.dll
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/msenv140p.dll to D:\Program\Common7\IDE\Automation\msenv140p.dll
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/msenv140p.dll to D:\Program\Common7\IDE\Automation\msenv140p.dll
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\msenv140p.dll'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/msenv140p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/msenv140p.dll.manifest to D:\Program\Common7\IDE\Automation\msenv140p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/msenv140p.dll.manifest to D:\Program\Common7\IDE\Automation\msenv140p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\msenv140p.dll.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/msenv141p.dll
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/msenv141p.dll to D:\Program\Common7\IDE\Automation\msenv141p.dll
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/msenv141p.dll to D:\Program\Common7\IDE\Automation\msenv141p.dll
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\msenv141p.dll'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/msenv141p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/msenv141p.dll.manifest to D:\Program\Common7\IDE\Automation\msenv141p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/msenv141p.dll.manifest to D:\Program\Common7\IDE\Automation\msenv141p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\msenv141p.dll.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/msenv150p.dll
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/msenv150p.dll to D:\Program\Common7\IDE\Automation\msenv150p.dll
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/msenv150p.dll to D:\Program\Common7\IDE\Automation\msenv150p.dll
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\msenv150p.dll'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/msenv150p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/msenv150p.dll.manifest to D:\Program\Common7\IDE\Automation\msenv150p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/msenv150p.dll.manifest to D:\Program\Common7\IDE\Automation\msenv150p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\msenv150p.dll.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/msenv151p.dll
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/msenv151p.dll to D:\Program\Common7\IDE\Automation\msenv151p.dll
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/msenv151p.dll to D:\Program\Common7\IDE\Automation\msenv151p.dll
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\msenv151p.dll'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/msenv151p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/msenv151p.dll.manifest to D:\Program\Common7\IDE\Automation\msenv151p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/msenv151p.dll.manifest to D:\Program\Common7\IDE\Automation\msenv151p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\msenv151p.dll.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/msenv153p.dll
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/msenv153p.dll to D:\Program\Common7\IDE\Automation\msenv153p.dll
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/msenv153p.dll to D:\Program\Common7\IDE\Automation\msenv153p.dll
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\msenv153p.dll'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/msenv153p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/msenv153p.dll.manifest to D:\Program\Common7\IDE\Automation\msenv153p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/msenv153p.dll.manifest to D:\Program\Common7\IDE\Automation\msenv153p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\msenv153p.dll.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/msenv155p.dll
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/msenv155p.dll to D:\Program\Common7\IDE\Automation\msenv155p.dll
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/msenv155p.dll to D:\Program\Common7\IDE\Automation\msenv155p.dll
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\msenv155p.dll'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/msenv155p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/msenv155p.dll.manifest to D:\Program\Common7\IDE\Automation\msenv155p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/msenv155p.dll.manifest to D:\Program\Common7\IDE\Automation\msenv155p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\msenv155p.dll.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/msenv156p.dll
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/msenv156p.dll to D:\Program\Common7\IDE\Automation\msenv156p.dll
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/msenv156p.dll to D:\Program\Common7\IDE\Automation\msenv156p.dll
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\msenv156p.dll'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/msenv156p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/msenv156p.dll.manifest to D:\Program\Common7\IDE\Automation\msenv156p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/msenv156p.dll.manifest to D:\Program\Common7\IDE\Automation\msenv156p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\msenv156p.dll.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/msenv157p.dll
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/msenv157p.dll to D:\Program\Common7\IDE\Automation\msenv157p.dll
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/msenv157p.dll to D:\Program\Common7\IDE\Automation\msenv157p.dll
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\msenv157p.dll'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/msenv157p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/msenv157p.dll.manifest to D:\Program\Common7\IDE\Automation\msenv157p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/msenv157p.dll.manifest to D:\Program\Common7\IDE\Automation\msenv157p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\msenv157p.dll.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/msenv158p.dll
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/msenv158p.dll to D:\Program\Common7\IDE\Automation\msenv158p.dll
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/msenv158p.dll to D:\Program\Common7\IDE\Automation\msenv158p.dll
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\msenv158p.dll'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/msenv158p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/msenv158p.dll.manifest to D:\Program\Common7\IDE\Automation\msenv158p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/msenv158p.dll.manifest to D:\Program\Common7\IDE\Automation\msenv158p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\msenv158p.dll.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/msenv159p.dll
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/msenv159p.dll to D:\Program\Common7\IDE\Automation\msenv159p.dll
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/msenv159p.dll to D:\Program\Common7\IDE\Automation\msenv159p.dll
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\msenv159p.dll'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/msenv159p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/msenv159p.dll.manifest to D:\Program\Common7\IDE\Automation\msenv159p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/msenv159p.dll.manifest to D:\Program\Common7\IDE\Automation\msenv159p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\msenv159p.dll.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/msenv16p.dll
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/msenv16p.dll to D:\Program\Common7\IDE\Automation\msenv16p.dll
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/msenv16p.dll to D:\Program\Common7\IDE\Automation\msenv16p.dll
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\msenv16p.dll'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/msenv16p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/msenv16p.dll.manifest to D:\Program\Common7\IDE\Automation\msenv16p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/msenv16p.dll.manifest to D:\Program\Common7\IDE\Automation\msenv16p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\msenv16p.dll.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/msenv17p.dll
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/msenv17p.dll to D:\Program\Common7\IDE\Automation\msenv17p.dll
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/msenv17p.dll to D:\Program\Common7\IDE\Automation\msenv17p.dll
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\msenv17p.dll'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/msenv17p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/msenv17p.dll.manifest to D:\Program\Common7\IDE\Automation\msenv17p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/msenv17p.dll.manifest to D:\Program\Common7\IDE\Automation\msenv17p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\msenv17p.dll.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/msenv2p.dll
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/msenv2p.dll to D:\Program\Common7\IDE\Automation\msenv2p.dll
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/msenv2p.dll to D:\Program\Common7\IDE\Automation\msenv2p.dll
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\msenv2p.dll'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/msenv2p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/msenv2p.dll.manifest to D:\Program\Common7\IDE\Automation\msenv2p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/msenv2p.dll.manifest to D:\Program\Common7\IDE\Automation\msenv2p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\msenv2p.dll.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/msenv80p.dll
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/msenv80p.dll to D:\Program\Common7\IDE\Automation\msenv80p.dll
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/msenv80p.dll to D:\Program\Common7\IDE\Automation\msenv80p.dll
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\msenv80p.dll'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/msenv80p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/msenv80p.dll.manifest to D:\Program\Common7\IDE\Automation\msenv80p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/msenv80p.dll.manifest to D:\Program\Common7\IDE\Automation\msenv80p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\msenv80p.dll.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/msenv90p.dll
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/msenv90p.dll to D:\Program\Common7\IDE\Automation\msenv90p.dll
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/msenv90p.dll to D:\Program\Common7\IDE\Automation\msenv90p.dll
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\msenv90p.dll'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/msenv90p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/msenv90p.dll.manifest to D:\Program\Common7\IDE\Automation\msenv90p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/msenv90p.dll.manifest to D:\Program\Common7\IDE\Automation\msenv90p.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\msenv90p.dll.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/msenvp.dll
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/msenvp.dll to D:\Program\Common7\IDE\Automation\msenvp.dll
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/msenvp.dll to D:\Program\Common7\IDE\Automation\msenvp.dll
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\msenvp.dll'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/msenvp.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/msenvp.dll.manifest to D:\Program\Common7\IDE\Automation\msenvp.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/msenvp.dll.manifest to D:\Program\Common7\IDE\Automation\msenvp.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\msenvp.dll.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/publish.tlb
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/publish.tlb to D:\Program\Common7\IDE\Automation\publish.tlb
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/publish.tlb to D:\Program\Common7\IDE\Automation\publish.tlb
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\publish.tlb'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/publish.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/publish.tlb.manifest to D:\Program\Common7\IDE\Automation\publish.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/publish.tlb.manifest to D:\Program\Common7\IDE\Automation\publish.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\publish.tlb.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/textmgrp.dll
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/textmgrp.dll to D:\Program\Common7\IDE\Automation\textmgrp.dll
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/textmgrp.dll to D:\Program\Common7\IDE\Automation\textmgrp.dll
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\textmgrp.dll'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/textmgrp.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/textmgrp.dll.manifest to D:\Program\Common7\IDE\Automation\textmgrp.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/textmgrp.dll.manifest to D:\Program\Common7\IDE\Automation\textmgrp.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\textmgrp.dll.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/VBCodeModelExtensibility.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/VBCodeModelExtensibility.tlb.manifest to D:\Program\Common7\IDE\Automation\VBCodeModelExtensibility.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/VBCodeModelExtensibility.tlb.manifest to D:\Program\Common7\IDE\Automation\VBCodeModelExtensibility.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\VBCodeModelExtensibility.tlb.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/vcsharpextensibilitylib.tlb
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/vcsharpextensibilitylib.tlb to D:\Program\Common7\IDE\Automation\vcsharpextensibilitylib.tlb
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/vcsharpextensibilitylib.tlb to D:\Program\Common7\IDE\Automation\vcsharpextensibilitylib.tlb
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\vcsharpextensibilitylib.tlb'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/VCSharpExtensibilityLib.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/VCSharpExtensibilityLib.tlb.manifest to D:\Program\Common7\IDE\Automation\VCSharpExtensibilityLib.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/VCSharpExtensibilityLib.tlb.manifest to D:\Program\Common7\IDE\Automation\VCSharpExtensibilityLib.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\VCSharpExtensibilityLib.tlb.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/vsext.olb
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/vsext.olb to D:\Program\Common7\IDE\Automation\vsext.olb
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/vsext.olb to D:\Program\Common7\IDE\Automation\vsext.olb
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\vsext.olb'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/vsext.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/vsext.olb.manifest to D:\Program\Common7\IDE\Automation\vsext.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/vsext.olb.manifest to D:\Program\Common7\IDE\Automation\vsext.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\vsext.olb.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/vshelp.tlb
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/vshelp.tlb to D:\Program\Common7\IDE\Automation\vshelp.tlb
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/vshelp.tlb to D:\Program\Common7\IDE\Automation\vshelp.tlb
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\vshelp.tlb'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/vshelp.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/vshelp.tlb.manifest to D:\Program\Common7\IDE\Automation\vshelp.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/vshelp.tlb.manifest to D:\Program\Common7\IDE\Automation\vshelp.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\vshelp.tlb.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/vshelp80.olb
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/vshelp80.olb to D:\Program\Common7\IDE\Automation\vshelp80.olb
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/vshelp80.olb to D:\Program\Common7\IDE\Automation\vshelp80.olb
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\vshelp80.olb'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/vshelp80.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/vshelp80.tlb.manifest to D:\Program\Common7\IDE\Automation\vshelp80.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/vshelp80.tlb.manifest to D:\Program\Common7\IDE\Automation\vshelp80.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\vshelp80.tlb.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/vslangproj.olb
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/vslangproj.olb to D:\Program\Common7\IDE\Automation\vslangproj.olb
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/vslangproj.olb to D:\Program\Common7\IDE\Automation\vslangproj.olb
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\vslangproj.olb'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/vslangproj.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/vslangproj.olb.manifest to D:\Program\Common7\IDE\Automation\vslangproj.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/vslangproj.olb.manifest to D:\Program\Common7\IDE\Automation\vslangproj.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\vslangproj.olb.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/vslangproj100.olb
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/vslangproj100.olb to D:\Program\Common7\IDE\Automation\vslangproj100.olb
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/vslangproj100.olb to D:\Program\Common7\IDE\Automation\vslangproj100.olb
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\vslangproj100.olb'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/vslangproj100.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/vslangproj100.olb.manifest to D:\Program\Common7\IDE\Automation\vslangproj100.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/vslangproj100.olb.manifest to D:\Program\Common7\IDE\Automation\vslangproj100.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\vslangproj100.olb.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/vslangproj110.olb
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/vslangproj110.olb to D:\Program\Common7\IDE\Automation\vslangproj110.olb
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/vslangproj110.olb to D:\Program\Common7\IDE\Automation\vslangproj110.olb
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\vslangproj110.olb'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/vslangproj110.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/vslangproj110.olb.manifest to D:\Program\Common7\IDE\Automation\vslangproj110.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/vslangproj110.olb.manifest to D:\Program\Common7\IDE\Automation\vslangproj110.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\vslangproj110.olb.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/vslangproj140.olb
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/vslangproj140.olb to D:\Program\Common7\IDE\Automation\vslangproj140.olb
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/vslangproj140.olb to D:\Program\Common7\IDE\Automation\vslangproj140.olb
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\vslangproj140.olb'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/vslangproj140.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/vslangproj140.olb.manifest to D:\Program\Common7\IDE\Automation\vslangproj140.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/vslangproj140.olb.manifest to D:\Program\Common7\IDE\Automation\vslangproj140.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\vslangproj140.olb.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/vslangproj150.olb
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/vslangproj150.olb to D:\Program\Common7\IDE\Automation\vslangproj150.olb
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/vslangproj150.olb to D:\Program\Common7\IDE\Automation\vslangproj150.olb
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\vslangproj150.olb'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/vslangproj150.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/vslangproj150.olb.manifest to D:\Program\Common7\IDE\Automation\vslangproj150.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/vslangproj150.olb.manifest to D:\Program\Common7\IDE\Automation\vslangproj150.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\vslangproj150.olb.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/vslangproj157.olb
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/vslangproj157.olb to D:\Program\Common7\IDE\Automation\vslangproj157.olb
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/vslangproj157.olb to D:\Program\Common7\IDE\Automation\vslangproj157.olb
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\vslangproj157.olb'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/vslangproj157.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/vslangproj157.olb.manifest to D:\Program\Common7\IDE\Automation\vslangproj157.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/vslangproj157.olb.manifest to D:\Program\Common7\IDE\Automation\vslangproj157.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\vslangproj157.olb.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/vslangproj158.olb
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/vslangproj158.olb to D:\Program\Common7\IDE\Automation\vslangproj158.olb
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/vslangproj158.olb to D:\Program\Common7\IDE\Automation\vslangproj158.olb
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\vslangproj158.olb'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/vslangproj158.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/vslangproj158.olb.manifest to D:\Program\Common7\IDE\Automation\vslangproj158.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/vslangproj158.olb.manifest to D:\Program\Common7\IDE\Automation\vslangproj158.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\vslangproj158.olb.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/vslangproj165.olb
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/vslangproj165.olb to D:\Program\Common7\IDE\Automation\vslangproj165.olb
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/vslangproj165.olb to D:\Program\Common7\IDE\Automation\vslangproj165.olb
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\vslangproj165.olb'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/vslangproj165.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/vslangproj165.olb.manifest to D:\Program\Common7\IDE\Automation\vslangproj165.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/vslangproj165.olb.manifest to D:\Program\Common7\IDE\Automation\vslangproj165.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\vslangproj165.olb.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/vslangproj2.olb
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/vslangproj2.olb to D:\Program\Common7\IDE\Automation\vslangproj2.olb
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/vslangproj2.olb to D:\Program\Common7\IDE\Automation\vslangproj2.olb
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\vslangproj2.olb'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/vslangproj2.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/vslangproj2.olb.manifest to D:\Program\Common7\IDE\Automation\vslangproj2.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/vslangproj2.olb.manifest to D:\Program\Common7\IDE\Automation\vslangproj2.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\vslangproj2.olb.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/vslangproj80.olb
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/vslangproj80.olb to D:\Program\Common7\IDE\Automation\vslangproj80.olb
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/vslangproj80.olb to D:\Program\Common7\IDE\Automation\vslangproj80.olb
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\vslangproj80.olb'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/vslangproj80.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/vslangproj80.olb.manifest to D:\Program\Common7\IDE\Automation\vslangproj80.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/vslangproj80.olb.manifest to D:\Program\Common7\IDE\Automation\vslangproj80.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\vslangproj80.olb.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/vslangproj90.olb
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/vslangproj90.olb to D:\Program\Common7\IDE\Automation\vslangproj90.olb
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/vslangproj90.olb to D:\Program\Common7\IDE\Automation\vslangproj90.olb
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\vslangproj90.olb'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/vslangproj90.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/vslangproj90.olb.manifest to D:\Program\Common7\IDE\Automation\vslangproj90.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/vslangproj90.olb.manifest to D:\Program\Common7\IDE\Automation\vslangproj90.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\vslangproj90.olb.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/VsLogP.dll
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/VsLogP.dll to D:\Program\Common7\IDE\Automation\VsLogP.dll
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/VsLogP.dll to D:\Program\Common7\IDE\Automation\VsLogP.dll
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\VsLogP.dll'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/VsLogP.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/VsLogP.dll.manifest to D:\Program\Common7\IDE\Automation\VsLogP.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/VsLogP.dll.manifest to D:\Program\Common7\IDE\Automation\VsLogP.dll.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\VsLogP.dll.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/vsmso.olb
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/vsmso.olb to D:\Program\Common7\IDE\Automation\vsmso.olb
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/vsmso.olb to D:\Program\Common7\IDE\Automation\vsmso.olb
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\vsmso.olb'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/vsmso.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/vsmso.olb.manifest to D:\Program\Common7\IDE\Automation\vsmso.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/vsmso.olb.manifest to D:\Program\Common7\IDE\Automation\vsmso.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\vsmso.olb.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/vsprojhostproc.olb
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/vsprojhostproc.olb to D:\Program\Common7\IDE\Automation\vsprojhostproc.olb
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/vsprojhostproc.olb to D:\Program\Common7\IDE\Automation\vsprojhostproc.olb
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\vsprojhostproc.olb'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/vsprojhostproc.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/vsprojhostproc.olb.manifest to D:\Program\Common7\IDE\Automation\vsprojhostproc.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/vsprojhostproc.olb.manifest to D:\Program\Common7\IDE\Automation\vsprojhostproc.olb.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\vsprojhostproc.olb.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/VxExtensibilityLib.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/VxExtensibilityLib.tlb.manifest to D:\Program\Common7\IDE\Automation\VxExtensibilityLib.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/VxExtensibilityLib.tlb.manifest to D:\Program\Common7\IDE\Automation\VxExtensibilityLib.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\VxExtensibilityLib.tlb.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/VxExtensibilityLib2.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/VxExtensibilityLib2.tlb.manifest to D:\Program\Common7\IDE\Automation\VxExtensibilityLib2.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/VxExtensibilityLib2.tlb.manifest to D:\Program\Common7\IDE\Automation\VxExtensibilityLib2.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\VxExtensibilityLib2.tlb.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/VxExtensibilityLib3.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/VxExtensibilityLib3.tlb.manifest to D:\Program\Common7\IDE\Automation\VxExtensibilityLib3.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/VxExtensibilityLib3.tlb.manifest to D:\Program\Common7\IDE\Automation\VxExtensibilityLib3.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\VxExtensibilityLib3.tlb.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/VxExtensibilityLib4.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/VxExtensibilityLib4.tlb.manifest to D:\Program\Common7\IDE\Automation\VxExtensibilityLib4.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/VxExtensibilityLib4.tlb.manifest to D:\Program\Common7\IDE\Automation\VxExtensibilityLib4.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\VxExtensibilityLib4.tlb.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/webproperties.tlb
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/webproperties.tlb to D:\Program\Common7\IDE\Automation\webproperties.tlb
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/webproperties.tlb to D:\Program\Common7\IDE\Automation\webproperties.tlb
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\webproperties.tlb'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/WebProperties.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/WebProperties.tlb.manifest to D:\Program\Common7\IDE\Automation\WebProperties.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/WebProperties.tlb.manifest to D:\Program\Common7\IDE\Automation\WebProperties.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\WebProperties.tlb.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/webproperties100.tlb
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/webproperties100.tlb to D:\Program\Common7\IDE\Automation\webproperties100.tlb
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/webproperties100.tlb to D:\Program\Common7\IDE\Automation\webproperties100.tlb
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\webproperties100.tlb'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/WebProperties100.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/WebProperties100.tlb.manifest to D:\Program\Common7\IDE\Automation\WebProperties100.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/WebProperties100.tlb.manifest to D:\Program\Common7\IDE\Automation\WebProperties100.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\WebProperties100.tlb.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/webproperties110.tlb
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/webproperties110.tlb to D:\Program\Common7\IDE\Automation\webproperties110.tlb
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/webproperties110.tlb to D:\Program\Common7\IDE\Automation\webproperties110.tlb
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\webproperties110.tlb'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/WebProperties110.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/WebProperties110.tlb.manifest to D:\Program\Common7\IDE\Automation\WebProperties110.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/WebProperties110.tlb.manifest to D:\Program\Common7\IDE\Automation\WebProperties110.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\WebProperties110.tlb.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/webproperties90.tlb
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/webproperties90.tlb to D:\Program\Common7\IDE\Automation\webproperties90.tlb
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/webproperties90.tlb to D:\Program\Common7\IDE\Automation\webproperties90.tlb
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\webproperties90.tlb'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Automation/WebProperties90.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Automation/WebProperties90.tlb.manifest to D:\Program\Common7\IDE\Automation\WebProperties90.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Automation/WebProperties90.tlb.manifest to D:\Program\Common7\IDE\Automation\WebProperties90.tlb.manifest
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\WebProperties90.tlb.manifest'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.Diagnostics.Measurement.Native.dll
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Diagnostics.Measurement.Native.dll to D:\Program\Common7\IDE\Microsoft.VisualStudio.Diagnostics.Measurement.Native.dll
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Diagnostics.Measurement.Native.dll to D:\Program\Common7\IDE\Microsoft.VisualStudio.Diagnostics.Measurement.Native.dll
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Microsoft.VisualStudio.Diagnostics.Measurement.Native.dll'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.Licensing.dll
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Licensing.dll to D:\Program\Common7\IDE\Microsoft.VisualStudio.Licensing.dll
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Licensing.dll to D:\Program\Common7\IDE\Microsoft.VisualStudio.Licensing.dll
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Microsoft.VisualStudio.Licensing.dll'.
+[da4c:0007][2026-05-10T00:49:48] Queueing D:\Program\Common7\IDE\Microsoft.VisualStudio.Licensing.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:48] Successfully queued file '/Contents/Common7/IDE/Microsoft.VisualStudio.Licensing.dll' for ngen
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.RegDetour.dll
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.RegDetour.dll to D:\Program\Common7\IDE\Microsoft.VisualStudio.RegDetour.dll
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.RegDetour.dll to D:\Program\Common7\IDE\Microsoft.VisualStudio.RegDetour.dll
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Microsoft.VisualStudio.RegDetour.dll'.
+[da4c:0007][2026-05-10T00:49:48] Queueing D:\Program\Common7\IDE\Microsoft.VisualStudio.RegDetour.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:48] Successfully queued file '/Contents/Common7/IDE/Microsoft.VisualStudio.RegDetour.dll' for ngen
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.Settings.15.0.dll
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Settings.15.0.dll to D:\Program\Common7\IDE\Microsoft.VisualStudio.Settings.15.0.dll
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Settings.15.0.dll to D:\Program\Common7\IDE\Microsoft.VisualStudio.Settings.15.0.dll
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\Microsoft.VisualStudio.Settings.15.0.dll'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/msenv.dll
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/msenv.dll to D:\Program\Common7\IDE\msenv.dll
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/msenv.dll to D:\Program\Common7\IDE\msenv.dll
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\msenv.dll'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/msenvico.dll
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/msenvico.dll to D:\Program\Common7\IDE\msenvico.dll
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/msenvico.dll to D:\Program\Common7\IDE\msenvico.dll
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\msenvico.dll'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/PkgdefMgmt.dll
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/PkgdefMgmt.dll to D:\Program\Common7\IDE\PkgdefMgmt.dll
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/PkgdefMgmt.dll to D:\Program\Common7\IDE\PkgdefMgmt.dll
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\PkgdefMgmt.dll'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/PrivateAssemblies/msalruntime_x86.dll
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/msalruntime_x86.dll to D:\Program\Common7\IDE\PrivateAssemblies\msalruntime_x86.dll
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/msalruntime_x86.dll to D:\Program\Common7\IDE\PrivateAssemblies\msalruntime_x86.dll
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\msalruntime_x86.dll'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/ProjectAggregator.dll
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/ProjectAggregator.dll to D:\Program\Common7\IDE\ProjectAggregator.dll
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/ProjectAggregator.dll to D:\Program\Common7\IDE\ProjectAggregator.dll
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\ProjectAggregator.dll'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/ShellExtensions/Platform/appenvmnu.dll
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/ShellExtensions/Platform/appenvmnu.dll to D:\Program\Common7\IDE\ShellExtensions\Platform\appenvmnu.dll
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/ShellExtensions/Platform/appenvmnu.dll to D:\Program\Common7\IDE\ShellExtensions\Platform\appenvmnu.dll
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\ShellExtensions\Platform\appenvmnu.dll'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/ShellExtensions/Platform/AppenvStub.dll
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/ShellExtensions/Platform/AppenvStub.dll to D:\Program\Common7\IDE\ShellExtensions\Platform\AppenvStub.dll
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/ShellExtensions/Platform/AppenvStub.dll to D:\Program\Common7\IDE\ShellExtensions\Platform\AppenvStub.dll
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\ShellExtensions\Platform\AppenvStub.dll'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/vcruntime140.dll
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/vcruntime140.dll to D:\Program\Common7\IDE\vcruntime140.dll
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/vcruntime140.dll to D:\Program\Common7\IDE\vcruntime140.dll
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\vcruntime140.dll'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/VSLaunchBrowser.exe
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/VSLaunchBrowser.exe to D:\Program\Common7\IDE\VSLaunchBrowser.exe
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/VSLaunchBrowser.exe to D:\Program\Common7\IDE\VSLaunchBrowser.exe
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\VSLaunchBrowser.exe'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/VsRegistryDetour.dll
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/VsRegistryDetour.dll to D:\Program\Common7\IDE\VsRegistryDetour.dll
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/VsRegistryDetour.dll to D:\Program\Common7\IDE\VsRegistryDetour.dll
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\VsRegistryDetour.dll'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/VSWebHandler.exe
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/VSWebHandler.exe to D:\Program\Common7\IDE\VSWebHandler.exe
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/VSWebHandler.exe to D:\Program\Common7\IDE\VSWebHandler.exe
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\VSWebHandler.exe'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/VSWebLauncher.exe
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/VSWebLauncher.exe to D:\Program\Common7\IDE\VSWebLauncher.exe
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/VSWebLauncher.exe to D:\Program\Common7\IDE\VSWebLauncher.exe
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\VSWebLauncher.exe'.
+[da4c:0007][2026-05-10T00:49:48] Processing file /Contents/Common7/IDE/VsWerHandler.dll
+[da4c:0007][2026-05-10T00:49:48] Started: Copying file /Contents/Common7/IDE/VsWerHandler.dll to D:\Program\Common7\IDE\VsWerHandler.dll
+[da4c:0007][2026-05-10T00:49:48] Completed: Copying file /Contents/Common7/IDE/VsWerHandler.dll to D:\Program\Common7\IDE\VsWerHandler.dll
+[da4c:0007][2026-05-10T00:49:48] Timestamp updated for file 'D:\Program\Common7\IDE\VsWerHandler.dll'.
+[da4c:0007][2026-05-10T00:49:48] Package executed successfully. Return code: 0

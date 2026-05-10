@@ -1,0 +1,42 @@
+[3474:0009][2026-05-10T01:46:10] Using cached package manifest as the embedded manifest
+[3474:0009][2026-05-10T01:46:10] Processing file /extension.vsixmanifest
+[3474:0009][2026-05-10T01:46:10] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ErrorList\extension.vsixmanifest file deleted.
+[3474:0009][2026-05-10T01:46:10] Processing file /License.rtf
+[3474:0009][2026-05-10T01:46:10] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ErrorList\License.rtf file deleted.
+[3474:0009][2026-05-10T01:46:10] Processing file /Microsoft.VisualStudio.ErrorListPkg.pkgdef
+[3474:0009][2026-05-10T01:46:10] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ErrorList\Microsoft.VisualStudio.ErrorListPkg.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:10] Processing file /Microsoft.VisualStudio.ErrorListPkg.dll
+[3474:0009][2026-05-10T01:46:10] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ErrorList\Microsoft.VisualStudio.ErrorListPkg.dll file deleted.
+[3474:0009][2026-05-10T01:46:10] Processing file /zh-Hans/Microsoft.VisualStudio.ErrorListPkg.resources.dll
+[3474:0009][2026-05-10T01:46:10] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ErrorList\zh-Hans\Microsoft.VisualStudio.ErrorListPkg.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:10] Processing file /zh-Hant/Microsoft.VisualStudio.ErrorListPkg.resources.dll
+[3474:0009][2026-05-10T01:46:10] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ErrorList\zh-Hant\Microsoft.VisualStudio.ErrorListPkg.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:10] Processing file /de/Microsoft.VisualStudio.ErrorListPkg.resources.dll
+[3474:0009][2026-05-10T01:46:10] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ErrorList\de\Microsoft.VisualStudio.ErrorListPkg.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:10] Processing file /es/Microsoft.VisualStudio.ErrorListPkg.resources.dll
+[3474:0009][2026-05-10T01:46:10] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ErrorList\es\Microsoft.VisualStudio.ErrorListPkg.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:10] Processing file /fr/Microsoft.VisualStudio.ErrorListPkg.resources.dll
+[3474:0009][2026-05-10T01:46:10] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ErrorList\fr\Microsoft.VisualStudio.ErrorListPkg.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:10] Processing file /it/Microsoft.VisualStudio.ErrorListPkg.resources.dll
+[3474:0009][2026-05-10T01:46:10] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ErrorList\it\Microsoft.VisualStudio.ErrorListPkg.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:10] Processing file /ja/Microsoft.VisualStudio.ErrorListPkg.resources.dll
+[3474:0009][2026-05-10T01:46:10] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ErrorList\ja\Microsoft.VisualStudio.ErrorListPkg.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:10] Processing file /ko/Microsoft.VisualStudio.ErrorListPkg.resources.dll
+[3474:0009][2026-05-10T01:46:10] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ErrorList\ko\Microsoft.VisualStudio.ErrorListPkg.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:10] Processing file /ru/Microsoft.VisualStudio.ErrorListPkg.resources.dll
+[3474:0009][2026-05-10T01:46:10] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ErrorList\ru\Microsoft.VisualStudio.ErrorListPkg.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:10] Processing file /cs/Microsoft.VisualStudio.ErrorListPkg.resources.dll
+[3474:0009][2026-05-10T01:46:10] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ErrorList\cs\Microsoft.VisualStudio.ErrorListPkg.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:10] Processing file /pt-BR/Microsoft.VisualStudio.ErrorListPkg.resources.dll
+[3474:0009][2026-05-10T01:46:10] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ErrorList\pt-BR\Microsoft.VisualStudio.ErrorListPkg.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:10] Processing file /pl/Microsoft.VisualStudio.ErrorListPkg.resources.dll
+[3474:0009][2026-05-10T01:46:10] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ErrorList\pl\Microsoft.VisualStudio.ErrorListPkg.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:10] Processing file /tr/Microsoft.VisualStudio.ErrorListPkg.resources.dll
+[3474:0009][2026-05-10T01:46:10] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ErrorList\tr\Microsoft.VisualStudio.ErrorListPkg.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:10] Processing file /manifest.json
+[3474:0009][2026-05-10T01:46:10] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ErrorList\manifest.json file deleted.
+[3474:0009][2026-05-10T01:46:10] Processing file /catalog.json
+[3474:0009][2026-05-10T01:46:10] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ErrorList\catalog.json file deleted.
+[3474:0009][2026-05-10T01:46:10] Started: Deleting empty directories
+[3474:0009][2026-05-10T01:46:10] Completed: Deleting empty directories
+[3474:0009][2026-05-10T01:46:10] Package executed successfully. Return code: 0

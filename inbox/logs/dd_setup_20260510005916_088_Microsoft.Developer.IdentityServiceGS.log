@@ -1,0 +1,44 @@
+[bd94:0009][2026-05-10T01:00:50] Using cached package manifest as the embedded manifest
+[bd94:0009][2026-05-10T01:00:50] Processing file /extension.vsixmanifest
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\CommonExtensions\Microsoft\IdentityGS\extension.vsixmanifest file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /Microsoft.Developer.IdentityService.RegisterVSCommand.dll
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\CommonExtensions\Microsoft\IdentityGS\Microsoft.Developer.IdentityService.RegisterVSCommand.dll file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /Microsoft.Developer.IdentityServiceGS.pkgdef
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\CommonExtensions\Microsoft\IdentityGS\Microsoft.Developer.IdentityServiceGS.pkgdef file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /.vsextension/cs/string-resources.json
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\CommonExtensions\Microsoft\IdentityGS\.vsextension\cs\string-resources.json file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /.vsextension/de/string-resources.json
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\CommonExtensions\Microsoft\IdentityGS\.vsextension\de\string-resources.json file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /.vsextension/es/string-resources.json
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\CommonExtensions\Microsoft\IdentityGS\.vsextension\es\string-resources.json file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /.vsextension/fr/string-resources.json
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\CommonExtensions\Microsoft\IdentityGS\.vsextension\fr\string-resources.json file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /.vsextension/it/string-resources.json
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\CommonExtensions\Microsoft\IdentityGS\.vsextension\it\string-resources.json file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /.vsextension/ja/string-resources.json
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\CommonExtensions\Microsoft\IdentityGS\.vsextension\ja\string-resources.json file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /.vsextension/ko/string-resources.json
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\CommonExtensions\Microsoft\IdentityGS\.vsextension\ko\string-resources.json file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /.vsextension/pl/string-resources.json
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\CommonExtensions\Microsoft\IdentityGS\.vsextension\pl\string-resources.json file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /.vsextension/pt-BR/string-resources.json
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\CommonExtensions\Microsoft\IdentityGS\.vsextension\pt-BR\string-resources.json file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /.vsextension/ru/string-resources.json
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\CommonExtensions\Microsoft\IdentityGS\.vsextension\ru\string-resources.json file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /.vsextension/string-resources.json
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\CommonExtensions\Microsoft\IdentityGS\.vsextension\string-resources.json file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /.vsextension/tr/string-resources.json
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\CommonExtensions\Microsoft\IdentityGS\.vsextension\tr\string-resources.json file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /.vsextension/zh-Hans/string-resources.json
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\CommonExtensions\Microsoft\IdentityGS\.vsextension\zh-Hans\string-resources.json file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /.vsextension/zh-Hant/string-resources.json
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\CommonExtensions\Microsoft\IdentityGS\.vsextension\zh-Hant\string-resources.json file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /.vsextension/extension.json
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\CommonExtensions\Microsoft\IdentityGS\.vsextension\extension.json file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /manifest.json
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\CommonExtensions\Microsoft\IdentityGS\manifest.json file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /catalog.json
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\CommonExtensions\Microsoft\IdentityGS\catalog.json file deleted.
+[bd94:0009][2026-05-10T01:00:50] Started: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:50] Completed: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:50] Package executed successfully. Return code: 0

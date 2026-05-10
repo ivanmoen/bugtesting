@@ -1,0 +1,44 @@
+[0c48:0003][2026-05-10T01:44:46] Using cached package manifest as the embedded manifest
+[0c48:0003][2026-05-10T01:44:46] Processing file /extension.vsixmanifest
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\IdentityGS\extension.vsixmanifest file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Microsoft.Developer.IdentityService.RegisterVSCommand.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\IdentityGS\Microsoft.Developer.IdentityService.RegisterVSCommand.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Microsoft.Developer.IdentityServiceGS.pkgdef
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\IdentityGS\Microsoft.Developer.IdentityServiceGS.pkgdef file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /.vsextension/cs/string-resources.json
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\IdentityGS\.vsextension\cs\string-resources.json file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /.vsextension/de/string-resources.json
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\IdentityGS\.vsextension\de\string-resources.json file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /.vsextension/es/string-resources.json
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\IdentityGS\.vsextension\es\string-resources.json file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /.vsextension/fr/string-resources.json
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\IdentityGS\.vsextension\fr\string-resources.json file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /.vsextension/it/string-resources.json
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\IdentityGS\.vsextension\it\string-resources.json file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /.vsextension/ja/string-resources.json
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\IdentityGS\.vsextension\ja\string-resources.json file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /.vsextension/ko/string-resources.json
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\IdentityGS\.vsextension\ko\string-resources.json file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /.vsextension/pl/string-resources.json
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\IdentityGS\.vsextension\pl\string-resources.json file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /.vsextension/pt-BR/string-resources.json
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\IdentityGS\.vsextension\pt-BR\string-resources.json file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /.vsextension/ru/string-resources.json
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\IdentityGS\.vsextension\ru\string-resources.json file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /.vsextension/string-resources.json
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\IdentityGS\.vsextension\string-resources.json file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /.vsextension/tr/string-resources.json
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\IdentityGS\.vsextension\tr\string-resources.json file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /.vsextension/zh-Hans/string-resources.json
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\IdentityGS\.vsextension\zh-Hans\string-resources.json file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /.vsextension/zh-Hant/string-resources.json
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\IdentityGS\.vsextension\zh-Hant\string-resources.json file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /.vsextension/extension.json
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\IdentityGS\.vsextension\extension.json file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /manifest.json
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\IdentityGS\manifest.json file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /catalog.json
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\IdentityGS\catalog.json file deleted.
+[0c48:0003][2026-05-10T01:44:46] Started: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:46] Completed: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:46] Package executed successfully. Return code: 0

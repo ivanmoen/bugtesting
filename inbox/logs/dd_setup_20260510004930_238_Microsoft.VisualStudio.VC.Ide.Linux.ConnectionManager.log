@@ -1,0 +1,84 @@
+[da4c:0007][2026-05-10T00:50:17] Opening the package for processing
+[da4c:0007][2026-05-10T00:50:17] Using package payload to get the embedded manifest
+[da4c:0007][2026-05-10T00:50:17] Getting list of files within the package
+[da4c:0007][2026-05-10T00:50:17] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Linux/Linux/Microsoft.VisualStudio.Linux.ConnectionManager.Contracts.dll
+[da4c:0007][2026-05-10T00:50:17] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Linux/Linux/Microsoft.VisualStudio.Linux.ConnectionManager.Contracts.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Linux\Linux\Microsoft.VisualStudio.Linux.ConnectionManager.Contracts.dll
+[da4c:0007][2026-05-10T00:50:17] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Linux/Linux/Microsoft.VisualStudio.Linux.ConnectionManager.Contracts.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Linux\Linux\Microsoft.VisualStudio.Linux.ConnectionManager.Contracts.dll
+[da4c:0007][2026-05-10T00:50:17] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\Linux\Linux\Microsoft.VisualStudio.Linux.ConnectionManager.Contracts.dll'.
+[da4c:0007][2026-05-10T00:50:17] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Linux/Linux/Microsoft.VisualStudio.Linux.ConnectionManager.dll
+[da4c:0007][2026-05-10T00:50:17] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Linux/Linux/Microsoft.VisualStudio.Linux.ConnectionManager.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Linux\Linux\Microsoft.VisualStudio.Linux.ConnectionManager.dll
+[da4c:0007][2026-05-10T00:50:17] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Linux/Linux/Microsoft.VisualStudio.Linux.ConnectionManager.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Linux\Linux\Microsoft.VisualStudio.Linux.ConnectionManager.dll
+[da4c:0007][2026-05-10T00:50:17] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\Linux\Linux\Microsoft.VisualStudio.Linux.ConnectionManager.dll'.
+[da4c:0007][2026-05-10T00:50:17] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Linux/Linux/Microsoft.VisualStudio.Linux.ConnectionManager.pkgdef
+[da4c:0007][2026-05-10T00:50:17] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Linux/Linux/Microsoft.VisualStudio.Linux.ConnectionManager.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Linux\Linux\Microsoft.VisualStudio.Linux.ConnectionManager.pkgdef
+[da4c:0007][2026-05-10T00:50:17] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Linux/Linux/Microsoft.VisualStudio.Linux.ConnectionManager.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Linux\Linux\Microsoft.VisualStudio.Linux.ConnectionManager.pkgdef
+[da4c:0007][2026-05-10T00:50:17] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\Linux\Linux\Microsoft.VisualStudio.Linux.ConnectionManager.pkgdef'.
+[da4c:0007][2026-05-10T00:50:17] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Linux/Linux/ThirdPartyNotices.txt
+[da4c:0007][2026-05-10T00:50:17] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Linux/Linux/ThirdPartyNotices.txt to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Linux\Linux\ThirdPartyNotices.txt
+[da4c:0007][2026-05-10T00:50:17] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Linux/Linux/ThirdPartyNotices.txt to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Linux\Linux\ThirdPartyNotices.txt
+[da4c:0007][2026-05-10T00:50:17] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\Linux\Linux\ThirdPartyNotices.txt'.
+[da4c:0007][2026-05-10T00:50:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/CommandLine.dll
+[da4c:0007][2026-05-10T00:50:17] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/CommandLine.dll to D:\Program\Common7\IDE\PrivateAssemblies\CommandLine.dll
+[da4c:0007][2026-05-10T00:50:17] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/CommandLine.dll to D:\Program\Common7\IDE\PrivateAssemblies\CommandLine.dll
+[da4c:0007][2026-05-10T00:50:17] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\CommandLine.dll'.
+[da4c:0007][2026-05-10T00:50:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/liblinux.dll
+[da4c:0007][2026-05-10T00:50:17] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/liblinux.dll to D:\Program\Common7\IDE\PrivateAssemblies\liblinux.dll
+[da4c:0007][2026-05-10T00:50:17] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/liblinux.dll to D:\Program\Common7\IDE\PrivateAssemblies\liblinux.dll
+[da4c:0007][2026-05-10T00:50:17] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\liblinux.dll'.
+[da4c:0007][2026-05-10T00:50:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/liblinux.IO.dll
+[da4c:0007][2026-05-10T00:50:17] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/liblinux.IO.dll to D:\Program\Common7\IDE\PrivateAssemblies\liblinux.IO.dll
+[da4c:0007][2026-05-10T00:50:17] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/liblinux.IO.dll to D:\Program\Common7\IDE\PrivateAssemblies\liblinux.IO.dll
+[da4c:0007][2026-05-10T00:50:17] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\liblinux.IO.dll'.
+[da4c:0007][2026-05-10T00:50:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/liblinux.Local.dll
+[da4c:0007][2026-05-10T00:50:17] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/liblinux.Local.dll to D:\Program\Common7\IDE\PrivateAssemblies\liblinux.Local.dll
+[da4c:0007][2026-05-10T00:50:17] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/liblinux.Local.dll to D:\Program\Common7\IDE\PrivateAssemblies\liblinux.Local.dll
+[da4c:0007][2026-05-10T00:50:17] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\liblinux.Local.dll'.
+[da4c:0007][2026-05-10T00:50:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/liblinux.Local/devcontainers-cli-0.60.0.tgz
+[da4c:0007][2026-05-10T00:50:17] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/liblinux.Local/devcontainers-cli-0.60.0.tgz to D:\Program\Common7\IDE\PrivateAssemblies\liblinux.Local\devcontainers-cli-0.60.0.tgz
+[da4c:0007][2026-05-10T00:50:17] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/liblinux.Local/devcontainers-cli-0.60.0.tgz to D:\Program\Common7\IDE\PrivateAssemblies\liblinux.Local\devcontainers-cli-0.60.0.tgz
+[da4c:0007][2026-05-10T00:50:17] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\liblinux.Local\devcontainers-cli-0.60.0.tgz'.
+[da4c:0007][2026-05-10T00:50:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/liblinux.Local/provision-openssh.sh
+[da4c:0007][2026-05-10T00:50:17] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/liblinux.Local/provision-openssh.sh to D:\Program\Common7\IDE\PrivateAssemblies\liblinux.Local\provision-openssh.sh
+[da4c:0007][2026-05-10T00:50:17] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/liblinux.Local/provision-openssh.sh to D:\Program\Common7\IDE\PrivateAssemblies\liblinux.Local\provision-openssh.sh
+[da4c:0007][2026-05-10T00:50:17] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\liblinux.Local\provision-openssh.sh'.
+[da4c:0007][2026-05-10T00:50:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Linux.ConnectionManager.Contracts.dll
+[da4c:0007][2026-05-10T00:50:17] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Linux.ConnectionManager.Contracts.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Linux.ConnectionManager.Contracts.dll
+[da4c:0007][2026-05-10T00:50:17] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Linux.ConnectionManager.Contracts.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Linux.ConnectionManager.Contracts.dll
+[da4c:0007][2026-05-10T00:50:17] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Linux.ConnectionManager.Contracts.dll'.
+[da4c:0007][2026-05-10T00:50:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Linux.ConnectionManager.Store.dll
+[da4c:0007][2026-05-10T00:50:17] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Linux.ConnectionManager.Store.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Linux.ConnectionManager.Store.dll
+[da4c:0007][2026-05-10T00:50:17] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Linux.ConnectionManager.Store.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Linux.ConnectionManager.Store.dll
+[da4c:0007][2026-05-10T00:50:17] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Linux.ConnectionManager.Store.dll'.
+[da4c:0007][2026-05-10T00:50:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/Visual%20CPP%20for%20Linux%20Development%20ThirdPartyNotices.txt
+[da4c:0007][2026-05-10T00:50:17] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Visual%20CPP%20for%20Linux%20Development%20ThirdPartyNotices.txt to D:\Program\Common7\IDE\PrivateAssemblies\Visual CPP for Linux Development ThirdPartyNotices.txt
+[da4c:0007][2026-05-10T00:50:17] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Visual%20CPP%20for%20Linux%20Development%20ThirdPartyNotices.txt to D:\Program\Common7\IDE\PrivateAssemblies\Visual CPP for Linux Development ThirdPartyNotices.txt
+[da4c:0007][2026-05-10T00:50:17] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Visual CPP for Linux Development ThirdPartyNotices.txt'.
+[da4c:0007][2026-05-10T00:50:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/VS.Renci.SshNet.dll
+[da4c:0007][2026-05-10T00:50:17] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/VS.Renci.SshNet.dll to D:\Program\Common7\IDE\PrivateAssemblies\VS.Renci.SshNet.dll
+[da4c:0007][2026-05-10T00:50:17] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/VS.Renci.SshNet.dll to D:\Program\Common7\IDE\PrivateAssemblies\VS.Renci.SshNet.dll
+[da4c:0007][2026-05-10T00:50:17] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\VS.Renci.SshNet.dll'.
+[da4c:0007][2026-05-10T00:50:17] Processing file /Contents/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/ConnectionManager.exe
+[da4c:0007][2026-05-10T00:50:17] Started: Copying file /Contents/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/ConnectionManager.exe to D:\Program\Common7\IDE\VC\Linux\bin\ConnectionManagerExe\ConnectionManager.exe
+[da4c:0007][2026-05-10T00:50:17] Completed: Copying file /Contents/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/ConnectionManager.exe to D:\Program\Common7\IDE\VC\Linux\bin\ConnectionManagerExe\ConnectionManager.exe
+[da4c:0007][2026-05-10T00:50:17] Timestamp updated for file 'D:\Program\Common7\IDE\VC\Linux\bin\ConnectionManagerExe\ConnectionManager.exe'.
+[da4c:0007][2026-05-10T00:50:17] Processing file /Contents/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/ConnectionManager.exe.config
+[da4c:0007][2026-05-10T00:50:17] Started: Copying file /Contents/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/ConnectionManager.exe.config to D:\Program\Common7\IDE\VC\Linux\bin\ConnectionManagerExe\ConnectionManager.exe.config
+[da4c:0007][2026-05-10T00:50:17] Completed: Copying file /Contents/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/ConnectionManager.exe.config to D:\Program\Common7\IDE\VC\Linux\bin\ConnectionManagerExe\ConnectionManager.exe.config
+[da4c:0007][2026-05-10T00:50:17] Timestamp updated for file 'D:\Program\Common7\IDE\VC\Linux\bin\ConnectionManagerExe\ConnectionManager.exe.config'.
+[da4c:0007][2026-05-10T00:50:17] Processing file /Contents/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/liblinux.dll
+[da4c:0007][2026-05-10T00:50:17] Started: Copying file /Contents/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/liblinux.dll to D:\Program\Common7\IDE\VC\Linux\bin\ConnectionManagerExe\liblinux.dll
+[da4c:0007][2026-05-10T00:50:17] Completed: Copying file /Contents/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/liblinux.dll to D:\Program\Common7\IDE\VC\Linux\bin\ConnectionManagerExe\liblinux.dll
+[da4c:0007][2026-05-10T00:50:17] Timestamp updated for file 'D:\Program\Common7\IDE\VC\Linux\bin\ConnectionManagerExe\liblinux.dll'.
+[da4c:0007][2026-05-10T00:50:17] Processing file /Contents/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/NOTICE.txt
+[da4c:0007][2026-05-10T00:50:17] Started: Copying file /Contents/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/NOTICE.txt to D:\Program\Common7\IDE\VC\Linux\bin\ConnectionManagerExe\NOTICE.txt
+[da4c:0007][2026-05-10T00:50:17] Completed: Copying file /Contents/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/NOTICE.txt to D:\Program\Common7\IDE\VC\Linux\bin\ConnectionManagerExe\NOTICE.txt
+[da4c:0007][2026-05-10T00:50:17] Timestamp updated for file 'D:\Program\Common7\IDE\VC\Linux\bin\ConnectionManagerExe\NOTICE.txt'.
+[da4c:0007][2026-05-10T00:50:17] Processing file /Contents/Common7/Tools/vsdevcmd/ext/ConnectionManagerExe.bat
+[da4c:0007][2026-05-10T00:50:17] Started: Copying file /Contents/Common7/Tools/vsdevcmd/ext/ConnectionManagerExe.bat to D:\Program\Common7\Tools\vsdevcmd\ext\ConnectionManagerExe.bat
+[da4c:0007][2026-05-10T00:50:17] Completed: Copying file /Contents/Common7/Tools/vsdevcmd/ext/ConnectionManagerExe.bat to D:\Program\Common7\Tools\vsdevcmd\ext\ConnectionManagerExe.bat
+[da4c:0007][2026-05-10T00:50:17] Timestamp updated for file 'D:\Program\Common7\Tools\vsdevcmd\ext\ConnectionManagerExe.bat'.
+[da4c:0007][2026-05-10T00:50:17] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Linux/Linux/ConnectionManager.extension.vsixmanifest
+[da4c:0007][2026-05-10T00:50:17] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Linux/Linux/ConnectionManager.extension.vsixmanifest to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Linux\Linux\ConnectionManager.extension.vsixmanifest
+[da4c:0007][2026-05-10T00:50:17] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Linux/Linux/ConnectionManager.extension.vsixmanifest to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Linux\Linux\ConnectionManager.extension.vsixmanifest
+[da4c:0007][2026-05-10T00:50:17] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\Linux\Linux\ConnectionManager.extension.vsixmanifest'.
+[da4c:0007][2026-05-10T00:50:17] Package executed successfully. Return code: 0

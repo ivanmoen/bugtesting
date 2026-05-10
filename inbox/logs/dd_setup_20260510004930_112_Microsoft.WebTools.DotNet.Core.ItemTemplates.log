@@ -1,0 +1,32 @@
+[da4c:0007][2026-05-10T00:49:53] Opening the package for processing
+[da4c:0007][2026-05-10T00:49:53] Using package payload to get the embedded manifest
+[da4c:0007][2026-05-10T00:49:53] Getting list of files within the package
+[da4c:0007][2026-05-10T00:49:53] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Dot%20Net/ItemTemplates/Code/1033/Class/Class.cs
+[da4c:0007][2026-05-10T00:49:53] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/Dot%20Net/ItemTemplates/Code/1033/Class/Class.cs to D:\Program\Common7\IDE\Extensions\Microsoft\Dot Net\ItemTemplates\Code\1033\Class\Class.cs
+[da4c:0007][2026-05-10T00:49:53] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/Dot%20Net/ItemTemplates/Code/1033/Class/Class.cs to D:\Program\Common7\IDE\Extensions\Microsoft\Dot Net\ItemTemplates\Code\1033\Class\Class.cs
+[da4c:0007][2026-05-10T00:49:53] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\Dot Net\ItemTemplates\Code\1033\Class\Class.cs'.
+[da4c:0007][2026-05-10T00:49:53] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Dot%20Net/ItemTemplates/Code/1033/Class/Class.vstemplate
+[da4c:0007][2026-05-10T00:49:53] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/Dot%20Net/ItemTemplates/Code/1033/Class/Class.vstemplate to D:\Program\Common7\IDE\Extensions\Microsoft\Dot Net\ItemTemplates\Code\1033\Class\Class.vstemplate
+[da4c:0007][2026-05-10T00:49:53] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/Dot%20Net/ItemTemplates/Code/1033/Class/Class.vstemplate to D:\Program\Common7\IDE\Extensions\Microsoft\Dot Net\ItemTemplates\Code\1033\Class\Class.vstemplate
+[da4c:0007][2026-05-10T00:49:53] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\Dot Net\ItemTemplates\Code\1033\Class\Class.vstemplate'.
+[da4c:0007][2026-05-10T00:49:53] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Dot%20Net/ItemTemplates/Code/1033/CodeFile/CodeFile.cs
+[da4c:0007][2026-05-10T00:49:53] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/Dot%20Net/ItemTemplates/Code/1033/CodeFile/CodeFile.cs to D:\Program\Common7\IDE\Extensions\Microsoft\Dot Net\ItemTemplates\Code\1033\CodeFile\CodeFile.cs
+[da4c:0007][2026-05-10T00:49:53] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/Dot%20Net/ItemTemplates/Code/1033/CodeFile/CodeFile.cs to D:\Program\Common7\IDE\Extensions\Microsoft\Dot Net\ItemTemplates\Code\1033\CodeFile\CodeFile.cs
+[da4c:0007][2026-05-10T00:49:53] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\Dot Net\ItemTemplates\Code\1033\CodeFile\CodeFile.cs'.
+[da4c:0007][2026-05-10T00:49:53] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Dot%20Net/ItemTemplates/Code/1033/CodeFile/CodeFile.vstemplate
+[da4c:0007][2026-05-10T00:49:53] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/Dot%20Net/ItemTemplates/Code/1033/CodeFile/CodeFile.vstemplate to D:\Program\Common7\IDE\Extensions\Microsoft\Dot Net\ItemTemplates\Code\1033\CodeFile\CodeFile.vstemplate
+[da4c:0007][2026-05-10T00:49:53] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/Dot%20Net/ItemTemplates/Code/1033/CodeFile/CodeFile.vstemplate to D:\Program\Common7\IDE\Extensions\Microsoft\Dot Net\ItemTemplates\Code\1033\CodeFile\CodeFile.vstemplate
+[da4c:0007][2026-05-10T00:49:53] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\Dot Net\ItemTemplates\Code\1033\CodeFile\CodeFile.vstemplate'.
+[da4c:0007][2026-05-10T00:49:53] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Dot%20Net/ItemTemplates/Code/1033/Interface/Interface.cs
+[da4c:0007][2026-05-10T00:49:53] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/Dot%20Net/ItemTemplates/Code/1033/Interface/Interface.cs to D:\Program\Common7\IDE\Extensions\Microsoft\Dot Net\ItemTemplates\Code\1033\Interface\Interface.cs
+[da4c:0007][2026-05-10T00:49:53] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/Dot%20Net/ItemTemplates/Code/1033/Interface/Interface.cs to D:\Program\Common7\IDE\Extensions\Microsoft\Dot Net\ItemTemplates\Code\1033\Interface\Interface.cs
+[da4c:0007][2026-05-10T00:49:53] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\Dot Net\ItemTemplates\Code\1033\Interface\Interface.cs'.
+[da4c:0007][2026-05-10T00:49:53] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Dot%20Net/ItemTemplates/Code/1033/Interface/Interface.vstemplate
+[da4c:0007][2026-05-10T00:49:53] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/Dot%20Net/ItemTemplates/Code/1033/Interface/Interface.vstemplate to D:\Program\Common7\IDE\Extensions\Microsoft\Dot Net\ItemTemplates\Code\1033\Interface\Interface.vstemplate
+[da4c:0007][2026-05-10T00:49:53] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/Dot%20Net/ItemTemplates/Code/1033/Interface/Interface.vstemplate to D:\Program\Common7\IDE\Extensions\Microsoft\Dot Net\ItemTemplates\Code\1033\Interface\Interface.vstemplate
+[da4c:0007][2026-05-10T00:49:53] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\Dot Net\ItemTemplates\Code\1033\Interface\Interface.vstemplate'.
+[da4c:0007][2026-05-10T00:49:53] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Dot%20Net/ItemTemplates/Microsoft.WebTools.DotNet.Core.ItemTemplates.Item..vstman
+[da4c:0007][2026-05-10T00:49:53] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/Dot%20Net/ItemTemplates/Microsoft.WebTools.DotNet.Core.ItemTemplates.Item..vstman to D:\Program\Common7\IDE\Extensions\Microsoft\Dot Net\ItemTemplates\Microsoft.WebTools.DotNet.Core.ItemTemplates.Item..vstman
+[da4c:0007][2026-05-10T00:49:53] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/Dot%20Net/ItemTemplates/Microsoft.WebTools.DotNet.Core.ItemTemplates.Item..vstman to D:\Program\Common7\IDE\Extensions\Microsoft\Dot Net\ItemTemplates\Microsoft.WebTools.DotNet.Core.ItemTemplates.Item..vstman
+[da4c:0007][2026-05-10T00:49:53] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\Dot Net\ItemTemplates\Microsoft.WebTools.DotNet.Core.ItemTemplates.Item..vstman'.
+[da4c:0007][2026-05-10T00:49:53] Package executed successfully. Return code: 0

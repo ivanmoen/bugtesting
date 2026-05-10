@@ -1,0 +1,68 @@
+[3c7c:000c][2026-05-10T01:35:52] Opening the package for processing
+[3c7c:000c][2026-05-10T01:35:52] Using package payload to get the embedded manifest
+[3c7c:000c][2026-05-10T01:35:52] Getting list of files within the package
+[3c7c:000c][2026-05-10T01:35:52] Processing file /Contents/Msbuild/Microsoft/VC/v150/Microsoft.Cpp.UnitTest.props
+[3c7c:000c][2026-05-10T01:35:52] Started: Copying file /Contents/Msbuild/Microsoft/VC/v150/Microsoft.Cpp.UnitTest.props to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v150\Microsoft.Cpp.UnitTest.props
+[3c7c:000c][2026-05-10T01:35:52] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v150/Microsoft.Cpp.UnitTest.props to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v150\Microsoft.Cpp.UnitTest.props
+[3c7c:000c][2026-05-10T01:35:52] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v150\Microsoft.Cpp.UnitTest.props'.
+[3c7c:000c][2026-05-10T01:35:52] Processing file /Contents/Msbuild/Microsoft/VC/v160/Microsoft.Cpp.UnitTest.props
+[3c7c:000c][2026-05-10T01:35:52] Started: Copying file /Contents/Msbuild/Microsoft/VC/v160/Microsoft.Cpp.UnitTest.props to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v160\Microsoft.Cpp.UnitTest.props
+[3c7c:000c][2026-05-10T01:35:52] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v160/Microsoft.Cpp.UnitTest.props to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v160\Microsoft.Cpp.UnitTest.props
+[3c7c:000c][2026-05-10T01:35:52] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v160\Microsoft.Cpp.UnitTest.props'.
+[3c7c:000c][2026-05-10T01:35:52] Processing file /Contents/VC/Auxiliary/VS/UnitTest/include/CppUnitTest.h
+[3c7c:000c][2026-05-10T01:35:52] Started: Copying file /Contents/VC/Auxiliary/VS/UnitTest/include/CppUnitTest.h to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\include\CppUnitTest.h
+[3c7c:000c][2026-05-10T01:35:52] Completed: Copying file /Contents/VC/Auxiliary/VS/UnitTest/include/CppUnitTest.h to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\include\CppUnitTest.h
+[3c7c:000c][2026-05-10T01:35:52] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\include\CppUnitTest.h'.
+[3c7c:000c][2026-05-10T01:35:52] Processing file /Contents/VC/Auxiliary/VS/UnitTest/include/CppUnitTestAssert.h
+[3c7c:000c][2026-05-10T01:35:52] Started: Copying file /Contents/VC/Auxiliary/VS/UnitTest/include/CppUnitTestAssert.h to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\include\CppUnitTestAssert.h
+[3c7c:000c][2026-05-10T01:35:52] Completed: Copying file /Contents/VC/Auxiliary/VS/UnitTest/include/CppUnitTestAssert.h to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\include\CppUnitTestAssert.h
+[3c7c:000c][2026-05-10T01:35:52] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\include\CppUnitTestAssert.h'.
+[3c7c:000c][2026-05-10T01:35:52] Processing file /Contents/VC/Auxiliary/VS/UnitTest/include/CppUnitTestCommon.h
+[3c7c:000c][2026-05-10T01:35:52] Started: Copying file /Contents/VC/Auxiliary/VS/UnitTest/include/CppUnitTestCommon.h to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\include\CppUnitTestCommon.h
+[3c7c:000c][2026-05-10T01:35:52] Completed: Copying file /Contents/VC/Auxiliary/VS/UnitTest/include/CppUnitTestCommon.h to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\include\CppUnitTestCommon.h
+[3c7c:000c][2026-05-10T01:35:52] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\include\CppUnitTestCommon.h'.
+[3c7c:000c][2026-05-10T01:35:52] Processing file /Contents/VC/Auxiliary/VS/UnitTest/include/CppUnitTestException.h
+[3c7c:000c][2026-05-10T01:35:52] Started: Copying file /Contents/VC/Auxiliary/VS/UnitTest/include/CppUnitTestException.h to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\include\CppUnitTestException.h
+[3c7c:000c][2026-05-10T01:35:52] Completed: Copying file /Contents/VC/Auxiliary/VS/UnitTest/include/CppUnitTestException.h to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\include\CppUnitTestException.h
+[3c7c:000c][2026-05-10T01:35:52] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\include\CppUnitTestException.h'.
+[3c7c:000c][2026-05-10T01:35:52] Processing file /Contents/VC/Auxiliary/VS/UnitTest/include/CppUnitTestLogger.h
+[3c7c:000c][2026-05-10T01:35:52] Started: Copying file /Contents/VC/Auxiliary/VS/UnitTest/include/CppUnitTestLogger.h to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\include\CppUnitTestLogger.h
+[3c7c:000c][2026-05-10T01:35:52] Completed: Copying file /Contents/VC/Auxiliary/VS/UnitTest/include/CppUnitTestLogger.h to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\include\CppUnitTestLogger.h
+[3c7c:000c][2026-05-10T01:35:52] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\include\CppUnitTestLogger.h'.
+[3c7c:000c][2026-05-10T01:35:52] Processing file /Contents/VC/Auxiliary/VS/UnitTest/include/v150/CppUnitTest.h
+[3c7c:000c][2026-05-10T01:35:52] Started: Copying file /Contents/VC/Auxiliary/VS/UnitTest/include/v150/CppUnitTest.h to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\include\v150\CppUnitTest.h
+[3c7c:000c][2026-05-10T01:35:52] Completed: Copying file /Contents/VC/Auxiliary/VS/UnitTest/include/v150/CppUnitTest.h to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\include\v150\CppUnitTest.h
+[3c7c:000c][2026-05-10T01:35:52] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\include\v150\CppUnitTest.h'.
+[3c7c:000c][2026-05-10T01:35:52] Processing file /Contents/VC/Auxiliary/VS/UnitTest/include/v150/CppUnitTestAssert.h
+[3c7c:000c][2026-05-10T01:35:52] Started: Copying file /Contents/VC/Auxiliary/VS/UnitTest/include/v150/CppUnitTestAssert.h to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\include\v150\CppUnitTestAssert.h
+[3c7c:000c][2026-05-10T01:35:52] Completed: Copying file /Contents/VC/Auxiliary/VS/UnitTest/include/v150/CppUnitTestAssert.h to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\include\v150\CppUnitTestAssert.h
+[3c7c:000c][2026-05-10T01:35:52] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\include\v150\CppUnitTestAssert.h'.
+[3c7c:000c][2026-05-10T01:35:52] Processing file /Contents/VC/Auxiliary/VS/UnitTest/include/v150/CppUnitTestCommon.h
+[3c7c:000c][2026-05-10T01:35:52] Started: Copying file /Contents/VC/Auxiliary/VS/UnitTest/include/v150/CppUnitTestCommon.h to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\include\v150\CppUnitTestCommon.h
+[3c7c:000c][2026-05-10T01:35:52] Completed: Copying file /Contents/VC/Auxiliary/VS/UnitTest/include/v150/CppUnitTestCommon.h to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\include\v150\CppUnitTestCommon.h
+[3c7c:000c][2026-05-10T01:35:52] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\include\v150\CppUnitTestCommon.h'.
+[3c7c:000c][2026-05-10T01:35:52] Processing file /Contents/VC/Auxiliary/VS/UnitTest/include/v150/CppUnitTestException.h
+[3c7c:000c][2026-05-10T01:35:52] Started: Copying file /Contents/VC/Auxiliary/VS/UnitTest/include/v150/CppUnitTestException.h to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\include\v150\CppUnitTestException.h
+[3c7c:000c][2026-05-10T01:35:52] Completed: Copying file /Contents/VC/Auxiliary/VS/UnitTest/include/v150/CppUnitTestException.h to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\include\v150\CppUnitTestException.h
+[3c7c:000c][2026-05-10T01:35:52] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\include\v150\CppUnitTestException.h'.
+[3c7c:000c][2026-05-10T01:35:52] Processing file /Contents/VC/Auxiliary/VS/UnitTest/include/v150/CppUnitTestLogger.h
+[3c7c:000c][2026-05-10T01:35:52] Started: Copying file /Contents/VC/Auxiliary/VS/UnitTest/include/v150/CppUnitTestLogger.h to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\include\v150\CppUnitTestLogger.h
+[3c7c:000c][2026-05-10T01:35:52] Completed: Copying file /Contents/VC/Auxiliary/VS/UnitTest/include/v150/CppUnitTestLogger.h to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\include\v150\CppUnitTestLogger.h
+[3c7c:000c][2026-05-10T01:35:52] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\include\v150\CppUnitTestLogger.h'.
+[3c7c:000c][2026-05-10T01:35:52] Processing file /Contents/VC/Auxiliary/VS/UnitTest/lib/ARM/Microsoft.VisualStudio.TestTools.CppUnitTestFramework.lib
+[3c7c:000c][2026-05-10T01:35:52] Started: Copying file /Contents/VC/Auxiliary/VS/UnitTest/lib/ARM/Microsoft.VisualStudio.TestTools.CppUnitTestFramework.lib to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\lib\ARM\Microsoft.VisualStudio.TestTools.CppUnitTestFramework.lib
+[3c7c:000c][2026-05-10T01:35:52] Completed: Copying file /Contents/VC/Auxiliary/VS/UnitTest/lib/ARM/Microsoft.VisualStudio.TestTools.CppUnitTestFramework.lib to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\lib\ARM\Microsoft.VisualStudio.TestTools.CppUnitTestFramework.lib
+[3c7c:000c][2026-05-10T01:35:52] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\lib\ARM\Microsoft.VisualStudio.TestTools.CppUnitTestFramework.lib'.
+[3c7c:000c][2026-05-10T01:35:52] Processing file /Contents/VC/Auxiliary/VS/UnitTest/lib/ARM64/Microsoft.VisualStudio.TestTools.CppUnitTestFramework.lib
+[3c7c:000c][2026-05-10T01:35:52] Started: Copying file /Contents/VC/Auxiliary/VS/UnitTest/lib/ARM64/Microsoft.VisualStudio.TestTools.CppUnitTestFramework.lib to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\lib\ARM64\Microsoft.VisualStudio.TestTools.CppUnitTestFramework.lib
+[3c7c:000c][2026-05-10T01:35:52] Completed: Copying file /Contents/VC/Auxiliary/VS/UnitTest/lib/ARM64/Microsoft.VisualStudio.TestTools.CppUnitTestFramework.lib to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\lib\ARM64\Microsoft.VisualStudio.TestTools.CppUnitTestFramework.lib
+[3c7c:000c][2026-05-10T01:35:52] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\lib\ARM64\Microsoft.VisualStudio.TestTools.CppUnitTestFramework.lib'.
+[3c7c:000c][2026-05-10T01:35:52] Processing file /Contents/VC/Auxiliary/VS/UnitTest/lib/x64/Microsoft.VisualStudio.TestTools.CppUnitTestFramework.lib
+[3c7c:000c][2026-05-10T01:35:52] Started: Copying file /Contents/VC/Auxiliary/VS/UnitTest/lib/x64/Microsoft.VisualStudio.TestTools.CppUnitTestFramework.lib to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\lib\x64\Microsoft.VisualStudio.TestTools.CppUnitTestFramework.lib
+[3c7c:000c][2026-05-10T01:35:52] Completed: Copying file /Contents/VC/Auxiliary/VS/UnitTest/lib/x64/Microsoft.VisualStudio.TestTools.CppUnitTestFramework.lib to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\lib\x64\Microsoft.VisualStudio.TestTools.CppUnitTestFramework.lib
+[3c7c:000c][2026-05-10T01:35:52] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\lib\x64\Microsoft.VisualStudio.TestTools.CppUnitTestFramework.lib'.
+[3c7c:000c][2026-05-10T01:35:52] Processing file /Contents/VC/Auxiliary/VS/UnitTest/lib/x86/Microsoft.VisualStudio.TestTools.CppUnitTestFramework.lib
+[3c7c:000c][2026-05-10T01:35:52] Started: Copying file /Contents/VC/Auxiliary/VS/UnitTest/lib/x86/Microsoft.VisualStudio.TestTools.CppUnitTestFramework.lib to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\lib\x86\Microsoft.VisualStudio.TestTools.CppUnitTestFramework.lib
+[3c7c:000c][2026-05-10T01:35:52] Completed: Copying file /Contents/VC/Auxiliary/VS/UnitTest/lib/x86/Microsoft.VisualStudio.TestTools.CppUnitTestFramework.lib to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\lib\x86\Microsoft.VisualStudio.TestTools.CppUnitTestFramework.lib
+[3c7c:000c][2026-05-10T01:35:52] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\VS\UnitTest\lib\x86\Microsoft.VisualStudio.TestTools.CppUnitTestFramework.lib'.
+[3c7c:000c][2026-05-10T01:35:52] Package executed successfully. Return code: 0

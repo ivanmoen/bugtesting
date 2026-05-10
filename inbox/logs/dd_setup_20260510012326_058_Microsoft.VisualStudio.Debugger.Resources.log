@@ -1,0 +1,33 @@
+[2e2c:0007][2026-05-10T01:23:47] Opening the package for processing
+[2e2c:0007][2026-05-10T01:23:47] Using package payload to get the embedded manifest
+[2e2c:0007][2026-05-10T01:23:47] Getting list of files within the package
+[2e2c:0007][2026-05-10T01:23:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/DiagnosticAnalysisResource.en.resx
+[2e2c:0007][2026-05-10T01:23:47] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/DiagnosticAnalysisResource.en.resx to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\DiagnosticAnalysisResource.en.resx
+[2e2c:0007][2026-05-10T01:23:47] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/DiagnosticAnalysisResource.en.resx to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\DiagnosticAnalysisResource.en.resx
+[2e2c:0007][2026-05-10T01:23:47] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\DiagnosticAnalysisResource.en.resx'.
+[2e2c:0007][2026-05-10T01:23:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/ScriptResources.en.resx
+[2e2c:0007][2026-05-10T01:23:47] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/ScriptResources.en.resx to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\ScriptResources.en.resx
+[2e2c:0007][2026-05-10T01:23:47] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/ScriptResources.en.resx to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\ScriptResources.en.resx
+[2e2c:0007][2026-05-10T01:23:47] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\ScriptResources.en.resx'.
+[2e2c:0007][2026-05-10T01:23:47] Processing file /Contents/Common7/Packages/Debugger/1033/msdbgui.dll
+[2e2c:0007][2026-05-10T01:23:47] Started: Copying file /Contents/Common7/Packages/Debugger/1033/msdbgui.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\1033\msdbgui.dll
+[2e2c:0007][2026-05-10T01:23:47] Completed: Copying file /Contents/Common7/Packages/Debugger/1033/msdbgui.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\1033\msdbgui.dll
+[2e2c:0007][2026-05-10T01:23:47] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\1033\msdbgui.dll'.
+[2e2c:0007][2026-05-10T01:23:47] Processing file /Contents/Common7/Packages/Debugger/1033/symbollocator.resources.dll
+[2e2c:0007][2026-05-10T01:23:47] Started: Copying file /Contents/Common7/Packages/Debugger/1033/symbollocator.resources.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\1033\symbollocator.resources.dll
+[2e2c:0007][2026-05-10T01:23:47] Completed: Copying file /Contents/Common7/Packages/Debugger/1033/symbollocator.resources.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\1033\symbollocator.resources.dll
+[2e2c:0007][2026-05-10T01:23:47] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\1033\symbollocator.resources.dll'.
+[2e2c:0007][2026-05-10T01:23:47] Processing file /Contents/Common7/Packages/Debugger/1033/vsdebugui.dll
+[2e2c:0007][2026-05-10T01:23:47] Started: Copying file /Contents/Common7/Packages/Debugger/1033/vsdebugui.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\1033\vsdebugui.dll
+[2e2c:0007][2026-05-10T01:23:47] Completed: Copying file /Contents/Common7/Packages/Debugger/1033/vsdebugui.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\1033\vsdebugui.dll
+[2e2c:0007][2026-05-10T01:23:47] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\1033\vsdebugui.dll'.
+[2e2c:0007][2026-05-10T01:23:47] Installing ProgId: VisualStudio.dmp.e00ab787
+[2e2c:0007][2026-05-10T01:23:47] Installing ProgId: VisualStudio.hdmp.e00ab787
+[2e2c:0007][2026-05-10T01:23:47] Installing ProgId: VisualStudio.mdmp.e00ab787
+[2e2c:0007][2026-05-10T01:23:47] Processing file extension for install .dmp
+[2e2c:0007][2026-05-10T01:23:47] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:23:47] Processing file extension for install .hdmp
+[2e2c:0007][2026-05-10T01:23:47] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:23:47] Processing file extension for install .mdmp
+[2e2c:0007][2026-05-10T01:23:47] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:23:47] Package executed successfully. Return code: 0

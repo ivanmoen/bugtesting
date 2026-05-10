@@ -1,0 +1,60 @@
+[0c48:0003][2026-05-10T01:44:45] Using cached package manifest as the embedded manifest
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Commands/Microsoft.VisualStudio.Commands.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Commands\Microsoft.VisualStudio.Commands.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Commands/Microsoft.VisualStudio.Commands.pkgdef
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Commands\Microsoft.VisualStudio.Commands.pkgdef file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Commands/extension.vsixmanifest
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Commands\extension.vsixmanifest file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Connected/trust.registration.json
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Connected\trust.registration.json file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Connected/crl.registration.json
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Connected\crl.registration.json file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.QualityTools.CheckinPolicies.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.QualityTools.CheckinPolicies.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.TestImpact.Analysis.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.TestImpact.Analysis.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.TestImpact.Common.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.TestImpact.Common.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Azure.ActiveDirectory.GraphClient.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Azure.ActiveDirectory.GraphClient.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Data.Edm.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Data.Edm.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Data.OData.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Data.OData.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Data.Services.Client.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Data.Services.Client.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.IdentityModel.Clients.ActiveDirectory.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PrivateAssemblies/Octokit.GraphQL.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Octokit.GraphQL.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PrivateAssemblies/Octokit.GraphQL.core.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Octokit.GraphQL.core.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PrivateAssemblies/AxInterop.WMPLib.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\AxInterop.WMPLib.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PrivateAssemblies/WMPLib.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\WMPLib.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PrivateAssemblies/Ben.Demystifier.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Ben.Demystifier.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Azure.Management.ResourceManager.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Azure.Management.ResourceManager.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PrivateAssemblies/Octokit.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Octokit.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PrivateAssemblies/AdalV5/Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\AdalV5\Microsoft.IdentityModel.Clients.ActiveDirectory.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.RpcContracts.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.RpcContracts.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PublicAssemblies/StreamJsonRpc.1.x/StreamJsonRpc.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\StreamJsonRpc.1.x\StreamJsonRpc.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PublicAssemblies/StreamJsonRpc.2.x/StreamJsonRpc.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\StreamJsonRpc.2.x\StreamJsonRpc.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PublicAssemblies/Nerdbank.Streams.2.x/Nerdbank.Streams.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Nerdbank.Streams.2.x\Nerdbank.Streams.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PublicAssemblies/MessagePack.2.x/MessagePack.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\MessagePack.2.x\MessagePack.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Processing file /Contents/Common7/IDE/PublicAssemblies/MessagePack.2.x/MessagePack.Annotations.dll
+[0c48:0003][2026-05-10T01:44:45] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\MessagePack.2.x\MessagePack.Annotations.dll file deleted.
+[0c48:0003][2026-05-10T01:44:45] Started: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:45] Completed: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:45] Package executed successfully. Return code: 0

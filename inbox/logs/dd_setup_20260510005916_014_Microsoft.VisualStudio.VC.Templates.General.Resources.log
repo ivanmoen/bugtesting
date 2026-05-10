@@ -1,0 +1,34 @@
+[bd94:0009][2026-05-10T01:00:39] Using cached package manifest as the embedded manifest
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/ComputeShader/ComputeShader.hlsl
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\ComputeShader\ComputeShader.hlsl file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/ComputeShader/ComputeShader.vstemplate
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\ComputeShader\ComputeShader.vstemplate file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/DomainShader/DomainShader.hlsl
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\DomainShader\DomainShader.hlsl file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/DomainShader/DomainShader.vstemplate
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\DomainShader\DomainShader.vstemplate file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/GeometryShader/GeometryShader.hlsl
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\GeometryShader\GeometryShader.hlsl file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/GeometryShader/GeometryShader.vstemplate
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\GeometryShader\GeometryShader.vstemplate file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/Header/Header.hlsli
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\Header\Header.hlsli file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/Header/Header.vstemplate
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\Header\Header.vstemplate file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/HullShader/HullShader.hlsl
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\HullShader\HullShader.hlsl file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/HullShader/HullShader.vstemplate
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\HullShader\HullShader.vstemplate file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/PixelShader/PixelShader.hlsl
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\PixelShader\PixelShader.hlsl file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/PixelShader/PixelShader.vstemplate
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\PixelShader\PixelShader.vstemplate file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/VertexShader/VertexShader.hlsl
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\VertexShader\VertexShader.hlsl file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/VertexShader/VertexShader.vstemplate
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\VertexShader\VertexShader.vstemplate file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /contents/Common7/IDE/ItemTemplates/Microsoft.VisualStudio.VC.Templates.General.Resources.en-US.Item..vstman
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\ItemTemplates\Microsoft.VisualStudio.VC.Templates.General.Resources.en-US.Item..vstman file deleted.
+[bd94:0009][2026-05-10T01:00:39] Started: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:39] Completed: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:39] Package executed successfully. Return code: 0

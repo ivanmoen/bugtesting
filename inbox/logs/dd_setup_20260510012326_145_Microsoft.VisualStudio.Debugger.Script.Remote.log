@@ -1,0 +1,12 @@
+[2e2c:0007][2026-05-10T01:23:56] Opening the package for processing
+[2e2c:0007][2026-05-10T01:23:56] Using package payload to get the embedded manifest
+[2e2c:0007][2026-05-10T01:23:56] Getting list of files within the package
+[2e2c:0007][2026-05-10T01:23:56] Processing file /Contents/Common7/IDE/Remote%20Debugger/x64/vsdebugeng.script.dll
+[2e2c:0007][2026-05-10T01:23:56] Started: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/vsdebugeng.script.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\vsdebugeng.script.dll
+[2e2c:0007][2026-05-10T01:23:56] Completed: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/vsdebugeng.script.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\vsdebugeng.script.dll
+[2e2c:0007][2026-05-10T01:23:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\vsdebugeng.script.dll'.
+[2e2c:0007][2026-05-10T01:23:56] Processing file /Contents/Common7/IDE/Script%20Diagnostics/amd64/VSDebugScriptAgent170.dll
+[2e2c:0007][2026-05-10T01:23:56] Started: Copying file /Contents/Common7/IDE/Script%20Diagnostics/amd64/VSDebugScriptAgent170.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Script Diagnostics\amd64\VSDebugScriptAgent170.dll
+[2e2c:0007][2026-05-10T01:23:56] Completed: Copying file /Contents/Common7/IDE/Script%20Diagnostics/amd64/VSDebugScriptAgent170.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Script Diagnostics\amd64\VSDebugScriptAgent170.dll
+[2e2c:0007][2026-05-10T01:23:56] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Script Diagnostics\amd64\VSDebugScriptAgent170.dll'.
+[2e2c:0007][2026-05-10T01:23:56] Package executed successfully. Return code: 0

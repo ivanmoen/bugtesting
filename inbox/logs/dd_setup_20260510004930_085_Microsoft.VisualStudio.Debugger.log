@@ -1,0 +1,350 @@
+[da4c:0007][2026-05-10T00:49:51] Opening the package for processing
+[da4c:0007][2026-05-10T00:49:51] Using package payload to get the embedded manifest
+[da4c:0007][2026-05-10T00:49:51] Getting list of files within the package
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/Automation/VSDebug.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/Automation/VSDebug.dll to D:\Program\Common7\IDE\Automation\VSDebug.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/Automation/VSDebug.dll to D:\Program\Common7\IDE\Automation\VSDebug.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\VSDebug.dll'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/Automation/VSDebug.dll.manifest
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/Automation/VSDebug.dll.manifest to D:\Program\Common7\IDE\Automation\VSDebug.dll.manifest
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/Automation/VSDebug.dll.manifest to D:\Program\Common7\IDE\Automation\VSDebug.dll.manifest
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\Automation\VSDebug.dll.manifest'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/crashdump.ico
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/crashdump.ico to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\crashdump.ico
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/crashdump.ico to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\crashdump.ico
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\crashdump.ico'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/ENCMgr.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/ENCMgr.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\ENCMgr.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/ENCMgr.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\ENCMgr.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\ENCMgr.pkgdef'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/Microsoft.VisualStudio.Debugger.UI.Interfaces.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/Microsoft.VisualStudio.Debugger.UI.Interfaces.dll to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\Microsoft.VisualStudio.Debugger.UI.Interfaces.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/Microsoft.VisualStudio.Debugger.UI.Interfaces.dll to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\Microsoft.VisualStudio.Debugger.UI.Interfaces.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\Microsoft.VisualStudio.Debugger.UI.Interfaces.dll'.
+[da4c:0007][2026-05-10T00:49:51] Queueing D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\Microsoft.VisualStudio.Debugger.UI.Interfaces.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:51] Successfully queued file '/Contents/Common7/IDE/CommonExtensions/Platform/Debugger/Microsoft.VisualStudio.Debugger.UI.Interfaces.dll' for ngen
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/OpenFolderSchema.json
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/OpenFolderSchema.json to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\OpenFolderSchema.json
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/OpenFolderSchema.json to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\OpenFolderSchema.json
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\OpenFolderSchema.json'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/SymbolLocator.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/SymbolLocator.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\SymbolLocator.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/SymbolLocator.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\SymbolLocator.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\SymbolLocator.pkgdef'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/vsdebug.imagemanifest
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/vsdebug.imagemanifest to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\vsdebug.imagemanifest
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/vsdebug.imagemanifest to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\vsdebug.imagemanifest
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\vsdebug.imagemanifest'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VSDebug.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VSDebug.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\VSDebug.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VSDebug.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\VSDebug.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\VSDebug.pkgdef'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VSDebugCoreUI.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VSDebugCoreUI.dll to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\VSDebugCoreUI.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VSDebugCoreUI.dll to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\VSDebugCoreUI.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\VSDebugCoreUI.dll'.
+[da4c:0007][2026-05-10T00:49:51] Queueing D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\VSDebugCoreUI.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:51] Successfully queued file '/Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VSDebugCoreUI.dll' for ngen
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VSDebugCoreUI.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VSDebugCoreUI.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\VSDebugCoreUI.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VSDebugCoreUI.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\VSDebugCoreUI.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\VSDebugCoreUI.pkgdef'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VsDebugPresentationPackage.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VsDebugPresentationPackage.dll to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\VsDebugPresentationPackage.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VsDebugPresentationPackage.dll to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\VsDebugPresentationPackage.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\VsDebugPresentationPackage.dll'.
+[da4c:0007][2026-05-10T00:49:51] Queueing D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\VsDebugPresentationPackage.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:51] Successfully queued file '/Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VsDebugPresentationPackage.dll' for ngen
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VsDebugPresentationPackage.imagemanifest
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VsDebugPresentationPackage.imagemanifest to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\VsDebugPresentationPackage.imagemanifest
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VsDebugPresentationPackage.imagemanifest to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\VsDebugPresentationPackage.imagemanifest
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\VsDebugPresentationPackage.imagemanifest'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VsDebugPresentationPackage.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VsDebugPresentationPackage.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\VsDebugPresentationPackage.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VsDebugPresentationPackage.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\VsDebugPresentationPackage.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\VsDebugPresentationPackage.pkgdef'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/BptDiagnosticCommon/Icons/add_row.png
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/BptDiagnosticCommon/Icons/add_row.png to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\BptDiagnosticCommon\Icons\add_row.png
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/BptDiagnosticCommon/Icons/add_row.png to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\BptDiagnosticCommon\Icons\add_row.png
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\BptDiagnosticCommon\Icons\add_row.png'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/BptDiagnosticCommon/Icons/columnmove.png
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/BptDiagnosticCommon/Icons/columnmove.png to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\BptDiagnosticCommon\Icons\columnmove.png
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/BptDiagnosticCommon/Icons/columnmove.png to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\BptDiagnosticCommon\Icons\columnmove.png
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\BptDiagnosticCommon\Icons\columnmove.png'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/BptDiagnosticCommon/Icons/common-icons.png
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/BptDiagnosticCommon/Icons/common-icons.png to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\BptDiagnosticCommon\Icons\common-icons.png
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/BptDiagnosticCommon/Icons/common-icons.png to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\BptDiagnosticCommon\Icons\common-icons.png
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\BptDiagnosticCommon\Icons\common-icons.png'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/BptDiagnosticCommon/Icons/copy.png
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/BptDiagnosticCommon/Icons/copy.png to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\BptDiagnosticCommon\Icons\copy.png
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/BptDiagnosticCommon/Icons/copy.png to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\BptDiagnosticCommon\Icons\copy.png
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\BptDiagnosticCommon\Icons\copy.png'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/BptDiagnosticCommon/Icons/hotItem.png
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/BptDiagnosticCommon/Icons/hotItem.png to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\BptDiagnosticCommon\Icons\hotItem.png
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/BptDiagnosticCommon/Icons/hotItem.png to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\BptDiagnosticCommon\Icons\hotItem.png
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\BptDiagnosticCommon\Icons\hotItem.png'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/BptDiagnosticCommon/Icons/hotPath.png
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/BptDiagnosticCommon/Icons/hotPath.png to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\BptDiagnosticCommon\Icons\hotPath.png
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/BptDiagnosticCommon/Icons/hotPath.png to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\BptDiagnosticCommon\Icons\hotPath.png
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\BptDiagnosticCommon\Icons\hotPath.png'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/BptDiagnosticCommon/Icons/itemCollapsedIcon.png
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/BptDiagnosticCommon/Icons/itemCollapsedIcon.png to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\BptDiagnosticCommon\Icons\itemCollapsedIcon.png
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/BptDiagnosticCommon/Icons/itemCollapsedIcon.png to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\BptDiagnosticCommon\Icons\itemCollapsedIcon.png
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\BptDiagnosticCommon\Icons\itemCollapsedIcon.png'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/BptDiagnosticCommon/Icons/itemExpandedIcon.png
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/BptDiagnosticCommon/Icons/itemExpandedIcon.png to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\BptDiagnosticCommon\Icons\itemExpandedIcon.png
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/BptDiagnosticCommon/Icons/itemExpandedIcon.png to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\BptDiagnosticCommon\Icons\itemExpandedIcon.png
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\BptDiagnosticCommon\Icons\itemExpandedIcon.png'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/BptDiagnosticCommon/Icons/misc-icons.png
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/BptDiagnosticCommon/Icons/misc-icons.png to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\BptDiagnosticCommon\Icons\misc-icons.png
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/BptDiagnosticCommon/Icons/misc-icons.png to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\BptDiagnosticCommon\Icons\misc-icons.png
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\BptDiagnosticCommon\Icons\misc-icons.png'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/BptDiagnosticCommon/Icons/tree-icons.png
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/BptDiagnosticCommon/Icons/tree-icons.png to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\BptDiagnosticCommon\Icons\tree-icons.png
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/BptDiagnosticCommon/Icons/tree-icons.png to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\BptDiagnosticCommon\Icons\tree-icons.png
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\BptDiagnosticCommon\Icons\tree-icons.png'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/BptDiagnosticCommon/JSTreeDynamicGridControl.js
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/BptDiagnosticCommon/JSTreeDynamicGridControl.js to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\BptDiagnosticCommon\JSTreeDynamicGridControl.js
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/BptDiagnosticCommon/JSTreeDynamicGridControl.js to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\BptDiagnosticCommon\JSTreeDynamicGridControl.js
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\BptDiagnosticCommon\JSTreeDynamicGridControl.js'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/BptDiagnosticCommon/MicrosoftAjax-4.0.0.0.debug.js
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/BptDiagnosticCommon/MicrosoftAjax-4.0.0.0.debug.js to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\BptDiagnosticCommon\MicrosoftAjax-4.0.0.0.debug.js
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/BptDiagnosticCommon/MicrosoftAjax-4.0.0.0.debug.js to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\BptDiagnosticCommon\MicrosoftAjax-4.0.0.0.debug.js
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\BptDiagnosticCommon\MicrosoftAjax-4.0.0.0.debug.js'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/camera.png
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/camera.png to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\camera.png
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/camera.png to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\camera.png
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\camera.png'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/camera.svg
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/camera.svg to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\camera.svg
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/camera.svg to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\camera.svg
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\camera.svg'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/Controls/css/dataGrid.css
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/Controls/css/dataGrid.css to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\Controls\css\dataGrid.css
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/Controls/css/dataGrid.css to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\Controls\css\dataGrid.css
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\Controls\css\dataGrid.css'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/Controls/css/treeGrid.css
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/Controls/css/treeGrid.css to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\Controls\css\treeGrid.css
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/Controls/css/treeGrid.css to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\Controls\css\treeGrid.css
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\Controls\css\treeGrid.css'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/Controls/WebView2/dataGrid.css
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/Controls/WebView2/dataGrid.css to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\Controls\WebView2\dataGrid.css
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/Controls/WebView2/dataGrid.css to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\Controls\WebView2\dataGrid.css
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\Controls\WebView2\dataGrid.css'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/Controls/WebView2/diagnosticsHub.js
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/Controls/WebView2/diagnosticsHub.js to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\Controls\WebView2\diagnosticsHub.js
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/Controls/WebView2/diagnosticsHub.js to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\Controls\WebView2\diagnosticsHub.js
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\Controls\WebView2\diagnosticsHub.js'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/Controls/WebView2/treeGrid.css
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/Controls/WebView2/treeGrid.css to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\Controls\WebView2\treeGrid.css
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/Controls/WebView2/treeGrid.css to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\Controls\WebView2\treeGrid.css
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\Controls\WebView2\treeGrid.css'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/delete.png
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/delete.png to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\delete.png
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/delete.png to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\delete.png
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\delete.png'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/DiagnosticAnalysisWindow.css
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/DiagnosticAnalysisWindow.css to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\DiagnosticAnalysisWindow.css
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/DiagnosticAnalysisWindow.css to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\DiagnosticAnalysisWindow.css
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\DiagnosticAnalysisWindow.css'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/DiagnosticAnalysisWindow.html
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/DiagnosticAnalysisWindow.html to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\DiagnosticAnalysisWindow.html
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/DiagnosticAnalysisWindow.html to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\DiagnosticAnalysisWindow.html
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\DiagnosticAnalysisWindow.html'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/DiagnosticAnalysisWindow.js
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/DiagnosticAnalysisWindow.js to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\DiagnosticAnalysisWindow.js
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/DiagnosticAnalysisWindow.js to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\DiagnosticAnalysisWindow.js
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\DiagnosticAnalysisWindow.js'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/DiagnosticAnalysisWindow.manifest.json
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/DiagnosticAnalysisWindow.manifest.json to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\DiagnosticAnalysisWindow.manifest.json
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/DiagnosticAnalysisWindow.manifest.json to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\DiagnosticAnalysisWindow.manifest.json
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\DiagnosticAnalysisWindow.manifest.json'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/gcGlyph.png
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/gcGlyph.png to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\gcGlyph.png
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/gcGlyph.png to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\gcGlyph.png
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\gcGlyph.png'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/grid.css
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/grid.css to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\grid.css
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/grid.css to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\grid.css
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\grid.css'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/Icons/itemCollapsed.png
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/Icons/itemCollapsed.png to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\Icons\itemCollapsed.png
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/Icons/itemCollapsed.png to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\Icons\itemCollapsed.png
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\Icons\itemCollapsed.png'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/Icons/itemExpanded.png
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/Icons/itemExpanded.png to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\Icons\itemExpanded.png
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/Icons/itemExpanded.png to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\Icons\itemExpanded.png
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\Icons\itemExpanded.png'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/inspect.png
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/inspect.png to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\inspect.png
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/inspect.png to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\inspect.png
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\inspect.png'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/Knockout/knockout-3.4.0.js
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/Knockout/knockout-3.4.0.js to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\Knockout\knockout-3.4.0.js
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/Knockout/knockout-3.4.0.js to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\Knockout\knockout-3.4.0.js
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\Knockout\knockout-3.4.0.js'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/ManagedMemorySwimlaneView.html
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/ManagedMemorySwimlaneView.html to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\ManagedMemorySwimlaneView.html
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/ManagedMemorySwimlaneView.html to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\ManagedMemorySwimlaneView.html
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\ManagedMemorySwimlaneView.html'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/memory.svg
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/memory.svg to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\memory.svg
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/memory.svg to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\memory.svg
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\memory.svg'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/MemoryAnalyzerSwimlaneFactory.js
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/MemoryAnalyzerSwimlaneFactory.js to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\MemoryAnalyzerSwimlaneFactory.js
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/MemoryAnalyzerSwimlaneFactory.js to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\MemoryAnalyzerSwimlaneFactory.js
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\MemoryAnalyzerSwimlaneFactory.js'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/MemoryAnalyzerSwimlaneFactory.manifest.json
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/MemoryAnalyzerSwimlaneFactory.manifest.json to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\MemoryAnalyzerSwimlaneFactory.manifest.json
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/MemoryAnalyzerSwimlaneFactory.manifest.json to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\MemoryAnalyzerSwimlaneFactory.manifest.json
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\MemoryAnalyzerSwimlaneFactory.manifest.json'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/mma_icons.png
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/mma_icons.png to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\mma_icons.png
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/mma_icons.png to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\mma_icons.png
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\mma_icons.png'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/ResultsParser.min.js
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/ResultsParser.min.js to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\ResultsParser.min.js
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/ResultsParser.min.js to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\ResultsParser.min.js
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\ResultsParser.min.js'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/snapshotGlyph.png
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/snapshotGlyph.png to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\snapshotGlyph.png
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/snapshotGlyph.png to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\snapshotGlyph.png
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\snapshotGlyph.png'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/snapshotpoint.svg
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/snapshotpoint.svg to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\snapshotpoint.svg
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/snapshotpoint.svg to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\snapshotpoint.svg
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\snapshotpoint.svg'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/spacer.png
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/spacer.png to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\spacer.png
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/spacer.png to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\spacer.png
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\spacer.png'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/WebView2/diagnosticsHub.js
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/WebView2/diagnosticsHub.js to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\WebView2\diagnosticsHub.js
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/WebView2/diagnosticsHub.js to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\WebView2\diagnosticsHub.js
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\WebView2\diagnosticsHub.js'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/ParallelDebugger/Microsoft.VisualStudio.Debugger.Parallel.Extension.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/ParallelDebugger/Microsoft.VisualStudio.Debugger.Parallel.Extension.dll to D:\Program\Common7\IDE\CommonExtensions\Platform\ParallelDebugger\Microsoft.VisualStudio.Debugger.Parallel.Extension.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/ParallelDebugger/Microsoft.VisualStudio.Debugger.Parallel.Extension.dll to D:\Program\Common7\IDE\CommonExtensions\Platform\ParallelDebugger\Microsoft.VisualStudio.Debugger.Parallel.Extension.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\ParallelDebugger\Microsoft.VisualStudio.Debugger.Parallel.Extension.dll'.
+[da4c:0007][2026-05-10T00:49:51] Queueing D:\Program\Common7\IDE\CommonExtensions\Platform\ParallelDebugger\Microsoft.VisualStudio.Debugger.Parallel.Extension.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:51] Successfully queued file '/Contents/Common7/IDE/CommonExtensions/Platform/ParallelDebugger/Microsoft.VisualStudio.Debugger.Parallel.Extension.dll' for ngen
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/ParallelDebugger/Microsoft.VisualStudio.Debugger.Parallel.Extension.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/ParallelDebugger/Microsoft.VisualStudio.Debugger.Parallel.Extension.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\ParallelDebugger\Microsoft.VisualStudio.Debugger.Parallel.Extension.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/ParallelDebugger/Microsoft.VisualStudio.Debugger.Parallel.Extension.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\ParallelDebugger\Microsoft.VisualStudio.Debugger.Parallel.Extension.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\ParallelDebugger\Microsoft.VisualStudio.Debugger.Parallel.Extension.pkgdef'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.Debugger.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Debugger.dll to D:\Program\Common7\IDE\Microsoft.VisualStudio.Debugger.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Debugger.dll to D:\Program\Common7\IDE\Microsoft.VisualStudio.Debugger.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\Microsoft.VisualStudio.Debugger.dll'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Debugger.Azure.Shared.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Debugger.Azure.Shared.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Debugger.Azure.Shared.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Debugger.Azure.Shared.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Debugger.Azure.Shared.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Debugger.Azure.Shared.dll'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Debugger.Contracts.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Debugger.Contracts.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Debugger.Contracts.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Debugger.Contracts.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Debugger.Contracts.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Debugger.Contracts.dll'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Debugger.Interop.Internal.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Debugger.Interop.Internal.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Debugger.Interop.Internal.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Debugger.Interop.Internal.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Debugger.Interop.Internal.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Debugger.Interop.Internal.dll'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Debugger.MemoryToolAnalyzer.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Debugger.MemoryToolAnalyzer.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Debugger.MemoryToolAnalyzer.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Debugger.MemoryToolAnalyzer.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Debugger.MemoryToolAnalyzer.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Debugger.MemoryToolAnalyzer.dll'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Debugger.SymbolLocator.Interop.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Debugger.SymbolLocator.Interop.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Debugger.SymbolLocator.Interop.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Debugger.SymbolLocator.Interop.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Debugger.SymbolLocator.Interop.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Debugger.SymbolLocator.Interop.dll'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Diagnostics.Common.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Diagnostics.Common.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Diagnostics.Common.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Diagnostics.Common.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Diagnostics.Common.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Diagnostics.Common.dll'.
+[da4c:0007][2026-05-10T00:49:51] Queueing D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Diagnostics.Common.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:51] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Diagnostics.Common.dll' for ngen
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Debugger.Interop.10.0.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Debugger.Interop.10.0.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Debugger.Interop.10.0.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Debugger.Interop.10.0.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Debugger.Interop.10.0.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Debugger.Interop.10.0.dll'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Debugger.Interop.11.0.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Debugger.Interop.11.0.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Debugger.Interop.11.0.dll'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Debugger.Interop.12.0.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Debugger.Interop.12.0.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Debugger.Interop.12.0.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Debugger.Interop.12.0.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Debugger.Interop.12.0.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Debugger.Interop.12.0.dll'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Debugger.Interop.14.0.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Debugger.Interop.14.0.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Debugger.Interop.14.0.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Debugger.Interop.14.0.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Debugger.Interop.14.0.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Debugger.Interop.14.0.dll'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Debugger.Interop.15.0.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Debugger.Interop.15.0.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Debugger.Interop.15.0.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Debugger.Interop.15.0.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Debugger.Interop.15.0.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Debugger.Interop.15.0.dll'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Debugger.Interop.16.0.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Debugger.Interop.16.0.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Debugger.Interop.16.0.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Debugger.Interop.16.0.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Debugger.Interop.16.0.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Debugger.Interop.16.0.dll'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Debugger.Interop.17.0.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Debugger.Interop.17.0.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Debugger.Interop.17.0.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Debugger.Interop.17.0.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Debugger.Interop.17.0.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Debugger.Interop.17.0.dll'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Debugger.InteropA.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Debugger.InteropA.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Debugger.InteropA.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Debugger.InteropA.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Debugger.InteropA.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Debugger.InteropA.dll'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/srcsrv.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/srcsrv.dll to D:\Program\Common7\IDE\srcsrv.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/srcsrv.dll to D:\Program\Common7\IDE\srcsrv.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\srcsrv.dll'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/srcsrv.ini
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/srcsrv.ini to D:\Program\Common7\IDE\srcsrv.ini
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/srcsrv.ini to D:\Program\Common7\IDE\srcsrv.ini
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\srcsrv.ini'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/symsrv.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/symsrv.dll to D:\Program\Common7\IDE\symsrv.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/symsrv.dll to D:\Program\Common7\IDE\symsrv.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\symsrv.dll'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/symsrv.yes
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/symsrv.yes to D:\Program\Common7\IDE\symsrv.yes
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/symsrv.yes to D:\Program\Common7\IDE\symsrv.yes
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\symsrv.yes'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/symsrvhost.exe
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/symsrvhost.exe to D:\Program\Common7\IDE\symsrvhost.exe
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/symsrvhost.exe to D:\Program\Common7\IDE\symsrvhost.exe
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\symsrvhost.exe'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/Packages/Debugger/encmgr.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/Packages/Debugger/encmgr.dll to D:\Program\Common7\Packages\Debugger\encmgr.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/Packages/Debugger/encmgr.dll to D:\Program\Common7\Packages\Debugger\encmgr.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\Packages\Debugger\encmgr.dll'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/Packages/Debugger/msdia140.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/Packages/Debugger/msdia140.dll to D:\Program\Common7\Packages\Debugger\msdia140.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/Packages/Debugger/msdia140.dll to D:\Program\Common7\Packages\Debugger\msdia140.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\Packages\Debugger\msdia140.dll'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/Packages/Debugger/msvcp140_atomic_wait.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/Packages/Debugger/msvcp140_atomic_wait.dll to D:\Program\Common7\Packages\Debugger\msvcp140_atomic_wait.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/Packages/Debugger/msvcp140_atomic_wait.dll to D:\Program\Common7\Packages\Debugger\msvcp140_atomic_wait.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\Packages\Debugger\msvcp140_atomic_wait.dll'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/Packages/Debugger/symbollocator.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/Packages/Debugger/symbollocator.dll to D:\Program\Common7\Packages\Debugger\symbollocator.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/Packages/Debugger/symbollocator.dll to D:\Program\Common7\Packages\Debugger\symbollocator.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\Packages\Debugger\symbollocator.dll'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/Packages/Debugger/UnifiedSettings/DebuggerOptions.registration.json
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/Packages/Debugger/UnifiedSettings/DebuggerOptions.registration.json to D:\Program\Common7\Packages\Debugger\UnifiedSettings\DebuggerOptions.registration.json
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/Packages/Debugger/UnifiedSettings/DebuggerOptions.registration.json to D:\Program\Common7\Packages\Debugger\UnifiedSettings\DebuggerOptions.registration.json
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\Packages\Debugger\UnifiedSettings\DebuggerOptions.registration.json'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/Packages/Debugger/VSDebug.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/Packages/Debugger/VSDebug.dll to D:\Program\Common7\Packages\Debugger\VSDebug.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/Packages/Debugger/VSDebug.dll to D:\Program\Common7\Packages\Debugger\VSDebug.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\Packages\Debugger\VSDebug.dll'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/extension.vsixmanifest
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/extension.vsixmanifest to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\extension.vsixmanifest
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/extension.vsixmanifest to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\extension.vsixmanifest
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\extension.vsixmanifest'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/ParallelDebugger/extension.vsixmanifest
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/ParallelDebugger/extension.vsixmanifest to D:\Program\Common7\IDE\CommonExtensions\Platform\ParallelDebugger\extension.vsixmanifest
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/ParallelDebugger/extension.vsixmanifest to D:\Program\Common7\IDE\CommonExtensions\Platform\ParallelDebugger\extension.vsixmanifest
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\ParallelDebugger\extension.vsixmanifest'.
+[da4c:0007][2026-05-10T00:49:51] Package executed successfully. Return code: 0

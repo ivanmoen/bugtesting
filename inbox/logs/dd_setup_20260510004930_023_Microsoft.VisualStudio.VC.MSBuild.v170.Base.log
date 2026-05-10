@@ -1,0 +1,408 @@
+[da4c:0007][2026-05-10T00:49:38] Opening the package for processing
+[da4c:0007][2026-05-10T00:49:38] Using package payload to get the embedded manifest
+[da4c:0007][2026-05-10T00:49:38] Getting list of files within the package
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/MSBuild/Current/Bin/SdkResolvers/Microsoft.VC.VcpkgSdkResolver/Microsoft.VC.VcpkgSdkResolver.dll
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/MSBuild/Current/Bin/SdkResolvers/Microsoft.VC.VcpkgSdkResolver/Microsoft.VC.VcpkgSdkResolver.dll to D:\Program\MSBuild\Current\Bin\SdkResolvers\Microsoft.VC.VcpkgSdkResolver\Microsoft.VC.VcpkgSdkResolver.dll
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/MSBuild/Current/Bin/SdkResolvers/Microsoft.VC.VcpkgSdkResolver/Microsoft.VC.VcpkgSdkResolver.dll to D:\Program\MSBuild\Current\Bin\SdkResolvers\Microsoft.VC.VcpkgSdkResolver\Microsoft.VC.VcpkgSdkResolver.dll
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\MSBuild\Current\Bin\SdkResolvers\Microsoft.VC.VcpkgSdkResolver\Microsoft.VC.VcpkgSdkResolver.dll'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/MSBuild/Current/Bin/SdkResolvers/Microsoft.VC.VcpkgSdkResolver/Microsoft.VC.VcpkgSdkResolver.xml
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/MSBuild/Current/Bin/SdkResolvers/Microsoft.VC.VcpkgSdkResolver/Microsoft.VC.VcpkgSdkResolver.xml to D:\Program\MSBuild\Current\Bin\SdkResolvers\Microsoft.VC.VcpkgSdkResolver\Microsoft.VC.VcpkgSdkResolver.xml
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/MSBuild/Current/Bin/SdkResolvers/Microsoft.VC.VcpkgSdkResolver/Microsoft.VC.VcpkgSdkResolver.xml to D:\Program\MSBuild\Current\Bin\SdkResolvers\Microsoft.VC.VcpkgSdkResolver\Microsoft.VC.VcpkgSdkResolver.xml
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\MSBuild\Current\Bin\SdkResolvers\Microsoft.VC.VcpkgSdkResolver\Microsoft.VC.VcpkgSdkResolver.xml'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/ImageContentTask.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/ImageContentTask.props to D:\Program\Msbuild\Microsoft\VC\v170\BuildCustomizations\ImageContentTask.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/ImageContentTask.props to D:\Program\Msbuild\Microsoft\VC\v170\BuildCustomizations\ImageContentTask.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\BuildCustomizations\ImageContentTask.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/ImageContentTask.targets
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/ImageContentTask.targets to D:\Program\Msbuild\Microsoft\VC\v170\BuildCustomizations\ImageContentTask.targets
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/ImageContentTask.targets to D:\Program\Msbuild\Microsoft\VC\v170\BuildCustomizations\ImageContentTask.targets
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\BuildCustomizations\ImageContentTask.targets'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/lc.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/lc.props to D:\Program\Msbuild\Microsoft\VC\v170\BuildCustomizations\lc.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/lc.props to D:\Program\Msbuild\Microsoft\VC\v170\BuildCustomizations\lc.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\BuildCustomizations\lc.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/lc.targets
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/lc.targets to D:\Program\Msbuild\Microsoft\VC\v170\BuildCustomizations\lc.targets
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/lc.targets to D:\Program\Msbuild\Microsoft\VC\v170\BuildCustomizations\lc.targets
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\BuildCustomizations\lc.targets'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/lc.xml
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/lc.xml to D:\Program\Msbuild\Microsoft\VC\v170\BuildCustomizations\lc.xml
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/lc.xml to D:\Program\Msbuild\Microsoft\VC\v170\BuildCustomizations\lc.xml
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\BuildCustomizations\lc.xml'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/marmasm.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/marmasm.props to D:\Program\Msbuild\Microsoft\VC\v170\BuildCustomizations\marmasm.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/marmasm.props to D:\Program\Msbuild\Microsoft\VC\v170\BuildCustomizations\marmasm.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\BuildCustomizations\marmasm.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/marmasm.targets
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/marmasm.targets to D:\Program\Msbuild\Microsoft\VC\v170\BuildCustomizations\marmasm.targets
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/marmasm.targets to D:\Program\Msbuild\Microsoft\VC\v170\BuildCustomizations\marmasm.targets
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\BuildCustomizations\marmasm.targets'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/marmasm.xml
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/marmasm.xml to D:\Program\Msbuild\Microsoft\VC\v170\BuildCustomizations\marmasm.xml
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/marmasm.xml to D:\Program\Msbuild\Microsoft\VC\v170\BuildCustomizations\marmasm.xml
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\BuildCustomizations\marmasm.xml'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/masm.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/masm.props to D:\Program\Msbuild\Microsoft\VC\v170\BuildCustomizations\masm.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/masm.props to D:\Program\Msbuild\Microsoft\VC\v170\BuildCustomizations\masm.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\BuildCustomizations\masm.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/masm.targets
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/masm.targets to D:\Program\Msbuild\Microsoft\VC\v170\BuildCustomizations\masm.targets
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/masm.targets to D:\Program\Msbuild\Microsoft\VC\v170\BuildCustomizations\masm.targets
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\BuildCustomizations\masm.targets'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/masm.xml
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/masm.xml to D:\Program\Msbuild\Microsoft\VC\v170\BuildCustomizations\masm.xml
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/masm.xml to D:\Program\Msbuild\Microsoft\VC\v170\BuildCustomizations\masm.xml
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\BuildCustomizations\masm.xml'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/MeshContentTask.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/MeshContentTask.props to D:\Program\Msbuild\Microsoft\VC\v170\BuildCustomizations\MeshContentTask.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/MeshContentTask.props to D:\Program\Msbuild\Microsoft\VC\v170\BuildCustomizations\MeshContentTask.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\BuildCustomizations\MeshContentTask.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/MeshContentTask.targets
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/MeshContentTask.targets to D:\Program\Msbuild\Microsoft\VC\v170\BuildCustomizations\MeshContentTask.targets
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/MeshContentTask.targets to D:\Program\Msbuild\Microsoft\VC\v170\BuildCustomizations\MeshContentTask.targets
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\BuildCustomizations\MeshContentTask.targets'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/ShaderGraphContentTask.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/ShaderGraphContentTask.props to D:\Program\Msbuild\Microsoft\VC\v170\BuildCustomizations\ShaderGraphContentTask.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/ShaderGraphContentTask.props to D:\Program\Msbuild\Microsoft\VC\v170\BuildCustomizations\ShaderGraphContentTask.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\BuildCustomizations\ShaderGraphContentTask.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/ShaderGraphContentTask.targets
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/ShaderGraphContentTask.targets to D:\Program\Msbuild\Microsoft\VC\v170\BuildCustomizations\ShaderGraphContentTask.targets
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/ShaderGraphContentTask.targets to D:\Program\Msbuild\Microsoft\VC\v170\BuildCustomizations\ShaderGraphContentTask.targets
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\BuildCustomizations\ShaderGraphContentTask.targets'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Build.CPPTasks.Common.Base.dll
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Build.CPPTasks.Common.Base.dll to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Build.CPPTasks.Common.Base.dll
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Build.CPPTasks.Common.Base.dll to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Build.CPPTasks.Common.Base.dll
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Build.CPPTasks.Common.Base.dll'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Build.CPPTasks.Common.dll
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Build.CPPTasks.Common.dll to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Build.CPPTasks.Common.dll
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Build.CPPTasks.Common.dll to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Build.CPPTasks.Common.dll
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Build.CPPTasks.Common.dll'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.BuildSteps.targets
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.BuildSteps.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.BuildSteps.targets
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.BuildSteps.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.BuildSteps.targets
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.BuildSteps.targets'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cl.Common.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cl.Common.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cl.Common.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cl.Common.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cl.Common.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cl.Common.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Analysis.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Analysis.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Analysis.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Analysis.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Analysis.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Analysis.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Analysis.targets
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Analysis.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Analysis.targets
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Analysis.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Analysis.targets
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Analysis.targets'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.AppContainerApplication.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.AppContainerApplication.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.AppContainerApplication.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.AppContainerApplication.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.AppContainerApplication.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.AppContainerApplication.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Application.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Application.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Application.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Application.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Application.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Application.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.BuildBsc.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.BuildBsc.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.BuildBsc.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.BuildBsc.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.BuildBsc.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.BuildBsc.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.BuildPass.targets
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.BuildPass.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.BuildPass.targets
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.BuildPass.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.BuildPass.targets
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.BuildPass.targets'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Clang.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Clang.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Clang.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Clang.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Clang.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Clang.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Clang.targets
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Clang.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Clang.targets
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Clang.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Clang.targets
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Clang.targets'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.ClangTidy.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.ClangTidy.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.ClangTidy.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.ClangTidy.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.ClangTidy.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.ClangTidy.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.ClangTidy.targets
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.ClangTidy.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.ClangTidy.targets
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.ClangTidy.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.ClangTidy.targets
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.ClangTidy.targets'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Common.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Common.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Common.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.CoreWin.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.CoreWin.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.CoreWin.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.CoreWin.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.CoreWin.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.CoreWin.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Current.targets
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Current.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Current.targets
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Current.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Current.targets
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Current.targets'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Default.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Default.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Default.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Default.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Default.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Default.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.DesignTime.targets
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.DesignTime.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.DesignTime.targets
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.DesignTime.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.DesignTime.targets
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.DesignTime.targets'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.EnableASAN.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.EnableASAN.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.EnableASAN.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.EnableASAN.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.EnableASAN.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.EnableASAN.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.InvalidPlatform.targets
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.InvalidPlatform.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.InvalidPlatform.targets
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.InvalidPlatform.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.InvalidPlatform.targets
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.InvalidPlatform.targets'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.ManagedExtensions.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.ManagedExtensions.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.ManagedExtensions.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.ManagedExtensions.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.ManagedExtensions.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.ManagedExtensions.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.ManagedExtensionsNetCore.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.ManagedExtensionsNetCore.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.ManagedExtensionsNetCore.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.ManagedExtensionsNetCore.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.ManagedExtensionsNetCore.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.ManagedExtensionsNetCore.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.managedExtensionsOldSyntax.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.managedExtensionsOldSyntax.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.managedExtensionsOldSyntax.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.managedExtensionsOldSyntax.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.managedExtensionsOldSyntax.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.managedExtensionsOldSyntax.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.ManagedExtensionsPure.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.ManagedExtensionsPure.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.ManagedExtensionsPure.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.ManagedExtensionsPure.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.ManagedExtensionsPure.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.ManagedExtensionsPure.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.ManagedExtensionsSafe.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.ManagedExtensionsSafe.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.ManagedExtensionsSafe.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.ManagedExtensionsSafe.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.ManagedExtensionsSafe.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.ManagedExtensionsSafe.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.mfcDynamic.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.mfcDynamic.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.mfcDynamic.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.mfcDynamic.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.mfcDynamic.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.mfcDynamic.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.mfcStatic.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.mfcStatic.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.mfcStatic.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.mfcStatic.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.mfcStatic.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.mfcStatic.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.MissingToolset.targets
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.MissingToolset.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.MissingToolset.targets
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.MissingToolset.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.MissingToolset.targets
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.MissingToolset.targets'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.MSVC.Toolset.ARM.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.MSVC.Toolset.ARM.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.MSVC.Toolset.ARM.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.MSVC.Toolset.ARM.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.MSVC.Toolset.ARM.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.MSVC.Toolset.ARM.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.MSVC.Toolset.ARM64.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.MSVC.Toolset.ARM64.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.MSVC.Toolset.ARM64.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.MSVC.Toolset.ARM64.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.MSVC.Toolset.ARM64.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.MSVC.Toolset.ARM64.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.MSVC.Toolset.ARM64EC.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.MSVC.Toolset.ARM64EC.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.MSVC.Toolset.ARM64EC.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.MSVC.Toolset.ARM64EC.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.MSVC.Toolset.ARM64EC.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.MSVC.Toolset.ARM64EC.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.MSVC.Toolset.Common.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.MSVC.Toolset.Common.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.MSVC.Toolset.Common.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.MSVC.Toolset.Common.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.MSVC.Toolset.Common.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.MSVC.Toolset.Common.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.MSVC.Toolset.Win32.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.MSVC.Toolset.Win32.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.MSVC.Toolset.Win32.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.MSVC.Toolset.Win32.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.MSVC.Toolset.Win32.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.MSVC.Toolset.Win32.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.MSVC.Toolset.x64.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.MSVC.Toolset.x64.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.MSVC.Toolset.x64.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.MSVC.Toolset.x64.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.MSVC.Toolset.x64.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.MSVC.Toolset.x64.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.MultiByteCharSupport.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.MultiByteCharSupport.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.MultiByteCharSupport.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.MultiByteCharSupport.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.MultiByteCharSupport.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.MultiByteCharSupport.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.pginstrument.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.pginstrument.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.pginstrument.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.pginstrument.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.pginstrument.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.pginstrument.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.pgoptimize.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.pgoptimize.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.pgoptimize.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.pgoptimize.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.pgoptimize.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.pgoptimize.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.pgupdate.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.pgupdate.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.pgupdate.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.pgupdate.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.pgupdate.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.pgupdate.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Platform.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Platform.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Platform.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Platform.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Platform.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Platform.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Platform.targets
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Platform.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Platform.targets
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Platform.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Platform.targets
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Platform.targets'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.10.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.10.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.10.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.10.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.10.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.10.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.10.targets
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.10.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.10.targets
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.10.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.10.targets
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.10.targets'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.11.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.11.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.11.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.11.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.11.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.11.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.11.targets
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.11.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.11.targets
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.11.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.11.targets
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.11.targets'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.12.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.12.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.12.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.12.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.12.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.12.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.12.targets
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.12.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.12.targets
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.12.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.12.targets
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.12.targets'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.14.Build.targets
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.14.Build.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.14.Build.targets
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.14.Build.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.14.Build.targets
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.14.Build.targets'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.14.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.14.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.14.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.14.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.14.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.14.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.14.targets
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.14.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.14.targets
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.14.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.14.targets
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.14.targets'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.15.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.15.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.15.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.15.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.15.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.15.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.15.targets
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.15.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.15.targets
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.15.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.15.targets
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.15.targets'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.16.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.16.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.16.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.16.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.16.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.16.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.16.targets
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.16.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.16.targets
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.16.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.16.targets
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.16.targets'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.17.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.17.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.17.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.17.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.17.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.17.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.17.targets
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.17.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.17.targets
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.17.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.17.targets
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.17.targets'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.targets
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.targets
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.targets
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.targets'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.StaticAnalysis.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.StaticAnalysis.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.StaticAnalysis.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.StaticAnalysis.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.StaticAnalysis.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.StaticAnalysis.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.targets
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.targets
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.targets
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.targets'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.ToolsetLocation.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.ToolsetLocation.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.ToolsetLocation.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.ToolsetLocation.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.ToolsetLocation.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.ToolsetLocation.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.ToolsetLocation.targets
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.ToolsetLocation.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.ToolsetLocation.targets
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.ToolsetLocation.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.ToolsetLocation.targets
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.ToolsetLocation.targets'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.unicodesupport.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.unicodesupport.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.unicodesupport.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.unicodesupport.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.unicodesupport.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.unicodesupport.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.UnitTest.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.UnitTest.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.UnitTest.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.UnitTest.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.UnitTest.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.UnitTest.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Unity.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Unity.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Unity.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Unity.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Unity.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Unity.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Unity.targets
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Unity.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Unity.targets
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Unity.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Unity.targets
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Unity.targets'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.UpgradeFromVC60.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.UpgradeFromVC60.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.UpgradeFromVC60.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.UpgradeFromVC60.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.UpgradeFromVC60.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.UpgradeFromVC60.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.UpgradeFromVC70.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.UpgradeFromVC70.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.UpgradeFromVC70.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.UpgradeFromVC70.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.UpgradeFromVC70.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.UpgradeFromVC70.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.UpgradeFromVC71.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.UpgradeFromVC71.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.UpgradeFromVC71.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.UpgradeFromVC71.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.UpgradeFromVC71.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.UpgradeFromVC71.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.UseDynamicDebugging.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.UseDynamicDebugging.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.UseDynamicDebugging.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.UseDynamicDebugging.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.UseDynamicDebugging.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.UseDynamicDebugging.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.VCTools.Content.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.VCTools.Content.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.VCTools.Content.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.VCTools.Content.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.VCTools.Content.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.VCTools.Content.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.VCTools.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.VCTools.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.VCTools.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.VCTools.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.VCTools.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.VCTools.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.WholeProgramOptimization.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.WholeProgramOptimization.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.WholeProgramOptimization.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.WholeProgramOptimization.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.WholeProgramOptimization.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.WholeProgramOptimization.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.WinDLL.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.WinDLL.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.WinDLL.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.WinDLL.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.WinDLL.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.WinDLL.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.WindowsSDK.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.WindowsSDK.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.WindowsSDK.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.WindowsSDK.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.WindowsSDK.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.WindowsSDK.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.WindowsSDK.targets
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.WindowsSDK.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.WindowsSDK.targets
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.WindowsSDK.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.WindowsSDK.targets
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.WindowsSDK.targets'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.CppBuild.targets
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.CppBuild.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.CppBuild.targets
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.CppBuild.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.CppBuild.targets
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.CppBuild.targets'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.CppClean.targets
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.CppClean.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.CppClean.targets
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.CppClean.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.CppClean.targets
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.CppClean.targets'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.CppCommon.targets
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.CppCommon.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.CppCommon.targets
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.CppCommon.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.CppCommon.targets
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.CppCommon.targets'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Link.Common.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Link.Common.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Link.Common.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Link.Common.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Link.Common.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Link.Common.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Makefile.props
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Makefile.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Makefile.props
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Makefile.props to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Makefile.props
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Makefile.props'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.MakeFile.targets
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.MakeFile.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.MakeFile.targets
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.MakeFile.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.MakeFile.targets
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.MakeFile.targets'.
+[da4c:0007][2026-05-10T00:49:38] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Metagen.targets
+[da4c:0007][2026-05-10T00:49:38] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Metagen.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Metagen.targets
+[da4c:0007][2026-05-10T00:49:38] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Metagen.targets to D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Metagen.targets
+[da4c:0007][2026-05-10T00:49:38] Timestamp updated for file 'D:\Program\Msbuild\Microsoft\VC\v170\Microsoft.Metagen.targets'.
+[da4c:0007][2026-05-10T00:49:38] Package executed successfully. Return code: 0

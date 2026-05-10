@@ -1,0 +1,34 @@
+[da4c:0007][2026-05-10T00:50:14] Opening the package for processing
+[da4c:0007][2026-05-10T00:50:14] Using package payload to get the embedded manifest
+[da4c:0007][2026-05-10T00:50:14] Getting list of files within the package
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/CodeSense/Framework/CodeSenseColors.pkgdef
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/CodeSense/Framework/CodeSenseColors.pkgdef to D:\Program\Common7\IDE\Extensions\Microsoft\CodeSense\Framework\CodeSenseColors.pkgdef
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/CodeSense/Framework/CodeSenseColors.pkgdef to D:\Program\Common7\IDE\Extensions\Microsoft\CodeSense\Framework\CodeSenseColors.pkgdef
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\CodeSense\Framework\CodeSenseColors.pkgdef'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/CodeSense/Framework/CodeSenseFramework.pkgdef
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/CodeSense/Framework/CodeSenseFramework.pkgdef to D:\Program\Common7\IDE\Extensions\Microsoft\CodeSense\Framework\CodeSenseFramework.pkgdef
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/CodeSense/Framework/CodeSenseFramework.pkgdef to D:\Program\Common7\IDE\Extensions\Microsoft\CodeSense\Framework\CodeSenseFramework.pkgdef
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\CodeSense\Framework\CodeSenseFramework.pkgdef'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/CodeSense/Framework/Microsoft.VisualStudio.CodeSense.Common.dll
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/CodeSense/Framework/Microsoft.VisualStudio.CodeSense.Common.dll to D:\Program\Common7\IDE\Extensions\Microsoft\CodeSense\Framework\Microsoft.VisualStudio.CodeSense.Common.dll
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/CodeSense/Framework/Microsoft.VisualStudio.CodeSense.Common.dll to D:\Program\Common7\IDE\Extensions\Microsoft\CodeSense\Framework\Microsoft.VisualStudio.CodeSense.Common.dll
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\CodeSense\Framework\Microsoft.VisualStudio.CodeSense.Common.dll'.
+[da4c:0007][2026-05-10T00:50:14] Queueing D:\Program\Common7\IDE\Extensions\Microsoft\CodeSense\Framework\Microsoft.VisualStudio.CodeSense.Common.dll for X86 ngen
+[da4c:0007][2026-05-10T00:50:14] Successfully queued file '/Contents/Common7/IDE/Extensions/Microsoft/CodeSense/Framework/Microsoft.VisualStudio.CodeSense.Common.dll' for ngen
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/CodeSense/Framework/Microsoft.VisualStudio.CodeSense.dll
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/CodeSense/Framework/Microsoft.VisualStudio.CodeSense.dll to D:\Program\Common7\IDE\Extensions\Microsoft\CodeSense\Framework\Microsoft.VisualStudio.CodeSense.dll
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/CodeSense/Framework/Microsoft.VisualStudio.CodeSense.dll to D:\Program\Common7\IDE\Extensions\Microsoft\CodeSense\Framework\Microsoft.VisualStudio.CodeSense.dll
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\CodeSense\Framework\Microsoft.VisualStudio.CodeSense.dll'.
+[da4c:0007][2026-05-10T00:50:14] Queueing D:\Program\Common7\IDE\Extensions\Microsoft\CodeSense\Framework\Microsoft.VisualStudio.CodeSense.dll for X86 ngen
+[da4c:0007][2026-05-10T00:50:14] Successfully queued file '/Contents/Common7/IDE/Extensions/Microsoft/CodeSense/Framework/Microsoft.VisualStudio.CodeSense.dll' for ngen
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/CodeSense/Framework/Microsoft.VisualStudio.CodeSense.Roslyn.dll
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/CodeSense/Framework/Microsoft.VisualStudio.CodeSense.Roslyn.dll to D:\Program\Common7\IDE\Extensions\Microsoft\CodeSense\Framework\Microsoft.VisualStudio.CodeSense.Roslyn.dll
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/CodeSense/Framework/Microsoft.VisualStudio.CodeSense.Roslyn.dll to D:\Program\Common7\IDE\Extensions\Microsoft\CodeSense\Framework\Microsoft.VisualStudio.CodeSense.Roslyn.dll
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\CodeSense\Framework\Microsoft.VisualStudio.CodeSense.Roslyn.dll'.
+[da4c:0007][2026-05-10T00:50:14] Queueing D:\Program\Common7\IDE\Extensions\Microsoft\CodeSense\Framework\Microsoft.VisualStudio.CodeSense.Roslyn.dll for X86 ngen
+[da4c:0007][2026-05-10T00:50:14] Successfully queued file '/Contents/Common7/IDE/Extensions/Microsoft/CodeSense/Framework/Microsoft.VisualStudio.CodeSense.Roslyn.dll' for ngen
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/CodeSense/Framework/extension.vsixmanifest
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/CodeSense/Framework/extension.vsixmanifest to D:\Program\Common7\IDE\Extensions\Microsoft\CodeSense\Framework\extension.vsixmanifest
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/CodeSense/Framework/extension.vsixmanifest to D:\Program\Common7\IDE\Extensions\Microsoft\CodeSense\Framework\extension.vsixmanifest
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\CodeSense\Framework\extension.vsixmanifest'.
+[da4c:0007][2026-05-10T00:50:14] Package executed successfully. Return code: 0

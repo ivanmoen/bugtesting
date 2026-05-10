@@ -1,0 +1,3 @@
+[bd94:0009][2026-05-10T01:00:41] Using cached package manifest as the embedded manifest
+[bd94:0009][2026-05-10T01:00:41] Warning: Microsoft.VisualStudio.Diagnostics.AspNetHelper package has no files per the cached manifest.
+[bd94:0009][2026-05-10T01:00:41] Package executed successfully. Return code: 0

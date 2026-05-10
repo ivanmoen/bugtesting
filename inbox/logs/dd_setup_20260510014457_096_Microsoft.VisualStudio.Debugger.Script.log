@@ -1,0 +1,10 @@
+[3474:0009][2026-05-10T01:46:13] Using cached package manifest as the embedded manifest
+[3474:0009][2026-05-10T01:46:13] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VS_Debug_Scriptle2_AppidReg_4661.pkgdef
+[3474:0009][2026-05-10T01:46:13] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\VS_Debug_Scriptle2_AppidReg_4661.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:13] Processing file /Contents/Common7/Packages/Debugger/vsdebugeng.script.vsdconfig
+[3474:0009][2026-05-10T01:46:13] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\vsdebugeng.script.vsdconfig file deleted.
+[3474:0009][2026-05-10T01:46:13] Processing file /Contents/Common7/Packages/Debugger/vsdebugeng.script.dll
+[3474:0009][2026-05-10T01:46:13] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\vsdebugeng.script.dll file deleted.
+[3474:0009][2026-05-10T01:46:13] Started: Deleting empty directories
+[3474:0009][2026-05-10T01:46:13] Completed: Deleting empty directories
+[3474:0009][2026-05-10T01:46:13] Package executed successfully. Return code: 0

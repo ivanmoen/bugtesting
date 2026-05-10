@@ -1,0 +1,60 @@
+[da4c:0007][2026-05-10T00:50:00] Opening the package for processing
+[da4c:0007][2026-05-10T00:50:00] Using package payload to get the embedded manifest
+[da4c:0007][2026-05-10T00:50:00] Getting list of files within the package
+[da4c:0007][2026-05-10T00:50:00] Processing file /Contents/Common7/IDE/VSFinalizer.exe
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Contents/Common7/IDE/VSFinalizer.exe to D:\Program\Common7\IDE\VSFinalizer.exe
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /Contents/Common7/IDE/VSFinalizer.exe to D:\Program\Common7\IDE\VSFinalizer.exe
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\VSFinalizer.exe'.
+[da4c:0007][2026-05-10T00:50:00] Processing file /Contents/Common7/IDE/VSFinalizer.exe.config
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Contents/Common7/IDE/VSFinalizer.exe.config to D:\Program\Common7\IDE\VSFinalizer.exe.config
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /Contents/Common7/IDE/VSFinalizer.exe.config to D:\Program\Common7\IDE\VSFinalizer.exe.config
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\VSFinalizer.exe.config'.
+[da4c:0007][2026-05-10T00:50:00] Processing file /Contents/Common7/IDE/VSFinalizerDependencies/Microsoft.Bcl.AsyncInterfaces.dll
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Contents/Common7/IDE/VSFinalizerDependencies/Microsoft.Bcl.AsyncInterfaces.dll to D:\Program\Common7\IDE\VSFinalizerDependencies\Microsoft.Bcl.AsyncInterfaces.dll
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /Contents/Common7/IDE/VSFinalizerDependencies/Microsoft.Bcl.AsyncInterfaces.dll to D:\Program\Common7\IDE\VSFinalizerDependencies\Microsoft.Bcl.AsyncInterfaces.dll
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\VSFinalizerDependencies\Microsoft.Bcl.AsyncInterfaces.dll'.
+[da4c:0007][2026-05-10T00:50:00] Processing file /Contents/Common7/IDE/VSFinalizerDependencies/System.Buffers.dll
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Contents/Common7/IDE/VSFinalizerDependencies/System.Buffers.dll to D:\Program\Common7\IDE\VSFinalizerDependencies\System.Buffers.dll
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /Contents/Common7/IDE/VSFinalizerDependencies/System.Buffers.dll to D:\Program\Common7\IDE\VSFinalizerDependencies\System.Buffers.dll
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\VSFinalizerDependencies\System.Buffers.dll'.
+[da4c:0007][2026-05-10T00:50:00] Processing file /Contents/Common7/IDE/VSFinalizerDependencies/System.IO.Pipelines.dll
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Contents/Common7/IDE/VSFinalizerDependencies/System.IO.Pipelines.dll to D:\Program\Common7\IDE\VSFinalizerDependencies\System.IO.Pipelines.dll
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /Contents/Common7/IDE/VSFinalizerDependencies/System.IO.Pipelines.dll to D:\Program\Common7\IDE\VSFinalizerDependencies\System.IO.Pipelines.dll
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\VSFinalizerDependencies\System.IO.Pipelines.dll'.
+[da4c:0007][2026-05-10T00:50:00] Processing file /Contents/Common7/IDE/VSFinalizerDependencies/System.Memory.dll
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Contents/Common7/IDE/VSFinalizerDependencies/System.Memory.dll to D:\Program\Common7\IDE\VSFinalizerDependencies\System.Memory.dll
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /Contents/Common7/IDE/VSFinalizerDependencies/System.Memory.dll to D:\Program\Common7\IDE\VSFinalizerDependencies\System.Memory.dll
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\VSFinalizerDependencies\System.Memory.dll'.
+[da4c:0007][2026-05-10T00:50:00] Processing file /Contents/Common7/IDE/VSFinalizerDependencies/System.Numerics.Vectors.dll
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Contents/Common7/IDE/VSFinalizerDependencies/System.Numerics.Vectors.dll to D:\Program\Common7\IDE\VSFinalizerDependencies\System.Numerics.Vectors.dll
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /Contents/Common7/IDE/VSFinalizerDependencies/System.Numerics.Vectors.dll to D:\Program\Common7\IDE\VSFinalizerDependencies\System.Numerics.Vectors.dll
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\VSFinalizerDependencies\System.Numerics.Vectors.dll'.
+[da4c:0007][2026-05-10T00:50:00] Processing file /Contents/Common7/IDE/VSFinalizerDependencies/System.Runtime.CompilerServices.Unsafe.dll
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Contents/Common7/IDE/VSFinalizerDependencies/System.Runtime.CompilerServices.Unsafe.dll to D:\Program\Common7\IDE\VSFinalizerDependencies\System.Runtime.CompilerServices.Unsafe.dll
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /Contents/Common7/IDE/VSFinalizerDependencies/System.Runtime.CompilerServices.Unsafe.dll to D:\Program\Common7\IDE\VSFinalizerDependencies\System.Runtime.CompilerServices.Unsafe.dll
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\VSFinalizerDependencies\System.Runtime.CompilerServices.Unsafe.dll'.
+[da4c:0007][2026-05-10T00:50:00] Processing file /Contents/Common7/IDE/VSFinalizerDependencies/System.Text.Encodings.Web.dll
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Contents/Common7/IDE/VSFinalizerDependencies/System.Text.Encodings.Web.dll to D:\Program\Common7\IDE\VSFinalizerDependencies\System.Text.Encodings.Web.dll
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /Contents/Common7/IDE/VSFinalizerDependencies/System.Text.Encodings.Web.dll to D:\Program\Common7\IDE\VSFinalizerDependencies\System.Text.Encodings.Web.dll
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\VSFinalizerDependencies\System.Text.Encodings.Web.dll'.
+[da4c:0007][2026-05-10T00:50:00] Processing file /Contents/Common7/IDE/VSFinalizerDependencies/System.Text.Json.dll
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Contents/Common7/IDE/VSFinalizerDependencies/System.Text.Json.dll to D:\Program\Common7\IDE\VSFinalizerDependencies\System.Text.Json.dll
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /Contents/Common7/IDE/VSFinalizerDependencies/System.Text.Json.dll to D:\Program\Common7\IDE\VSFinalizerDependencies\System.Text.Json.dll
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\VSFinalizerDependencies\System.Text.Json.dll'.
+[da4c:0007][2026-05-10T00:50:00] Processing file /Contents/Common7/IDE/VSFinalizerDependencies/System.Threading.Tasks.Extensions.dll
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Contents/Common7/IDE/VSFinalizerDependencies/System.Threading.Tasks.Extensions.dll to D:\Program\Common7\IDE\VSFinalizerDependencies\System.Threading.Tasks.Extensions.dll
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /Contents/Common7/IDE/VSFinalizerDependencies/System.Threading.Tasks.Extensions.dll to D:\Program\Common7\IDE\VSFinalizerDependencies\System.Threading.Tasks.Extensions.dll
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\VSFinalizerDependencies\System.Threading.Tasks.Extensions.dll'.
+[da4c:0007][2026-05-10T00:50:00] Processing file /Contents/Common7/IDE/VSFinalizerDependencies/System.ValueTuple.dll
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Contents/Common7/IDE/VSFinalizerDependencies/System.ValueTuple.dll to D:\Program\Common7\IDE\VSFinalizerDependencies\System.ValueTuple.dll
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /Contents/Common7/IDE/VSFinalizerDependencies/System.ValueTuple.dll to D:\Program\Common7\IDE\VSFinalizerDependencies\System.ValueTuple.dll
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\VSFinalizerDependencies\System.ValueTuple.dll'.
+[da4c:0007][2026-05-10T00:50:00] Processing file /Contents/Common7/IDE/VSInitializer.exe
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Contents/Common7/IDE/VSInitializer.exe to D:\Program\Common7\IDE\VSInitializer.exe
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /Contents/Common7/IDE/VSInitializer.exe to D:\Program\Common7\IDE\VSInitializer.exe
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\VSInitializer.exe'.
+[da4c:0007][2026-05-10T00:50:00] Processing file /Contents/Common7/IDE/VSInitializer.exe.config
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Contents/Common7/IDE/VSInitializer.exe.config to D:\Program\Common7\IDE\VSInitializer.exe.config
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /Contents/Common7/IDE/VSInitializer.exe.config to D:\Program\Common7\IDE\VSInitializer.exe.config
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\VSInitializer.exe.config'.
+[da4c:0007][2026-05-10T00:50:00] Package executed successfully. Return code: 0

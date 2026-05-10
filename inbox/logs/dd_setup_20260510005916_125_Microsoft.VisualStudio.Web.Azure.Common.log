@@ -1,0 +1,24 @@
+[bd94:0009][2026-05-10T01:00:51] Using cached package manifest as the embedded manifest
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools/Azure/Microsoft.VisualStudio.Web.Azure.Common.pkgdef
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\Extensions\Microsoft\Web Tools\Azure\Microsoft.VisualStudio.Web.Azure.Common.pkgdef file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools/Azure/ThirdPartyNotices.rtf
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\Extensions\Microsoft\Web Tools\Azure\ThirdPartyNotices.rtf file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools/Azure/Microsoft.WebTools.Azure.Client.dll
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\Extensions\Microsoft\Web Tools\Azure\Microsoft.WebTools.Azure.Client.dll file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools/Azure/Microsoft.WebTools.Azure.Contracts.dll
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\Extensions\Microsoft\Web Tools\Azure\Microsoft.WebTools.Azure.Contracts.dll file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools/Azure/Microsoft.WebTools.Azure.VS.dll
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\Extensions\Microsoft\Web Tools\Azure\Microsoft.WebTools.Azure.VS.dll file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools/Azure/extension.vsixmanifest
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\Extensions\Microsoft\Web Tools\Azure\extension.vsixmanifest file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools/Azure/WebConfiguration.png
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\Extensions\Microsoft\Web Tools\Azure\WebConfiguration.png file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools/Azure/WebConfigurationPreview.png
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\Extensions\Microsoft\Web Tools\Azure\WebConfigurationPreview.png file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools/Azure/AzureConfiguration.zip
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\Extensions\Microsoft\Web Tools\Azure\AzureConfiguration.zip file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools/Azure/WebTools.Azure.Common.clientenabledpkg
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\Extensions\Microsoft\Web Tools\Azure\WebTools.Azure.Common.clientenabledpkg file deleted.
+[bd94:0009][2026-05-10T01:00:51] Started: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:51] Completed: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:51] Package executed successfully. Return code: 0

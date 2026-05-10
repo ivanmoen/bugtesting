@@ -1,0 +1,148 @@
+[3c7c:000c][2026-05-10T01:36:03] Opening the package for processing
+[3c7c:000c][2026-05-10T01:36:03] Using package payload to get the embedded manifest
+[3c7c:000c][2026-05-10T01:36:03] Getting list of files within the package
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/api-ms-win-core-file-l1-2-0.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/api-ms-win-core-file-l1-2-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-core-file-l1-2-0.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/api-ms-win-core-file-l1-2-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-core-file-l1-2-0.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-core-file-l1-2-0.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/api-ms-win-core-file-l2-1-0.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/api-ms-win-core-file-l2-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-core-file-l2-1-0.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/api-ms-win-core-file-l2-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-core-file-l2-1-0.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-core-file-l2-1-0.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/api-ms-win-core-localization-l1-2-0.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/api-ms-win-core-localization-l1-2-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-core-localization-l1-2-0.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/api-ms-win-core-localization-l1-2-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-core-localization-l1-2-0.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-core-localization-l1-2-0.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/api-ms-win-core-processthreads-l1-1-1.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/api-ms-win-core-processthreads-l1-1-1.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-core-processthreads-l1-1-1.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/api-ms-win-core-processthreads-l1-1-1.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-core-processthreads-l1-1-1.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-core-processthreads-l1-1-1.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/api-ms-win-core-synch-l1-2-0.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/api-ms-win-core-synch-l1-2-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-core-synch-l1-2-0.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/api-ms-win-core-synch-l1-2-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-core-synch-l1-2-0.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-core-synch-l1-2-0.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/api-ms-win-core-timezone-l1-1-0.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/api-ms-win-core-timezone-l1-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-core-timezone-l1-1-0.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/api-ms-win-core-timezone-l1-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-core-timezone-l1-1-0.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-core-timezone-l1-1-0.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/api-ms-win-crt-convert-l1-1-0.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/api-ms-win-crt-convert-l1-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-crt-convert-l1-1-0.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/api-ms-win-crt-convert-l1-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-crt-convert-l1-1-0.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-crt-convert-l1-1-0.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/api-ms-win-crt-environment-l1-1-0.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/api-ms-win-crt-environment-l1-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-crt-environment-l1-1-0.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/api-ms-win-crt-environment-l1-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-crt-environment-l1-1-0.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-crt-environment-l1-1-0.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/api-ms-win-crt-filesystem-l1-1-0.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/api-ms-win-crt-filesystem-l1-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-crt-filesystem-l1-1-0.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/api-ms-win-crt-filesystem-l1-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-crt-filesystem-l1-1-0.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-crt-filesystem-l1-1-0.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/api-ms-win-crt-heap-l1-1-0.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/api-ms-win-crt-heap-l1-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-crt-heap-l1-1-0.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/api-ms-win-crt-heap-l1-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-crt-heap-l1-1-0.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-crt-heap-l1-1-0.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/api-ms-win-crt-locale-l1-1-0.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/api-ms-win-crt-locale-l1-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-crt-locale-l1-1-0.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/api-ms-win-crt-locale-l1-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-crt-locale-l1-1-0.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-crt-locale-l1-1-0.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/api-ms-win-crt-math-l1-1-0.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/api-ms-win-crt-math-l1-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-crt-math-l1-1-0.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/api-ms-win-crt-math-l1-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-crt-math-l1-1-0.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-crt-math-l1-1-0.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/api-ms-win-crt-multibyte-l1-1-0.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/api-ms-win-crt-multibyte-l1-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-crt-multibyte-l1-1-0.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/api-ms-win-crt-multibyte-l1-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-crt-multibyte-l1-1-0.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-crt-multibyte-l1-1-0.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/api-ms-win-crt-runtime-l1-1-0.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/api-ms-win-crt-runtime-l1-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-crt-runtime-l1-1-0.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/api-ms-win-crt-runtime-l1-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-crt-runtime-l1-1-0.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-crt-runtime-l1-1-0.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/api-ms-win-crt-stdio-l1-1-0.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/api-ms-win-crt-stdio-l1-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-crt-stdio-l1-1-0.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/api-ms-win-crt-stdio-l1-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-crt-stdio-l1-1-0.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-crt-stdio-l1-1-0.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/api-ms-win-crt-string-l1-1-0.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/api-ms-win-crt-string-l1-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-crt-string-l1-1-0.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/api-ms-win-crt-string-l1-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-crt-string-l1-1-0.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-crt-string-l1-1-0.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/api-ms-win-crt-time-l1-1-0.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/api-ms-win-crt-time-l1-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-crt-time-l1-1-0.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/api-ms-win-crt-time-l1-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-crt-time-l1-1-0.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-crt-time-l1-1-0.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/api-ms-win-crt-utility-l1-1-0.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/api-ms-win-crt-utility-l1-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-crt-utility-l1-1-0.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/api-ms-win-crt-utility-l1-1-0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-crt-utility-l1-1-0.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\api-ms-win-crt-utility-l1-1-0.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/CommonExtensions/LowImpactVsFeatureFlags.pkgdef
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/CommonExtensions/LowImpactVsFeatureFlags.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\LowImpactVsFeatureFlags.pkgdef
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/LowImpactVsFeatureFlags.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\LowImpactVsFeatureFlags.pkgdef
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\LowImpactVsFeatureFlags.pkgdef'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/CommonExtensions/ProjectShellFileAssociations.pkgdef
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/CommonExtensions/ProjectShellFileAssociations.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\ProjectShellFileAssociations.pkgdef
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/ProjectShellFileAssociations.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\ProjectShellFileAssociations.pkgdef
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\ProjectShellFileAssociations.pkgdef'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/concrt140.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/concrt140.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\concrt140.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/concrt140.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\concrt140.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\concrt140.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/msvcp140.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/msvcp140.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\msvcp140.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/msvcp140.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\msvcp140.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\msvcp140.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/msvcp140_atomic_wait.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/msvcp140_atomic_wait.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\msvcp140_atomic_wait.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/msvcp140_atomic_wait.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\msvcp140_atomic_wait.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\msvcp140_atomic_wait.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/ReSharper%20(Visual%20Studio).vsk
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/ReSharper%20(Visual%20Studio).vsk to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ReSharper (Visual Studio).vsk
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/ReSharper%20(Visual%20Studio).vsk to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ReSharper (Visual Studio).vsk
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ReSharper (Visual Studio).vsk'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/StorePID.exe
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/StorePID.exe to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\StorePID.exe
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/StorePID.exe to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\StorePID.exe
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\StorePID.exe'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/System.Windows.Forms.VisualStudio.15.0.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/System.Windows.Forms.VisualStudio.15.0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\System.Windows.Forms.VisualStudio.15.0.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/System.Windows.Forms.VisualStudio.15.0.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\System.Windows.Forms.VisualStudio.15.0.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\System.Windows.Forms.VisualStudio.15.0.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/ucrtbase.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/ucrtbase.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ucrtbase.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/ucrtbase.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ucrtbase.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ucrtbase.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/Visual%20Assist%20(Visual%20Studio).vsk
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/Visual%20Assist%20(Visual%20Studio).vsk to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Visual Assist (Visual Studio).vsk
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/Visual%20Assist%20(Visual%20Studio).vsk to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Visual Assist (Visual Studio).vsk
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Visual Assist (Visual Studio).vsk'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/Visual%20Basic%206.vsk
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/Visual%20Basic%206.vsk to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Visual Basic 6.vsk
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/Visual%20Basic%206.vsk to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Visual Basic 6.vsk
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Visual Basic 6.vsk'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/Visual%20C%23%202005.vsk
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/Visual%20C%23%202005.vsk to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Visual C# 2005.vsk
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/Visual%20C%23%202005.vsk to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Visual C# 2005.vsk
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Visual C# 2005.vsk'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/Visual%20C++%202.vsk
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/Visual%20C++%202.vsk to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Visual C++ 2.vsk
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/Visual%20C++%202.vsk to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Visual C++ 2.vsk
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Visual C++ 2.vsk'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/Visual%20C++%206.vsk
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/Visual%20C++%206.vsk to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Visual C++ 6.vsk
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/Visual%20C++%206.vsk to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Visual C++ 6.vsk
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Visual C++ 6.vsk'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/Visual%20Studio%206.vsk
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/Visual%20Studio%206.vsk to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Visual Studio 6.vsk
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/Visual%20Studio%206.vsk to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Visual Studio 6.vsk
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Visual Studio 6.vsk'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/Visual%20Studio%20Code.vsk
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/Visual%20Studio%20Code.vsk to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Visual Studio Code.vsk
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/Visual%20Studio%20Code.vsk to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Visual Studio Code.vsk
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Visual Studio Code.vsk'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/VsRegEdit.exe
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/VsRegEdit.exe to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VsRegEdit.exe
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/VsRegEdit.exe to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VsRegEdit.exe
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VsRegEdit.exe'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/MSBuild/Current/Bin/AssemblyFolders.config
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/MSBuild/Current/Bin/AssemblyFolders.config to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\AssemblyFolders.config
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/MSBuild/Current/Bin/AssemblyFolders.config to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\AssemblyFolders.config
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\AssemblyFolders.config'.
+[3c7c:000c][2026-05-10T01:36:03] Package executed successfully. Return code: 0

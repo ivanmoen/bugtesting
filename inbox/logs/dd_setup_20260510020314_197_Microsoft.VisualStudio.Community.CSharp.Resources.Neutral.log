@@ -1,0 +1,300 @@
+[18d4:0007][2026-05-10T02:03:54] Opening the package for processing
+[18d4:0007][2026-05-10T02:03:54] Using package payload to get the embedded manifest
+[18d4:0007][2026-05-10T02:03:54] Getting list of files within the package
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/DesignerTemplates/1033/InheritedTemplate.cs
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/DesignerTemplates/1033/InheritedTemplate.cs to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\DesignerTemplates\1033\InheritedTemplate.cs
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/DesignerTemplates/1033/InheritedTemplate.cs to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\DesignerTemplates\1033\InheritedTemplate.cs
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\DesignerTemplates\1033\InheritedTemplate.cs'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/DesignerTemplates/1033/InheritedTemplate.Designer.cs
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/DesignerTemplates/1033/InheritedTemplate.Designer.cs to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\DesignerTemplates\1033\InheritedTemplate.Designer.cs
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/DesignerTemplates/1033/InheritedTemplate.Designer.cs to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\DesignerTemplates\1033\InheritedTemplate.Designer.cs
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\DesignerTemplates\1033\InheritedTemplate.Designer.cs'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/NetFX30/propa.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/NetFX30/propa.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\NetFX30\propa.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/NetFX30/propa.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\NetFX30\propa.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\NetFX30\propa.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/NetFX30/propdp.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/NetFX30/propdp.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\NetFX30\propdp.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/NetFX30/propdp.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\NetFX30\propdp.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\NetFX30\propdp.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Refactoring/EncapsulateField.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Refactoring/EncapsulateField.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\EncapsulateField.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Refactoring/EncapsulateField.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\EncapsulateField.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\EncapsulateField.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Refactoring/EncapsulateFieldGet.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Refactoring/EncapsulateFieldGet.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\EncapsulateFieldGet.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Refactoring/EncapsulateFieldGet.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\EncapsulateFieldGet.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\EncapsulateFieldGet.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Refactoring/EncapsulateFieldSet.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Refactoring/EncapsulateFieldSet.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\EncapsulateFieldSet.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Refactoring/EncapsulateFieldSet.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\EncapsulateFieldSet.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\EncapsulateFieldSet.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Refactoring/EventStub%20-%20Field.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Refactoring/EventStub%20-%20Field.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\EventStub - Field.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Refactoring/EventStub%20-%20Field.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\EventStub - Field.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\EventStub - Field.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Refactoring/EventStub%20-%20Property.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Refactoring/EventStub%20-%20Property.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\EventStub - Property.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Refactoring/EventStub%20-%20Property.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\EventStub - Property.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\EventStub - Property.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Refactoring/GenerateConstructor%20-%20Constructor.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Refactoring/GenerateConstructor%20-%20Constructor.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\GenerateConstructor - Constructor.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Refactoring/GenerateConstructor%20-%20Constructor.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\GenerateConstructor - Constructor.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\GenerateConstructor - Constructor.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Refactoring/GenerateConstructor%20-%20MemberAssignment.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Refactoring/GenerateConstructor%20-%20MemberAssignment.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\GenerateConstructor - MemberAssignment.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Refactoring/GenerateConstructor%20-%20MemberAssignment.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\GenerateConstructor - MemberAssignment.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\GenerateConstructor - MemberAssignment.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Refactoring/GenerateConstructor%20-%20MemberDeclaration.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Refactoring/GenerateConstructor%20-%20MemberDeclaration.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\GenerateConstructor - MemberDeclaration.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Refactoring/GenerateConstructor%20-%20MemberDeclaration.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\GenerateConstructor - MemberDeclaration.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\GenerateConstructor - MemberDeclaration.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Refactoring/GenerateEnumMember.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Refactoring/GenerateEnumMember.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\GenerateEnumMember.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Refactoring/GenerateEnumMember.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\GenerateEnumMember.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\GenerateEnumMember.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Refactoring/GenerateField.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Refactoring/GenerateField.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\GenerateField.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Refactoring/GenerateField.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\GenerateField.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\GenerateField.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Refactoring/GenerateProperty%20-%20Auto%20Property.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Refactoring/GenerateProperty%20-%20Auto%20Property.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\GenerateProperty - Auto Property.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Refactoring/GenerateProperty%20-%20Auto%20Property.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\GenerateProperty - Auto Property.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\GenerateProperty - Auto Property.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Refactoring/GenerateProperty%20-%20Property.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Refactoring/GenerateProperty%20-%20Property.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\GenerateProperty - Property.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Refactoring/GenerateProperty%20-%20Property.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\GenerateProperty - Property.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\GenerateProperty - Property.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Refactoring/GenerateTypeInExistingFile.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Refactoring/GenerateTypeInExistingFile.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\GenerateTypeInExistingFile.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Refactoring/GenerateTypeInExistingFile.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\GenerateTypeInExistingFile.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\GenerateTypeInExistingFile.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Refactoring/GenerateTypeInExistingFileNoEnclosingNamespace.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Refactoring/GenerateTypeInExistingFileNoEnclosingNamespace.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\GenerateTypeInExistingFileNoEnclosingNamespace.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Refactoring/GenerateTypeInExistingFileNoEnclosingNamespace.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\GenerateTypeInExistingFileNoEnclosingNamespace.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\GenerateTypeInExistingFileNoEnclosingNamespace.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Refactoring/GenerateTypeInNewFile.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Refactoring/GenerateTypeInNewFile.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\GenerateTypeInNewFile.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Refactoring/GenerateTypeInNewFile.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\GenerateTypeInNewFile.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\GenerateTypeInNewFile.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Refactoring/GenerateTypeInNewFileNoEnclosingNamespace.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Refactoring/GenerateTypeInNewFileNoEnclosingNamespace.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\GenerateTypeInNewFileNoEnclosingNamespace.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Refactoring/GenerateTypeInNewFileNoEnclosingNamespace.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\GenerateTypeInNewFileNoEnclosingNamespace.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\GenerateTypeInNewFileNoEnclosingNamespace.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Refactoring/MethodOverrideStub.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Refactoring/MethodOverrideStub.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\MethodOverrideStub.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Refactoring/MethodOverrideStub.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\MethodOverrideStub.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\MethodOverrideStub.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Refactoring/MethodStub.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Refactoring/MethodStub.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\MethodStub.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Refactoring/MethodStub.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\MethodStub.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\MethodStub.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Refactoring/MethodStubNoBody.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Refactoring/MethodStubNoBody.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\MethodStubNoBody.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Refactoring/MethodStubNoBody.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\MethodStubNoBody.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\MethodStubNoBody.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Refactoring/PropertyOverrideStub.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Refactoring/PropertyOverrideStub.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\PropertyOverrideStub.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Refactoring/PropertyOverrideStub.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\PropertyOverrideStub.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\PropertyOverrideStub.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Refactoring/PropertyOverrideStubGet.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Refactoring/PropertyOverrideStubGet.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\PropertyOverrideStubGet.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Refactoring/PropertyOverrideStubGet.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\PropertyOverrideStubGet.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\PropertyOverrideStubGet.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Refactoring/PropertyOverrideStubSet.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Refactoring/PropertyOverrideStubSet.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\PropertyOverrideStubSet.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Refactoring/PropertyOverrideStubSet.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\PropertyOverrideStubSet.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\PropertyOverrideStubSet.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Refactoring/PropertyStub.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Refactoring/PropertyStub.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\PropertyStub.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Refactoring/PropertyStub.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\PropertyStub.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\PropertyStub.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Refactoring/PropertyStubGet.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Refactoring/PropertyStubGet.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\PropertyStubGet.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Refactoring/PropertyStubGet.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\PropertyStubGet.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\PropertyStubGet.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Refactoring/PropertyStubGetNoBody.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Refactoring/PropertyStubGetNoBody.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\PropertyStubGetNoBody.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Refactoring/PropertyStubGetNoBody.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\PropertyStubGetNoBody.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\PropertyStubGetNoBody.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Refactoring/PropertyStubNoBody.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Refactoring/PropertyStubNoBody.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\PropertyStubNoBody.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Refactoring/PropertyStubNoBody.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\PropertyStubNoBody.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\PropertyStubNoBody.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Refactoring/PropertyStubSet.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Refactoring/PropertyStubSet.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\PropertyStubSet.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Refactoring/PropertyStubSet.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\PropertyStubSet.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\PropertyStubSet.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Refactoring/PropertyStubSetNoBody.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Refactoring/PropertyStubSetNoBody.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\PropertyStubSetNoBody.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Refactoring/PropertyStubSetNoBody.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\PropertyStubSetNoBody.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Refactoring\PropertyStubSetNoBody.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/SnippetsIndex.xml
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/SnippetsIndex.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\SnippetsIndex.xml
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/SnippetsIndex.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\SnippetsIndex.xml
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\SnippetsIndex.xml'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Visual%20C%23/attribute.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/attribute.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\attribute.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/attribute.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\attribute.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\attribute.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Visual%20C%23/checked.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/checked.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\checked.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/checked.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\checked.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\checked.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Visual%20C%23/class.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/class.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\class.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/class.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\class.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\class.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Visual%20C%23/ctor.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/ctor.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\ctor.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/ctor.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\ctor.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\ctor.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Visual%20C%23/cw.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/cw.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\cw.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/cw.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\cw.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\cw.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Visual%20C%23/do.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/do.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\do.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/do.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\do.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\do.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Visual%20C%23/else.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/else.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\else.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/else.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\else.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\else.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Visual%20C%23/enum.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/enum.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\enum.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/enum.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\enum.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\enum.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Visual%20C%23/equals.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/equals.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\equals.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/equals.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\equals.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\equals.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Visual%20C%23/exception.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/exception.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\exception.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/exception.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\exception.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\exception.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Visual%20C%23/for.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/for.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\for.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/for.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\for.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\for.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Visual%20C%23/foreach.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/foreach.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\foreach.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/foreach.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\foreach.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\foreach.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Visual%20C%23/forr.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/forr.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\forr.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/forr.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\forr.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\forr.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Visual%20C%23/if.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/if.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\if.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/if.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\if.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\if.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Visual%20C%23/indexer.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/indexer.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\indexer.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/indexer.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\indexer.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\indexer.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Visual%20C%23/interface.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/interface.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\interface.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/interface.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\interface.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\interface.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Visual%20C%23/invoke.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/invoke.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\invoke.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/invoke.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\invoke.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\invoke.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Visual%20C%23/iterator.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/iterator.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\iterator.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/iterator.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\iterator.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\iterator.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Visual%20C%23/iterindex.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/iterindex.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\iterindex.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/iterindex.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\iterindex.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\iterindex.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Visual%20C%23/lock.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/lock.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\lock.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/lock.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\lock.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\lock.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Visual%20C%23/mbox.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/mbox.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\mbox.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/mbox.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\mbox.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\mbox.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Visual%20C%23/namespace.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/namespace.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\namespace.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/namespace.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\namespace.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\namespace.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Visual%20C%23/pp_if.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/pp_if.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\pp_if.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/pp_if.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\pp_if.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\pp_if.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Visual%20C%23/pp_region.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/pp_region.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\pp_region.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/pp_region.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\pp_region.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\pp_region.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Visual%20C%23/prop.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/prop.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\prop.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/prop.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\prop.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\prop.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Visual%20C%23/propfull.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/propfull.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\propfull.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/propfull.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\propfull.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\propfull.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Visual%20C%23/propg.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/propg.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\propg.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/propg.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\propg.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\propg.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Visual%20C%23/sim.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/sim.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\sim.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/sim.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\sim.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\sim.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Visual%20C%23/struct.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/struct.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\struct.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/struct.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\struct.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\struct.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Visual%20C%23/svm.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/svm.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\svm.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/svm.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\svm.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\svm.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Visual%20C%23/switch.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/switch.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\switch.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/switch.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\switch.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\switch.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Visual%20C%23/try.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/try.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\try.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/try.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\try.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\try.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Visual%20C%23/tryf.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/tryf.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\tryf.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/tryf.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\tryf.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\tryf.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Visual%20C%23/unchecked.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/unchecked.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\unchecked.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/unchecked.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\unchecked.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\unchecked.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Visual%20C%23/unsafe.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/unsafe.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\unsafe.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/unsafe.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\unsafe.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\unsafe.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Visual%20C%23/using.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/using.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\using.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/using.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\using.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\using.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Visual%20C%23/while.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/while.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\while.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/while.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\while.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\while.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/Snippets/1033/Visual%20C%23/~.snippet
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/~.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\~.snippet
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/Snippets/1033/Visual%20C%23/~.snippet to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\~.snippet
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\Snippets\1033\Visual C#\~.snippet'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/VC%23Wizards/1033/common.js
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/VC%23Wizards/1033/common.js to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\VC#Wizards\1033\common.js
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/VC%23Wizards/1033/common.js to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\VC#Wizards\1033\common.js
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\VC#Wizards\1033\common.js'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/VC%23Wizards/1033/Script.js
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/VC%23Wizards/1033/Script.js to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\VC#Wizards\1033\Script.js
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/VC%23Wizards/1033/Script.js to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\VC#Wizards\1033\Script.js
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\VC#Wizards\1033\Script.js'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/VC%23/VC%23Wizards/1033/styles.css
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/VC%23/VC%23Wizards/1033/styles.css to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\VC#Wizards\1033\styles.css
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/VC%23/VC%23Wizards/1033/styles.css to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\VC#Wizards\1033\styles.css
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\VC#Wizards\1033\styles.css'.
+[18d4:0007][2026-05-10T02:03:54] Package executed successfully. Return code: 0

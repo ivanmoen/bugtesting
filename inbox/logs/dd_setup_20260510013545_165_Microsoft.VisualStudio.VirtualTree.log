@@ -1,0 +1,8 @@
+[3c7c:000c][2026-05-10T01:36:04] Opening the package for processing
+[3c7c:000c][2026-05-10T01:36:04] Using package payload to get the embedded manifest
+[3c7c:000c][2026-05-10T01:36:04] Getting list of files within the package
+[3c7c:000c][2026-05-10T01:36:04] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.VirtualTreeGrid.dll
+[3c7c:000c][2026-05-10T01:36:04] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.VirtualTreeGrid.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.VirtualTreeGrid.dll
+[3c7c:000c][2026-05-10T01:36:04] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.VirtualTreeGrid.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.VirtualTreeGrid.dll
+[3c7c:000c][2026-05-10T01:36:04] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.VirtualTreeGrid.dll'.
+[3c7c:000c][2026-05-10T01:36:04] Package executed successfully. Return code: 0

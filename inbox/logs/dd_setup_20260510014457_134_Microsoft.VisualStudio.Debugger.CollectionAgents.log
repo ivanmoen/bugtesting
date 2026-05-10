@@ -1,0 +1,8 @@
+[3474:0009][2026-05-10T01:46:16] Using cached package manifest as the embedded manifest
+[3474:0009][2026-05-10T01:46:16] Processing file /Contents/Team Tools/DiagnosticsHub/Collector/Agents/AsyncCollectionAgent.dll
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Team Tools\DiagnosticsHub\Collector\Agents\AsyncCollectionAgent.dll file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /Contents/Team Tools/DiagnosticsHub/Collector/Agents/DebugEventCollectionAgent.dll
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Team Tools\DiagnosticsHub\Collector\Agents\DebugEventCollectionAgent.dll file deleted.
+[3474:0009][2026-05-10T01:46:16] Started: Deleting empty directories
+[3474:0009][2026-05-10T01:46:16] Completed: Deleting empty directories
+[3474:0009][2026-05-10T01:46:16] Package executed successfully. Return code: 0

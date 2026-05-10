@@ -1,0 +1,60 @@
+[3c7c:000c][2026-05-10T01:36:03] Opening the package for processing
+[3c7c:000c][2026-05-10T01:36:03] Using package payload to get the embedded manifest
+[3c7c:000c][2026-05-10T01:36:03] Getting list of files within the package
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/VSFinalizer.exe
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/VSFinalizer.exe to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSFinalizer.exe
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/VSFinalizer.exe to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSFinalizer.exe
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSFinalizer.exe'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/VSFinalizer.exe.config
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/VSFinalizer.exe.config to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSFinalizer.exe.config
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/VSFinalizer.exe.config to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSFinalizer.exe.config
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSFinalizer.exe.config'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/VSFinalizerDependencies/Microsoft.Bcl.AsyncInterfaces.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/VSFinalizerDependencies/Microsoft.Bcl.AsyncInterfaces.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSFinalizerDependencies\Microsoft.Bcl.AsyncInterfaces.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/VSFinalizerDependencies/Microsoft.Bcl.AsyncInterfaces.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSFinalizerDependencies\Microsoft.Bcl.AsyncInterfaces.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSFinalizerDependencies\Microsoft.Bcl.AsyncInterfaces.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/VSFinalizerDependencies/System.Buffers.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/VSFinalizerDependencies/System.Buffers.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSFinalizerDependencies\System.Buffers.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/VSFinalizerDependencies/System.Buffers.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSFinalizerDependencies\System.Buffers.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSFinalizerDependencies\System.Buffers.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/VSFinalizerDependencies/System.IO.Pipelines.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/VSFinalizerDependencies/System.IO.Pipelines.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSFinalizerDependencies\System.IO.Pipelines.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/VSFinalizerDependencies/System.IO.Pipelines.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSFinalizerDependencies\System.IO.Pipelines.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSFinalizerDependencies\System.IO.Pipelines.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/VSFinalizerDependencies/System.Memory.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/VSFinalizerDependencies/System.Memory.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSFinalizerDependencies\System.Memory.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/VSFinalizerDependencies/System.Memory.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSFinalizerDependencies\System.Memory.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSFinalizerDependencies\System.Memory.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/VSFinalizerDependencies/System.Numerics.Vectors.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/VSFinalizerDependencies/System.Numerics.Vectors.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSFinalizerDependencies\System.Numerics.Vectors.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/VSFinalizerDependencies/System.Numerics.Vectors.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSFinalizerDependencies\System.Numerics.Vectors.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSFinalizerDependencies\System.Numerics.Vectors.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/VSFinalizerDependencies/System.Runtime.CompilerServices.Unsafe.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/VSFinalizerDependencies/System.Runtime.CompilerServices.Unsafe.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSFinalizerDependencies\System.Runtime.CompilerServices.Unsafe.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/VSFinalizerDependencies/System.Runtime.CompilerServices.Unsafe.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSFinalizerDependencies\System.Runtime.CompilerServices.Unsafe.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSFinalizerDependencies\System.Runtime.CompilerServices.Unsafe.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/VSFinalizerDependencies/System.Text.Encodings.Web.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/VSFinalizerDependencies/System.Text.Encodings.Web.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSFinalizerDependencies\System.Text.Encodings.Web.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/VSFinalizerDependencies/System.Text.Encodings.Web.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSFinalizerDependencies\System.Text.Encodings.Web.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSFinalizerDependencies\System.Text.Encodings.Web.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/VSFinalizerDependencies/System.Text.Json.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/VSFinalizerDependencies/System.Text.Json.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSFinalizerDependencies\System.Text.Json.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/VSFinalizerDependencies/System.Text.Json.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSFinalizerDependencies\System.Text.Json.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSFinalizerDependencies\System.Text.Json.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/VSFinalizerDependencies/System.Threading.Tasks.Extensions.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/VSFinalizerDependencies/System.Threading.Tasks.Extensions.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSFinalizerDependencies\System.Threading.Tasks.Extensions.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/VSFinalizerDependencies/System.Threading.Tasks.Extensions.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSFinalizerDependencies\System.Threading.Tasks.Extensions.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSFinalizerDependencies\System.Threading.Tasks.Extensions.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/VSFinalizerDependencies/System.ValueTuple.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/VSFinalizerDependencies/System.ValueTuple.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSFinalizerDependencies\System.ValueTuple.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/VSFinalizerDependencies/System.ValueTuple.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSFinalizerDependencies\System.ValueTuple.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSFinalizerDependencies\System.ValueTuple.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/VSInitializer.exe
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/VSInitializer.exe to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSInitializer.exe
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/VSInitializer.exe to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSInitializer.exe
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSInitializer.exe'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Contents/Common7/IDE/VSInitializer.exe.config
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Contents/Common7/IDE/VSInitializer.exe.config to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSInitializer.exe.config
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Contents/Common7/IDE/VSInitializer.exe.config to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSInitializer.exe.config
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSInitializer.exe.config'.
+[3c7c:000c][2026-05-10T01:36:03] Package executed successfully. Return code: 0

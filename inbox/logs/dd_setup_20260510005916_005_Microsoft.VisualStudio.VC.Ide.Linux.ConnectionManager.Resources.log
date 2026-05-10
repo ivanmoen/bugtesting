@@ -1,0 +1,28 @@
+[bd94:0009][2026-05-10T01:00:38] Using cached package manifest as the embedded manifest
+[bd94:0009][2026-05-10T01:00:38] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Linux/Linux/en/Microsoft.VisualStudio.Linux.ConnectionManager.resources.dll
+[bd94:0009][2026-05-10T01:00:38] D:\Program\Common7\IDE\CommonExtensions\Microsoft\Linux\Linux\en\Microsoft.VisualStudio.Linux.ConnectionManager.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:38] Processing file /Contents/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/en/ConnectionManager.resources.dll
+[bd94:0009][2026-05-10T01:00:38] D:\Program\Common7\IDE\VC\Linux\bin\ConnectionManagerExe\en\ConnectionManager.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:38] Processing file /Contents/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/en/liblinux.resources.dll
+[bd94:0009][2026-05-10T01:00:38] D:\Program\Common7\IDE\VC\Linux\bin\ConnectionManagerExe\en\liblinux.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:38] Processing file /Contents/Common7/IDE/PrivateAssemblies/en/liblinux.resources.dll
+[bd94:0009][2026-05-10T01:00:38] D:\Program\Common7\IDE\PrivateAssemblies\en\liblinux.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:38] Processing file /Contents/Common7/IDE/PrivateAssemblies/en/liblinux.IO.resources.dll
+[bd94:0009][2026-05-10T01:00:38] D:\Program\Common7\IDE\PrivateAssemblies\en\liblinux.IO.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:38] Processing file /Contents/Common7/IDE/PrivateAssemblies/en/liblinux.Local.resources.dll
+[bd94:0009][2026-05-10T01:00:38] D:\Program\Common7\IDE\PrivateAssemblies\en\liblinux.Local.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:38] Processing file /Contents/MSBuild/Microsoft/VC/v160/Application Type/Linux/1.0/en/liblinux.resources.dll
+[bd94:0009][2026-05-10T01:00:38] D:\Program\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\en\liblinux.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:38] Processing file /Contents/MSBuild/Microsoft/VC/v160/Application Type/Linux/1.0/en/liblinux.IO.resources.dll
+[bd94:0009][2026-05-10T01:00:38] D:\Program\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\en\liblinux.IO.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:38] Processing file /Contents/MSBuild/Microsoft/VC/v160/Application Type/Linux/1.0/en/liblinux.Local.resources.dll
+[bd94:0009][2026-05-10T01:00:38] D:\Program\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\en\liblinux.Local.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:38] Processing file /Contents/MSBuild/Microsoft/VC/v170/Application Type/Linux/1.0/en/liblinux.resources.dll
+[bd94:0009][2026-05-10T01:00:38] D:\Program\MSBuild\Microsoft\VC\v170\Application Type\Linux\1.0\en\liblinux.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:38] Processing file /Contents/MSBuild/Microsoft/VC/v170/Application Type/Linux/1.0/en/liblinux.IO.resources.dll
+[bd94:0009][2026-05-10T01:00:38] D:\Program\MSBuild\Microsoft\VC\v170\Application Type\Linux\1.0\en\liblinux.IO.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:38] Processing file /Contents/MSBuild/Microsoft/VC/v170/Application Type/Linux/1.0/en/liblinux.Local.resources.dll
+[bd94:0009][2026-05-10T01:00:38] D:\Program\MSBuild\Microsoft\VC\v170\Application Type\Linux\1.0\en\liblinux.Local.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:38] Started: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:38] Completed: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:38] Package executed successfully. Return code: 0

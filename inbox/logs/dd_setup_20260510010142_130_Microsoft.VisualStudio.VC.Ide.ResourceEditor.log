@@ -1,0 +1,64 @@
+[c9c4:0009][2026-05-10T01:02:02] Opening the package for processing
+[c9c4:0009][2026-05-10T01:02:02] Using package payload to get the embedded manifest
+[c9c4:0009][2026-05-10T01:02:02] Getting list of files within the package
+[c9c4:0009][2026-05-10T01:02:02] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/ResourceEditor.pkgdef
+[c9c4:0009][2026-05-10T01:02:02] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/ResourceEditor.pkgdef to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\ResourceEditor.pkgdef
+[c9c4:0009][2026-05-10T01:02:02] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/ResourceEditor.pkgdef to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\ResourceEditor.pkgdef
+[c9c4:0009][2026-05-10T01:02:02] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\ResourceEditor.pkgdef'.
+[c9c4:0009][2026-05-10T01:02:02] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ResCom.Internal.dll
+[c9c4:0009][2026-05-10T01:02:02] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ResCom.Internal.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ResCom.Internal.dll
+[c9c4:0009][2026-05-10T01:02:02] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ResCom.Internal.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ResCom.Internal.dll
+[c9c4:0009][2026-05-10T01:02:02] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ResCom.Internal.dll'.
+[c9c4:0009][2026-05-10T01:02:02] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ResPkg.Internal.dll
+[c9c4:0009][2026-05-10T01:02:02] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ResPkg.Internal.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ResPkg.Internal.dll
+[c9c4:0009][2026-05-10T01:02:02] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ResPkg.Internal.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ResPkg.Internal.dll
+[c9c4:0009][2026-05-10T01:02:02] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ResPkg.Internal.dll'.
+[c9c4:0009][2026-05-10T01:02:02] Processing file /Contents/Common7/IDE/VC/VCContextItems/AddEvent.vstemplate
+[c9c4:0009][2026-05-10T01:02:02] Started: Copying file /Contents/Common7/IDE/VC/VCContextItems/AddEvent.vstemplate to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\AddEvent.vstemplate
+[c9c4:0009][2026-05-10T01:02:02] Completed: Copying file /Contents/Common7/IDE/VC/VCContextItems/AddEvent.vstemplate to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\AddEvent.vstemplate
+[c9c4:0009][2026-05-10T01:02:02] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\AddEvent.vstemplate'.
+[c9c4:0009][2026-05-10T01:02:02] Processing file /Contents/Common7/IDE/VC/VCContextItems/ControlVariable.vstemplate
+[c9c4:0009][2026-05-10T01:02:02] Started: Copying file /Contents/Common7/IDE/VC/VCContextItems/ControlVariable.vstemplate to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\ControlVariable.vstemplate
+[c9c4:0009][2026-05-10T01:02:02] Completed: Copying file /Contents/Common7/IDE/VC/VCContextItems/ControlVariable.vstemplate to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\ControlVariable.vstemplate
+[c9c4:0009][2026-05-10T01:02:02] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\ControlVariable.vstemplate'.
+[c9c4:0009][2026-05-10T01:02:02] Processing file /Contents/Common7/IDE/VC/VCContextItems/ControlVariable/ActiveXWrapper.cpp
+[c9c4:0009][2026-05-10T01:02:02] Started: Copying file /Contents/Common7/IDE/VC/VCContextItems/ControlVariable/ActiveXWrapper.cpp to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\ControlVariable\ActiveXWrapper.cpp
+[c9c4:0009][2026-05-10T01:02:02] Completed: Copying file /Contents/Common7/IDE/VC/VCContextItems/ControlVariable/ActiveXWrapper.cpp to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\ControlVariable\ActiveXWrapper.cpp
+[c9c4:0009][2026-05-10T01:02:02] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\ControlVariable\ActiveXWrapper.cpp'.
+[c9c4:0009][2026-05-10T01:02:02] Processing file /Contents/Common7/IDE/VC/VCContextItems/ControlVariable/ActiveXWrapper.h
+[c9c4:0009][2026-05-10T01:02:02] Started: Copying file /Contents/Common7/IDE/VC/VCContextItems/ControlVariable/ActiveXWrapper.h to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\ControlVariable\ActiveXWrapper.h
+[c9c4:0009][2026-05-10T01:02:02] Completed: Copying file /Contents/Common7/IDE/VC/VCContextItems/ControlVariable/ActiveXWrapper.h to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\ControlVariable\ActiveXWrapper.h
+[c9c4:0009][2026-05-10T01:02:02] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\ControlVariable\ActiveXWrapper.h'.
+[c9c4:0009][2026-05-10T01:02:02] Processing file /Contents/Common7/IDE/VC/VCContextItems/ControlVariable/_Font.h
+[c9c4:0009][2026-05-10T01:02:02] Started: Copying file /Contents/Common7/IDE/VC/VCContextItems/ControlVariable/_Font.h to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\ControlVariable\_Font.h
+[c9c4:0009][2026-05-10T01:02:02] Completed: Copying file /Contents/Common7/IDE/VC/VCContextItems/ControlVariable/_Font.h to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\ControlVariable\_Font.h
+[c9c4:0009][2026-05-10T01:02:02] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\ControlVariable\_Font.h'.
+[c9c4:0009][2026-05-10T01:02:02] Processing file /Contents/Common7/IDE/VC/VCContextItems/ControlVariable/_Picture.h
+[c9c4:0009][2026-05-10T01:02:02] Started: Copying file /Contents/Common7/IDE/VC/VCContextItems/ControlVariable/_Picture.h to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\ControlVariable\_Picture.h
+[c9c4:0009][2026-05-10T01:02:02] Completed: Copying file /Contents/Common7/IDE/VC/VCContextItems/ControlVariable/_Picture.h to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\ControlVariable\_Picture.h
+[c9c4:0009][2026-05-10T01:02:02] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\ControlVariable\_Picture.h'.
+[c9c4:0009][2026-05-10T01:02:02] Processing file /Contents/Common7/IDE/VC/VCContextItems/EventHandler.vstemplate
+[c9c4:0009][2026-05-10T01:02:02] Started: Copying file /Contents/Common7/IDE/VC/VCContextItems/EventHandler.vstemplate to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\EventHandler.vstemplate
+[c9c4:0009][2026-05-10T01:02:02] Completed: Copying file /Contents/Common7/IDE/VC/VCContextItems/EventHandler.vstemplate to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\EventHandler.vstemplate
+[c9c4:0009][2026-05-10T01:02:02] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCContextItems\EventHandler.vstemplate'.
+[c9c4:0009][2026-05-10T01:02:02] Processing file /Contents/Common7/IDE/VC/vcpackages/autolayt.dll
+[c9c4:0009][2026-05-10T01:02:02] Started: Copying file /Contents/Common7/IDE/VC/vcpackages/autolayt.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\autolayt.dll
+[c9c4:0009][2026-05-10T01:02:02] Completed: Copying file /Contents/Common7/IDE/VC/vcpackages/autolayt.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\autolayt.dll
+[c9c4:0009][2026-05-10T01:02:02] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\autolayt.dll'.
+[c9c4:0009][2026-05-10T01:02:02] Processing file /Contents/Common7/IDE/VC/vcpackages/bined.dll
+[c9c4:0009][2026-05-10T01:02:02] Started: Copying file /Contents/Common7/IDE/VC/vcpackages/bined.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\bined.dll
+[c9c4:0009][2026-05-10T01:02:02] Completed: Copying file /Contents/Common7/IDE/VC/vcpackages/bined.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\bined.dll
+[c9c4:0009][2026-05-10T01:02:02] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\bined.dll'.
+[c9c4:0009][2026-05-10T01:02:02] Processing file /Contents/Common7/IDE/VC/vcpackages/mfc140u.dll
+[c9c4:0009][2026-05-10T01:02:02] Started: Copying file /Contents/Common7/IDE/VC/vcpackages/mfc140u.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\mfc140u.dll
+[c9c4:0009][2026-05-10T01:02:02] Completed: Copying file /Contents/Common7/IDE/VC/vcpackages/mfc140u.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\mfc140u.dll
+[c9c4:0009][2026-05-10T01:02:02] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\mfc140u.dll'.
+[c9c4:0009][2026-05-10T01:02:02] Processing file /Contents/Common7/IDE/VC/vcpackages/rcxdti.dll
+[c9c4:0009][2026-05-10T01:02:02] Started: Copying file /Contents/Common7/IDE/VC/vcpackages/rcxdti.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\rcxdti.dll
+[c9c4:0009][2026-05-10T01:02:02] Completed: Copying file /Contents/Common7/IDE/VC/vcpackages/rcxdti.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\rcxdti.dll
+[c9c4:0009][2026-05-10T01:02:02] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\rcxdti.dll'.
+[c9c4:0009][2026-05-10T01:02:02] Processing file /Contents/Common7/IDE/VC/vcpackages/resedit.dll
+[c9c4:0009][2026-05-10T01:02:02] Started: Copying file /Contents/Common7/IDE/VC/vcpackages/resedit.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\resedit.dll
+[c9c4:0009][2026-05-10T01:02:02] Completed: Copying file /Contents/Common7/IDE/VC/vcpackages/resedit.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\resedit.dll
+[c9c4:0009][2026-05-10T01:02:02] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\resedit.dll'.
+[c9c4:0009][2026-05-10T01:02:02] Package executed successfully. Return code: 0

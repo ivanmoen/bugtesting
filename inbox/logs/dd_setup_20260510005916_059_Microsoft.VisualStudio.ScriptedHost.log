@@ -1,0 +1,14 @@
+[bd94:0009][2026-05-10T01:00:48] Using cached package manifest as the embedded manifest
+[bd94:0009][2026-05-10T01:00:48] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Web.WebView2.Core.dll
+[bd94:0009][2026-05-10T01:00:48] D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.Web.WebView2.Core.dll file deleted.
+[bd94:0009][2026-05-10T01:00:48] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Web.WebView2.Wpf.dll
+[bd94:0009][2026-05-10T01:00:48] D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.Web.WebView2.Wpf.dll file deleted.
+[bd94:0009][2026-05-10T01:00:48] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ScriptedHost.dll
+[bd94:0009][2026-05-10T01:00:48] D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ScriptedHost.dll file deleted.
+[bd94:0009][2026-05-10T01:00:48] Processing file /Contents/Common7/IDE/PrivateAssemblies/ScriptedHost.Blank.html
+[bd94:0009][2026-05-10T01:00:48] D:\Program\Common7\IDE\PrivateAssemblies\ScriptedHost.Blank.html file deleted.
+[bd94:0009][2026-05-10T01:00:48] Processing file /Contents/Common7/IDE/PrivateAssemblies/plugin.vs.v2.js
+[bd94:0009][2026-05-10T01:00:48] D:\Program\Common7\IDE\PrivateAssemblies\plugin.vs.v2.js file deleted.
+[bd94:0009][2026-05-10T01:00:48] Started: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:48] Completed: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:48] Package executed successfully. Return code: 0

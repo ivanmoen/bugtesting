@@ -1,0 +1,44 @@
+[da4c:0007][2026-05-10T00:49:54] Opening the package for processing
+[da4c:0007][2026-05-10T00:49:54] Using package payload to get the embedded manifest
+[da4c:0007][2026-05-10T00:49:54] Getting list of files within the package
+[da4c:0007][2026-05-10T00:49:54] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web%20Tools/Azure/AzureConfiguration.zip
+[da4c:0007][2026-05-10T00:49:54] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/Web%20Tools/Azure/AzureConfiguration.zip to D:\Program\Common7\IDE\Extensions\Microsoft\Web Tools\Azure\AzureConfiguration.zip
+[da4c:0007][2026-05-10T00:49:54] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/Web%20Tools/Azure/AzureConfiguration.zip to D:\Program\Common7\IDE\Extensions\Microsoft\Web Tools\Azure\AzureConfiguration.zip
+[da4c:0007][2026-05-10T00:49:54] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\Web Tools\Azure\AzureConfiguration.zip'.
+[da4c:0007][2026-05-10T00:49:54] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web%20Tools/Azure/Microsoft.VisualStudio.Web.Azure.Common.pkgdef
+[da4c:0007][2026-05-10T00:49:54] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/Web%20Tools/Azure/Microsoft.VisualStudio.Web.Azure.Common.pkgdef to D:\Program\Common7\IDE\Extensions\Microsoft\Web Tools\Azure\Microsoft.VisualStudio.Web.Azure.Common.pkgdef
+[da4c:0007][2026-05-10T00:49:54] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/Web%20Tools/Azure/Microsoft.VisualStudio.Web.Azure.Common.pkgdef to D:\Program\Common7\IDE\Extensions\Microsoft\Web Tools\Azure\Microsoft.VisualStudio.Web.Azure.Common.pkgdef
+[da4c:0007][2026-05-10T00:49:54] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\Web Tools\Azure\Microsoft.VisualStudio.Web.Azure.Common.pkgdef'.
+[da4c:0007][2026-05-10T00:49:54] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web%20Tools/Azure/Microsoft.WebTools.Azure.Client.dll
+[da4c:0007][2026-05-10T00:49:54] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/Web%20Tools/Azure/Microsoft.WebTools.Azure.Client.dll to D:\Program\Common7\IDE\Extensions\Microsoft\Web Tools\Azure\Microsoft.WebTools.Azure.Client.dll
+[da4c:0007][2026-05-10T00:49:54] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/Web%20Tools/Azure/Microsoft.WebTools.Azure.Client.dll to D:\Program\Common7\IDE\Extensions\Microsoft\Web Tools\Azure\Microsoft.WebTools.Azure.Client.dll
+[da4c:0007][2026-05-10T00:49:54] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\Web Tools\Azure\Microsoft.WebTools.Azure.Client.dll'.
+[da4c:0007][2026-05-10T00:49:54] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web%20Tools/Azure/Microsoft.WebTools.Azure.Contracts.dll
+[da4c:0007][2026-05-10T00:49:54] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/Web%20Tools/Azure/Microsoft.WebTools.Azure.Contracts.dll to D:\Program\Common7\IDE\Extensions\Microsoft\Web Tools\Azure\Microsoft.WebTools.Azure.Contracts.dll
+[da4c:0007][2026-05-10T00:49:54] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/Web%20Tools/Azure/Microsoft.WebTools.Azure.Contracts.dll to D:\Program\Common7\IDE\Extensions\Microsoft\Web Tools\Azure\Microsoft.WebTools.Azure.Contracts.dll
+[da4c:0007][2026-05-10T00:49:54] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\Web Tools\Azure\Microsoft.WebTools.Azure.Contracts.dll'.
+[da4c:0007][2026-05-10T00:49:54] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web%20Tools/Azure/Microsoft.WebTools.Azure.VS.dll
+[da4c:0007][2026-05-10T00:49:54] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/Web%20Tools/Azure/Microsoft.WebTools.Azure.VS.dll to D:\Program\Common7\IDE\Extensions\Microsoft\Web Tools\Azure\Microsoft.WebTools.Azure.VS.dll
+[da4c:0007][2026-05-10T00:49:54] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/Web%20Tools/Azure/Microsoft.WebTools.Azure.VS.dll to D:\Program\Common7\IDE\Extensions\Microsoft\Web Tools\Azure\Microsoft.WebTools.Azure.VS.dll
+[da4c:0007][2026-05-10T00:49:54] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\Web Tools\Azure\Microsoft.WebTools.Azure.VS.dll'.
+[da4c:0007][2026-05-10T00:49:54] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web%20Tools/Azure/ThirdPartyNotices.rtf
+[da4c:0007][2026-05-10T00:49:54] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/Web%20Tools/Azure/ThirdPartyNotices.rtf to D:\Program\Common7\IDE\Extensions\Microsoft\Web Tools\Azure\ThirdPartyNotices.rtf
+[da4c:0007][2026-05-10T00:49:54] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/Web%20Tools/Azure/ThirdPartyNotices.rtf to D:\Program\Common7\IDE\Extensions\Microsoft\Web Tools\Azure\ThirdPartyNotices.rtf
+[da4c:0007][2026-05-10T00:49:54] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\Web Tools\Azure\ThirdPartyNotices.rtf'.
+[da4c:0007][2026-05-10T00:49:54] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web%20Tools/Azure/WebConfiguration.png
+[da4c:0007][2026-05-10T00:49:54] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/Web%20Tools/Azure/WebConfiguration.png to D:\Program\Common7\IDE\Extensions\Microsoft\Web Tools\Azure\WebConfiguration.png
+[da4c:0007][2026-05-10T00:49:54] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/Web%20Tools/Azure/WebConfiguration.png to D:\Program\Common7\IDE\Extensions\Microsoft\Web Tools\Azure\WebConfiguration.png
+[da4c:0007][2026-05-10T00:49:54] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\Web Tools\Azure\WebConfiguration.png'.
+[da4c:0007][2026-05-10T00:49:54] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web%20Tools/Azure/WebConfigurationPreview.png
+[da4c:0007][2026-05-10T00:49:54] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/Web%20Tools/Azure/WebConfigurationPreview.png to D:\Program\Common7\IDE\Extensions\Microsoft\Web Tools\Azure\WebConfigurationPreview.png
+[da4c:0007][2026-05-10T00:49:54] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/Web%20Tools/Azure/WebConfigurationPreview.png to D:\Program\Common7\IDE\Extensions\Microsoft\Web Tools\Azure\WebConfigurationPreview.png
+[da4c:0007][2026-05-10T00:49:54] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\Web Tools\Azure\WebConfigurationPreview.png'.
+[da4c:0007][2026-05-10T00:49:54] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web%20Tools/Azure/WebTools.Azure.Common.clientenabledpkg
+[da4c:0007][2026-05-10T00:49:54] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/Web%20Tools/Azure/WebTools.Azure.Common.clientenabledpkg to D:\Program\Common7\IDE\Extensions\Microsoft\Web Tools\Azure\WebTools.Azure.Common.clientenabledpkg
+[da4c:0007][2026-05-10T00:49:54] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/Web%20Tools/Azure/WebTools.Azure.Common.clientenabledpkg to D:\Program\Common7\IDE\Extensions\Microsoft\Web Tools\Azure\WebTools.Azure.Common.clientenabledpkg
+[da4c:0007][2026-05-10T00:49:54] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\Web Tools\Azure\WebTools.Azure.Common.clientenabledpkg'.
+[da4c:0007][2026-05-10T00:49:54] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web%20Tools/Azure/extension.vsixmanifest
+[da4c:0007][2026-05-10T00:49:54] Started: Copying file /Contents/Common7/IDE/Extensions/Microsoft/Web%20Tools/Azure/extension.vsixmanifest to D:\Program\Common7\IDE\Extensions\Microsoft\Web Tools\Azure\extension.vsixmanifest
+[da4c:0007][2026-05-10T00:49:54] Completed: Copying file /Contents/Common7/IDE/Extensions/Microsoft/Web%20Tools/Azure/extension.vsixmanifest to D:\Program\Common7\IDE\Extensions\Microsoft\Web Tools\Azure\extension.vsixmanifest
+[da4c:0007][2026-05-10T00:49:54] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\Web Tools\Azure\extension.vsixmanifest'.
+[da4c:0007][2026-05-10T00:49:54] Package executed successfully. Return code: 0

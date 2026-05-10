@@ -1,0 +1,20 @@
+[0c48:0003][2026-05-10T01:44:46] Using cached package manifest as the embedded manifest
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/tbbmalloc.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\tbbmalloc.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/msobj140.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\msobj140.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Debugger/x86/msobj140.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Debugger\x86\msobj140.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Debugger/x86/tbbmalloc.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Debugger\x86\tbbmalloc.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Debugger/x64/msobj140.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Debugger\x64\msobj140.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Debugger/x64/tbbmalloc.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Debugger\x64\tbbmalloc.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/VC/vcpackages/vcmeta.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\vcmeta.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/VC/Profile/VC.vssettings
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\Profile\VC.vssettings file deleted.
+[0c48:0003][2026-05-10T01:44:46] Started: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:46] Completed: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:46] Package executed successfully. Return code: 0

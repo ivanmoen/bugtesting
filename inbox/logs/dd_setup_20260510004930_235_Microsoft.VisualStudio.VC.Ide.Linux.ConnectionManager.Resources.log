@@ -1,0 +1,52 @@
+[da4c:0007][2026-05-10T00:50:17] Opening the package for processing
+[da4c:0007][2026-05-10T00:50:17] Using package payload to get the embedded manifest
+[da4c:0007][2026-05-10T00:50:17] Getting list of files within the package
+[da4c:0007][2026-05-10T00:50:17] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Linux/Linux/en/Microsoft.VisualStudio.Linux.ConnectionManager.resources.dll
+[da4c:0007][2026-05-10T00:50:17] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Linux/Linux/en/Microsoft.VisualStudio.Linux.ConnectionManager.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Linux\Linux\en\Microsoft.VisualStudio.Linux.ConnectionManager.resources.dll
+[da4c:0007][2026-05-10T00:50:17] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Linux/Linux/en/Microsoft.VisualStudio.Linux.ConnectionManager.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Linux\Linux\en\Microsoft.VisualStudio.Linux.ConnectionManager.resources.dll
+[da4c:0007][2026-05-10T00:50:17] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\Linux\Linux\en\Microsoft.VisualStudio.Linux.ConnectionManager.resources.dll'.
+[da4c:0007][2026-05-10T00:50:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/en/liblinux.IO.resources.dll
+[da4c:0007][2026-05-10T00:50:17] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/en/liblinux.IO.resources.dll to D:\Program\Common7\IDE\PrivateAssemblies\en\liblinux.IO.resources.dll
+[da4c:0007][2026-05-10T00:50:17] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/en/liblinux.IO.resources.dll to D:\Program\Common7\IDE\PrivateAssemblies\en\liblinux.IO.resources.dll
+[da4c:0007][2026-05-10T00:50:17] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\en\liblinux.IO.resources.dll'.
+[da4c:0007][2026-05-10T00:50:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/en/liblinux.Local.resources.dll
+[da4c:0007][2026-05-10T00:50:17] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/en/liblinux.Local.resources.dll to D:\Program\Common7\IDE\PrivateAssemblies\en\liblinux.Local.resources.dll
+[da4c:0007][2026-05-10T00:50:17] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/en/liblinux.Local.resources.dll to D:\Program\Common7\IDE\PrivateAssemblies\en\liblinux.Local.resources.dll
+[da4c:0007][2026-05-10T00:50:17] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\en\liblinux.Local.resources.dll'.
+[da4c:0007][2026-05-10T00:50:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/en/liblinux.resources.dll
+[da4c:0007][2026-05-10T00:50:17] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/en/liblinux.resources.dll to D:\Program\Common7\IDE\PrivateAssemblies\en\liblinux.resources.dll
+[da4c:0007][2026-05-10T00:50:17] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/en/liblinux.resources.dll to D:\Program\Common7\IDE\PrivateAssemblies\en\liblinux.resources.dll
+[da4c:0007][2026-05-10T00:50:17] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\en\liblinux.resources.dll'.
+[da4c:0007][2026-05-10T00:50:17] Processing file /Contents/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/en/ConnectionManager.resources.dll
+[da4c:0007][2026-05-10T00:50:17] Started: Copying file /Contents/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/en/ConnectionManager.resources.dll to D:\Program\Common7\IDE\VC\Linux\bin\ConnectionManagerExe\en\ConnectionManager.resources.dll
+[da4c:0007][2026-05-10T00:50:17] Completed: Copying file /Contents/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/en/ConnectionManager.resources.dll to D:\Program\Common7\IDE\VC\Linux\bin\ConnectionManagerExe\en\ConnectionManager.resources.dll
+[da4c:0007][2026-05-10T00:50:17] Timestamp updated for file 'D:\Program\Common7\IDE\VC\Linux\bin\ConnectionManagerExe\en\ConnectionManager.resources.dll'.
+[da4c:0007][2026-05-10T00:50:17] Processing file /Contents/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/en/liblinux.resources.dll
+[da4c:0007][2026-05-10T00:50:17] Started: Copying file /Contents/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/en/liblinux.resources.dll to D:\Program\Common7\IDE\VC\Linux\bin\ConnectionManagerExe\en\liblinux.resources.dll
+[da4c:0007][2026-05-10T00:50:17] Completed: Copying file /Contents/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/en/liblinux.resources.dll to D:\Program\Common7\IDE\VC\Linux\bin\ConnectionManagerExe\en\liblinux.resources.dll
+[da4c:0007][2026-05-10T00:50:17] Timestamp updated for file 'D:\Program\Common7\IDE\VC\Linux\bin\ConnectionManagerExe\en\liblinux.resources.dll'.
+[da4c:0007][2026-05-10T00:50:17] Processing file /Contents/MSBuild/Microsoft/VC/v160/Application%20Type/Linux/1.0/en/liblinux.IO.resources.dll
+[da4c:0007][2026-05-10T00:50:17] Started: Copying file /Contents/MSBuild/Microsoft/VC/v160/Application%20Type/Linux/1.0/en/liblinux.IO.resources.dll to D:\Program\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\en\liblinux.IO.resources.dll
+[da4c:0007][2026-05-10T00:50:17] Completed: Copying file /Contents/MSBuild/Microsoft/VC/v160/Application%20Type/Linux/1.0/en/liblinux.IO.resources.dll to D:\Program\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\en\liblinux.IO.resources.dll
+[da4c:0007][2026-05-10T00:50:17] Timestamp updated for file 'D:\Program\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\en\liblinux.IO.resources.dll'.
+[da4c:0007][2026-05-10T00:50:17] Processing file /Contents/MSBuild/Microsoft/VC/v160/Application%20Type/Linux/1.0/en/liblinux.Local.resources.dll
+[da4c:0007][2026-05-10T00:50:17] Started: Copying file /Contents/MSBuild/Microsoft/VC/v160/Application%20Type/Linux/1.0/en/liblinux.Local.resources.dll to D:\Program\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\en\liblinux.Local.resources.dll
+[da4c:0007][2026-05-10T00:50:17] Completed: Copying file /Contents/MSBuild/Microsoft/VC/v160/Application%20Type/Linux/1.0/en/liblinux.Local.resources.dll to D:\Program\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\en\liblinux.Local.resources.dll
+[da4c:0007][2026-05-10T00:50:17] Timestamp updated for file 'D:\Program\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\en\liblinux.Local.resources.dll'.
+[da4c:0007][2026-05-10T00:50:17] Processing file /Contents/MSBuild/Microsoft/VC/v160/Application%20Type/Linux/1.0/en/liblinux.resources.dll
+[da4c:0007][2026-05-10T00:50:17] Started: Copying file /Contents/MSBuild/Microsoft/VC/v160/Application%20Type/Linux/1.0/en/liblinux.resources.dll to D:\Program\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\en\liblinux.resources.dll
+[da4c:0007][2026-05-10T00:50:17] Completed: Copying file /Contents/MSBuild/Microsoft/VC/v160/Application%20Type/Linux/1.0/en/liblinux.resources.dll to D:\Program\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\en\liblinux.resources.dll
+[da4c:0007][2026-05-10T00:50:17] Timestamp updated for file 'D:\Program\MSBuild\Microsoft\VC\v160\Application Type\Linux\1.0\en\liblinux.resources.dll'.
+[da4c:0007][2026-05-10T00:50:17] Processing file /Contents/MSBuild/Microsoft/VC/v170/Application%20Type/Linux/1.0/en/liblinux.IO.resources.dll
+[da4c:0007][2026-05-10T00:50:17] Started: Copying file /Contents/MSBuild/Microsoft/VC/v170/Application%20Type/Linux/1.0/en/liblinux.IO.resources.dll to D:\Program\MSBuild\Microsoft\VC\v170\Application Type\Linux\1.0\en\liblinux.IO.resources.dll
+[da4c:0007][2026-05-10T00:50:17] Completed: Copying file /Contents/MSBuild/Microsoft/VC/v170/Application%20Type/Linux/1.0/en/liblinux.IO.resources.dll to D:\Program\MSBuild\Microsoft\VC\v170\Application Type\Linux\1.0\en\liblinux.IO.resources.dll
+[da4c:0007][2026-05-10T00:50:17] Timestamp updated for file 'D:\Program\MSBuild\Microsoft\VC\v170\Application Type\Linux\1.0\en\liblinux.IO.resources.dll'.
+[da4c:0007][2026-05-10T00:50:17] Processing file /Contents/MSBuild/Microsoft/VC/v170/Application%20Type/Linux/1.0/en/liblinux.Local.resources.dll
+[da4c:0007][2026-05-10T00:50:17] Started: Copying file /Contents/MSBuild/Microsoft/VC/v170/Application%20Type/Linux/1.0/en/liblinux.Local.resources.dll to D:\Program\MSBuild\Microsoft\VC\v170\Application Type\Linux\1.0\en\liblinux.Local.resources.dll
+[da4c:0007][2026-05-10T00:50:17] Completed: Copying file /Contents/MSBuild/Microsoft/VC/v170/Application%20Type/Linux/1.0/en/liblinux.Local.resources.dll to D:\Program\MSBuild\Microsoft\VC\v170\Application Type\Linux\1.0\en\liblinux.Local.resources.dll
+[da4c:0007][2026-05-10T00:50:17] Timestamp updated for file 'D:\Program\MSBuild\Microsoft\VC\v170\Application Type\Linux\1.0\en\liblinux.Local.resources.dll'.
+[da4c:0007][2026-05-10T00:50:17] Processing file /Contents/MSBuild/Microsoft/VC/v170/Application%20Type/Linux/1.0/en/liblinux.resources.dll
+[da4c:0007][2026-05-10T00:50:17] Started: Copying file /Contents/MSBuild/Microsoft/VC/v170/Application%20Type/Linux/1.0/en/liblinux.resources.dll to D:\Program\MSBuild\Microsoft\VC\v170\Application Type\Linux\1.0\en\liblinux.resources.dll
+[da4c:0007][2026-05-10T00:50:17] Completed: Copying file /Contents/MSBuild/Microsoft/VC/v170/Application%20Type/Linux/1.0/en/liblinux.resources.dll to D:\Program\MSBuild\Microsoft\VC\v170\Application Type\Linux\1.0\en\liblinux.resources.dll
+[da4c:0007][2026-05-10T00:50:17] Timestamp updated for file 'D:\Program\MSBuild\Microsoft\VC\v170\Application Type\Linux\1.0\en\liblinux.resources.dll'.
+[da4c:0007][2026-05-10T00:50:17] Package executed successfully. Return code: 0

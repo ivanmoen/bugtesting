@@ -1,0 +1,8 @@
+[c9c4:0009][2026-05-10T01:01:58] Opening the package for processing
+[c9c4:0009][2026-05-10T01:01:58] Using package payload to get the embedded manifest
+[c9c4:0009][2026-05-10T01:01:58] Getting list of files within the package
+[c9c4:0009][2026-05-10T01:01:58] Processing file /Contents/Common7/IDE/Remote%20Debugger/x64/1033/vsdebugeng.impl.resources.dll
+[c9c4:0009][2026-05-10T01:01:58] Started: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/1033/vsdebugeng.impl.resources.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\1033\vsdebugeng.impl.resources.dll
+[c9c4:0009][2026-05-10T01:01:58] Completed: Copying file /Contents/Common7/IDE/Remote%20Debugger/x64/1033/vsdebugeng.impl.resources.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\1033\vsdebugeng.impl.resources.dll
+[c9c4:0009][2026-05-10T01:01:58] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\1033\vsdebugeng.impl.resources.dll'.
+[c9c4:0009][2026-05-10T01:01:58] Package executed successfully. Return code: 0

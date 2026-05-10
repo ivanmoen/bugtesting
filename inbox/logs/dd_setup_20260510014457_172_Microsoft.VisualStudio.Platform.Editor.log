@@ -1,0 +1,190 @@
+[3474:0009][2026-05-10T01:46:18] Using cached package manifest as the embedded manifest
+[3474:0009][2026-05-10T01:46:18] Processing file /extension.vsixmanifest
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\extension.vsixmanifest file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /Microsoft.VisualStudio.Editor.pkgdef
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\Microsoft.VisualStudio.Editor.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /Microsoft.VisualStudio.Editor.Implementation.pkgdef
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\Microsoft.VisualStudio.Editor.Implementation.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /UnifiedSettings/registration.json
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\UnifiedSettings\registration.json file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /SpellChecker/ExclusionDictionaries/cpp.dic
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\SpellChecker\ExclusionDictionaries\cpp.dic file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /SpellChecker/ExclusionDictionaries/csharp.dic
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\SpellChecker\ExclusionDictionaries\csharp.dic file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /ServiceHub/CodeLens.servicehub.service.json
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\ServiceHub\CodeLens.servicehub.service.json file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /ServiceHub/CodeLensDotnet.x64.servicehub.service.json
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\ServiceHub\CodeLensDotnet.x64.servicehub.service.json file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /ServiceHub/CodeLensAssemblyDirectories.x64.json
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\ServiceHub\CodeLensAssemblyDirectories.x64.json file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /ServiceHub/CodeLensDotnet.arm64.servicehub.service.json
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\ServiceHub\CodeLensDotnet.arm64.servicehub.service.json file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /ServiceHub/CodeLensAssemblyDirectories.arm64.json
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\ServiceHub\CodeLensAssemblyDirectories.arm64.json file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /ServiceHub/Indexing.servicehub.service.json
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\ServiceHub\Indexing.servicehub.service.json file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /ServiceHub/dotnet/x64/Microsoft.VisualStudio.CodeLens.Service.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\ServiceHub\dotnet\x64\Microsoft.VisualStudio.CodeLens.Service.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /ServiceHub/dotnet/x64/Microsoft.VisualStudio.CoreUtility.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\ServiceHub\dotnet\x64\Microsoft.VisualStudio.CoreUtility.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /ServiceHub/dotnet/x64/Microsoft.VisualStudio.Language.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\ServiceHub\dotnet\x64\Microsoft.VisualStudio.Language.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /ServiceHub/dotnet/x64/Microsoft.VisualStudio.Text.Data.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\ServiceHub\dotnet\x64\Microsoft.VisualStudio.Text.Data.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /ServiceHub/dotnet/x64/Microsoft.VisualStudio.Text.Logic.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\ServiceHub\dotnet\x64\Microsoft.VisualStudio.Text.Logic.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /ServiceHub/dotnet/x64/Microsoft.VisualStudio.Text.UI.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\ServiceHub\dotnet\x64\Microsoft.VisualStudio.Text.UI.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /ServiceHub/dotnet/arm64/Microsoft.VisualStudio.CodeLens.Service.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\ServiceHub\dotnet\arm64\Microsoft.VisualStudio.CodeLens.Service.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /ServiceHub/dotnet/arm64/Microsoft.VisualStudio.CoreUtility.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\ServiceHub\dotnet\arm64\Microsoft.VisualStudio.CoreUtility.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /ServiceHub/dotnet/arm64/Microsoft.VisualStudio.Language.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\ServiceHub\dotnet\arm64\Microsoft.VisualStudio.Language.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /ServiceHub/dotnet/arm64/Microsoft.VisualStudio.Text.Data.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\ServiceHub\dotnet\arm64\Microsoft.VisualStudio.Text.Data.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /ServiceHub/dotnet/arm64/Microsoft.VisualStudio.Text.Logic.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\ServiceHub\dotnet\arm64\Microsoft.VisualStudio.Text.Logic.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /ServiceHub/dotnet/arm64/Microsoft.VisualStudio.Text.UI.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\ServiceHub\dotnet\arm64\Microsoft.VisualStudio.Text.UI.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /Microsoft.VisualStudio.Diff.pkgdef
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\Microsoft.VisualStudio.Diff.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /Microsoft.VisualStudio.Diff.CommandLineSwitch.pkgdef
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\Microsoft.VisualStudio.Diff.CommandLineSwitch.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /Assets/breakpoint.wav
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\Assets\breakpoint.wav file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /Assets/error.wav
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\Assets\error.wav file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /Assets/lineAdd_17_3.wav
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\Assets\lineAdd_17_3.wav file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /Assets/lineAdd_17_6.wav
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\Assets\lineAdd_17_6.wav file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /Assets/lineDelete_17_3.wav
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\Assets\lineDelete_17_3.wav file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /Assets/lineDelete_17_6.wav
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\Assets\lineDelete_17_6.wav file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /Assets/warning.wav
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\Assets\warning.wav file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /ServiceHub/Microsoft.VisualStudio.Text.Indexing.Service.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\ServiceHub\Microsoft.VisualStudio.Text.Indexing.Service.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /ServiceHub/Microsoft.VisualStudio.Text.Indexing.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\ServiceHub\Microsoft.VisualStudio.Text.Indexing.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /ServiceHub/Microsoft.VisualStudio.Paging.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\ServiceHub\Microsoft.VisualStudio.Paging.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /Microsoft.VisualStudio.Diff.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\Microsoft.VisualStudio.Diff.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /zh-Hans/Microsoft.VisualStudio.Diff.resources.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\zh-Hans\Microsoft.VisualStudio.Diff.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /zh-Hant/Microsoft.VisualStudio.Diff.resources.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\zh-Hant\Microsoft.VisualStudio.Diff.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /de/Microsoft.VisualStudio.Diff.resources.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\de\Microsoft.VisualStudio.Diff.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /es/Microsoft.VisualStudio.Diff.resources.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\es\Microsoft.VisualStudio.Diff.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /fr/Microsoft.VisualStudio.Diff.resources.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\fr\Microsoft.VisualStudio.Diff.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /it/Microsoft.VisualStudio.Diff.resources.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\it\Microsoft.VisualStudio.Diff.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /ja/Microsoft.VisualStudio.Diff.resources.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\ja\Microsoft.VisualStudio.Diff.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /ko/Microsoft.VisualStudio.Diff.resources.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\ko\Microsoft.VisualStudio.Diff.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /ru/Microsoft.VisualStudio.Diff.resources.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\ru\Microsoft.VisualStudio.Diff.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /cs/Microsoft.VisualStudio.Diff.resources.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\cs\Microsoft.VisualStudio.Diff.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /pt-BR/Microsoft.VisualStudio.Diff.resources.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\pt-BR\Microsoft.VisualStudio.Diff.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /pl/Microsoft.VisualStudio.Diff.resources.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\pl\Microsoft.VisualStudio.Diff.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /tr/Microsoft.VisualStudio.Diff.resources.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\tr\Microsoft.VisualStudio.Diff.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /Microsoft.VisualStudio.Platform.VSEditor.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\Microsoft.VisualStudio.Platform.VSEditor.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /zh-Hans/Microsoft.VisualStudio.Platform.VSEditor.resources.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\zh-Hans\Microsoft.VisualStudio.Platform.VSEditor.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /zh-Hant/Microsoft.VisualStudio.Platform.VSEditor.resources.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\zh-Hant\Microsoft.VisualStudio.Platform.VSEditor.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /de/Microsoft.VisualStudio.Platform.VSEditor.resources.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\de\Microsoft.VisualStudio.Platform.VSEditor.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /es/Microsoft.VisualStudio.Platform.VSEditor.resources.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\es\Microsoft.VisualStudio.Platform.VSEditor.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /fr/Microsoft.VisualStudio.Platform.VSEditor.resources.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\fr\Microsoft.VisualStudio.Platform.VSEditor.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /it/Microsoft.VisualStudio.Platform.VSEditor.resources.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\it\Microsoft.VisualStudio.Platform.VSEditor.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /ja/Microsoft.VisualStudio.Platform.VSEditor.resources.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\ja\Microsoft.VisualStudio.Platform.VSEditor.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /ko/Microsoft.VisualStudio.Platform.VSEditor.resources.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\ko\Microsoft.VisualStudio.Platform.VSEditor.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /ru/Microsoft.VisualStudio.Platform.VSEditor.resources.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\ru\Microsoft.VisualStudio.Platform.VSEditor.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /cs/Microsoft.VisualStudio.Platform.VSEditor.resources.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\cs\Microsoft.VisualStudio.Platform.VSEditor.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /pt-BR/Microsoft.VisualStudio.Platform.VSEditor.resources.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\pt-BR\Microsoft.VisualStudio.Platform.VSEditor.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /pl/Microsoft.VisualStudio.Platform.VSEditor.resources.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\pl\Microsoft.VisualStudio.Platform.VSEditor.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /tr/Microsoft.VisualStudio.Platform.VSEditor.resources.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\tr\Microsoft.VisualStudio.Platform.VSEditor.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /Microsoft.VisualStudio.Language.Intellisense.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\Microsoft.VisualStudio.Language.Intellisense.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /Microsoft.VisualStudio.Text.UI.Wpf.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\Microsoft.VisualStudio.Text.UI.Wpf.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /Microsoft.VisualStudio.Text.Internal.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\Microsoft.VisualStudio.Text.Internal.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /Microsoft.VisualStudio.Text.JittedInternal.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\Microsoft.VisualStudio.Text.JittedInternal.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /Microsoft.VisualStudio.Editor.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\Microsoft.VisualStudio.Editor.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /Microsoft.VisualStudio.Editor.Implementation.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\Microsoft.VisualStudio.Editor.Implementation.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /zh-Hans/Microsoft.VisualStudio.Editor.Implementation.resources.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\zh-Hans\Microsoft.VisualStudio.Editor.Implementation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /zh-Hant/Microsoft.VisualStudio.Editor.Implementation.resources.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\zh-Hant\Microsoft.VisualStudio.Editor.Implementation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /de/Microsoft.VisualStudio.Editor.Implementation.resources.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\de\Microsoft.VisualStudio.Editor.Implementation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /es/Microsoft.VisualStudio.Editor.Implementation.resources.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\es\Microsoft.VisualStudio.Editor.Implementation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /fr/Microsoft.VisualStudio.Editor.Implementation.resources.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\fr\Microsoft.VisualStudio.Editor.Implementation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /it/Microsoft.VisualStudio.Editor.Implementation.resources.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\it\Microsoft.VisualStudio.Editor.Implementation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /ja/Microsoft.VisualStudio.Editor.Implementation.resources.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\ja\Microsoft.VisualStudio.Editor.Implementation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /ko/Microsoft.VisualStudio.Editor.Implementation.resources.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\ko\Microsoft.VisualStudio.Editor.Implementation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /ru/Microsoft.VisualStudio.Editor.Implementation.resources.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\ru\Microsoft.VisualStudio.Editor.Implementation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /cs/Microsoft.VisualStudio.Editor.Implementation.resources.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\cs\Microsoft.VisualStudio.Editor.Implementation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /pt-BR/Microsoft.VisualStudio.Editor.Implementation.resources.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\pt-BR\Microsoft.VisualStudio.Editor.Implementation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /pl/Microsoft.VisualStudio.Editor.Implementation.resources.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\pl\Microsoft.VisualStudio.Editor.Implementation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /tr/Microsoft.VisualStudio.Editor.Implementation.resources.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\tr\Microsoft.VisualStudio.Editor.Implementation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /Microsoft.VisualStudio.CoreUtility.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\Microsoft.VisualStudio.CoreUtility.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /Microsoft.VisualStudio.Language.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\Microsoft.VisualStudio.Language.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /Microsoft.VisualStudio.Language.StandardClassification.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\Microsoft.VisualStudio.Language.StandardClassification.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /Microsoft.VisualStudio.Text.Data.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\Microsoft.VisualStudio.Text.Data.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /Microsoft.VisualStudio.Text.Logic.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\Microsoft.VisualStudio.Text.Logic.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /Microsoft.VisualStudio.Text.UI.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\Microsoft.VisualStudio.Text.UI.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /ServiceHub/netfx/Microsoft.VisualStudio.CodeLens.Service.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\ServiceHub\netfx\Microsoft.VisualStudio.CodeLens.Service.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /Microsoft.VisualStudio.Extensibility.Editor.Contracts.dll
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\Microsoft.VisualStudio.Extensibility.Editor.Contracts.dll file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /manifest.json
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\manifest.json file deleted.
+[3474:0009][2026-05-10T01:46:18] Processing file /catalog.json
+[3474:0009][2026-05-10T01:46:18] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Editor\catalog.json file deleted.
+[3474:0009][2026-05-10T01:46:18] Started: Deleting empty directories
+[3474:0009][2026-05-10T01:46:18] Completed: Deleting empty directories
+[3474:0009][2026-05-10T01:46:18] Package executed successfully. Return code: 0

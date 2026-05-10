@@ -1,0 +1,132 @@
+[0c48:0003][2026-05-10T01:44:46] Using cached package manifest as the embedded manifest
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/VC/vcpackages/cpfecl.Android.arm.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\cpfecl.Android.arm.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/VC/vcpackages/cpfecl.Android.arm64.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\cpfecl.Android.arm64.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/VC/vcpackages/cpfecl.Android.x64.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\cpfecl.Android.x64.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/VC/vcpackages/cpfecl.Android.x86.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\cpfecl.Android.x86.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/VC/vcpackages/cpfecl.arm.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\cpfecl.arm.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/VC/vcpackages/cpfecl.arm64.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\cpfecl.arm64.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/VC/vcpackages/cpfecl.Clang.Windows.arm.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\cpfecl.Clang.Windows.arm.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/VC/vcpackages/cpfecl.Clang.Windows.arm64.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\cpfecl.Clang.Windows.arm64.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/VC/vcpackages/cpfecl.Clang.Windows.x64.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\cpfecl.Clang.Windows.x64.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/VC/vcpackages/cpfecl.Clang.Windows.x86.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\cpfecl.Clang.Windows.x86.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/VC/vcpackages/cpfecl.iOS.arm.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\cpfecl.iOS.arm.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/VC/vcpackages/cpfecl.iOS.arm64.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\cpfecl.iOS.arm64.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/VC/vcpackages/cpfecl.iOS.x64.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\cpfecl.iOS.x64.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/VC/vcpackages/cpfecl.iOS.x86.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\cpfecl.iOS.x86.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/VC/vcpackages/cpfecl.Win32.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\cpfecl.Win32.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/VC/vcpackages/cpfecl.x64.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\cpfecl.x64.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/VC/vcpackages/cpfecl.Linux.arm.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\cpfecl.Linux.arm.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/VC/vcpackages/cpfecl.Linux.x64.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\cpfecl.Linux.x64.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/VC/vcpackages/cpfecl.Linux.x86.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\cpfecl.Linux.x86.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.VC.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.VC.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/VsWizard.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VsWizard.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/VsWizards.manifest
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VsWizards.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/vc.imagemanifest
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\vc.imagemanifest file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/VCEditorColors.pkgdef
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\VCEditorColors.pkgdef file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/VC_MsgBuilder_Registration.pkgdef
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\VC_MsgBuilder_Registration.pkgdef file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/extension.vsixmanifest
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\extension.vsixmanifest file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Microsoft.VisualStudio.VC.pkgdef
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Microsoft.VisualStudio.VC.pkgdef file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/VC_Snippets.pkgdef
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\VC_Snippets.pkgdef file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/VC_Pkg_Core_Registration.pkgdef
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\VC_Pkg_Core_Registration.pkgdef file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/LanguageServer/extension.vsixmanifest
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\LanguageServer\extension.vsixmanifest file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/LanguageServer/Microsoft.VisualStudio.VC.LanguageServer.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\LanguageServer\Microsoft.VisualStudio.VC.LanguageServer.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/LanguageServer/Microsoft.VisualStudio.VC.LanguageServer.pkgdef
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\LanguageServer\Microsoft.VisualStudio.VC.LanguageServer.pkgdef file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/TextMate/c.tmLanguage.json
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\TextMate\c.tmLanguage.json file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/TextMate/c.tmLanguage.tmTheme
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\TextMate\c.tmLanguage.tmTheme file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/TextMate/cpp.tmLanguage.json
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\TextMate\cpp.tmLanguage.json file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/TextMate/cpp.tmLanguage.tmtheme
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\TextMate\cpp.tmLanguage.tmtheme file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/TextMate/platform.tmLanguage.json
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\TextMate\platform.tmLanguage.json file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Wizards/Microsoft.VC.Wizards.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Wizards\Microsoft.VC.Wizards.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Wizards/Microsoft.VC.Wizards.pkgdef
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Wizards\Microsoft.VC.Wizards.pkgdef file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Architecture Tools/Providers/NativeCode/extension.vsixmanifest
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Architecture Tools\Providers\NativeCode\extension.vsixmanifest file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Architecture Tools/Providers/NativeCode/Microsoft.VisualStudio.Progression.Native.CodeProvider.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Architecture Tools\Providers\NativeCode\Microsoft.VisualStudio.Progression.Native.CodeProvider.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Architecture Tools/Providers/NativeCode/Microsoft.VisualStudio.Progression.Native.CodeProvider.pkgdef
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Architecture Tools\Providers\NativeCode\Microsoft.VisualStudio.Progression.Native.CodeProvider.pkgdef file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VC/ClassWizard/ClwWizard.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VC\ClassWizard\ClwWizard.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VC/ClassWizard/extension.vsixmanifest
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VC\ClassWizard\extension.vsixmanifest file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/Extensions/Microsoft/VC/ClassWizard/ClwWizard.pkgdef
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\VC\ClassWizard\ClwWizard.pkgdef file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.CodeStore.Internal.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.CodeStore.Internal.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.CppSvc.Internal.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.CppSvc.Internal.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.CxxWiz.Internal.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.CxxWiz.Internal.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.VC.RecommendationProvider.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.VC.RecommendationProvider.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.VsWizard.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.VsWizard.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.VC.CompilerQuery.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.VC.CompilerQuery.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.VCCodeModel.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.VCCodeModel.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.VC.Interfaces.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.VC.Interfaces.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/VC/vc.manifest
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vc.manifest file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/VC/vcpackages/vcpkg.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\vcpkg.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/VC/vcpackages/VCInterfaces.tlb
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\VCInterfaces.tlb file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/VC/vcpackages/vcpb2.tlb
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\vcpb2.tlb file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/VC/vcpackages/isense_model_extractor.exe
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\isense_model_extractor.exe file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/VC/vcpackages/vcpkgsrv.exe
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\vcpkgsrv.exe file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/VC/vcpackages/vcpkgsrv.exe.config
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\vcpkgsrv.exe.config file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/VC/vcpackages/cpfe.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\cpfe.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/VC/vcpackages/msgblder.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\msgblder.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/VC/vcpackages/dbsvc.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\dbsvc.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/VC/vcpackages/cpp.hint
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\cpp.hint file deleted.
+[0c48:0003][2026-05-10T01:44:46] Started: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:46] Completed: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:46] Package executed successfully. Return code: 0

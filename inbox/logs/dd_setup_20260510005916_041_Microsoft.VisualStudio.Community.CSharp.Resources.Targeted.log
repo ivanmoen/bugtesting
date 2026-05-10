@@ -1,0 +1,6 @@
+[bd94:0009][2026-05-10T01:00:40] Using cached package manifest as the embedded manifest
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VC#/VCSPackages/1033/csprojui.dll
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VC#\VCSPackages\1033\csprojui.dll file deleted.
+[bd94:0009][2026-05-10T01:00:40] Started: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:40] Completed: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:40] Package executed successfully. Return code: 0

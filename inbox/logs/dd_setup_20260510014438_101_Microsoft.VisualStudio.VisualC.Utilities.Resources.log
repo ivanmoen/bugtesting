@@ -1,0 +1,3 @@
+[0c48:0003][2026-05-10T01:44:46] Using cached package manifest as the embedded manifest
+[0c48:0003][2026-05-10T01:44:46] Warning: Microsoft.VisualStudio.VisualC.Utilities.Resources package has no files per the cached manifest.
+[0c48:0003][2026-05-10T01:44:46] Package executed successfully. Return code: 0

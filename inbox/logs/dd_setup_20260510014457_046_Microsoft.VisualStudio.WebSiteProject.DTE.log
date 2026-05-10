@@ -1,0 +1,10 @@
+[3474:0009][2026-05-10T01:46:03] Using cached package manifest as the embedded manifest
+[3474:0009][2026-05-10T01:46:03] Processing file /Contents/Common7/IDE/PublicAssemblies/VsWebSite.Interop100.dll
+[3474:0009][2026-05-10T01:46:03] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VsWebSite.Interop100.dll file deleted.
+[3474:0009][2026-05-10T01:46:03] Processing file /Contents/Common7/IDE/PublicAssemblies/VsWebSite.Interop.dll
+[3474:0009][2026-05-10T01:46:03] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VsWebSite.Interop.dll file deleted.
+[3474:0009][2026-05-10T01:46:03] Processing file /Contents/Common7/IDE/PublicAssemblies/VsWebSite.Interop90.dll
+[3474:0009][2026-05-10T01:46:03] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\VsWebSite.Interop90.dll file deleted.
+[3474:0009][2026-05-10T01:46:03] Started: Deleting empty directories
+[3474:0009][2026-05-10T01:46:03] Completed: Deleting empty directories
+[3474:0009][2026-05-10T01:46:03] Package executed successfully. Return code: 0

@@ -1,0 +1,28 @@
+[3c7c:000c][2026-05-10T01:36:03] Opening the package for processing
+[3c7c:000c][2026-05-10T01:36:03] Using package payload to get the embedded manifest
+[3c7c:000c][2026-05-10T01:36:03] Getting list of files within the package
+[3c7c:000c][2026-05-10T01:36:03] Processing file /catalog.json
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /catalog.json to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\NavigateTo\catalog.json
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /catalog.json to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\NavigateTo\catalog.json
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\NavigateTo\catalog.json'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /manifest.json
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /manifest.json to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\NavigateTo\manifest.json
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /manifest.json to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\NavigateTo\manifest.json
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\NavigateTo\manifest.json'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Microsoft.VisualStudio.Language.NavigateTo.Implementation.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Microsoft.VisualStudio.Language.NavigateTo.Implementation.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\NavigateTo\Microsoft.VisualStudio.Language.NavigateTo.Implementation.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Microsoft.VisualStudio.Language.NavigateTo.Implementation.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\NavigateTo\Microsoft.VisualStudio.Language.NavigateTo.Implementation.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\NavigateTo\Microsoft.VisualStudio.Language.NavigateTo.Implementation.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Microsoft.VisualStudio.Language.NavigateTo.Interfaces.dll
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Microsoft.VisualStudio.Language.NavigateTo.Interfaces.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\NavigateTo\Microsoft.VisualStudio.Language.NavigateTo.Interfaces.dll
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Microsoft.VisualStudio.Language.NavigateTo.Interfaces.dll to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\NavigateTo\Microsoft.VisualStudio.Language.NavigateTo.Interfaces.dll
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\NavigateTo\Microsoft.VisualStudio.Language.NavigateTo.Interfaces.dll'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /Microsoft.VisualStudio.Platform.NavigateTo.pkgdef
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /Microsoft.VisualStudio.Platform.NavigateTo.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\NavigateTo\Microsoft.VisualStudio.Platform.NavigateTo.pkgdef
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /Microsoft.VisualStudio.Platform.NavigateTo.pkgdef to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\NavigateTo\Microsoft.VisualStudio.Platform.NavigateTo.pkgdef
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\NavigateTo\Microsoft.VisualStudio.Platform.NavigateTo.pkgdef'.
+[3c7c:000c][2026-05-10T01:36:03] Processing file /extension.vsixmanifest
+[3c7c:000c][2026-05-10T01:36:03] Started: Copying file /extension.vsixmanifest to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\NavigateTo\extension.vsixmanifest
+[3c7c:000c][2026-05-10T01:36:03] Completed: Copying file /extension.vsixmanifest to C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\NavigateTo\extension.vsixmanifest
+[3c7c:000c][2026-05-10T01:36:03] Timestamp updated for file 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\NavigateTo\extension.vsixmanifest'.
+[3c7c:000c][2026-05-10T01:36:03] Package executed successfully. Return code: 0

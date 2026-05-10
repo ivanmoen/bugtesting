@@ -1,0 +1,28 @@
+[2e2c:0007][2026-05-10T01:23:44] Opening the package for processing
+[2e2c:0007][2026-05-10T01:23:44] Using package payload to get the embedded manifest
+[2e2c:0007][2026-05-10T01:23:44] Getting list of files within the package
+[2e2c:0007][2026-05-10T01:23:44] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/External%20Tools/ErrLook/ErrLook.pkgdef
+[2e2c:0007][2026-05-10T01:23:44] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/External%20Tools/ErrLook/ErrLook.pkgdef to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\External Tools\ErrLook\ErrLook.pkgdef
+[2e2c:0007][2026-05-10T01:23:44] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/External%20Tools/ErrLook/ErrLook.pkgdef to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\External Tools\ErrLook\ErrLook.pkgdef
+[2e2c:0007][2026-05-10T01:23:44] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\External Tools\ErrLook\ErrLook.pkgdef'.
+[2e2c:0007][2026-05-10T01:23:44] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/External%20Tools/GuidGen/GuidGen.pkgdef
+[2e2c:0007][2026-05-10T01:23:44] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/External%20Tools/GuidGen/GuidGen.pkgdef to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\External Tools\GuidGen\GuidGen.pkgdef
+[2e2c:0007][2026-05-10T01:23:44] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/External%20Tools/GuidGen/GuidGen.pkgdef to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\External Tools\GuidGen\GuidGen.pkgdef
+[2e2c:0007][2026-05-10T01:23:44] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\External Tools\GuidGen\GuidGen.pkgdef'.
+[2e2c:0007][2026-05-10T01:23:44] Processing file /Contents/Common7/Tools/errlook.exe
+[2e2c:0007][2026-05-10T01:23:44] Started: Copying file /Contents/Common7/Tools/errlook.exe to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\errlook.exe
+[2e2c:0007][2026-05-10T01:23:44] Completed: Copying file /Contents/Common7/Tools/errlook.exe to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\errlook.exe
+[2e2c:0007][2026-05-10T01:23:44] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\errlook.exe'.
+[2e2c:0007][2026-05-10T01:23:44] Processing file /Contents/Common7/Tools/errlook.hlp
+[2e2c:0007][2026-05-10T01:23:44] Started: Copying file /Contents/Common7/Tools/errlook.hlp to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\errlook.hlp
+[2e2c:0007][2026-05-10T01:23:44] Completed: Copying file /Contents/Common7/Tools/errlook.hlp to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\errlook.hlp
+[2e2c:0007][2026-05-10T01:23:44] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\errlook.hlp'.
+[2e2c:0007][2026-05-10T01:23:44] Processing file /Contents/Common7/Tools/guidgen.exe
+[2e2c:0007][2026-05-10T01:23:44] Started: Copying file /Contents/Common7/Tools/guidgen.exe to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\guidgen.exe
+[2e2c:0007][2026-05-10T01:23:44] Completed: Copying file /Contents/Common7/Tools/guidgen.exe to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\guidgen.exe
+[2e2c:0007][2026-05-10T01:23:44] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\guidgen.exe'.
+[2e2c:0007][2026-05-10T01:23:44] Processing file /Contents/Common7/Tools/makehm.exe
+[2e2c:0007][2026-05-10T01:23:44] Started: Copying file /Contents/Common7/Tools/makehm.exe to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\makehm.exe
+[2e2c:0007][2026-05-10T01:23:44] Completed: Copying file /Contents/Common7/Tools/makehm.exe to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\makehm.exe
+[2e2c:0007][2026-05-10T01:23:44] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\makehm.exe'.
+[2e2c:0007][2026-05-10T01:23:44] Package executed successfully. Return code: 0

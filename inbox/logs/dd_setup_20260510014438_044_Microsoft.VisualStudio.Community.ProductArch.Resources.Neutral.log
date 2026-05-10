@@ -1,0 +1,124 @@
+[0c48:0003][2026-05-10T01:44:44] Using cached package manifest as the embedded manifest
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Common7/IDE/1033/UpgradeReport.xslt
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\1033\UpgradeReport.xslt file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ReferenceManager/en/Microsoft.VisualStudio.ReferenceManager.Dialog.resources.dll
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ReferenceManager\en\Microsoft.VisualStudio.ReferenceManager.Dialog.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ReferenceManager/en/Microsoft.VisualStudio.ReferenceManager.Providers.resources.dll
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ReferenceManager\en\Microsoft.VisualStudio.ReferenceManager.Providers.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/TreeNavigation/GraphProvider/en/Microsoft.VisualStudio.Shell.TreeNavigation.GraphProvider.resources.dll
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\TreeNavigation\GraphProvider\en\Microsoft.VisualStudio.Shell.TreeNavigation.GraphProvider.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Common7/IDE/en/Microsoft.VisualStudio.Debugger.Parallel.Gpu.resources.dll
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\en\Microsoft.VisualStudio.Debugger.Parallel.Gpu.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Common7/IDE/PrivateAssemblies/en/Microsoft.VisualStudio.WinRT.TemplateWizards.resources.dll
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\en\Microsoft.VisualStudio.WinRT.TemplateWizards.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Common7/IDE/PublicAssemblies/en/Microsoft.VisualStudio.TextTemplating.Modeling.11.0.xml
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\en\Microsoft.VisualStudio.TextTemplating.Modeling.11.0.xml file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Common7/Packages/1033/disco.xsl
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\disco.xsl file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Common7/Packages/1033/HelpWatermark.htm
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\HelpWatermark.htm file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Common7/Packages/1033/solutionservices.htm
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\solutionservices.htm file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Common7/Packages/1033/solutionservices.xsl
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\solutionservices.xsl file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Common7/Packages/1033/localservices.htm
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\localservices.htm file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Common7/Packages/1033/localservices.xsl
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\localservices.xsl file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Common7/Packages/1033/styles.css
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\styles.css file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Common7/Packages/1033/uddi.htm
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\uddi.htm file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Common7/Packages/1033/uddi.xsl
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\uddi.xsl file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Common7/Packages/1033/wsdl.xsl
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\wsdl.xsl file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Common7/Packages/1033/Accessibility/WCAG_STR.xml
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\Accessibility\WCAG_STR.xml file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Common7/Packages/1033/Accessibility/WCAG1_0.xml
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\Accessibility\WCAG1_0.xml file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Licenses/1033/EntityFrameworkDesignerForVisualStudio2012.rtf
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Licenses\1033\EntityFrameworkDesignerForVisualStudio2012.rtf file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/MSBuild/Microsoft/VisualStudio/v17.0/CodeSharing/en-US/CSharp.General.BrowseObject.xaml
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VisualStudio\v17.0\CodeSharing\en-US\CSharp.General.BrowseObject.xaml file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/MSBuild/Microsoft/VisualStudio/v17.0/CodeSharing/en-US/CSharp.General.xaml
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VisualStudio\v17.0\CodeSharing\en-US\CSharp.General.xaml file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/MSBuild/Microsoft/VisualStudio/v17.0/CodeSharing/en-US/VisualBasic.General.BrowseObject.xaml
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VisualStudio\v17.0\CodeSharing\en-US\VisualBasic.General.BrowseObject.xaml file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/MSBuild/Microsoft/VisualStudio/v17.0/CodeSharing/en-US/VisualBasic.General.xaml
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VisualStudio\v17.0\CodeSharing\en-US\VisualBasic.General.xaml file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Xml/1033/Snippets/Parent.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\Parent.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Xml/1033/Snippets/schema.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\schema.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Xml/1033/Snippets/snippet.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\snippet.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Xml/1033/Snippets/xsd/Attributes/enum.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\Attributes\enum.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Xml/1033/Snippets/xsd/Attributes/integer.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\Attributes\integer.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Xml/1033/Snippets/xsd/Attributes/pattern.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\Attributes\pattern.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Xml/1033/Snippets/xsd/Attributes/string.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\Attributes\string.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Xml/1033/Snippets/xsd/ComplexTypes/all.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\ComplexTypes\all.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Xml/1033/Snippets/xsd/ComplexTypes/any.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\ComplexTypes\any.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Xml/1033/Snippets/xsd/ComplexTypes/attribute.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\ComplexTypes\attribute.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Xml/1033/Snippets/xsd/ComplexTypes/choice.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\ComplexTypes\choice.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Xml/1033/Snippets/xsd/ComplexTypes/sequence.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\ComplexTypes\sequence.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Xml/1033/Snippets/xsd/Elements/all.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\Elements\all.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Xml/1033/Snippets/xsd/Elements/choice.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\Elements\choice.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Xml/1033/Snippets/xsd/Elements/complex.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\Elements\complex.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Xml/1033/Snippets/xsd/Elements/sequence.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\Elements\sequence.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Xml/1033/Snippets/xsd/Elements/simple.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\Elements\simple.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Xml/1033/Snippets/xsd/Extensions/attribute.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\Extensions\attribute.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Xml/1033/Snippets/xsd/Extensions/complex.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\Extensions\complex.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Xml/1033/Snippets/xsd/Misc/attributeGroup.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\Misc\attributeGroup.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Xml/1033/Snippets/xsd/Misc/documentation.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\Misc\documentation.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Xml/1033/Snippets/xsd/SimpleTypes/enum.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\SimpleTypes\enum.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Xml/1033/Snippets/xsd/SimpleTypes/integer.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\SimpleTypes\integer.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Xml/1033/Snippets/xsd/SimpleTypes/pattern.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\SimpleTypes\pattern.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Xml/1033/Snippets/xsd/SimpleTypes/string.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xsd\SimpleTypes\string.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Xml/1033/Snippets/xslt/html/htmlTable.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xslt\html\htmlTable.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Xml/1033/Snippets/xslt/html/tableRowTemplate.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xslt\html\tableRowTemplate.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Xml/1033/Snippets/xslt/xslTags/scriptCS.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xslt\xslTags\scriptCS.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Xml/1033/Snippets/xslt/xslTags/scriptJS.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xslt\xslTags\scriptJS.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Xml/1033/Snippets/xslt/xslTags/scriptVB.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\1033\Snippets\xslt\xslTags\scriptVB.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Xml/Schemas/1033/DotNetConfig.xsd
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\Schemas\1033\DotNetConfig.xsd file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Xml/Schemas/1033/snippetformat.xsd
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\Schemas\1033\snippetformat.xsd file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Xml/Schemas/1033/vstemplate.xsd
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\Schemas\1033\vstemplate.xsd file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Xml/Schemas/1033/Microsoft.Build.xsd
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\Schemas\1033\Microsoft.Build.xsd file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Xml/Schemas/1033/MSBuild/Microsoft.Build.Commontypes.xsd
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\Schemas\1033\MSBuild\Microsoft.Build.Commontypes.xsd file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Xml/Schemas/1033/MSBuild/Microsoft.Build.Core.xsd
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\Schemas\1033\MSBuild\Microsoft.Build.Core.xsd file deleted.
+[0c48:0003][2026-05-10T01:44:44] Started: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:44] Completed: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:44] Package executed successfully. Return code: 0

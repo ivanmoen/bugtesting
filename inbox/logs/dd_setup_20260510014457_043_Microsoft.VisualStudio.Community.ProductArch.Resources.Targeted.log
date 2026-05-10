@@ -1,0 +1,28 @@
+[3474:0009][2026-05-10T01:46:02] Using cached package manifest as the embedded manifest
+[3474:0009][2026-05-10T01:46:02] Processing file /Contents/Common7/IDE/1033/Microsoft.VisualStudio.DesignUI.dll
+[3474:0009][2026-05-10T01:46:02] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\1033\Microsoft.VisualStudio.DesignUI.dll file deleted.
+[3474:0009][2026-05-10T01:46:02] Processing file /Contents/Common7/IDE/1033/Microsoft.VisualStudio.Windows.FormsUI.dll
+[3474:0009][2026-05-10T01:46:02] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\1033\Microsoft.VisualStudio.Windows.FormsUI.dll file deleted.
+[3474:0009][2026-05-10T01:46:02] Processing file /Contents/Common7/IDE/1033/Microsoft.VisualStudio.ExportTemplateUI.dll
+[3474:0009][2026-05-10T01:46:02] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\1033\Microsoft.VisualStudio.ExportTemplateUI.dll file deleted.
+[3474:0009][2026-05-10T01:46:02] Processing file /Contents/Common7/IDE/1033/vsslnui.dll
+[3474:0009][2026-05-10T01:46:02] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\1033\vsslnui.dll file deleted.
+[3474:0009][2026-05-10T01:46:02] Processing file /Contents/Common7/IDE/1033/WindowsFormsIntegration.PackageUI.dll
+[3474:0009][2026-05-10T01:46:02] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\1033\WindowsFormsIntegration.PackageUI.dll file deleted.
+[3474:0009][2026-05-10T01:46:02] Processing file /Contents/Common7/IDE/VS SCC/1033/msempui.dll
+[3474:0009][2026-05-10T01:46:02] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VS SCC\1033\msempui.dll file deleted.
+[3474:0009][2026-05-10T01:46:02] Processing file /Contents/Common7/IDE/VS SCC/1033/VssProviderStubui.dll
+[3474:0009][2026-05-10T01:46:02] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VS SCC\1033\VssProviderStubui.dll file deleted.
+[3474:0009][2026-05-10T01:46:02] Processing file /Contents/Common7/IDE/VS SCC/1033/VssProviderui.dll
+[3474:0009][2026-05-10T01:46:02] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VS SCC\1033\VssProviderui.dll file deleted.
+[3474:0009][2026-05-10T01:46:02] Processing file /Contents/Common7/IDE/Xml/1033/Microsoft.XmlEditorUI.dll
+[3474:0009][2026-05-10T01:46:02] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Xml\1033\Microsoft.XmlEditorUI.dll file deleted.
+[3474:0009][2026-05-10T01:46:02] Processing file /Contents/Common7/Packages/1033/compsvcspkgui.dll
+[3474:0009][2026-05-10T01:46:02] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\compsvcspkgui.dll file deleted.
+[3474:0009][2026-05-10T01:46:02] Processing file /Contents/Common7/Packages/1033/dirprjui.dll
+[3474:0009][2026-05-10T01:46:02] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\dirprjui.dll file deleted.
+[3474:0009][2026-05-10T01:46:02] Processing file /Contents/Common7/Packages/Debugger/1033/GpuDebugEngine.resources.dll
+[3474:0009][2026-05-10T01:46:02] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\1033\GpuDebugEngine.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:02] Started: Deleting empty directories
+[3474:0009][2026-05-10T01:46:02] Completed: Deleting empty directories
+[3474:0009][2026-05-10T01:46:02] Package executed successfully. Return code: 0

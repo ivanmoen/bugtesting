@@ -1,0 +1,12 @@
+[0c48:0003][2026-05-10T01:44:48] Using cached package manifest as the embedded manifest
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Msbuild/Microsoft/VC/v170/Platforms/ARM/Platform.Common.props
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Platforms\ARM\Platform.Common.props file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Msbuild/Microsoft/VC/v170/Platforms/ARM/Platform.Default.props
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Platforms\ARM\Platform.Default.props file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Msbuild/Microsoft/VC/v170/Platforms/ARM/Platform.props
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Platforms\ARM\Platform.props file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Msbuild/Microsoft/VC/v170/Platforms/ARM/Platform.targets
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Platforms\ARM\Platform.targets file deleted.
+[0c48:0003][2026-05-10T01:44:48] Started: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:48] Completed: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:48] Package executed successfully. Return code: 0

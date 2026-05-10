@@ -1,0 +1,8 @@
+[18d4:0007][2026-05-10T02:03:22] Opening the package for processing
+[18d4:0007][2026-05-10T02:03:22] Using package payload to get the embedded manifest
+[18d4:0007][2026-05-10T02:03:22] Getting list of files within the package
+[18d4:0007][2026-05-10T02:03:22] Processing file /Contents/Common7/Tools/vsdevcmd/core/winsdk.bat
+[18d4:0007][2026-05-10T02:03:22] Started: Copying file /Contents/Common7/Tools/vsdevcmd/core/winsdk.bat to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\vsdevcmd\core\winsdk.bat
+[18d4:0007][2026-05-10T02:03:22] Completed: Copying file /Contents/Common7/Tools/vsdevcmd/core/winsdk.bat to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\vsdevcmd\core\winsdk.bat
+[18d4:0007][2026-05-10T02:03:22] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\vsdevcmd\core\winsdk.bat'.
+[18d4:0007][2026-05-10T02:03:22] Package executed successfully. Return code: 0

@@ -1,0 +1,35 @@
+﻿2026-05-10T02:03:02.9542127+02:00 bootstrap-prereqs starting (PID=9832, PSVersion=5.1.26100.8115)
+2026-05-10T02:03:02.9702182+02:00 [INFO] winget found at C:\Users\Werguru\AppData\Local\Microsoft\WindowsApps\winget.exe
+2026-05-10T02:03:02.9857085+02:00 [INFO] TortoiseSVN already present at C:\Program Files\TortoiseSVN\bin\svn.exe -- skipping.
+2026-05-10T02:03:03.0541181+02:00 [INFO] VS install verb: 'install' at 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools' (existing instances found: 0)
+2026-05-10T02:03:03.0551136+02:00 [INFO] Installing VS Build Tools 2022 (~10 GB) into D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools ...
+2026-05-10T02:03:03.0561117+02:00 [INFO] This will take several minutes; the VS Installer UI shows progress.
+2026-05-10T02:03:03.0571116+02:00 [INFO] Downloading VS Build Tools bootstrapper: https://aka.ms/vs/17/release/vs_BuildTools.exe
+2026-05-10T02:03:05.9720277+02:00 [INFO] vs_BuildTools invoking: C:\Users\Werguru\AppData\Local\Temp\vs_BuildTools_9832.exe install --passive --wait --norestart --installPath "D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools" --add Microsoft.VisualStudio.Workload.VCTools --add Microsoft.VisualStudio.Component.Windows11SDK.22621
+2026-05-10T02:05:06.4435156+02:00 [INFO] vs_BuildTools exit code: 0
+2026-05-10T02:05:06.4476023+02:00 [INFO] vs_BuildTools final exit code: 0
+2026-05-10T02:05:06.4811584+02:00 [ERROR] VS Build Tools install did not register the C++ workload. vs_BuildTools.exe
+exited 0 but vswhere can't find Microsoft.VisualStudio.Component.VC.Tools.x86.x64
+under any installed instance.
+
+Likely causes:
+  - Bootstrapper short-circuited because of leftover VS Installer state
+  - --passive UI was closed before the install completed
+  - VS Installer hit an error it couldn't recover from silently
+
+Recovery options (any one works):
+  A) Open 'Visual Studio Installer' from the Start menu, find
+     'Visual Studio Build Tools 2022', click Modify, check
+     'Desktop development with C++', and let it finish. Then re-run this
+     script (or just rerun the worker installer; it will detect the
+     completed install and skip the bootstrap).
+  B) Run vs_BuildTools.exe manually with --passive replaced by --normal
+     so you can see the full GUI:
+       https://aka.ms/vs/17/release/vs_BuildTools.exe modify `
+         --installPath "D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools" `
+         --add Microsoft.VisualStudio.Workload.VCTools `
+         --add Microsoft.VisualStudio.Component.Windows11SDK.22621
+
+Diagnostic logs:
+  - C:\Users\Werguru\AppData\Local\Temp\dd_setup_*.log       (bootstrapper download + handoff)
+  - C:\ProgramData\Microsoft\VisualStudio\Packages\_Instances        (one folder per installed instance, with state.json)

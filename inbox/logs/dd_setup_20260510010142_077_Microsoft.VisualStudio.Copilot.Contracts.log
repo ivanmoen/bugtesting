@@ -1,0 +1,48 @@
+[c9c4:0009][2026-05-10T01:01:57] Opening the package for processing
+[c9c4:0009][2026-05-10T01:01:57] Using package payload to get the embedded manifest
+[c9c4:0009][2026-05-10T01:01:57] Getting list of files within the package
+[c9c4:0009][2026-05-10T01:01:57] Processing file /catalog.json
+[c9c4:0009][2026-05-10T01:01:57] Started: Copying file /catalog.json to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\catalog.json
+[c9c4:0009][2026-05-10T01:01:57] Completed: Copying file /catalog.json to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\catalog.json
+[c9c4:0009][2026-05-10T01:01:57] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\catalog.json'.
+[c9c4:0009][2026-05-10T01:01:57] Processing file /Copilot.png
+[c9c4:0009][2026-05-10T01:01:57] Started: Copying file /Copilot.png to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Copilot.png
+[c9c4:0009][2026-05-10T01:01:57] Completed: Copying file /Copilot.png to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Copilot.png
+[c9c4:0009][2026-05-10T01:01:57] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Copilot.png'.
+[c9c4:0009][2026-05-10T01:01:57] Processing file /LICENSE.md
+[c9c4:0009][2026-05-10T01:01:57] Started: Copying file /LICENSE.md to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\LICENSE.md
+[c9c4:0009][2026-05-10T01:01:57] Completed: Copying file /LICENSE.md to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\LICENSE.md
+[c9c4:0009][2026-05-10T01:01:57] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\LICENSE.md'.
+[c9c4:0009][2026-05-10T01:01:57] Processing file /manifest.json
+[c9c4:0009][2026-05-10T01:01:57] Started: Copying file /manifest.json to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\manifest.json
+[c9c4:0009][2026-05-10T01:01:57] Completed: Copying file /manifest.json to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\manifest.json
+[c9c4:0009][2026-05-10T01:01:57] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\manifest.json'.
+[c9c4:0009][2026-05-10T01:01:57] Processing file /Microsoft.VisualStudio.Copilot.Contracts.pkgdef
+[c9c4:0009][2026-05-10T01:01:57] Started: Copying file /Microsoft.VisualStudio.Copilot.Contracts.pkgdef to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Microsoft.VisualStudio.Copilot.Contracts.pkgdef
+[c9c4:0009][2026-05-10T01:01:57] Completed: Copying file /Microsoft.VisualStudio.Copilot.Contracts.pkgdef to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Microsoft.VisualStudio.Copilot.Contracts.pkgdef
+[c9c4:0009][2026-05-10T01:01:57] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Microsoft.VisualStudio.Copilot.Contracts.pkgdef'.
+[c9c4:0009][2026-05-10T01:01:57] Processing file /Microsoft.VisualStudio.Copilot.dll
+[c9c4:0009][2026-05-10T01:01:57] Started: Copying file /Microsoft.VisualStudio.Copilot.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Microsoft.VisualStudio.Copilot.dll
+[c9c4:0009][2026-05-10T01:01:57] Completed: Copying file /Microsoft.VisualStudio.Copilot.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Microsoft.VisualStudio.Copilot.dll
+[c9c4:0009][2026-05-10T01:01:57] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Microsoft.VisualStudio.Copilot.dll'.
+[c9c4:0009][2026-05-10T01:01:57] Processing file /Microsoft.VisualStudio.Copilot.pdb
+[c9c4:0009][2026-05-10T01:01:57] Started: Copying file /Microsoft.VisualStudio.Copilot.pdb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Microsoft.VisualStudio.Copilot.pdb
+[c9c4:0009][2026-05-10T01:01:57] Completed: Copying file /Microsoft.VisualStudio.Copilot.pdb to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Microsoft.VisualStudio.Copilot.pdb
+[c9c4:0009][2026-05-10T01:01:57] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Microsoft.VisualStudio.Copilot.pdb'.
+[c9c4:0009][2026-05-10T01:01:57] Processing file /Microsoft.VisualStudio.Copilot.xml
+[c9c4:0009][2026-05-10T01:01:57] Started: Copying file /Microsoft.VisualStudio.Copilot.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Microsoft.VisualStudio.Copilot.xml
+[c9c4:0009][2026-05-10T01:01:57] Completed: Copying file /Microsoft.VisualStudio.Copilot.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Microsoft.VisualStudio.Copilot.xml
+[c9c4:0009][2026-05-10T01:01:57] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Microsoft.VisualStudio.Copilot.xml'.
+[c9c4:0009][2026-05-10T01:01:57] Processing file /Microsoft.VisualStudio.Extensibility.Copilot.Configuration.dll
+[c9c4:0009][2026-05-10T01:01:57] Started: Copying file /Microsoft.VisualStudio.Extensibility.Copilot.Configuration.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Microsoft.VisualStudio.Extensibility.Copilot.Configuration.dll
+[c9c4:0009][2026-05-10T01:01:57] Completed: Copying file /Microsoft.VisualStudio.Extensibility.Copilot.Configuration.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Microsoft.VisualStudio.Extensibility.Copilot.Configuration.dll
+[c9c4:0009][2026-05-10T01:01:57] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Microsoft.VisualStudio.Extensibility.Copilot.Configuration.dll'.
+[c9c4:0009][2026-05-10T01:01:57] Processing file /Microsoft.VisualStudio.Extensibility.Copilot.dll
+[c9c4:0009][2026-05-10T01:01:57] Started: Copying file /Microsoft.VisualStudio.Extensibility.Copilot.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Microsoft.VisualStudio.Extensibility.Copilot.dll
+[c9c4:0009][2026-05-10T01:01:57] Completed: Copying file /Microsoft.VisualStudio.Extensibility.Copilot.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Microsoft.VisualStudio.Extensibility.Copilot.dll
+[c9c4:0009][2026-05-10T01:01:57] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\Microsoft.VisualStudio.Extensibility.Copilot.dll'.
+[c9c4:0009][2026-05-10T01:01:57] Processing file /extension.vsixmanifest
+[c9c4:0009][2026-05-10T01:01:57] Started: Copying file /extension.vsixmanifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\extension.vsixmanifest
+[c9c4:0009][2026-05-10T01:01:57] Completed: Copying file /extension.vsixmanifest to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\extension.vsixmanifest
+[c9c4:0009][2026-05-10T01:01:57] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Microsoft.VisualStudio.Copilot.Contracts\extension.vsixmanifest'.
+[c9c4:0009][2026-05-10T01:01:57] Package executed successfully. Return code: 0

@@ -1,0 +1,14 @@
+[0c48:0003][2026-05-10T01:44:47] Using cached package manifest as the embedded manifest
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ExtensionEngine.dll
+[0c48:0003][2026-05-10T01:44:47] 'C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ExtensionEngine.dll' file is already deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ExtensionManager.Implementation.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ExtensionManager.Implementation.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.ExtensionEngine.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.ExtensionEngine.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/VSIXInstaller.exe
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSIXInstaller.exe file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Contents/Common7/IDE/VSIXInstaller.exe.config
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSIXInstaller.exe.config file deleted.
+[0c48:0003][2026-05-10T01:44:47] Started: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:47] Completed: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:47] Package executed successfully. Return code: 0

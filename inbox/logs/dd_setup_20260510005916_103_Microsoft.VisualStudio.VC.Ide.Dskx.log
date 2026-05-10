@@ -1,0 +1,18 @@
+[bd94:0009][2026-05-10T01:00:51] Using cached package manifest as the embedded manifest
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/VC_Pkg_Pro_Registration.pkgdef
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\CommonExtensions\Microsoft\VC\VC_Pkg_Pro_Registration.pkgdef file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/Tools/spyxx_amd64.chm
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\Tools\spyxx_amd64.chm file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/Tools/spyxx_amd64.exe
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\Tools\spyxx_amd64.exe file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/Tools/spyxxhk_amd64.dll
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\Tools\spyxxhk_amd64.dll file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/Tools/spyxx.chm
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\Tools\spyxx.chm file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/Tools/spyxx.exe
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\Tools\spyxx.exe file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/Tools/spyxxhk.dll
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\Tools\spyxxhk.dll file deleted.
+[bd94:0009][2026-05-10T01:00:51] Started: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:51] Completed: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:51] Package executed successfully. Return code: 0

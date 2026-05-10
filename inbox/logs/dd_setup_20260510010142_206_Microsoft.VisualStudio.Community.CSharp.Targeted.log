@@ -1,0 +1,26 @@
+[c9c4:0009][2026-05-10T01:02:18] Opening the package for processing
+[c9c4:0009][2026-05-10T01:02:18] Using package payload to get the embedded manifest
+[c9c4:0009][2026-05-10T01:02:18] Getting list of files within the package
+[c9c4:0009][2026-05-10T01:02:18] Processing file /Contents/Common7/IDE/BuildAccel.props
+[c9c4:0009][2026-05-10T01:02:18] Started: Copying file /Contents/Common7/IDE/BuildAccel.props to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\BuildAccel.props
+[c9c4:0009][2026-05-10T01:02:18] Completed: Copying file /Contents/Common7/IDE/BuildAccel.props to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\BuildAccel.props
+[c9c4:0009][2026-05-10T01:02:18] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\BuildAccel.props'.
+[c9c4:0009][2026-05-10T01:02:18] Processing file /Contents/Common7/IDE/BuildAccelerationExtension.dll
+[c9c4:0009][2026-05-10T01:02:18] Started: Copying file /Contents/Common7/IDE/BuildAccelerationExtension.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\BuildAccelerationExtension.dll
+[c9c4:0009][2026-05-10T01:02:18] Completed: Copying file /Contents/Common7/IDE/BuildAccelerationExtension.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\BuildAccelerationExtension.dll
+[c9c4:0009][2026-05-10T01:02:18] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\BuildAccelerationExtension.dll'.
+[c9c4:0009][2026-05-10T01:02:18] Queueing D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\BuildAccelerationExtension.dll for X86 ngen
+[c9c4:0009][2026-05-10T01:02:18] Successfully queued file '/Contents/Common7/IDE/BuildAccelerationExtension.dll' for ngen
+[c9c4:0009][2026-05-10T01:02:18] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/CS/VCSharp_Proj_System_b_Reg.pkgdef
+[c9c4:0009][2026-05-10T01:02:18] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/CS/VCSharp_Proj_System_b_Reg.pkgdef to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CS\VCSharp_Proj_System_b_Reg.pkgdef
+[c9c4:0009][2026-05-10T01:02:18] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/CS/VCSharp_Proj_System_b_Reg.pkgdef to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CS\VCSharp_Proj_System_b_Reg.pkgdef
+[c9c4:0009][2026-05-10T01:02:18] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CS\VCSharp_Proj_System_b_Reg.pkgdef'.
+[c9c4:0009][2026-05-10T01:02:18] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/CS/VCSharp_Proj_System_Reg.pkgdef
+[c9c4:0009][2026-05-10T01:02:18] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/CS/VCSharp_Proj_System_Reg.pkgdef to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CS\VCSharp_Proj_System_Reg.pkgdef
+[c9c4:0009][2026-05-10T01:02:18] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/CS/VCSharp_Proj_System_Reg.pkgdef to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CS\VCSharp_Proj_System_Reg.pkgdef
+[c9c4:0009][2026-05-10T01:02:18] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CS\VCSharp_Proj_System_Reg.pkgdef'.
+[c9c4:0009][2026-05-10T01:02:18] Processing file /Contents/VC%23/VCSPackages/csproj.dll
+[c9c4:0009][2026-05-10T01:02:18] Started: Copying file /Contents/VC%23/VCSPackages/csproj.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\VCSPackages\csproj.dll
+[c9c4:0009][2026-05-10T01:02:18] Completed: Copying file /Contents/VC%23/VCSPackages/csproj.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\VCSPackages\csproj.dll
+[c9c4:0009][2026-05-10T01:02:18] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\VCSPackages\csproj.dll'.
+[c9c4:0009][2026-05-10T01:02:18] Package executed successfully. Return code: 0

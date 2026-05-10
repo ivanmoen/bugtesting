@@ -1,0 +1,26 @@
+[c9c4:0009][2026-05-10T01:02:10] Opening the package for processing
+[c9c4:0009][2026-05-10T01:02:10] Using package payload to get the embedded manifest
+[c9c4:0009][2026-05-10T01:02:10] Getting list of files within the package
+[c9c4:0009][2026-05-10T01:02:10] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ScriptedHost.dll
+[c9c4:0009][2026-05-10T01:02:10] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ScriptedHost.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ScriptedHost.dll
+[c9c4:0009][2026-05-10T01:02:10] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ScriptedHost.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ScriptedHost.dll
+[c9c4:0009][2026-05-10T01:02:10] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ScriptedHost.dll'.
+[c9c4:0009][2026-05-10T01:02:10] Queueing D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ScriptedHost.dll for X86 ngen
+[c9c4:0009][2026-05-10T01:02:10] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ScriptedHost.dll' for ngen
+[c9c4:0009][2026-05-10T01:02:10] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Web.WebView2.Core.dll
+[c9c4:0009][2026-05-10T01:02:10] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Web.WebView2.Core.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Web.WebView2.Core.dll
+[c9c4:0009][2026-05-10T01:02:10] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Web.WebView2.Core.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Web.WebView2.Core.dll
+[c9c4:0009][2026-05-10T01:02:10] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Web.WebView2.Core.dll'.
+[c9c4:0009][2026-05-10T01:02:10] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Web.WebView2.Wpf.dll
+[c9c4:0009][2026-05-10T01:02:10] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Web.WebView2.Wpf.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Web.WebView2.Wpf.dll
+[c9c4:0009][2026-05-10T01:02:10] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Web.WebView2.Wpf.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Web.WebView2.Wpf.dll
+[c9c4:0009][2026-05-10T01:02:10] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Web.WebView2.Wpf.dll'.
+[c9c4:0009][2026-05-10T01:02:10] Processing file /Contents/Common7/IDE/PrivateAssemblies/plugin.vs.v2.js
+[c9c4:0009][2026-05-10T01:02:10] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/plugin.vs.v2.js to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\plugin.vs.v2.js
+[c9c4:0009][2026-05-10T01:02:10] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/plugin.vs.v2.js to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\plugin.vs.v2.js
+[c9c4:0009][2026-05-10T01:02:10] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\plugin.vs.v2.js'.
+[c9c4:0009][2026-05-10T01:02:10] Processing file /Contents/Common7/IDE/PrivateAssemblies/ScriptedHost.Blank.html
+[c9c4:0009][2026-05-10T01:02:10] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/ScriptedHost.Blank.html to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\ScriptedHost.Blank.html
+[c9c4:0009][2026-05-10T01:02:10] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/ScriptedHost.Blank.html to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\ScriptedHost.Blank.html
+[c9c4:0009][2026-05-10T01:02:10] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\ScriptedHost.Blank.html'.
+[c9c4:0009][2026-05-10T01:02:10] Package executed successfully. Return code: 0

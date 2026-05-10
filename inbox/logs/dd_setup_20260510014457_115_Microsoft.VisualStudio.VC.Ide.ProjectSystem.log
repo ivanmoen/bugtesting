@@ -1,0 +1,46 @@
+[3474:0009][2026-05-10T01:46:14] Using cached package manifest as the embedded manifest
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/VcxprojReader.exe
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VcxprojReader.exe file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/VC/vcpackages/Microsoft.VisualC.ProjectStore.Implementation.dll
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\Microsoft.VisualC.ProjectStore.Implementation.dll file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/VcxprojReader.exe.config
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VcxprojReader.exe.config file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.VCProjectUI.dll
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.VCProjectUI.dll file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/VCProject_Pro_Registry.pkgdef
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\VCProject_Pro_Registry.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/VCProject_Common_Registry.pkgdef
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\VCProject_Common_Registry.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Project/Microsoft.VisualStudio.Project.VisualC.VCProjectEngine.dll
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Project\Microsoft.VisualStudio.Project.VisualC.VCProjectEngine.dll file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Project/Microsoft.VisualStudio.Project.VisualC.VCProjectEngine.pkgdef
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Project\Microsoft.VisualStudio.Project.VisualC.VCProjectEngine.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Project/extension.vsixmanifest
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Project\extension.vsixmanifest file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.VCProject.dll
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.VCProject.dll file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/VC/vcpackages/MacroPicker.dll
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\MacroPicker.dll file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/VC/vcpackages/Microsoft.VisualC.ProjectControls.dll
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\Microsoft.VisualC.ProjectControls.dll file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/VC/vcpackages/vcbuild.dll
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\vcbuild.dll file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/VC/vcpackages/VCProject.dll
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\vcpackages\VCProject.dll file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/VC/VCWizards/default.props
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCWizards\default.props file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/VC/VCWizards/default.vcxproj
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCWizards\default.vcxproj file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/VC/VCWizards/default_arm64.vcxproj
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCWizards\default_arm64.vcxproj file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/VC/VCWizards/DefaultCLRNetCore.vcxproj
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCWizards\DefaultCLRNetCore.vcxproj file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/VC/VCWizards/Shared.vcxproj
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCWizards\Shared.vcxproj file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/VC/VCWizards/vcupgradedefault.vcxproj
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCWizards\vcupgradedefault.vcxproj file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/Tools/vcconvertengine.dll
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\vcconvertengine.dll file deleted.
+[3474:0009][2026-05-10T01:46:14] Started: Deleting empty directories
+[3474:0009][2026-05-10T01:46:14] Completed: Deleting empty directories
+[3474:0009][2026-05-10T01:46:14] Package executed successfully. Return code: 0

@@ -1,0 +1,56 @@
+[3474:0009][2026-05-10T01:46:20] Using cached package manifest as the embedded manifest
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/VsDebugWERHelper.exe
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VsDebugWERHelper.exe file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/iisresolver.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\iisresolver.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.Debugger.Engine.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.Debugger.Engine.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/vsdebugeng.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\vsdebugeng.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VsDebugConsole.exe
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\VsDebugConsole.exe file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VsDebugConsole.pkgdef
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\VsDebugConsole.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/vsdebugeng.windockertransport.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\vsdebugeng.windockertransport.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/vsdebugeng.windockertransport.pkgdef
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\vsdebugeng.windockertransport.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VSDebugEng_Impl_Core.pkgdef
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\VSDebugEng_Impl_Core.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VSDebugEng_Impl_Engine.pkgdef
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\VSDebugEng_Impl_Engine.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VSDbg_Engine.pkgdef
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\VSDbg_Engine.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/ReflectionBDM.pkgdef
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\ReflectionBDM.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/Microsoft.VisualStudio.Debugger.TerminalLauncher.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\Microsoft.VisualStudio.Debugger.TerminalLauncher.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/Microsoft.VisualStudio.Debugger.TerminalLauncher.pkgdef
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\Microsoft.VisualStudio.Debugger.TerminalLauncher.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/MemoryAnalyzer.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\MemoryAnalyzer.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PrivateAssemblies/vsdebugeng.manimpl.netstandard.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\vsdebugeng.manimpl.netstandard.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.DiagnosticAnalysis.Types.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.DiagnosticAnalysis.Types.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PrivateAssemblies/vsdebugeng.manimpl.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\vsdebugeng.manimpl.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PrivateAssemblies/vsdebugeng.manimpl.45.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\vsdebugeng.manimpl.45.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PrivateAssemblies/MemoryAnalyzer.Extensions.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\MemoryAnalyzer.Extensions.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/Packages/Debugger/vsdebugeng.manimpl.netstandard.vsdconfig
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\vsdebugeng.manimpl.netstandard.vsdconfig file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/Packages/Debugger/VsDebugLaunchNotify.exe
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\VsDebugLaunchNotify.exe file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/Packages/Debugger/vsdebugeng.impl.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\vsdebugeng.impl.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/Packages/Debugger/vsdebugeng.impl.vsdconfig
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\vsdebugeng.impl.vsdconfig file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/Packages/Debugger/vsdebugeng.manimpl.45.vsdconfig
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\vsdebugeng.manimpl.45.vsdconfig file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/Packages/Debugger/vsdebugeng.manimpl.vsdconfig
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\vsdebugeng.manimpl.vsdconfig file deleted.
+[3474:0009][2026-05-10T01:46:20] Started: Deleting empty directories
+[3474:0009][2026-05-10T01:46:20] Completed: Deleting empty directories
+[3474:0009][2026-05-10T01:46:20] Package executed successfully. Return code: 0

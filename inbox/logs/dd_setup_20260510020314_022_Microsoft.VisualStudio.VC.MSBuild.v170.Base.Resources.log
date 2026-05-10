@@ -1,0 +1,208 @@
+[18d4:0007][2026-05-10T02:03:24] Opening the package for processing
+[18d4:0007][2026-05-10T02:03:24] Using package payload to get the embedded manifest
+[18d4:0007][2026-05-10T02:03:24] Getting list of files within the package
+[18d4:0007][2026-05-10T02:03:24] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/alink.xml
+[18d4:0007][2026-05-10T02:03:24] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/alink.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\alink.xml
+[18d4:0007][2026-05-10T02:03:24] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/alink.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\alink.xml
+[18d4:0007][2026-05-10T02:03:24] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\alink.xml'.
+[18d4:0007][2026-05-10T02:03:24] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/AppHostDebugger_Local.xml
+[18d4:0007][2026-05-10T02:03:24] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/AppHostDebugger_Local.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\AppHostDebugger_Local.xml
+[18d4:0007][2026-05-10T02:03:24] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/AppHostDebugger_Local.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\AppHostDebugger_Local.xml
+[18d4:0007][2026-05-10T02:03:24] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\AppHostDebugger_Local.xml'.
+[18d4:0007][2026-05-10T02:03:24] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/AppHostDebugger_Remote.xml
+[18d4:0007][2026-05-10T02:03:24] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/AppHostDebugger_Remote.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\AppHostDebugger_Remote.xml
+[18d4:0007][2026-05-10T02:03:24] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/AppHostDebugger_Remote.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\AppHostDebugger_Remote.xml
+[18d4:0007][2026-05-10T02:03:24] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\AppHostDebugger_Remote.xml'.
+[18d4:0007][2026-05-10T02:03:24] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/bscmake.xml
+[18d4:0007][2026-05-10T02:03:24] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/bscmake.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\bscmake.xml
+[18d4:0007][2026-05-10T02:03:24] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/bscmake.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\bscmake.xml
+[18d4:0007][2026-05-10T02:03:24] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\bscmake.xml'.
+[18d4:0007][2026-05-10T02:03:24] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/build_events.xml
+[18d4:0007][2026-05-10T02:03:24] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/build_events.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\build_events.xml
+[18d4:0007][2026-05-10T02:03:24] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/build_events.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\build_events.xml
+[18d4:0007][2026-05-10T02:03:24] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\build_events.xml'.
+[18d4:0007][2026-05-10T02:03:24] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/cl.xml
+[18d4:0007][2026-05-10T02:03:24] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/cl.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\cl.xml
+[18d4:0007][2026-05-10T02:03:24] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/cl.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\cl.xml
+[18d4:0007][2026-05-10T02:03:24] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\cl.xml'.
+[18d4:0007][2026-05-10T02:03:24] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/clang.xml
+[18d4:0007][2026-05-10T02:03:24] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/clang.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\clang.xml
+[18d4:0007][2026-05-10T02:03:24] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/clang.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\clang.xml
+[18d4:0007][2026-05-10T02:03:24] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\clang.xml'.
+[18d4:0007][2026-05-10T02:03:24] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/clangtidy.xml
+[18d4:0007][2026-05-10T02:03:24] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/clangtidy.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\clangtidy.xml
+[18d4:0007][2026-05-10T02:03:24] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/clangtidy.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\clangtidy.xml
+[18d4:0007][2026-05-10T02:03:24] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\clangtidy.xml'.
+[18d4:0007][2026-05-10T02:03:24] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/cl_nmake.xml
+[18d4:0007][2026-05-10T02:03:24] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/cl_nmake.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\cl_nmake.xml
+[18d4:0007][2026-05-10T02:03:24] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/cl_nmake.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\cl_nmake.xml
+[18d4:0007][2026-05-10T02:03:24] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\cl_nmake.xml'.
+[18d4:0007][2026-05-10T02:03:24] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/code_analysis.xml
+[18d4:0007][2026-05-10T02:03:24] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/code_analysis.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\code_analysis.xml
+[18d4:0007][2026-05-10T02:03:24] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/code_analysis.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\code_analysis.xml
+[18d4:0007][2026-05-10T02:03:24] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\code_analysis.xml'.
+[18d4:0007][2026-05-10T02:03:24] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/copy_file.xml
+[18d4:0007][2026-05-10T02:03:24] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/copy_file.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\copy_file.xml
+[18d4:0007][2026-05-10T02:03:24] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/copy_file.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\copy_file.xml
+[18d4:0007][2026-05-10T02:03:24] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\copy_file.xml'.
+[18d4:0007][2026-05-10T02:03:24] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/custom_build_step.xml
+[18d4:0007][2026-05-10T02:03:24] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/custom_build_step.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\custom_build_step.xml
+[18d4:0007][2026-05-10T02:03:24] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/custom_build_step.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\custom_build_step.xml
+[18d4:0007][2026-05-10T02:03:24] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\custom_build_step.xml'.
+[18d4:0007][2026-05-10T02:03:24] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/custom_build_tool.xml
+[18d4:0007][2026-05-10T02:03:24] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/custom_build_tool.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\custom_build_tool.xml
+[18d4:0007][2026-05-10T02:03:24] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/custom_build_tool.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\custom_build_tool.xml
+[18d4:0007][2026-05-10T02:03:24] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\custom_build_tool.xml'.
+[18d4:0007][2026-05-10T02:03:24] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/debugger_general.xml
+[18d4:0007][2026-05-10T02:03:24] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/debugger_general.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\debugger_general.xml
+[18d4:0007][2026-05-10T02:03:24] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/debugger_general.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\debugger_general.xml
+[18d4:0007][2026-05-10T02:03:24] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\debugger_general.xml'.
+[18d4:0007][2026-05-10T02:03:24] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/debugger_local_windows.xml
+[18d4:0007][2026-05-10T02:03:24] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/debugger_local_windows.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\debugger_local_windows.xml
+[18d4:0007][2026-05-10T02:03:24] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/debugger_local_windows.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\debugger_local_windows.xml
+[18d4:0007][2026-05-10T02:03:24] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\debugger_local_windows.xml'.
+[18d4:0007][2026-05-10T02:03:24] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/debugger_remote_windows.xml
+[18d4:0007][2026-05-10T02:03:24] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/debugger_remote_windows.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\debugger_remote_windows.xml
+[18d4:0007][2026-05-10T02:03:24] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/debugger_remote_windows.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\debugger_remote_windows.xml
+[18d4:0007][2026-05-10T02:03:24] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\debugger_remote_windows.xml'.
+[18d4:0007][2026-05-10T02:03:24] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/debugger_web_browser.xml
+[18d4:0007][2026-05-10T02:03:24] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/debugger_web_browser.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\debugger_web_browser.xml
+[18d4:0007][2026-05-10T02:03:24] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/debugger_web_browser.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\debugger_web_browser.xml
+[18d4:0007][2026-05-10T02:03:24] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\debugger_web_browser.xml'.
+[18d4:0007][2026-05-10T02:03:24] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/debugger_web_service.xml
+[18d4:0007][2026-05-10T02:03:24] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/debugger_web_service.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\debugger_web_service.xml
+[18d4:0007][2026-05-10T02:03:24] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/debugger_web_service.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\debugger_web_service.xml
+[18d4:0007][2026-05-10T02:03:24] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\debugger_web_service.xml'.
+[18d4:0007][2026-05-10T02:03:24] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/directories.xml
+[18d4:0007][2026-05-10T02:03:24] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/directories.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\directories.xml
+[18d4:0007][2026-05-10T02:03:24] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/directories.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\directories.xml
+[18d4:0007][2026-05-10T02:03:24] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\directories.xml'.
+[18d4:0007][2026-05-10T02:03:24] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/envvars.xml
+[18d4:0007][2026-05-10T02:03:24] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/envvars.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\envvars.xml
+[18d4:0007][2026-05-10T02:03:24] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/envvars.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\envvars.xml
+[18d4:0007][2026-05-10T02:03:24] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\envvars.xml'.
+[18d4:0007][2026-05-10T02:03:24] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/folder.xml
+[18d4:0007][2026-05-10T02:03:24] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/folder.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\folder.xml
+[18d4:0007][2026-05-10T02:03:24] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/folder.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\folder.xml
+[18d4:0007][2026-05-10T02:03:24] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\folder.xml'.
+[18d4:0007][2026-05-10T02:03:24] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/fxc.xml
+[18d4:0007][2026-05-10T02:03:24] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/fxc.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\fxc.xml
+[18d4:0007][2026-05-10T02:03:24] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/fxc.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\fxc.xml
+[18d4:0007][2026-05-10T02:03:24] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\fxc.xml'.
+[18d4:0007][2026-05-10T02:03:24] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/general.xml
+[18d4:0007][2026-05-10T02:03:24] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/general.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\general.xml
+[18d4:0007][2026-05-10T02:03:24] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/general.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\general.xml
+[18d4:0007][2026-05-10T02:03:24] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\general.xml'.
+[18d4:0007][2026-05-10T02:03:24] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/general_advanced.xml
+[18d4:0007][2026-05-10T02:03:24] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/general_advanced.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\general_advanced.xml
+[18d4:0007][2026-05-10T02:03:24] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/general_advanced.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\general_advanced.xml
+[18d4:0007][2026-05-10T02:03:24] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\general_advanced.xml'.
+[18d4:0007][2026-05-10T02:03:24] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/general_advanced_arm64x.xml
+[18d4:0007][2026-05-10T02:03:24] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/general_advanced_arm64x.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\general_advanced_arm64x.xml
+[18d4:0007][2026-05-10T02:03:24] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/general_advanced_arm64x.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\general_advanced_arm64x.xml
+[18d4:0007][2026-05-10T02:03:24] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\general_advanced_arm64x.xml'.
+[18d4:0007][2026-05-10T02:03:24] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/general_advanced_hostarm64.xml
+[18d4:0007][2026-05-10T02:03:24] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/general_advanced_hostarm64.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\general_advanced_hostarm64.xml
+[18d4:0007][2026-05-10T02:03:24] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/general_advanced_hostarm64.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\general_advanced_hostarm64.xml
+[18d4:0007][2026-05-10T02:03:24] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\general_advanced_hostarm64.xml'.
+[18d4:0007][2026-05-10T02:03:24] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/general_advanced_netcore.xml
+[18d4:0007][2026-05-10T02:03:24] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/general_advanced_netcore.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\general_advanced_netcore.xml
+[18d4:0007][2026-05-10T02:03:24] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/general_advanced_netcore.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\general_advanced_netcore.xml
+[18d4:0007][2026-05-10T02:03:24] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\general_advanced_netcore.xml'.
+[18d4:0007][2026-05-10T02:03:24] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/general_appcontainerapplication.xml
+[18d4:0007][2026-05-10T02:03:24] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/general_appcontainerapplication.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\general_appcontainerapplication.xml
+[18d4:0007][2026-05-10T02:03:24] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/general_appcontainerapplication.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\general_appcontainerapplication.xml
+[18d4:0007][2026-05-10T02:03:24] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\general_appcontainerapplication.xml'.
+[18d4:0007][2026-05-10T02:03:24] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/general_file.xml
+[18d4:0007][2026-05-10T02:03:24] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/general_file.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\general_file.xml
+[18d4:0007][2026-05-10T02:03:24] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/general_file.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\general_file.xml
+[18d4:0007][2026-05-10T02:03:24] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\general_file.xml'.
+[18d4:0007][2026-05-10T02:03:24] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/general_makefile.xml
+[18d4:0007][2026-05-10T02:03:24] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/general_makefile.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\general_makefile.xml
+[18d4:0007][2026-05-10T02:03:24] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/general_makefile.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\general_makefile.xml
+[18d4:0007][2026-05-10T02:03:24] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\general_makefile.xml'.
+[18d4:0007][2026-05-10T02:03:24] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/general_makefile_ps.xml
+[18d4:0007][2026-05-10T02:03:24] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/general_makefile_ps.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\general_makefile_ps.xml
+[18d4:0007][2026-05-10T02:03:24] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/general_makefile_ps.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\general_makefile_ps.xml
+[18d4:0007][2026-05-10T02:03:24] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\general_makefile_ps.xml'.
+[18d4:0007][2026-05-10T02:03:24] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/general_ps.xml
+[18d4:0007][2026-05-10T02:03:24] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/general_ps.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\general_ps.xml
+[18d4:0007][2026-05-10T02:03:24] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/general_ps.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\general_ps.xml
+[18d4:0007][2026-05-10T02:03:24] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\general_ps.xml'.
+[18d4:0007][2026-05-10T02:03:24] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/general_uwp_arm64x.xml
+[18d4:0007][2026-05-10T02:03:24] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/general_uwp_arm64x.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\general_uwp_arm64x.xml
+[18d4:0007][2026-05-10T02:03:24] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/general_uwp_arm64x.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\general_uwp_arm64x.xml
+[18d4:0007][2026-05-10T02:03:24] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\general_uwp_arm64x.xml'.
+[18d4:0007][2026-05-10T02:03:24] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/isense_general.xml
+[18d4:0007][2026-05-10T02:03:24] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/isense_general.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\isense_general.xml
+[18d4:0007][2026-05-10T02:03:24] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/isense_general.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\isense_general.xml
+[18d4:0007][2026-05-10T02:03:24] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\isense_general.xml'.
+[18d4:0007][2026-05-10T02:03:24] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/lib.xml
+[18d4:0007][2026-05-10T02:03:24] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/lib.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\lib.xml
+[18d4:0007][2026-05-10T02:03:24] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/lib.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\lib.xml
+[18d4:0007][2026-05-10T02:03:24] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\lib.xml'.
+[18d4:0007][2026-05-10T02:03:24] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/link.xml
+[18d4:0007][2026-05-10T02:03:24] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/link.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\link.xml
+[18d4:0007][2026-05-10T02:03:24] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/link.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\link.xml
+[18d4:0007][2026-05-10T02:03:24] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\link.xml'.
+[18d4:0007][2026-05-10T02:03:24] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/midl.xml
+[18d4:0007][2026-05-10T02:03:24] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/midl.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\midl.xml
+[18d4:0007][2026-05-10T02:03:24] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/midl.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\midl.xml
+[18d4:0007][2026-05-10T02:03:24] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\midl.xml'.
+[18d4:0007][2026-05-10T02:03:24] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/mt.xml
+[18d4:0007][2026-05-10T02:03:24] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/mt.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\mt.xml
+[18d4:0007][2026-05-10T02:03:24] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/mt.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\mt.xml
+[18d4:0007][2026-05-10T02:03:24] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\mt.xml'.
+[18d4:0007][2026-05-10T02:03:24] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/nmake.xml
+[18d4:0007][2026-05-10T02:03:24] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/nmake.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\nmake.xml
+[18d4:0007][2026-05-10T02:03:24] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/nmake.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\nmake.xml
+[18d4:0007][2026-05-10T02:03:24] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\nmake.xml'.
+[18d4:0007][2026-05-10T02:03:24] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/ProjectItemsSchema.xml
+[18d4:0007][2026-05-10T02:03:24] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/ProjectItemsSchema.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\ProjectItemsSchema.xml
+[18d4:0007][2026-05-10T02:03:24] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/ProjectItemsSchema.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\ProjectItemsSchema.xml
+[18d4:0007][2026-05-10T02:03:24] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\ProjectItemsSchema.xml'.
+[18d4:0007][2026-05-10T02:03:24] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/rc.xml
+[18d4:0007][2026-05-10T02:03:24] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/rc.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\rc.xml
+[18d4:0007][2026-05-10T02:03:24] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/rc.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\rc.xml
+[18d4:0007][2026-05-10T02:03:24] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\rc.xml'.
+[18d4:0007][2026-05-10T02:03:24] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/resgen.xml
+[18d4:0007][2026-05-10T02:03:24] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/resgen.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\resgen.xml
+[18d4:0007][2026-05-10T02:03:24] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/resgen.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\resgen.xml
+[18d4:0007][2026-05-10T02:03:24] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\resgen.xml'.
+[18d4:0007][2026-05-10T02:03:24] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/unity_cl_extension.xml
+[18d4:0007][2026-05-10T02:03:24] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/unity_cl_extension.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\unity_cl_extension.xml
+[18d4:0007][2026-05-10T02:03:24] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/unity_cl_extension.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\unity_cl_extension.xml
+[18d4:0007][2026-05-10T02:03:24] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\unity_cl_extension.xml'.
+[18d4:0007][2026-05-10T02:03:24] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/usermacros.xml
+[18d4:0007][2026-05-10T02:03:24] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/usermacros.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\usermacros.xml
+[18d4:0007][2026-05-10T02:03:24] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/usermacros.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\usermacros.xml
+[18d4:0007][2026-05-10T02:03:24] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\usermacros.xml'.
+[18d4:0007][2026-05-10T02:03:24] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/xaml.xml
+[18d4:0007][2026-05-10T02:03:24] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/xaml.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\xaml.xml
+[18d4:0007][2026-05-10T02:03:24] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/xaml.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\xaml.xml
+[18d4:0007][2026-05-10T02:03:24] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\xaml.xml'.
+[18d4:0007][2026-05-10T02:03:24] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/xdcmake.xml
+[18d4:0007][2026-05-10T02:03:24] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/xdcmake.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\xdcmake.xml
+[18d4:0007][2026-05-10T02:03:24] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/xdcmake.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\xdcmake.xml
+[18d4:0007][2026-05-10T02:03:24] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\xdcmake.xml'.
+[18d4:0007][2026-05-10T02:03:24] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/xp_AppHostDebugger_Local.xml
+[18d4:0007][2026-05-10T02:03:24] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/xp_AppHostDebugger_Local.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\xp_AppHostDebugger_Local.xml
+[18d4:0007][2026-05-10T02:03:24] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/xp_AppHostDebugger_Local.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\xp_AppHostDebugger_Local.xml
+[18d4:0007][2026-05-10T02:03:24] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\xp_AppHostDebugger_Local.xml'.
+[18d4:0007][2026-05-10T02:03:24] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/xsd.xml
+[18d4:0007][2026-05-10T02:03:24] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/xsd.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\xsd.xml
+[18d4:0007][2026-05-10T02:03:24] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/1033/xsd.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\xsd.xml
+[18d4:0007][2026-05-10T02:03:24] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\xsd.xml'.
+[18d4:0007][2026-05-10T02:03:24] Processing file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/1033/ImageContentTask.xml
+[18d4:0007][2026-05-10T02:03:24] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/1033/ImageContentTask.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\BuildCustomizations\1033\ImageContentTask.xml
+[18d4:0007][2026-05-10T02:03:24] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/1033/ImageContentTask.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\BuildCustomizations\1033\ImageContentTask.xml
+[18d4:0007][2026-05-10T02:03:24] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\BuildCustomizations\1033\ImageContentTask.xml'.
+[18d4:0007][2026-05-10T02:03:24] Processing file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/1033/MeshContentTask.xml
+[18d4:0007][2026-05-10T02:03:24] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/1033/MeshContentTask.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\BuildCustomizations\1033\MeshContentTask.xml
+[18d4:0007][2026-05-10T02:03:24] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/1033/MeshContentTask.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\BuildCustomizations\1033\MeshContentTask.xml
+[18d4:0007][2026-05-10T02:03:24] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\BuildCustomizations\1033\MeshContentTask.xml'.
+[18d4:0007][2026-05-10T02:03:24] Processing file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/1033/ShaderGraphContentTask.xml
+[18d4:0007][2026-05-10T02:03:24] Started: Copying file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/1033/ShaderGraphContentTask.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\BuildCustomizations\1033\ShaderGraphContentTask.xml
+[18d4:0007][2026-05-10T02:03:24] Completed: Copying file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/1033/ShaderGraphContentTask.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\BuildCustomizations\1033\ShaderGraphContentTask.xml
+[18d4:0007][2026-05-10T02:03:24] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\BuildCustomizations\1033\ShaderGraphContentTask.xml'.
+[18d4:0007][2026-05-10T02:03:24] Package executed successfully. Return code: 0

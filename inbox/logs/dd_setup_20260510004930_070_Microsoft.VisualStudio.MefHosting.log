@@ -1,0 +1,30 @@
+[da4c:0007][2026-05-10T00:49:49] Opening the package for processing
+[da4c:0007][2026-05-10T00:49:49] Using package payload to get the embedded manifest
+[da4c:0007][2026-05-10T00:49:49] Getting list of files within the package
+[da4c:0007][2026-05-10T00:49:49] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/MefHosting/Microsoft.VisualStudio.ComponentModelHost.dll
+[da4c:0007][2026-05-10T00:49:49] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/MefHosting/Microsoft.VisualStudio.ComponentModelHost.dll to D:\Program\Common7\IDE\CommonExtensions\Platform\MefHosting\Microsoft.VisualStudio.ComponentModelHost.dll
+[da4c:0007][2026-05-10T00:49:49] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/MefHosting/Microsoft.VisualStudio.ComponentModelHost.dll to D:\Program\Common7\IDE\CommonExtensions\Platform\MefHosting\Microsoft.VisualStudio.ComponentModelHost.dll
+[da4c:0007][2026-05-10T00:49:49] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\MefHosting\Microsoft.VisualStudio.ComponentModelHost.dll'.
+[da4c:0007][2026-05-10T00:49:49] Queueing D:\Program\Common7\IDE\CommonExtensions\Platform\MefHosting\Microsoft.VisualStudio.ComponentModelHost.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:49] Successfully queued file '/Contents/Common7/IDE/CommonExtensions/Platform/MefHosting/Microsoft.VisualStudio.ComponentModelHost.dll' for ngen
+[da4c:0007][2026-05-10T00:49:49] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/MefHosting/Microsoft.VisualStudio.ComponentModelHost.Implementation.dll
+[da4c:0007][2026-05-10T00:49:49] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/MefHosting/Microsoft.VisualStudio.ComponentModelHost.Implementation.dll to D:\Program\Common7\IDE\CommonExtensions\Platform\MefHosting\Microsoft.VisualStudio.ComponentModelHost.Implementation.dll
+[da4c:0007][2026-05-10T00:49:49] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/MefHosting/Microsoft.VisualStudio.ComponentModelHost.Implementation.dll to D:\Program\Common7\IDE\CommonExtensions\Platform\MefHosting\Microsoft.VisualStudio.ComponentModelHost.Implementation.dll
+[da4c:0007][2026-05-10T00:49:49] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\MefHosting\Microsoft.VisualStudio.ComponentModelHost.Implementation.dll'.
+[da4c:0007][2026-05-10T00:49:49] Queueing D:\Program\Common7\IDE\CommonExtensions\Platform\MefHosting\Microsoft.VisualStudio.ComponentModelHost.Implementation.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:49] Successfully queued file '/Contents/Common7/IDE/CommonExtensions/Platform/MefHosting/Microsoft.VisualStudio.ComponentModelHost.Implementation.dll' for ngen
+[da4c:0007][2026-05-10T00:49:49] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/MefHosting/Microsoft.VisualStudio.ComponentModelHost.Implementation.pkgdef
+[da4c:0007][2026-05-10T00:49:49] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/MefHosting/Microsoft.VisualStudio.ComponentModelHost.Implementation.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\MefHosting\Microsoft.VisualStudio.ComponentModelHost.Implementation.pkgdef
+[da4c:0007][2026-05-10T00:49:49] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/MefHosting/Microsoft.VisualStudio.ComponentModelHost.Implementation.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\MefHosting\Microsoft.VisualStudio.ComponentModelHost.Implementation.pkgdef
+[da4c:0007][2026-05-10T00:49:49] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\MefHosting\Microsoft.VisualStudio.ComponentModelHost.Implementation.pkgdef'.
+[da4c:0007][2026-05-10T00:49:49] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/MefHosting/Microsoft.VisualStudio.ExtensibilityHosting.dll
+[da4c:0007][2026-05-10T00:49:49] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/MefHosting/Microsoft.VisualStudio.ExtensibilityHosting.dll to D:\Program\Common7\IDE\CommonExtensions\Platform\MefHosting\Microsoft.VisualStudio.ExtensibilityHosting.dll
+[da4c:0007][2026-05-10T00:49:49] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/MefHosting/Microsoft.VisualStudio.ExtensibilityHosting.dll to D:\Program\Common7\IDE\CommonExtensions\Platform\MefHosting\Microsoft.VisualStudio.ExtensibilityHosting.dll
+[da4c:0007][2026-05-10T00:49:49] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\MefHosting\Microsoft.VisualStudio.ExtensibilityHosting.dll'.
+[da4c:0007][2026-05-10T00:49:49] Queueing D:\Program\Common7\IDE\CommonExtensions\Platform\MefHosting\Microsoft.VisualStudio.ExtensibilityHosting.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:49] Successfully queued file '/Contents/Common7/IDE/CommonExtensions/Platform/MefHosting/Microsoft.VisualStudio.ExtensibilityHosting.dll' for ngen
+[da4c:0007][2026-05-10T00:49:49] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/MefHosting/extension.vsixmanifest
+[da4c:0007][2026-05-10T00:49:49] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/MefHosting/extension.vsixmanifest to D:\Program\Common7\IDE\CommonExtensions\Platform\MefHosting\extension.vsixmanifest
+[da4c:0007][2026-05-10T00:49:49] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/MefHosting/extension.vsixmanifest to D:\Program\Common7\IDE\CommonExtensions\Platform\MefHosting\extension.vsixmanifest
+[da4c:0007][2026-05-10T00:49:49] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\MefHosting\extension.vsixmanifest'.
+[da4c:0007][2026-05-10T00:49:49] Package executed successfully. Return code: 0

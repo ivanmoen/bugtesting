@@ -1,0 +1,32 @@
+[3474:0009][2026-05-10T01:46:19] Using cached package manifest as the embedded manifest
+[3474:0009][2026-05-10T01:46:19] Processing file /Contents/Common7/IDE/1033/Microsoft.VisualStudioUI.dll
+[3474:0009][2026-05-10T01:46:19] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\1033\Microsoft.VisualStudioUI.dll file deleted.
+[3474:0009][2026-05-10T01:46:19] Processing file /Contents/Common7/IDE/1033/cmddefui.dll
+[3474:0009][2026-05-10T01:46:19] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\1033\cmddefui.dll file deleted.
+[3474:0009][2026-05-10T01:46:19] Processing file /Contents/Common7/IDE/1033/msenvui.dll
+[3474:0009][2026-05-10T01:46:19] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\1033\msenvui.dll file deleted.
+[3474:0009][2026-05-10T01:46:19] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Search/en/Microsoft.VisualStudio.Search.Implementation.resources.dll
+[3474:0009][2026-05-10T01:46:19] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Search\en\Microsoft.VisualStudio.Search.Implementation.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:19] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Search/en/Microsoft.VisualStudio.Platform.SearchProviders.resources.dll
+[3474:0009][2026-05-10T01:46:19] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Search\en\Microsoft.VisualStudio.Platform.SearchProviders.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:19] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/TreeNavigation/en/Microsoft.VisualStudio.Shell.TreeNavigation.HierarchyProvider.resources.dll
+[3474:0009][2026-05-10T01:46:19] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\TreeNavigation\en\Microsoft.VisualStudio.Shell.TreeNavigation.HierarchyProvider.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:19] Processing file /Contents/Common7/IDE/en/Microsoft.VisualStudio.ProductKeyDialog.resources.dll
+[3474:0009][2026-05-10T01:46:19] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\en\Microsoft.VisualStudio.ProductKeyDialog.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:19] Processing file /Contents/Common7/IDE/ShellExtensions/Platform/1033/appenvmui.dll
+[3474:0009][2026-05-10T01:46:19] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ShellExtensions\Platform\1033\appenvmui.dll file deleted.
+[3474:0009][2026-05-10T01:46:19] Processing file /Contents/Common7/ServiceHub/SharedAssemblies/en/Microsoft.VisualStudio.Utilities.resources.dll
+[3474:0009][2026-05-10T01:46:19] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\ServiceHub\SharedAssemblies\en\Microsoft.VisualStudio.Utilities.resources.dll file deleted.
+[3474:0009][2026-05-10T01:46:19] Processing file /Contents/Licenses/1033/ThirdPartyNotices.txt
+[3474:0009][2026-05-10T01:46:19] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Licenses\1033\ThirdPartyNotices.txt file deleted.
+[3474:0009][2026-05-10T01:46:19] Processing file /Contents/Licenses/1033/Redist.txt
+[3474:0009][2026-05-10T01:46:19] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Licenses\1033\Redist.txt file deleted.
+[3474:0009][2026-05-10T01:46:19] Started: Deleting empty directories
+[3474:0009][2026-05-10T01:46:19] Completed: Deleting empty directories
+[3474:0009][2026-05-10T01:46:19] Uninstalling ProgId: VisualStudio.git-client.[InstanceId]
+[3474:0009][2026-05-10T01:46:19] Uninstalling ProgId: VisualStudio.vsweb.[InstanceId]
+[3474:0009][2026-05-10T01:46:19] Uninstalling ProgId: VisualStudio.vstfs.[InstanceId]
+[3474:0009][2026-05-10T01:46:19] Uninstalling Url Association: git-client. RegistrationPath: git-client
+[3474:0009][2026-05-10T01:46:19] Uninstalling Url Association: vsweb. RegistrationPath: vsweb
+[3474:0009][2026-05-10T01:46:19] Uninstalling Url Association: vstfs. RegistrationPath: vstfs
+[3474:0009][2026-05-10T01:46:19] Package executed successfully. Return code: 0

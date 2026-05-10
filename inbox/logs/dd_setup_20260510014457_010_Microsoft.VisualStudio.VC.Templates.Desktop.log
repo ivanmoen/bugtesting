@@ -1,0 +1,46 @@
+[3474:0009][2026-05-10T01:45:59] Using cached package manifest as the embedded manifest
+[3474:0009][2026-05-10T01:45:59] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/WindowsDesktop/cpp.hint
+[3474:0009][2026-05-10T01:45:59] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ProjectTemplates\VC\WindowsDesktop\cpp.hint file deleted.
+[3474:0009][2026-05-10T01:45:59] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/WindowsDesktop/dllmain.cpp
+[3474:0009][2026-05-10T01:45:59] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ProjectTemplates\VC\WindowsDesktop\dllmain.cpp file deleted.
+[3474:0009][2026-05-10T01:45:59] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/WindowsDesktop/framework.h
+[3474:0009][2026-05-10T01:45:59] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ProjectTemplates\VC\WindowsDesktop\framework.h file deleted.
+[3474:0009][2026-05-10T01:45:59] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/WindowsDesktop/project.vcxproj
+[3474:0009][2026-05-10T01:45:59] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ProjectTemplates\VC\WindowsDesktop\project.vcxproj file deleted.
+[3474:0009][2026-05-10T01:45:59] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/WindowsDesktop/resource.h
+[3474:0009][2026-05-10T01:45:59] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ProjectTemplates\VC\WindowsDesktop\resource.h file deleted.
+[3474:0009][2026-05-10T01:45:59] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/WindowsDesktop/root.cpp
+[3474:0009][2026-05-10T01:45:59] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ProjectTemplates\VC\WindowsDesktop\root.cpp file deleted.
+[3474:0009][2026-05-10T01:45:59] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/WindowsDesktop/root.h
+[3474:0009][2026-05-10T01:45:59] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ProjectTemplates\VC\WindowsDesktop\root.h file deleted.
+[3474:0009][2026-05-10T01:45:59] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/WindowsDesktop/root.ico
+[3474:0009][2026-05-10T01:45:59] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ProjectTemplates\VC\WindowsDesktop\root.ico file deleted.
+[3474:0009][2026-05-10T01:45:59] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/WindowsDesktop/root.rc
+[3474:0009][2026-05-10T01:45:59] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ProjectTemplates\VC\WindowsDesktop\root.rc file deleted.
+[3474:0009][2026-05-10T01:45:59] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/WindowsDesktop/small.ico
+[3474:0009][2026-05-10T01:45:59] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ProjectTemplates\VC\WindowsDesktop\small.ico file deleted.
+[3474:0009][2026-05-10T01:45:59] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/WindowsDesktop/targetver.h
+[3474:0009][2026-05-10T01:45:59] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ProjectTemplates\VC\WindowsDesktop\targetver.h file deleted.
+[3474:0009][2026-05-10T01:45:59] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/WindowsDesktop/WindowsDesktop.VSTDIR
+[3474:0009][2026-05-10T01:45:59] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ProjectTemplates\VC\WindowsDesktop\WindowsDesktop.VSTDIR file deleted.
+[3474:0009][2026-05-10T01:45:59] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/WindowsDesktop/WindowsApplication/DesktopApplication.vstemplate
+[3474:0009][2026-05-10T01:45:59] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ProjectTemplates\VC\WindowsDesktop\WindowsApplication\DesktopApplication.vstemplate file deleted.
+[3474:0009][2026-05-10T01:45:59] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/WindowsDesktop/WindowsDesktopWizard/WindowsDesktopWizard.vstemplate
+[3474:0009][2026-05-10T01:45:59] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ProjectTemplates\VC\WindowsDesktop\WindowsDesktopWizard\WindowsDesktopWizard.vstemplate file deleted.
+[3474:0009][2026-05-10T01:45:59] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/WindowsDesktop/WindowsDLL/WindowsDLL.vstemplate
+[3474:0009][2026-05-10T01:45:59] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ProjectTemplates\VC\WindowsDesktop\WindowsDLL\WindowsDLL.vstemplate file deleted.
+[3474:0009][2026-05-10T01:45:59] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/WindowsDesktop/WindowsConsoleApplication/WindowsConsoleApplication.vstemplate
+[3474:0009][2026-05-10T01:45:59] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ProjectTemplates\VC\WindowsDesktop\WindowsConsoleApplication\WindowsConsoleApplication.vstemplate file deleted.
+[3474:0009][2026-05-10T01:45:59] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/WindowsDesktop/WindowsDLLExports/WindowsDLLExports.vstemplate
+[3474:0009][2026-05-10T01:45:59] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ProjectTemplates\VC\WindowsDesktop\WindowsDLLExports\WindowsDLLExports.vstemplate file deleted.
+[3474:0009][2026-05-10T01:45:59] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/WindowsDesktop/WindowsStaticLib/WindowsStaticLib.vstemplate
+[3474:0009][2026-05-10T01:45:59] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ProjectTemplates\VC\WindowsDesktop\WindowsStaticLib\WindowsStaticLib.vstemplate file deleted.
+[3474:0009][2026-05-10T01:45:59] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/WindowsDesktop/Empty/Empty.vstemplate
+[3474:0009][2026-05-10T01:45:59] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ProjectTemplates\VC\WindowsDesktop\Empty\Empty.vstemplate file deleted.
+[3474:0009][2026-05-10T01:45:59] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/Other/Makefile/Makefile.vstemplate
+[3474:0009][2026-05-10T01:45:59] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ProjectTemplates\VC\Other\Makefile\Makefile.vstemplate file deleted.
+[3474:0009][2026-05-10T01:45:59] Processing file /contents/Common7/IDE/ProjectTemplates/Microsoft.VisualStudio.VC.Templates.Desktop.Project..vstman
+[3474:0009][2026-05-10T01:45:59] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ProjectTemplates\Microsoft.VisualStudio.VC.Templates.Desktop.Project..vstman file deleted.
+[3474:0009][2026-05-10T01:45:59] Started: Deleting empty directories
+[3474:0009][2026-05-10T01:45:59] Completed: Deleting empty directories
+[3474:0009][2026-05-10T01:45:59] Package executed successfully. Return code: 0

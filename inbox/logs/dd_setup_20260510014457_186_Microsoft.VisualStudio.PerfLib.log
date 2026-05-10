@@ -1,0 +1,24 @@
+[3474:0009][2026-05-10T01:46:20] Using cached package manifest as the embedded manifest
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PrivateAssemblies/Dia2Lib.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Dia2Lib.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Diagnostics.FastSerialization.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Diagnostics.FastSerialization.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Diagnostics.Tracing.TraceEvent.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Diagnostics.Tracing.TraceEvent.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PrivateAssemblies/TraceReloggerLib.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\TraceReloggerLib.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Diagnostics.EtwHeapDump.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Diagnostics.EtwHeapDump.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Diagnostics.HeapDump.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Diagnostics.HeapDump.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Diagnostics.MemoryGraph.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Diagnostics.MemoryGraph.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Diagnostics.Utilities.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Diagnostics.Utilities.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PrivateAssemblies/x86/msdia140.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\x86\msdia140.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PrivateAssemblies/amd64/msdia140.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\amd64\msdia140.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Started: Deleting empty directories
+[3474:0009][2026-05-10T01:46:20] Completed: Deleting empty directories
+[3474:0009][2026-05-10T01:46:20] Package executed successfully. Return code: 0

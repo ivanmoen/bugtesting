@@ -1,0 +1,18 @@
+[3474:0009][2026-05-10T01:46:27] Using cached package manifest as the embedded manifest
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Imports/Microsoft.Common.Props/ImportBefore/Microsoft.NuGet.ImportBefore.props
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Imports\Microsoft.Common.Props\ImportBefore\Microsoft.NuGet.ImportBefore.props file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/Microsoft.Common.Targets/ImportAfter/Microsoft.NuGet.ImportAfter.targets
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Microsoft.Common.Targets\ImportAfter\Microsoft.NuGet.ImportAfter.targets file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Current/SolutionFile/ImportAfter/Microsoft.NuGet.Solution.ImportAfter.targets
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\SolutionFile\ImportAfter\Microsoft.NuGet.Solution.ImportAfter.targets file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Microsoft/NuGet/17.0/Microsoft.NuGet.Build.Tasks.dll
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\NuGet\17.0\Microsoft.NuGet.Build.Tasks.dll file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Microsoft/NuGet/17.0/Newtonsoft.Json.dll
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\NuGet\17.0\Newtonsoft.Json.dll file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Microsoft/NuGet/17.0/Microsoft.NuGet.props
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\NuGet\17.0\Microsoft.NuGet.props file deleted.
+[3474:0009][2026-05-10T01:46:27] Processing file /Contents/MSBuild/Microsoft/NuGet/17.0/Microsoft.NuGet.targets
+[3474:0009][2026-05-10T01:46:27] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\NuGet\17.0\Microsoft.NuGet.targets file deleted.
+[3474:0009][2026-05-10T01:46:27] Started: Deleting empty directories
+[3474:0009][2026-05-10T01:46:27] Completed: Deleting empty directories
+[3474:0009][2026-05-10T01:46:27] Package executed successfully. Return code: 0

@@ -1,0 +1,16 @@
+[0c48:0003][2026-05-10T01:44:44] Using cached package manifest as the embedded manifest
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Common7/IDE/PrivateAssemblies/jsonRpc.all.v2.js
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\jsonRpc.all.v2.js file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Common7/IDE/PrivateAssemblies/serviceHub.all.v2.js
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\serviceHub.all.v2.js file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.Node.x86/hubHost.all.js
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\ServiceHub\Hosts\ServiceHub.Host.Node.x86\hubHost.all.js file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.Node.x86/node.x86.servicehub.host.json
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\ServiceHub\Hosts\ServiceHub.Host.Node.x86\node.x86.servicehub.host.json file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.Node.x86/package.json
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\ServiceHub\Hosts\ServiceHub.Host.Node.x86\package.json file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/Common7/ServiceHub/Services/ReadMe.txt
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\ServiceHub\Services\ReadMe.txt file deleted.
+[0c48:0003][2026-05-10T01:44:44] Started: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:44] Completed: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:44] Package executed successfully. Return code: 0

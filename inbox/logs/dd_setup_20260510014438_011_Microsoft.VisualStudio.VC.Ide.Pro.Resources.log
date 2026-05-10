@@ -1,0 +1,38 @@
+[0c48:0003][2026-05-10T01:44:43] Using cached package manifest as the embedded manifest
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCWizards/CodeWiz/.NET/Installer/scripts/1033/default.js
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCWizards\CodeWiz\.NET\Installer\scripts\1033\default.js file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCWizards/CodeWiz/.NET/Installer/templates/1033/newinstaller.cpp
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCWizards\CodeWiz\.NET\Installer\templates\1033\newinstaller.cpp file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCWizards/CodeWiz/.NET/Installer/templates/1033/templates.inf
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCWizards\CodeWiz\.NET\Installer\templates\1033\templates.inf file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCWizards/CodeWiz/.NET/Installer/templates/1033/newinstaller.h
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCWizards\CodeWiz\.NET\Installer\templates\1033\newinstaller.h file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCWizards/CodeWiz/.NET/XMLSchema/Scripts/1033/default.js
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCWizards\CodeWiz\.NET\XMLSchema\Scripts\1033\default.js file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCWizards/CodeWiz/.NET/XMLSchema/Templates/1033/newxmlschema.xsd
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCWizards\CodeWiz\.NET\XMLSchema\Templates\1033\newxmlschema.xsd file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCWizards/CodeWiz/.NET/XMLSchema/Templates/1033/templates.inf
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCWizards\CodeWiz\.NET\XMLSchema\Templates\1033\templates.inf file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCWizards/CodeWiz/Generic/DEFFile/Scripts/1033/default.js
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCWizards\CodeWiz\Generic\DEFFile\Scripts\1033\default.js file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCWizards/CodeWiz/Generic/DEFFile/Templates/1033/empty.def
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCWizards\CodeWiz\Generic\DEFFile\Templates\1033\empty.def file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCWizards/CodeWiz/Generic/DEFFile/Templates/1033/root.def
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCWizards\CodeWiz\Generic\DEFFile\Templates\1033\root.def file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCWizards/CodeWiz/Generic/RCFile/Scripts/1033/default.js
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCWizards\CodeWiz\Generic\RCFile\Scripts\1033\default.js file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCWizards/CodeWiz/Generic/RCFile/Templates/1033/templates.inf
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCWizards\CodeWiz\Generic\RCFile\Templates\1033\templates.inf file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCWizards/CodeWiz/Generic/RCFile/Templates/1033/rcfile.rc
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCWizards\CodeWiz\Generic\RCFile\Templates\1033\rcfile.rc file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCWizards/CodeWiz/Generic/RCFile/Templates/1033/resource.h
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCWizards\CodeWiz\Generic\RCFile\Templates\1033\resource.h file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCWizards/CodeWiz/Generic/ResourceScript/scripts/1033/default.js
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCWizards\CodeWiz\Generic\ResourceScript\scripts\1033\default.js file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCWizards/CodeWiz/Generic/ResourceScript/Templates/1033/rcfile.rc
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCWizards\CodeWiz\Generic\ResourceScript\Templates\1033\rcfile.rc file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/VC/VCWizards/CodeWiz/Generic/ResourceScript/Templates/1033/resource.h
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCWizards\CodeWiz\Generic\ResourceScript\Templates\1033\resource.h file deleted.
+[0c48:0003][2026-05-10T01:44:43] Started: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:43] Completed: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:43] Package executed successfully. Return code: 0

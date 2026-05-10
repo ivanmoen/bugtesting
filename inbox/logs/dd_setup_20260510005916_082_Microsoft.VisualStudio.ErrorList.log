@@ -1,0 +1,42 @@
+[bd94:0009][2026-05-10T01:00:50] Using cached package manifest as the embedded manifest
+[bd94:0009][2026-05-10T01:00:50] Processing file /extension.vsixmanifest
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\CommonExtensions\Microsoft\ErrorList\extension.vsixmanifest file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /License.rtf
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\CommonExtensions\Microsoft\ErrorList\License.rtf file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /Microsoft.VisualStudio.ErrorListPkg.pkgdef
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\CommonExtensions\Microsoft\ErrorList\Microsoft.VisualStudio.ErrorListPkg.pkgdef file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /Microsoft.VisualStudio.ErrorListPkg.dll
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\CommonExtensions\Microsoft\ErrorList\Microsoft.VisualStudio.ErrorListPkg.dll file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /zh-Hans/Microsoft.VisualStudio.ErrorListPkg.resources.dll
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\CommonExtensions\Microsoft\ErrorList\zh-Hans\Microsoft.VisualStudio.ErrorListPkg.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /zh-Hant/Microsoft.VisualStudio.ErrorListPkg.resources.dll
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\CommonExtensions\Microsoft\ErrorList\zh-Hant\Microsoft.VisualStudio.ErrorListPkg.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /de/Microsoft.VisualStudio.ErrorListPkg.resources.dll
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\CommonExtensions\Microsoft\ErrorList\de\Microsoft.VisualStudio.ErrorListPkg.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /es/Microsoft.VisualStudio.ErrorListPkg.resources.dll
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\CommonExtensions\Microsoft\ErrorList\es\Microsoft.VisualStudio.ErrorListPkg.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /fr/Microsoft.VisualStudio.ErrorListPkg.resources.dll
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\CommonExtensions\Microsoft\ErrorList\fr\Microsoft.VisualStudio.ErrorListPkg.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /it/Microsoft.VisualStudio.ErrorListPkg.resources.dll
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\CommonExtensions\Microsoft\ErrorList\it\Microsoft.VisualStudio.ErrorListPkg.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /ja/Microsoft.VisualStudio.ErrorListPkg.resources.dll
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\CommonExtensions\Microsoft\ErrorList\ja\Microsoft.VisualStudio.ErrorListPkg.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /ko/Microsoft.VisualStudio.ErrorListPkg.resources.dll
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\CommonExtensions\Microsoft\ErrorList\ko\Microsoft.VisualStudio.ErrorListPkg.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /ru/Microsoft.VisualStudio.ErrorListPkg.resources.dll
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\CommonExtensions\Microsoft\ErrorList\ru\Microsoft.VisualStudio.ErrorListPkg.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /cs/Microsoft.VisualStudio.ErrorListPkg.resources.dll
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\CommonExtensions\Microsoft\ErrorList\cs\Microsoft.VisualStudio.ErrorListPkg.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /pt-BR/Microsoft.VisualStudio.ErrorListPkg.resources.dll
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\CommonExtensions\Microsoft\ErrorList\pt-BR\Microsoft.VisualStudio.ErrorListPkg.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /pl/Microsoft.VisualStudio.ErrorListPkg.resources.dll
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\CommonExtensions\Microsoft\ErrorList\pl\Microsoft.VisualStudio.ErrorListPkg.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /tr/Microsoft.VisualStudio.ErrorListPkg.resources.dll
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\CommonExtensions\Microsoft\ErrorList\tr\Microsoft.VisualStudio.ErrorListPkg.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /manifest.json
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\CommonExtensions\Microsoft\ErrorList\manifest.json file deleted.
+[bd94:0009][2026-05-10T01:00:50] Processing file /catalog.json
+[bd94:0009][2026-05-10T01:00:50] D:\Program\Common7\IDE\CommonExtensions\Microsoft\ErrorList\catalog.json file deleted.
+[bd94:0009][2026-05-10T01:00:50] Started: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:50] Completed: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:50] Package executed successfully. Return code: 0

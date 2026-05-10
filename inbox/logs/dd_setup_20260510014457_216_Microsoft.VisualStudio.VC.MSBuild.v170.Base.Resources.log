@@ -1,0 +1,106 @@
+[3474:0009][2026-05-10T01:46:25] Using cached package manifest as the embedded manifest
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/alink.xml
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\alink.xml file deleted.
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/AppHostDebugger_Local.xml
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\AppHostDebugger_Local.xml file deleted.
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/AppHostDebugger_Remote.xml
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\AppHostDebugger_Remote.xml file deleted.
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/bscmake.xml
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\bscmake.xml file deleted.
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/build_events.xml
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\build_events.xml file deleted.
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/cl.xml
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\cl.xml file deleted.
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/cl_nmake.xml
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\cl_nmake.xml file deleted.
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/clang.xml
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\clang.xml file deleted.
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/clangtidy.xml
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\clangtidy.xml file deleted.
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/code_analysis.xml
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\code_analysis.xml file deleted.
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/copy_file.xml
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\copy_file.xml file deleted.
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/custom_build_step.xml
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\custom_build_step.xml file deleted.
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/custom_build_tool.xml
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\custom_build_tool.xml file deleted.
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/debugger_general.xml
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\debugger_general.xml file deleted.
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/debugger_local_windows.xml
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\debugger_local_windows.xml file deleted.
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/debugger_remote_windows.xml
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\debugger_remote_windows.xml file deleted.
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/debugger_web_browser.xml
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\debugger_web_browser.xml file deleted.
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/debugger_web_service.xml
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\debugger_web_service.xml file deleted.
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/directories.xml
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\directories.xml file deleted.
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/envvars.xml
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\envvars.xml file deleted.
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/folder.xml
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\folder.xml file deleted.
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/fxc.xml
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\fxc.xml file deleted.
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/general.xml
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\general.xml file deleted.
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/general_advanced.xml
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\general_advanced.xml file deleted.
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/general_advanced_arm64x.xml
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\general_advanced_arm64x.xml file deleted.
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/general_advanced_hostarm64.xml
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\general_advanced_hostarm64.xml file deleted.
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/general_advanced_netcore.xml
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\general_advanced_netcore.xml file deleted.
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/general_appcontainerapplication.xml
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\general_appcontainerapplication.xml file deleted.
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/general_file.xml
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\general_file.xml file deleted.
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/general_makefile.xml
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\general_makefile.xml file deleted.
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/general_makefile_ps.xml
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\general_makefile_ps.xml file deleted.
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/general_ps.xml
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\general_ps.xml file deleted.
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/general_uwp_arm64x.xml
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\general_uwp_arm64x.xml file deleted.
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/isense_general.xml
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\isense_general.xml file deleted.
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/lib.xml
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\lib.xml file deleted.
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/link.xml
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\link.xml file deleted.
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/midl.xml
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\midl.xml file deleted.
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/mt.xml
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\mt.xml file deleted.
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/nmake.xml
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\nmake.xml file deleted.
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/ProjectItemsSchema.xml
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\ProjectItemsSchema.xml file deleted.
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/rc.xml
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\rc.xml file deleted.
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/resgen.xml
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\resgen.xml file deleted.
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/unity_cl_extension.xml
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\unity_cl_extension.xml file deleted.
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/usermacros.xml
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\usermacros.xml file deleted.
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/xaml.xml
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\xaml.xml file deleted.
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/xdcmake.xml
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\xdcmake.xml file deleted.
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/xp_AppHostDebugger_Local.xml
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\xp_AppHostDebugger_Local.xml file deleted.
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/Msbuild/Microsoft/VC/v170/1033/xsd.xml
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\1033\xsd.xml file deleted.
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/1033/ImageContentTask.xml
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\BuildCustomizations\1033\ImageContentTask.xml file deleted.
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/1033/MeshContentTask.xml
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\BuildCustomizations\1033\MeshContentTask.xml file deleted.
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/1033/ShaderGraphContentTask.xml
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\BuildCustomizations\1033\ShaderGraphContentTask.xml file deleted.
+[3474:0009][2026-05-10T01:46:25] Started: Deleting empty directories
+[3474:0009][2026-05-10T01:46:25] Completed: Deleting empty directories
+[3474:0009][2026-05-10T01:46:25] Package executed successfully. Return code: 0

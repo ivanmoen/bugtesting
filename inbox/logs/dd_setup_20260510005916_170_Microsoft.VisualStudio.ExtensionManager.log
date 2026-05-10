@@ -1,0 +1,90 @@
+[bd94:0009][2026-05-10T01:00:53] Using cached package manifest as the embedded manifest
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.ExtensionEngineContract.dll
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Common7\IDE\Microsoft.VisualStudio.ExtensionEngineContract.dll file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Common7/IDE/VSHiveStub.exe
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Common7\IDE\VSHiveStub.exe file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Common7/ServiceHub/Services/ExtensionManager/extensionManager.servicehub.service.json
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Common7\ServiceHub\Services\ExtensionManager\extensionManager.servicehub.service.json file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Common7/ServiceHub/Services/ExtensionManager/Microsoft.VisualStudio.Shell.Framework.dll
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Common7\ServiceHub\Services\ExtensionManager\Microsoft.VisualStudio.Shell.Framework.dll file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Common7/ServiceHub/Services/ExtensionManager/Microsoft.Internal.VisualStudio.Interop.dll
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Common7\ServiceHub\Services\ExtensionManager\Microsoft.Internal.VisualStudio.Interop.dll file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Common7/ServiceHub/Services/ExtensionManager/Microsoft.VisualStudio.Interop.dll
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Common7\ServiceHub\Services\ExtensionManager\Microsoft.VisualStudio.Interop.dll file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Common7/ServiceHub/Services/ExtensionManager/Microsoft.VisualStudio.Shell.15.0.dll
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Common7\ServiceHub\Services\ExtensionManager\Microsoft.VisualStudio.Shell.15.0.dll file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Common7/ServiceHub/Services/ExtensionManager/Microsoft.VisualStudio.Setup.Common.dll
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Common7\ServiceHub\Services\ExtensionManager\Microsoft.VisualStudio.Setup.Common.dll file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Common7/ServiceHub/Services/ExtensionManager/Microsoft.VisualStudio.Setup.Configuration.Interop.dll
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Common7\ServiceHub\Services\ExtensionManager\Microsoft.VisualStudio.Setup.Configuration.Interop.dll file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Common7/ServiceHub/Services/ExtensionManager/Microsoft.VisualStudio.Setup.dll
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Common7\ServiceHub\Services\ExtensionManager\Microsoft.VisualStudio.Setup.dll file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Common7/ServiceHub/Services/ExtensionManager/Microsoft.VisualStudio.Setup.Download.dll
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Common7\ServiceHub\Services\ExtensionManager\Microsoft.VisualStudio.Setup.Download.dll file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Common7/ServiceHub/Services/ExtensionManager/Microsoft.VisualStudio.Setup.NuGet.Packaging.dll
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Common7\ServiceHub\Services\ExtensionManager\Microsoft.VisualStudio.Setup.NuGet.Packaging.dll file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Common7/ServiceHub/Services/ExtensionManager/microsoft.visualstudio.setup.nuget.config
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Common7\ServiceHub\Services\ExtensionManager\microsoft.visualstudio.setup.nuget.config file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Common7/ServiceHub/Services/ExtensionManager/System.ServiceModel.Syndication.dll
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Common7\ServiceHub\Services\ExtensionManager\System.ServiceModel.Syndication.dll file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.ExtensionManager.Implementation.pkgdef
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.ExtensionManager.Implementation.pkgdef file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/CompatibilityList.xml
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\CompatibilityList.xml file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/ExtensionManagerWindowResources/Webviews/default.html
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\ExtensionManagerWindowResources\Webviews\default.html file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/ExtensionManagerWindowResources/Webviews/manifest.json
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\ExtensionManagerWindowResources\Webviews\manifest.json file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/ExtensionManagerWindowResources/Webviews/node_modules/dompurify/purify.js
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\ExtensionManagerWindowResources\Webviews\node_modules\dompurify\purify.js file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/ExtensionManagerWindowResources/Webviews/node_modules/dompurify/LICENSE
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\ExtensionManagerWindowResources\Webviews\node_modules\dompurify\LICENSE file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/ExtensionManagerWindowResources/Webviews/ImageMonikers/CollapseUp.Dark.svg
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\ExtensionManagerWindowResources\Webviews\ImageMonikers\CollapseUp.Dark.svg file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/ExtensionManagerWindowResources/Webviews/ImageMonikers/CollapseUp.Light.svg
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\ExtensionManagerWindowResources\Webviews\ImageMonikers\CollapseUp.Light.svg file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/ExtensionManagerWindowResources/Webviews/Scripts/index.js
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\ExtensionManagerWindowResources\Webviews\Scripts\index.js file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/ExtensionManagerWindowResources/Webviews/Styles/stylesheet.css
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\ExtensionManagerWindowResources\Webviews\Styles\stylesheet.css file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Visual Studio MPF/17.0/extension.vsixmanifest
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Common7\IDE\CommonExtensions\Platform\Visual Studio MPF\17.0\extension.vsixmanifest file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Visual Studio MPF/10.0/extension.vsixmanifest
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Common7\IDE\Extensions\Microsoft\Visual Studio MPF\10.0\extension.vsixmanifest file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Visual Studio MPF/11.0/extension.vsixmanifest
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Common7\IDE\Extensions\Microsoft\Visual Studio MPF\11.0\extension.vsixmanifest file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Visual Studio MPF/12.0/extension.vsixmanifest
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Common7\IDE\Extensions\Microsoft\Visual Studio MPF\12.0\extension.vsixmanifest file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Visual Studio MPF/14.0/extension.vsixmanifest
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Common7\IDE\Extensions\Microsoft\Visual Studio MPF\14.0\extension.vsixmanifest file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ExtensionManager.dll
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ExtensionManager.dll file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ExtensionEngine.dll
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ExtensionEngine.dll file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ExtensionEngineContract.dll
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ExtensionEngineContract.dll file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Xml/Schemas/PackageLanguagePackManifestSchema.xsd
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Xml\Schemas\PackageLanguagePackManifestSchema.xsd file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Xml/Schemas/PackageManifestSchema.Assets.xsd
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Xml\Schemas\PackageManifestSchema.Assets.xsd file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Xml/Schemas/PackageManifestSchema.Dependencies.xsd
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Xml\Schemas\PackageManifestSchema.Dependencies.xsd file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Xml/Schemas/PackageManifestSchema.DesignNamespace.xsd
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Xml\Schemas\PackageManifestSchema.DesignNamespace.xsd file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Xml/Schemas/PackageManifestSchema.Installation.xsd
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Xml\Schemas\PackageManifestSchema.Installation.xsd file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Xml/Schemas/PackageManifestSchema.Installer.xsd
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Xml\Schemas\PackageManifestSchema.Installer.xsd file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Xml/Schemas/PackageManifestSchema.Metadata.xsd
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Xml\Schemas\PackageManifestSchema.Metadata.xsd file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Xml/Schemas/PackageManifestSchema.Prerequisites.xsd
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Xml\Schemas\PackageManifestSchema.Prerequisites.xsd file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Xml/Schemas/PackageManifestSchema.xsd
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Xml\Schemas\PackageManifestSchema.xsd file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Xml/Schemas/VSIXLanguagePackSchema.xsd
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Xml\Schemas\VSIXLanguagePackSchema.xsd file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Xml/Schemas/VSIXManifestSchema.xsd
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Xml\Schemas\VSIXManifestSchema.xsd file deleted.
+[bd94:0009][2026-05-10T01:00:53] Started: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:53] Completed: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:53] Package executed successfully. Return code: 0

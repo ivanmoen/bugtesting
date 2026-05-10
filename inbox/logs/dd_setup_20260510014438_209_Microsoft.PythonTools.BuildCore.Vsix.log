@@ -1,0 +1,36 @@
+[0c48:0003][2026-05-10T01:44:49] Using cached package manifest as the embedded manifest
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Microsoft/VisualStudio/v17.0/Python Tools/Microsoft.PythonTools.BuildTasks.Core.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VisualStudio\v17.0\Python Tools\Microsoft.PythonTools.BuildTasks.Core.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Microsoft/VisualStudio/v17.0/Python Tools/Microsoft.PythonTools.Common.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VisualStudio\v17.0\Python Tools\Microsoft.PythonTools.Common.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Microsoft/VisualStudio/v17.0/Python Tools/Microsoft.PythonTools.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VisualStudio\v17.0\Python Tools\Microsoft.PythonTools.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Microsoft/VisualStudio/v17.0/Python Tools/Microsoft.PythonTools.Web.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VisualStudio\v17.0\Python Tools\Microsoft.PythonTools.Web.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Microsoft/VisualStudio/v17.0/Python Tools/Microsoft.PythonTools.Worker.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VisualStudio\v17.0\Python Tools\Microsoft.PythonTools.Worker.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Microsoft/VisualStudio/v17.0/Python Tools/Microsoft.PythonTools.Django.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VisualStudio\v17.0\Python Tools\Microsoft.PythonTools.Django.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Microsoft/VisualStudio/v17.0/Python Tools/Microsoft.PythonTools.WebRole.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VisualStudio\v17.0\Python Tools\Microsoft.PythonTools.WebRole.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Microsoft/VisualStudio/v17.0/Python Tools/wfastcgi.py
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VisualStudio\v17.0\Python Tools\wfastcgi.py file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Microsoft/VisualStudio/v18.0/Python Tools/Microsoft.PythonTools.BuildTasks.Core.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VisualStudio\v18.0\Python Tools\Microsoft.PythonTools.BuildTasks.Core.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Microsoft/VisualStudio/v18.0/Python Tools/Microsoft.PythonTools.Common.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VisualStudio\v18.0\Python Tools\Microsoft.PythonTools.Common.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Microsoft/VisualStudio/v18.0/Python Tools/Microsoft.PythonTools.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VisualStudio\v18.0\Python Tools\Microsoft.PythonTools.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Microsoft/VisualStudio/v18.0/Python Tools/Microsoft.PythonTools.Web.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VisualStudio\v18.0\Python Tools\Microsoft.PythonTools.Web.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Microsoft/VisualStudio/v18.0/Python Tools/Microsoft.PythonTools.Worker.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VisualStudio\v18.0\Python Tools\Microsoft.PythonTools.Worker.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Microsoft/VisualStudio/v18.0/Python Tools/Microsoft.PythonTools.Django.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VisualStudio\v18.0\Python Tools\Microsoft.PythonTools.Django.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Microsoft/VisualStudio/v18.0/Python Tools/Microsoft.PythonTools.WebRole.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VisualStudio\v18.0\Python Tools\Microsoft.PythonTools.WebRole.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Microsoft/VisualStudio/v18.0/Python Tools/wfastcgi.py
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VisualStudio\v18.0\Python Tools\wfastcgi.py file deleted.
+[0c48:0003][2026-05-10T01:44:49] Started: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:49] Completed: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:49] Package executed successfully. Return code: 0

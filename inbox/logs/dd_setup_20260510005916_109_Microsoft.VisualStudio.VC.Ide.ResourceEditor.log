@@ -1,0 +1,34 @@
+[bd94:0009][2026-05-10T01:00:51] Using cached package manifest as the embedded manifest
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/ResourceEditor.pkgdef
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\CommonExtensions\Microsoft\VC\ResourceEditor.pkgdef file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ResCom.Internal.dll
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ResCom.Internal.dll file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ResPkg.Internal.dll
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ResPkg.Internal.dll file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/vcpackages/bined.dll
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\vcpackages\bined.dll file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/vcpackages/resedit.dll
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\vcpackages\resedit.dll file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/vcpackages/autolayt.dll
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\vcpackages\autolayt.dll file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/vcpackages/rcxdti.dll
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\vcpackages\rcxdti.dll file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/vcpackages/mfc140u.dll
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\vcpackages\mfc140u.dll file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/VCContextItems/AddEvent.vstemplate
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\VCContextItems\AddEvent.vstemplate file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/VCContextItems/ControlVariable.vstemplate
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\VCContextItems\ControlVariable.vstemplate file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/VCContextItems/EventHandler.vstemplate
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\VCContextItems\EventHandler.vstemplate file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/VCContextItems/ControlVariable/_Font.h
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\VCContextItems\ControlVariable\_Font.h file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/VCContextItems/ControlVariable/_Picture.h
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\VCContextItems\ControlVariable\_Picture.h file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/VCContextItems/ControlVariable/ActiveXWrapper.h
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\VCContextItems\ControlVariable\ActiveXWrapper.h file deleted.
+[bd94:0009][2026-05-10T01:00:51] Processing file /Contents/Common7/IDE/VC/VCContextItems/ControlVariable/ActiveXWrapper.cpp
+[bd94:0009][2026-05-10T01:00:51] D:\Program\Common7\IDE\VC\VCContextItems\ControlVariable\ActiveXWrapper.cpp file deleted.
+[bd94:0009][2026-05-10T01:00:51] Started: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:51] Completed: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:51] Package executed successfully. Return code: 0

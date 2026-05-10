@@ -1,0 +1,24 @@
+[3474:0009][2026-05-10T01:46:20] Using cached package manifest as the embedded manifest
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/MSBuild/Microsoft/VisualStudio/v17.0/TextTemplating/Microsoft.TextTemplating.Build.Tasks.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VisualStudio\v17.0\TextTemplating\Microsoft.TextTemplating.Build.Tasks.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/MSBuild/Microsoft/VisualStudio/v17.0/TextTemplating/Microsoft.TextTemplating.targets
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VisualStudio\v17.0\TextTemplating\Microsoft.TextTemplating.targets file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/MSBuild/Microsoft/VisualStudio/v17.0/TextTemplating/Microsoft.VisualStudio.TextTemplating.Sdk.Host.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VisualStudio\v17.0\TextTemplating\Microsoft.VisualStudio.TextTemplating.Sdk.Host.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/MSBuild/Microsoft/VisualStudio/v17.0/TextTemplating/Microsoft.VisualStudio.TextTemplating.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VisualStudio\v17.0\TextTemplating\Microsoft.VisualStudio.TextTemplating.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/MSBuild/Microsoft/VisualStudio/v17.0/TextTemplating/Microsoft.VisualStudio.TextTemplating.Interfaces.10.0.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VisualStudio\v17.0\TextTemplating\Microsoft.VisualStudio.TextTemplating.Interfaces.10.0.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/MSBuild/Microsoft/VisualStudio/v17.0/TextTemplating/Microsoft.VisualStudio.TextTemplating.Interfaces.11.0.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VisualStudio\v17.0\TextTemplating\Microsoft.VisualStudio.TextTemplating.Interfaces.11.0.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/MSBuild/Microsoft/VisualStudio/v17.0/TextTemplating/Microsoft.VisualStudio.Telemetry.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VisualStudio\v17.0\TextTemplating\Microsoft.VisualStudio.Telemetry.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/MSBuild/Microsoft/VisualStudio/v17.0/TextTemplating/Microsoft.VisualStudio.RemoteControl.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VisualStudio\v17.0\TextTemplating\Microsoft.VisualStudio.RemoteControl.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/MSBuild/Microsoft/VisualStudio/v17.0/TextTemplating/Microsoft.VisualStudio.Utilities.Internal.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VisualStudio\v17.0\TextTemplating\Microsoft.VisualStudio.Utilities.Internal.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/MSBuild/Microsoft/VisualStudio/v17.0/TextTemplating/Newtonsoft.Json.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VisualStudio\v17.0\TextTemplating\Newtonsoft.Json.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Started: Deleting empty directories
+[3474:0009][2026-05-10T01:46:20] Completed: Deleting empty directories
+[3474:0009][2026-05-10T01:46:20] Package executed successfully. Return code: 0

@@ -1,0 +1,10 @@
+[bd94:0009][2026-05-10T01:00:40] Using cached package manifest as the embedded manifest
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Bin/1033/msvbprjUI.dll
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Bin\1033\msvbprjUI.dll file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/Common7/IDE/1033/vb7to8ui.dll
+[bd94:0009][2026-05-10T01:00:40] D:\Program\Common7\IDE\1033\vb7to8ui.dll file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/Common7/IDE/1033/vbdebugui.dll
+[bd94:0009][2026-05-10T01:00:40] D:\Program\Common7\IDE\1033\vbdebugui.dll file deleted.
+[bd94:0009][2026-05-10T01:00:40] Started: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:40] Completed: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:40] Package executed successfully. Return code: 0

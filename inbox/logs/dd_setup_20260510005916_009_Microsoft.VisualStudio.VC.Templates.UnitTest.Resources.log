@@ -1,0 +1,14 @@
+[bd94:0009][2026-05-10T01:00:39] Using cached package manifest as the embedded manifest
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/ItemTemplates/VisualC/1033/SimpleUnitTest/UnitTest.cpp
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\ItemTemplates\VisualC\1033\SimpleUnitTest\UnitTest.cpp file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/ItemTemplates/VisualC/1033/SimpleUnitTest/SimpleUnitTest.vstemplate
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\ItemTemplates\VisualC\1033\SimpleUnitTest\SimpleUnitTest.vstemplate file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/VC/VCWizards/CodeWiz/Generic/UnitTest/scripts/1033/default.js
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\VC\VCWizards\CodeWiz\Generic\UnitTest\scripts\1033\default.js file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/VC/VCWizards/CodeWiz/Generic/UnitTest/templates/1033/unittest.cpp
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\VC\VCWizards\CodeWiz\Generic\UnitTest\templates\1033\unittest.cpp file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /contents/Common7/IDE/ItemTemplates/Microsoft.VisualStudio.VC.Templates.UnitTest.Resources.en-US.Item..vstman
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\ItemTemplates\Microsoft.VisualStudio.VC.Templates.UnitTest.Resources.en-US.Item..vstman file deleted.
+[bd94:0009][2026-05-10T01:00:39] Started: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:39] Completed: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:39] Package executed successfully. Return code: 0

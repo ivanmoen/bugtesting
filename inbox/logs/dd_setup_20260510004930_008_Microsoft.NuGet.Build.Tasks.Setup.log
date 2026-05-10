@@ -1,0 +1,32 @@
+[da4c:0007][2026-05-10T00:49:35] Opening the package for processing
+[da4c:0007][2026-05-10T00:49:35] Using package payload to get the embedded manifest
+[da4c:0007][2026-05-10T00:49:35] Getting list of files within the package
+[da4c:0007][2026-05-10T00:49:35] Processing file /Contents/MSBuild/Current/Imports/Microsoft.Common.Props/ImportBefore/Microsoft.NuGet.ImportBefore.props
+[da4c:0007][2026-05-10T00:49:35] Started: Copying file /Contents/MSBuild/Current/Imports/Microsoft.Common.Props/ImportBefore/Microsoft.NuGet.ImportBefore.props to D:\Program\MSBuild\Current\Imports\Microsoft.Common.Props\ImportBefore\Microsoft.NuGet.ImportBefore.props
+[da4c:0007][2026-05-10T00:49:35] Completed: Copying file /Contents/MSBuild/Current/Imports/Microsoft.Common.Props/ImportBefore/Microsoft.NuGet.ImportBefore.props to D:\Program\MSBuild\Current\Imports\Microsoft.Common.Props\ImportBefore\Microsoft.NuGet.ImportBefore.props
+[da4c:0007][2026-05-10T00:49:35] Timestamp updated for file 'D:\Program\MSBuild\Current\Imports\Microsoft.Common.Props\ImportBefore\Microsoft.NuGet.ImportBefore.props'.
+[da4c:0007][2026-05-10T00:49:35] Processing file /Contents/MSBuild/Current/Microsoft.Common.Targets/ImportAfter/Microsoft.NuGet.ImportAfter.targets
+[da4c:0007][2026-05-10T00:49:35] Started: Copying file /Contents/MSBuild/Current/Microsoft.Common.Targets/ImportAfter/Microsoft.NuGet.ImportAfter.targets to D:\Program\MSBuild\Current\Microsoft.Common.Targets\ImportAfter\Microsoft.NuGet.ImportAfter.targets
+[da4c:0007][2026-05-10T00:49:35] Completed: Copying file /Contents/MSBuild/Current/Microsoft.Common.Targets/ImportAfter/Microsoft.NuGet.ImportAfter.targets to D:\Program\MSBuild\Current\Microsoft.Common.Targets\ImportAfter\Microsoft.NuGet.ImportAfter.targets
+[da4c:0007][2026-05-10T00:49:35] Timestamp updated for file 'D:\Program\MSBuild\Current\Microsoft.Common.Targets\ImportAfter\Microsoft.NuGet.ImportAfter.targets'.
+[da4c:0007][2026-05-10T00:49:35] Processing file /Contents/MSBuild/Current/SolutionFile/ImportAfter/Microsoft.NuGet.Solution.ImportAfter.targets
+[da4c:0007][2026-05-10T00:49:35] Started: Copying file /Contents/MSBuild/Current/SolutionFile/ImportAfter/Microsoft.NuGet.Solution.ImportAfter.targets to D:\Program\MSBuild\Current\SolutionFile\ImportAfter\Microsoft.NuGet.Solution.ImportAfter.targets
+[da4c:0007][2026-05-10T00:49:35] Completed: Copying file /Contents/MSBuild/Current/SolutionFile/ImportAfter/Microsoft.NuGet.Solution.ImportAfter.targets to D:\Program\MSBuild\Current\SolutionFile\ImportAfter\Microsoft.NuGet.Solution.ImportAfter.targets
+[da4c:0007][2026-05-10T00:49:35] Timestamp updated for file 'D:\Program\MSBuild\Current\SolutionFile\ImportAfter\Microsoft.NuGet.Solution.ImportAfter.targets'.
+[da4c:0007][2026-05-10T00:49:35] Processing file /Contents/MSBuild/Microsoft/NuGet/17.0/Microsoft.NuGet.Build.Tasks.dll
+[da4c:0007][2026-05-10T00:49:35] Started: Copying file /Contents/MSBuild/Microsoft/NuGet/17.0/Microsoft.NuGet.Build.Tasks.dll to D:\Program\MSBuild\Microsoft\NuGet\17.0\Microsoft.NuGet.Build.Tasks.dll
+[da4c:0007][2026-05-10T00:49:35] Completed: Copying file /Contents/MSBuild/Microsoft/NuGet/17.0/Microsoft.NuGet.Build.Tasks.dll to D:\Program\MSBuild\Microsoft\NuGet\17.0\Microsoft.NuGet.Build.Tasks.dll
+[da4c:0007][2026-05-10T00:49:35] Timestamp updated for file 'D:\Program\MSBuild\Microsoft\NuGet\17.0\Microsoft.NuGet.Build.Tasks.dll'.
+[da4c:0007][2026-05-10T00:49:35] Processing file /Contents/MSBuild/Microsoft/NuGet/17.0/Microsoft.NuGet.props
+[da4c:0007][2026-05-10T00:49:35] Started: Copying file /Contents/MSBuild/Microsoft/NuGet/17.0/Microsoft.NuGet.props to D:\Program\MSBuild\Microsoft\NuGet\17.0\Microsoft.NuGet.props
+[da4c:0007][2026-05-10T00:49:35] Completed: Copying file /Contents/MSBuild/Microsoft/NuGet/17.0/Microsoft.NuGet.props to D:\Program\MSBuild\Microsoft\NuGet\17.0\Microsoft.NuGet.props
+[da4c:0007][2026-05-10T00:49:35] Timestamp updated for file 'D:\Program\MSBuild\Microsoft\NuGet\17.0\Microsoft.NuGet.props'.
+[da4c:0007][2026-05-10T00:49:35] Processing file /Contents/MSBuild/Microsoft/NuGet/17.0/Microsoft.NuGet.targets
+[da4c:0007][2026-05-10T00:49:35] Started: Copying file /Contents/MSBuild/Microsoft/NuGet/17.0/Microsoft.NuGet.targets to D:\Program\MSBuild\Microsoft\NuGet\17.0\Microsoft.NuGet.targets
+[da4c:0007][2026-05-10T00:49:35] Completed: Copying file /Contents/MSBuild/Microsoft/NuGet/17.0/Microsoft.NuGet.targets to D:\Program\MSBuild\Microsoft\NuGet\17.0\Microsoft.NuGet.targets
+[da4c:0007][2026-05-10T00:49:35] Timestamp updated for file 'D:\Program\MSBuild\Microsoft\NuGet\17.0\Microsoft.NuGet.targets'.
+[da4c:0007][2026-05-10T00:49:35] Processing file /Contents/MSBuild/Microsoft/NuGet/17.0/Newtonsoft.Json.dll
+[da4c:0007][2026-05-10T00:49:35] Started: Copying file /Contents/MSBuild/Microsoft/NuGet/17.0/Newtonsoft.Json.dll to D:\Program\MSBuild\Microsoft\NuGet\17.0\Newtonsoft.Json.dll
+[da4c:0007][2026-05-10T00:49:35] Completed: Copying file /Contents/MSBuild/Microsoft/NuGet/17.0/Newtonsoft.Json.dll to D:\Program\MSBuild\Microsoft\NuGet\17.0\Newtonsoft.Json.dll
+[da4c:0007][2026-05-10T00:49:35] Timestamp updated for file 'D:\Program\MSBuild\Microsoft\NuGet\17.0\Newtonsoft.Json.dll'.
+[da4c:0007][2026-05-10T00:49:35] Package executed successfully. Return code: 0

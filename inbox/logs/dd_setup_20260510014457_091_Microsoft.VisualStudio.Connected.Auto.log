@@ -1,0 +1,10 @@
+[3474:0009][2026-05-10T01:46:12] Using cached package manifest as the embedded manifest
+[3474:0009][2026-05-10T01:46:12] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.Shell.Connected.Packages.Subscriptions.imagemanifest
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.Shell.Connected.Packages.Subscriptions.imagemanifest file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Shell.Connected.dll
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Shell.Connected.dll file deleted.
+[3474:0009][2026-05-10T01:46:12] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Connected/Microsoft.VisualStudio.Shell.Connected.pkgdef
+[3474:0009][2026-05-10T01:46:12] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Connected\Microsoft.VisualStudio.Shell.Connected.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:12] Started: Deleting empty directories
+[3474:0009][2026-05-10T01:46:12] Completed: Deleting empty directories
+[3474:0009][2026-05-10T01:46:12] Package executed successfully. Return code: 0

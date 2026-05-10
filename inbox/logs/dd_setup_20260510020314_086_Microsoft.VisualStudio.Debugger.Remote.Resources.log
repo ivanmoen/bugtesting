@@ -1,0 +1,20 @@
+[18d4:0007][2026-05-10T02:03:35] Opening the package for processing
+[18d4:0007][2026-05-10T02:03:35] Using package payload to get the embedded manifest
+[18d4:0007][2026-05-10T02:03:35] Getting list of files within the package
+[18d4:0007][2026-05-10T02:03:35] Processing file /Contents/Common7/IDE/Remote%20Debugger/Appx/1033/AppxDebug.dll-Help.xml
+[18d4:0007][2026-05-10T02:03:35] Started: Copying file /Contents/Common7/IDE/Remote%20Debugger/Appx/1033/AppxDebug.dll-Help.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\Appx\1033\AppxDebug.dll-Help.xml
+[18d4:0007][2026-05-10T02:03:35] Completed: Copying file /Contents/Common7/IDE/Remote%20Debugger/Appx/1033/AppxDebug.dll-Help.xml to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\Appx\1033\AppxDebug.dll-Help.xml
+[18d4:0007][2026-05-10T02:03:35] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\Appx\1033\AppxDebug.dll-Help.xml'.
+[18d4:0007][2026-05-10T02:03:35] Processing file /Contents/Common7/IDE/Remote%20Debugger/x86/1033/msdbgui.dll
+[18d4:0007][2026-05-10T02:03:35] Started: Copying file /Contents/Common7/IDE/Remote%20Debugger/x86/1033/msdbgui.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x86\1033\msdbgui.dll
+[18d4:0007][2026-05-10T02:03:35] Completed: Copying file /Contents/Common7/IDE/Remote%20Debugger/x86/1033/msdbgui.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x86\1033\msdbgui.dll
+[18d4:0007][2026-05-10T02:03:35] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x86\1033\msdbgui.dll'.
+[18d4:0007][2026-05-10T02:03:35] Processing file /Contents/Common7/IDE/Remote%20Debugger/x86/1033/msvsmon.html
+[18d4:0007][2026-05-10T02:03:35] Started: Copying file /Contents/Common7/IDE/Remote%20Debugger/x86/1033/msvsmon.html to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x86\1033\msvsmon.html
+[18d4:0007][2026-05-10T02:03:35] Completed: Copying file /Contents/Common7/IDE/Remote%20Debugger/x86/1033/msvsmon.html to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x86\1033\msvsmon.html
+[18d4:0007][2026-05-10T02:03:35] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x86\1033\msvsmon.html'.
+[18d4:0007][2026-05-10T02:03:35] Processing file /Contents/Common7/IDE/Remote%20Debugger/x86/1033/symbollocator.resources.dll
+[18d4:0007][2026-05-10T02:03:35] Started: Copying file /Contents/Common7/IDE/Remote%20Debugger/x86/1033/symbollocator.resources.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x86\1033\symbollocator.resources.dll
+[18d4:0007][2026-05-10T02:03:35] Completed: Copying file /Contents/Common7/IDE/Remote%20Debugger/x86/1033/symbollocator.resources.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x86\1033\symbollocator.resources.dll
+[18d4:0007][2026-05-10T02:03:35] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x86\1033\symbollocator.resources.dll'.
+[18d4:0007][2026-05-10T02:03:35] Package executed successfully. Return code: 0

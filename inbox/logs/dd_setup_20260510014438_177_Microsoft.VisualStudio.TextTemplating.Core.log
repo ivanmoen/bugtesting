@@ -1,0 +1,46 @@
+[0c48:0003][2026-05-10T01:44:48] Using cached package manifest as the embedded manifest
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/TextTemplate.ico
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTemplate.ico file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/TextTransform.exe
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransform.exe file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/TextTransform.exe.config
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransform.exe.config file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/TextTransformCore.exe
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransformCore.exe file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/TextTransformCore.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransformCore.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/TextTransformCore.runtimeconfig.json
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransformCore.runtimeconfig.json file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/TextTransformCore.deps.json
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransformCore.deps.json file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/TextTransformCoreResolver.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransformCoreResolver.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextTemplating.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextTemplating.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextTemplating.Interfaces.10.0.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextTemplating.Interfaces.10.0.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextTemplating.Interfaces.11.0.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextTemplating.Interfaces.11.0.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextTemplating.Core.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextTemplating.Core.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.TextTemplating.Interfaces.Core.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.TextTemplating.Interfaces.Core.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/TextTransform/Microsoft.Win32.SystemEvents.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransform\Microsoft.Win32.SystemEvents.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/TextTransform/System.CodeDom.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransform\System.CodeDom.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/TextTransform/System.CommandLine.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransform\System.CommandLine.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/TextTransform/System.Configuration.ConfigurationManager.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransform\System.Configuration.ConfigurationManager.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/TextTransform/System.Management.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransform\System.Management.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/TextTransform/System.Security.Cryptography.ProtectedData.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransform\System.Security.Cryptography.ProtectedData.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/TextTransform/System.Security.Permissions.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransform\System.Security.Permissions.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/TextTransform/System.Windows.Extensions.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\TextTransform\System.Windows.Extensions.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Started: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:48] Completed: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:48] Package executed successfully. Return code: 0

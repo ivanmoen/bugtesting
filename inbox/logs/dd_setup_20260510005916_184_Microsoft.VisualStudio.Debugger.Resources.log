@@ -1,0 +1,23 @@
+[bd94:0009][2026-05-10T01:00:53] Using cached package manifest as the embedded manifest
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/ScriptResources.en.resx
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\ScriptResources.en.resx file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/WebViews/DiagnosticAnalysisResource.en.resx
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\WebViews\DiagnosticAnalysisResource.en.resx file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Common7/Packages/Debugger/1033/vsdebugui.dll
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Common7\Packages\Debugger\1033\vsdebugui.dll file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Common7/Packages/Debugger/1033/symbollocator.resources.dll
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Common7\Packages\Debugger\1033\symbollocator.resources.dll file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Common7/Packages/Debugger/1033/msdbgui.dll
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Common7\Packages\Debugger\1033\msdbgui.dll file deleted.
+[bd94:0009][2026-05-10T01:00:53] Started: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:53] Completed: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:53] Uninstalling ProgId: VisualStudio.dmp.[InstanceId]
+[bd94:0009][2026-05-10T01:00:53] Uninstalling ProgId: VisualStudio.hdmp.[InstanceId]
+[bd94:0009][2026-05-10T01:00:53] Uninstalling ProgId: VisualStudio.mdmp.[InstanceId]
+[bd94:0009][2026-05-10T01:00:53] Uninstalling file association: .dmp
+[bd94:0009][2026-05-10T01:00:53] RegistrationPath: Software\Microsoft\VisualStudio_efe54760\Capabilities\FileAssociations
+[bd94:0009][2026-05-10T01:00:53] Uninstalling file association: .hdmp
+[bd94:0009][2026-05-10T01:00:53] RegistrationPath: Software\Microsoft\VisualStudio_efe54760\Capabilities\FileAssociations
+[bd94:0009][2026-05-10T01:00:53] Uninstalling file association: .mdmp
+[bd94:0009][2026-05-10T01:00:53] RegistrationPath: Software\Microsoft\VisualStudio_efe54760\Capabilities\FileAssociations
+[bd94:0009][2026-05-10T01:00:53] Package executed successfully. Return code: 0

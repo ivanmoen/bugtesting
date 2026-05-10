@@ -1,0 +1,83 @@
+[da4c:0007][2026-05-10T00:49:54] Opening the package for processing
+[da4c:0007][2026-05-10T00:49:54] Using package payload to get the embedded manifest
+[da4c:0007][2026-05-10T00:49:54] Getting list of files within the package
+[da4c:0007][2026-05-10T00:49:54] Processing file /catalog.json
+[da4c:0007][2026-05-10T00:49:54] Started: Copying file /catalog.json to D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\catalog.json
+[da4c:0007][2026-05-10T00:49:54] Completed: Copying file /catalog.json to D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\catalog.json
+[da4c:0007][2026-05-10T00:49:54] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\catalog.json'.
+[da4c:0007][2026-05-10T00:49:54] Processing file /cs/Microsoft.VisualStudio.Debugger.Shared.resources.dll
+[da4c:0007][2026-05-10T00:49:54] Started: Copying file /cs/Microsoft.VisualStudio.Debugger.Shared.resources.dll to D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\cs\Microsoft.VisualStudio.Debugger.Shared.resources.dll
+[da4c:0007][2026-05-10T00:49:54] Completed: Copying file /cs/Microsoft.VisualStudio.Debugger.Shared.resources.dll to D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\cs\Microsoft.VisualStudio.Debugger.Shared.resources.dll
+[da4c:0007][2026-05-10T00:49:54] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\cs\Microsoft.VisualStudio.Debugger.Shared.resources.dll'.
+[da4c:0007][2026-05-10T00:49:54] Processing file /de/Microsoft.VisualStudio.Debugger.Shared.resources.dll
+[da4c:0007][2026-05-10T00:49:54] Started: Copying file /de/Microsoft.VisualStudio.Debugger.Shared.resources.dll to D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\de\Microsoft.VisualStudio.Debugger.Shared.resources.dll
+[da4c:0007][2026-05-10T00:49:54] Completed: Copying file /de/Microsoft.VisualStudio.Debugger.Shared.resources.dll to D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\de\Microsoft.VisualStudio.Debugger.Shared.resources.dll
+[da4c:0007][2026-05-10T00:49:54] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\de\Microsoft.VisualStudio.Debugger.Shared.resources.dll'.
+[da4c:0007][2026-05-10T00:49:54] Processing file /es/Microsoft.VisualStudio.Debugger.Shared.resources.dll
+[da4c:0007][2026-05-10T00:49:54] Started: Copying file /es/Microsoft.VisualStudio.Debugger.Shared.resources.dll to D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\es\Microsoft.VisualStudio.Debugger.Shared.resources.dll
+[da4c:0007][2026-05-10T00:49:54] Completed: Copying file /es/Microsoft.VisualStudio.Debugger.Shared.resources.dll to D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\es\Microsoft.VisualStudio.Debugger.Shared.resources.dll
+[da4c:0007][2026-05-10T00:49:54] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\es\Microsoft.VisualStudio.Debugger.Shared.resources.dll'.
+[da4c:0007][2026-05-10T00:49:54] Processing file /fr/Microsoft.VisualStudio.Debugger.Shared.resources.dll
+[da4c:0007][2026-05-10T00:49:54] Started: Copying file /fr/Microsoft.VisualStudio.Debugger.Shared.resources.dll to D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\fr\Microsoft.VisualStudio.Debugger.Shared.resources.dll
+[da4c:0007][2026-05-10T00:49:54] Completed: Copying file /fr/Microsoft.VisualStudio.Debugger.Shared.resources.dll to D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\fr\Microsoft.VisualStudio.Debugger.Shared.resources.dll
+[da4c:0007][2026-05-10T00:49:54] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\fr\Microsoft.VisualStudio.Debugger.Shared.resources.dll'.
+[da4c:0007][2026-05-10T00:49:54] Processing file /it/Microsoft.VisualStudio.Debugger.Shared.resources.dll
+[da4c:0007][2026-05-10T00:49:54] Started: Copying file /it/Microsoft.VisualStudio.Debugger.Shared.resources.dll to D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\it\Microsoft.VisualStudio.Debugger.Shared.resources.dll
+[da4c:0007][2026-05-10T00:49:54] Completed: Copying file /it/Microsoft.VisualStudio.Debugger.Shared.resources.dll to D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\it\Microsoft.VisualStudio.Debugger.Shared.resources.dll
+[da4c:0007][2026-05-10T00:49:54] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\it\Microsoft.VisualStudio.Debugger.Shared.resources.dll'.
+[da4c:0007][2026-05-10T00:49:54] Processing file /ja/Microsoft.VisualStudio.Debugger.Shared.resources.dll
+[da4c:0007][2026-05-10T00:49:54] Started: Copying file /ja/Microsoft.VisualStudio.Debugger.Shared.resources.dll to D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\ja\Microsoft.VisualStudio.Debugger.Shared.resources.dll
+[da4c:0007][2026-05-10T00:49:54] Completed: Copying file /ja/Microsoft.VisualStudio.Debugger.Shared.resources.dll to D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\ja\Microsoft.VisualStudio.Debugger.Shared.resources.dll
+[da4c:0007][2026-05-10T00:49:54] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\ja\Microsoft.VisualStudio.Debugger.Shared.resources.dll'.
+[da4c:0007][2026-05-10T00:49:54] Processing file /ko/Microsoft.VisualStudio.Debugger.Shared.resources.dll
+[da4c:0007][2026-05-10T00:49:54] Started: Copying file /ko/Microsoft.VisualStudio.Debugger.Shared.resources.dll to D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\ko\Microsoft.VisualStudio.Debugger.Shared.resources.dll
+[da4c:0007][2026-05-10T00:49:54] Completed: Copying file /ko/Microsoft.VisualStudio.Debugger.Shared.resources.dll to D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\ko\Microsoft.VisualStudio.Debugger.Shared.resources.dll
+[da4c:0007][2026-05-10T00:49:54] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\ko\Microsoft.VisualStudio.Debugger.Shared.resources.dll'.
+[da4c:0007][2026-05-10T00:49:54] Processing file /manifest.json
+[da4c:0007][2026-05-10T00:49:54] Started: Copying file /manifest.json to D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\manifest.json
+[da4c:0007][2026-05-10T00:49:54] Completed: Copying file /manifest.json to D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\manifest.json
+[da4c:0007][2026-05-10T00:49:54] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\manifest.json'.
+[da4c:0007][2026-05-10T00:49:54] Processing file /Microsoft.VisualStudio.Debugger.BrokeredServices.dll
+[da4c:0007][2026-05-10T00:49:54] Started: Copying file /Microsoft.VisualStudio.Debugger.BrokeredServices.dll to D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\Microsoft.VisualStudio.Debugger.BrokeredServices.dll
+[da4c:0007][2026-05-10T00:49:54] Completed: Copying file /Microsoft.VisualStudio.Debugger.BrokeredServices.dll to D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\Microsoft.VisualStudio.Debugger.BrokeredServices.dll
+[da4c:0007][2026-05-10T00:49:54] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\Microsoft.VisualStudio.Debugger.BrokeredServices.dll'.
+[da4c:0007][2026-05-10T00:49:54] Processing file /Microsoft.VisualStudio.Debugger.BrokeredServices.pkgdef
+[da4c:0007][2026-05-10T00:49:54] Started: Copying file /Microsoft.VisualStudio.Debugger.BrokeredServices.pkgdef to D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\Microsoft.VisualStudio.Debugger.BrokeredServices.pkgdef
+[da4c:0007][2026-05-10T00:49:54] Completed: Copying file /Microsoft.VisualStudio.Debugger.BrokeredServices.pkgdef to D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\Microsoft.VisualStudio.Debugger.BrokeredServices.pkgdef
+[da4c:0007][2026-05-10T00:49:54] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\Microsoft.VisualStudio.Debugger.BrokeredServices.pkgdef'.
+[da4c:0007][2026-05-10T00:49:54] Processing file /Microsoft.VisualStudio.Debugger.Shared.dll
+[da4c:0007][2026-05-10T00:49:54] Started: Copying file /Microsoft.VisualStudio.Debugger.Shared.dll to D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\Microsoft.VisualStudio.Debugger.Shared.dll
+[da4c:0007][2026-05-10T00:49:54] Completed: Copying file /Microsoft.VisualStudio.Debugger.Shared.dll to D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\Microsoft.VisualStudio.Debugger.Shared.dll
+[da4c:0007][2026-05-10T00:49:54] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\Microsoft.VisualStudio.Debugger.Shared.dll'.
+[da4c:0007][2026-05-10T00:49:54] Queueing D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\Microsoft.VisualStudio.Debugger.Shared.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:54] Queueing D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\Microsoft.VisualStudio.Debugger.Shared.dll for X64 ngen
+[da4c:0007][2026-05-10T00:49:54] Successfully queued file '/Microsoft.VisualStudio.Debugger.Shared.dll' for ngen
+[da4c:0007][2026-05-10T00:49:54] Processing file /pl/Microsoft.VisualStudio.Debugger.Shared.resources.dll
+[da4c:0007][2026-05-10T00:49:54] Started: Copying file /pl/Microsoft.VisualStudio.Debugger.Shared.resources.dll to D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\pl\Microsoft.VisualStudio.Debugger.Shared.resources.dll
+[da4c:0007][2026-05-10T00:49:54] Completed: Copying file /pl/Microsoft.VisualStudio.Debugger.Shared.resources.dll to D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\pl\Microsoft.VisualStudio.Debugger.Shared.resources.dll
+[da4c:0007][2026-05-10T00:49:54] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\pl\Microsoft.VisualStudio.Debugger.Shared.resources.dll'.
+[da4c:0007][2026-05-10T00:49:54] Processing file /pt-BR/Microsoft.VisualStudio.Debugger.Shared.resources.dll
+[da4c:0007][2026-05-10T00:49:54] Started: Copying file /pt-BR/Microsoft.VisualStudio.Debugger.Shared.resources.dll to D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\pt-BR\Microsoft.VisualStudio.Debugger.Shared.resources.dll
+[da4c:0007][2026-05-10T00:49:54] Completed: Copying file /pt-BR/Microsoft.VisualStudio.Debugger.Shared.resources.dll to D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\pt-BR\Microsoft.VisualStudio.Debugger.Shared.resources.dll
+[da4c:0007][2026-05-10T00:49:54] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\pt-BR\Microsoft.VisualStudio.Debugger.Shared.resources.dll'.
+[da4c:0007][2026-05-10T00:49:54] Processing file /ru/Microsoft.VisualStudio.Debugger.Shared.resources.dll
+[da4c:0007][2026-05-10T00:49:54] Started: Copying file /ru/Microsoft.VisualStudio.Debugger.Shared.resources.dll to D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\ru\Microsoft.VisualStudio.Debugger.Shared.resources.dll
+[da4c:0007][2026-05-10T00:49:54] Completed: Copying file /ru/Microsoft.VisualStudio.Debugger.Shared.resources.dll to D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\ru\Microsoft.VisualStudio.Debugger.Shared.resources.dll
+[da4c:0007][2026-05-10T00:49:54] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\ru\Microsoft.VisualStudio.Debugger.Shared.resources.dll'.
+[da4c:0007][2026-05-10T00:49:54] Processing file /tr/Microsoft.VisualStudio.Debugger.Shared.resources.dll
+[da4c:0007][2026-05-10T00:49:54] Started: Copying file /tr/Microsoft.VisualStudio.Debugger.Shared.resources.dll to D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\tr\Microsoft.VisualStudio.Debugger.Shared.resources.dll
+[da4c:0007][2026-05-10T00:49:54] Completed: Copying file /tr/Microsoft.VisualStudio.Debugger.Shared.resources.dll to D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\tr\Microsoft.VisualStudio.Debugger.Shared.resources.dll
+[da4c:0007][2026-05-10T00:49:54] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\tr\Microsoft.VisualStudio.Debugger.Shared.resources.dll'.
+[da4c:0007][2026-05-10T00:49:54] Processing file /zh-Hans/Microsoft.VisualStudio.Debugger.Shared.resources.dll
+[da4c:0007][2026-05-10T00:49:54] Started: Copying file /zh-Hans/Microsoft.VisualStudio.Debugger.Shared.resources.dll to D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\zh-Hans\Microsoft.VisualStudio.Debugger.Shared.resources.dll
+[da4c:0007][2026-05-10T00:49:54] Completed: Copying file /zh-Hans/Microsoft.VisualStudio.Debugger.Shared.resources.dll to D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\zh-Hans\Microsoft.VisualStudio.Debugger.Shared.resources.dll
+[da4c:0007][2026-05-10T00:49:54] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\zh-Hans\Microsoft.VisualStudio.Debugger.Shared.resources.dll'.
+[da4c:0007][2026-05-10T00:49:54] Processing file /zh-Hant/Microsoft.VisualStudio.Debugger.Shared.resources.dll
+[da4c:0007][2026-05-10T00:49:54] Started: Copying file /zh-Hant/Microsoft.VisualStudio.Debugger.Shared.resources.dll to D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\zh-Hant\Microsoft.VisualStudio.Debugger.Shared.resources.dll
+[da4c:0007][2026-05-10T00:49:54] Completed: Copying file /zh-Hant/Microsoft.VisualStudio.Debugger.Shared.resources.dll to D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\zh-Hant\Microsoft.VisualStudio.Debugger.Shared.resources.dll
+[da4c:0007][2026-05-10T00:49:54] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\zh-Hant\Microsoft.VisualStudio.Debugger.Shared.resources.dll'.
+[da4c:0007][2026-05-10T00:49:54] Processing file /extension.vsixmanifest
+[da4c:0007][2026-05-10T00:49:54] Started: Copying file /extension.vsixmanifest to D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\extension.vsixmanifest
+[da4c:0007][2026-05-10T00:49:54] Completed: Copying file /extension.vsixmanifest to D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\extension.vsixmanifest
+[da4c:0007][2026-05-10T00:49:54] Timestamp updated for file 'D:\Program\Common7\IDE\Extensions\Microsoft\DebuggerServices\extension.vsixmanifest'.
+[da4c:0007][2026-05-10T00:49:54] Package executed successfully. Return code: 0

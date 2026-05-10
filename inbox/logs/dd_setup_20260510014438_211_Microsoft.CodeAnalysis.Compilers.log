@@ -1,0 +1,228 @@
+[0c48:0003][2026-05-10T01:44:49] Using cached package manifest as the embedded manifest
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/Microsoft.CodeAnalysis.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\Microsoft.CodeAnalysis.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/Microsoft.CodeAnalysis.CSharp.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\Microsoft.CodeAnalysis.CSharp.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/Microsoft.CodeAnalysis.Scripting.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\Microsoft.CodeAnalysis.Scripting.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\Microsoft.CodeAnalysis.VisualBasic.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\Microsoft.DiaSymReader.Native.amd64.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/Microsoft.DiaSymReader.Native.arm64.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\Microsoft.DiaSymReader.Native.arm64.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/Microsoft.DiaSymReader.Native.x86.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\Microsoft.DiaSymReader.Native.x86.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/csc.exe
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\csc.exe file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/csc.exe.config
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\csc.exe.config file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/csc.rsp
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\csc.rsp file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/csi.exe
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\csi.exe file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/csi.exe.config
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\csi.exe.config file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/csi.rsp
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\csi.rsp file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/vbc.exe
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\vbc.exe file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/vbc.exe.config
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\vbc.exe.config file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/vbc.rsp
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\vbc.rsp file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/VBCSCompiler.exe
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\VBCSCompiler.exe file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/VBCSCompiler.exe.config
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\VBCSCompiler.exe.config file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/Microsoft.Managed.Core.CurrentVersions.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\Microsoft.Managed.Core.CurrentVersions.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/Microsoft.Managed.Core.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\Microsoft.Managed.Core.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/Microsoft.CSharp.Core.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\Microsoft.CSharp.Core.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/Microsoft.VisualBasic.Core.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\Microsoft.VisualBasic.Core.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/System.Buffers.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\System.Buffers.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/System.Collections.Immutable.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\System.Collections.Immutable.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/System.Memory.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\System.Memory.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/System.Reflection.Metadata.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\System.Reflection.Metadata.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/System.Runtime.CompilerServices.Unsafe.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\System.Runtime.CompilerServices.Unsafe.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/System.Text.Encoding.CodePages.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\System.Text.Encoding.CodePages.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/System.Threading.Tasks.Extensions.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\System.Threading.Tasks.Extensions.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/System.Numerics.Vectors.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\System.Numerics.Vectors.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Common7/Tools/vsdevcmd/ext/roslyn.bat
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\vsdevcmd\ext\roslyn.bat file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/cs/Microsoft.CodeAnalysis.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\cs\Microsoft.CodeAnalysis.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\cs\Microsoft.CodeAnalysis.CSharp.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\cs\Microsoft.CodeAnalysis.Scripting.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/cs/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/cs/Microsoft.Build.Tasks.CodeAnalysis.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\cs\Microsoft.Build.Tasks.CodeAnalysis.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/de/Microsoft.CodeAnalysis.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\de\Microsoft.CodeAnalysis.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\de\Microsoft.CodeAnalysis.CSharp.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\de\Microsoft.CodeAnalysis.Scripting.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/de/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/de/Microsoft.Build.Tasks.CodeAnalysis.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\de\Microsoft.Build.Tasks.CodeAnalysis.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/es/Microsoft.CodeAnalysis.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\es\Microsoft.CodeAnalysis.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\es\Microsoft.CodeAnalysis.CSharp.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\es\Microsoft.CodeAnalysis.Scripting.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/es/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/es/Microsoft.Build.Tasks.CodeAnalysis.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\es\Microsoft.Build.Tasks.CodeAnalysis.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/fr/Microsoft.CodeAnalysis.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\fr\Microsoft.CodeAnalysis.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\fr\Microsoft.CodeAnalysis.CSharp.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\fr\Microsoft.CodeAnalysis.Scripting.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/fr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/fr/Microsoft.Build.Tasks.CodeAnalysis.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\fr\Microsoft.Build.Tasks.CodeAnalysis.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/it/Microsoft.CodeAnalysis.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\it\Microsoft.CodeAnalysis.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\it\Microsoft.CodeAnalysis.CSharp.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\it\Microsoft.CodeAnalysis.Scripting.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/it/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/it/Microsoft.Build.Tasks.CodeAnalysis.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\it\Microsoft.Build.Tasks.CodeAnalysis.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/ja/Microsoft.CodeAnalysis.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\ja\Microsoft.CodeAnalysis.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\ja\Microsoft.CodeAnalysis.CSharp.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\ja\Microsoft.CodeAnalysis.Scripting.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/ja/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/ja/Microsoft.Build.Tasks.CodeAnalysis.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\ja\Microsoft.Build.Tasks.CodeAnalysis.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/ko/Microsoft.CodeAnalysis.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\ko\Microsoft.CodeAnalysis.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\ko\Microsoft.CodeAnalysis.CSharp.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\ko\Microsoft.CodeAnalysis.Scripting.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/ko/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/ko/Microsoft.Build.Tasks.CodeAnalysis.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\ko\Microsoft.Build.Tasks.CodeAnalysis.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/pl/Microsoft.CodeAnalysis.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\pl\Microsoft.CodeAnalysis.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\pl\Microsoft.CodeAnalysis.CSharp.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\pl\Microsoft.CodeAnalysis.Scripting.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/pl/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/pl/Microsoft.Build.Tasks.CodeAnalysis.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\pl\Microsoft.Build.Tasks.CodeAnalysis.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/pt-BR/Microsoft.CodeAnalysis.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\pt-BR\Microsoft.CodeAnalysis.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/pt-BR/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/pt-BR/Microsoft.Build.Tasks.CodeAnalysis.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\pt-BR\Microsoft.Build.Tasks.CodeAnalysis.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/ru/Microsoft.CodeAnalysis.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\ru\Microsoft.CodeAnalysis.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\ru\Microsoft.CodeAnalysis.CSharp.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\ru\Microsoft.CodeAnalysis.Scripting.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/ru/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/ru/Microsoft.Build.Tasks.CodeAnalysis.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\ru\Microsoft.Build.Tasks.CodeAnalysis.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/tr/Microsoft.CodeAnalysis.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\tr\Microsoft.CodeAnalysis.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\tr\Microsoft.CodeAnalysis.CSharp.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\tr\Microsoft.CodeAnalysis.Scripting.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/tr/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/tr/Microsoft.Build.Tasks.CodeAnalysis.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\tr\Microsoft.Build.Tasks.CodeAnalysis.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\zh-Hans\Microsoft.CodeAnalysis.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/zh-Hans/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/zh-Hans/Microsoft.Build.Tasks.CodeAnalysis.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\zh-Hans\Microsoft.Build.Tasks.CodeAnalysis.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\zh-Hant\Microsoft.CodeAnalysis.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/zh-Hant/Microsoft.CodeAnalysis.VisualBasic.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Roslyn/zh-Hant/Microsoft.Build.Tasks.CodeAnalysis.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Roslyn\zh-Hant\Microsoft.Build.Tasks.CodeAnalysis.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Started: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:49] Completed: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:49] Package executed successfully. Return code: 0

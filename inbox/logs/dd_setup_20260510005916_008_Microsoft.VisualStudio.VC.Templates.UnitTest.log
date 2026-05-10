@@ -1,0 +1,22 @@
+[bd94:0009][2026-05-10T01:00:39] Using cached package manifest as the embedded manifest
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/ItemTemplates/VisualC/1033/BasicUnitTest/BasicUnitTest.vstemplate
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\ItemTemplates\VisualC\1033\BasicUnitTest\BasicUnitTest.vstemplate file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/ItemTemplates/VisualC/1033/BasicUnitTest/UnitTest.cpp
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\ItemTemplates\VisualC\1033\BasicUnitTest\UnitTest.cpp file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/ItemTemplates/VisualC/1033/UnitTestWizard/UnitTestWizard.vstemplate
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\ItemTemplates\VisualC\1033\UnitTestWizard\UnitTestWizard.vstemplate file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/Test/Test.vstdir
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\ProjectTemplates\VC\Test\Test.vstdir file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/Test/NativeUnitTest/NativeUnitTest.vstemplate
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\ProjectTemplates\VC\Test\NativeUnitTest\NativeUnitTest.vstemplate file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Common7/IDE/ProjectTemplates/VC/Test/NativeUnitTest/unittest.cpp
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\ProjectTemplates\VC\Test\NativeUnitTest\unittest.cpp file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /Contents/Msbuild/Microsoft/VC/v160/Microsoft.Cpp.UnitTest.props
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Msbuild\Microsoft\VC\v160\Microsoft.Cpp.UnitTest.props file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /contents/Common7/IDE/ItemTemplates/Microsoft.VisualStudio.VC.Templates.UnitTest.Item..vstman
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\ItemTemplates\Microsoft.VisualStudio.VC.Templates.UnitTest.Item..vstman file deleted.
+[bd94:0009][2026-05-10T01:00:39] Processing file /contents/Common7/IDE/ProjectTemplates/Microsoft.VisualStudio.VC.Templates.UnitTest.Project..vstman
+[bd94:0009][2026-05-10T01:00:39] D:\Program\Common7\IDE\ProjectTemplates\Microsoft.VisualStudio.VC.Templates.UnitTest.Project..vstman file deleted.
+[bd94:0009][2026-05-10T01:00:39] Started: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:39] Completed: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:39] Package executed successfully. Return code: 0

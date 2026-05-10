@@ -1,0 +1,24 @@
+[bd94:0009][2026-05-10T01:00:52] Using cached package manifest as the embedded manifest
+[bd94:0009][2026-05-10T01:00:52] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/CoreCLRDebugEngine.pkgdef
+[bd94:0009][2026-05-10T01:00:52] D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\CoreCLRDebugEngine.pkgdef file deleted.
+[bd94:0009][2026-05-10T01:00:52] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/DotNetDebugger.pkgdef
+[bd94:0009][2026-05-10T01:00:52] D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\DotNetDebugger.pkgdef file deleted.
+[bd94:0009][2026-05-10T01:00:52] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/MonoDebugEngine.pkgdef
+[bd94:0009][2026-05-10T01:00:52] D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\MonoDebugEngine.pkgdef file deleted.
+[bd94:0009][2026-05-10T01:00:52] Processing file /Contents/Common7/IDE/PrivateAssemblies/ClrCustomVisualizerVSHost.dll
+[bd94:0009][2026-05-10T01:00:52] D:\Program\Common7\IDE\PrivateAssemblies\ClrCustomVisualizerVSHost.dll file deleted.
+[bd94:0009][2026-05-10T01:00:52] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Debugger.Metadata.dll
+[bd94:0009][2026-05-10T01:00:52] D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Debugger.Metadata.dll file deleted.
+[bd94:0009][2026-05-10T01:00:52] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.vil.dll
+[bd94:0009][2026-05-10T01:00:52] D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.vil.dll file deleted.
+[bd94:0009][2026-05-10T01:00:52] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.vil.host.dll
+[bd94:0009][2026-05-10T01:00:52] D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.vil.host.dll file deleted.
+[bd94:0009][2026-05-10T01:00:52] Processing file /Contents/Common7/IDE/PrivateAssemblies/Runtime/Microsoft.VisualStudio.Debugger.Runtime.NetCoreApp.dll
+[bd94:0009][2026-05-10T01:00:52] D:\Program\Common7\IDE\PrivateAssemblies\Runtime\Microsoft.VisualStudio.Debugger.Runtime.NetCoreApp.dll file deleted.
+[bd94:0009][2026-05-10T01:00:52] Processing file /Contents/Common7/IDE/PrivateAssemblies/Runtime/Microsoft.VisualStudio.Debugger.Runtime.Desktop.dll
+[bd94:0009][2026-05-10T01:00:52] D:\Program\Common7\IDE\PrivateAssemblies\Runtime\Microsoft.VisualStudio.Debugger.Runtime.Desktop.dll file deleted.
+[bd94:0009][2026-05-10T01:00:52] Processing file /Contents/Common7/IDE/PrivateAssemblies/Runtime/Microsoft.VisualStudio.Debugger.Runtime.Impl.dll
+[bd94:0009][2026-05-10T01:00:52] D:\Program\Common7\IDE\PrivateAssemblies\Runtime\Microsoft.VisualStudio.Debugger.Runtime.Impl.dll file deleted.
+[bd94:0009][2026-05-10T01:00:52] Started: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:52] Completed: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:52] Package executed successfully. Return code: 0

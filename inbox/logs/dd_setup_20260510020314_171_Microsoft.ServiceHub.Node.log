@@ -1,0 +1,28 @@
+[18d4:0007][2026-05-10T02:03:47] Opening the package for processing
+[18d4:0007][2026-05-10T02:03:47] Using package payload to get the embedded manifest
+[18d4:0007][2026-05-10T02:03:47] Getting list of files within the package
+[18d4:0007][2026-05-10T02:03:47] Processing file /Contents/Common7/IDE/PrivateAssemblies/jsonRpc.all.v2.js
+[18d4:0007][2026-05-10T02:03:47] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/jsonRpc.all.v2.js to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\jsonRpc.all.v2.js
+[18d4:0007][2026-05-10T02:03:47] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/jsonRpc.all.v2.js to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\jsonRpc.all.v2.js
+[18d4:0007][2026-05-10T02:03:47] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\jsonRpc.all.v2.js'.
+[18d4:0007][2026-05-10T02:03:47] Processing file /Contents/Common7/IDE/PrivateAssemblies/serviceHub.all.v2.js
+[18d4:0007][2026-05-10T02:03:47] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/serviceHub.all.v2.js to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\serviceHub.all.v2.js
+[18d4:0007][2026-05-10T02:03:47] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/serviceHub.all.v2.js to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\serviceHub.all.v2.js
+[18d4:0007][2026-05-10T02:03:47] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\serviceHub.all.v2.js'.
+[18d4:0007][2026-05-10T02:03:47] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.Node.x86/hubHost.all.js
+[18d4:0007][2026-05-10T02:03:47] Started: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.Node.x86/hubHost.all.js to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\ServiceHub\Hosts\ServiceHub.Host.Node.x86\hubHost.all.js
+[18d4:0007][2026-05-10T02:03:47] Completed: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.Node.x86/hubHost.all.js to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\ServiceHub\Hosts\ServiceHub.Host.Node.x86\hubHost.all.js
+[18d4:0007][2026-05-10T02:03:47] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\ServiceHub\Hosts\ServiceHub.Host.Node.x86\hubHost.all.js'.
+[18d4:0007][2026-05-10T02:03:47] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.Node.x86/node.x86.servicehub.host.json
+[18d4:0007][2026-05-10T02:03:47] Started: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.Node.x86/node.x86.servicehub.host.json to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\ServiceHub\Hosts\ServiceHub.Host.Node.x86\node.x86.servicehub.host.json
+[18d4:0007][2026-05-10T02:03:47] Completed: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.Node.x86/node.x86.servicehub.host.json to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\ServiceHub\Hosts\ServiceHub.Host.Node.x86\node.x86.servicehub.host.json
+[18d4:0007][2026-05-10T02:03:47] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\ServiceHub\Hosts\ServiceHub.Host.Node.x86\node.x86.servicehub.host.json'.
+[18d4:0007][2026-05-10T02:03:47] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.Node.x86/package.json
+[18d4:0007][2026-05-10T02:03:47] Started: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.Node.x86/package.json to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\ServiceHub\Hosts\ServiceHub.Host.Node.x86\package.json
+[18d4:0007][2026-05-10T02:03:47] Completed: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.Node.x86/package.json to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\ServiceHub\Hosts\ServiceHub.Host.Node.x86\package.json
+[18d4:0007][2026-05-10T02:03:47] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\ServiceHub\Hosts\ServiceHub.Host.Node.x86\package.json'.
+[18d4:0007][2026-05-10T02:03:47] Processing file /Contents/Common7/ServiceHub/Services/ReadMe.txt
+[18d4:0007][2026-05-10T02:03:47] Started: Copying file /Contents/Common7/ServiceHub/Services/ReadMe.txt to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\ServiceHub\Services\ReadMe.txt
+[18d4:0007][2026-05-10T02:03:47] Completed: Copying file /Contents/Common7/ServiceHub/Services/ReadMe.txt to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\ServiceHub\Services\ReadMe.txt
+[18d4:0007][2026-05-10T02:03:47] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\ServiceHub\Services\ReadMe.txt'.
+[18d4:0007][2026-05-10T02:03:47] Package executed successfully. Return code: 0

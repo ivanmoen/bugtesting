@@ -1,0 +1,28 @@
+[da4c:0007][2026-05-10T00:50:00] Opening the package for processing
+[da4c:0007][2026-05-10T00:50:00] Using package payload to get the embedded manifest
+[da4c:0007][2026-05-10T00:50:00] Getting list of files within the package
+[da4c:0007][2026-05-10T00:50:00] Processing file /catalog.json
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /catalog.json to D:\Program\Common7\IDE\CommonExtensions\Microsoft\NavigateTo\catalog.json
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /catalog.json to D:\Program\Common7\IDE\CommonExtensions\Microsoft\NavigateTo\catalog.json
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\NavigateTo\catalog.json'.
+[da4c:0007][2026-05-10T00:50:00] Processing file /manifest.json
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /manifest.json to D:\Program\Common7\IDE\CommonExtensions\Microsoft\NavigateTo\manifest.json
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /manifest.json to D:\Program\Common7\IDE\CommonExtensions\Microsoft\NavigateTo\manifest.json
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\NavigateTo\manifest.json'.
+[da4c:0007][2026-05-10T00:50:00] Processing file /Microsoft.VisualStudio.Language.NavigateTo.Implementation.dll
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Microsoft.VisualStudio.Language.NavigateTo.Implementation.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\NavigateTo\Microsoft.VisualStudio.Language.NavigateTo.Implementation.dll
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /Microsoft.VisualStudio.Language.NavigateTo.Implementation.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\NavigateTo\Microsoft.VisualStudio.Language.NavigateTo.Implementation.dll
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\NavigateTo\Microsoft.VisualStudio.Language.NavigateTo.Implementation.dll'.
+[da4c:0007][2026-05-10T00:50:00] Processing file /Microsoft.VisualStudio.Language.NavigateTo.Interfaces.dll
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Microsoft.VisualStudio.Language.NavigateTo.Interfaces.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\NavigateTo\Microsoft.VisualStudio.Language.NavigateTo.Interfaces.dll
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /Microsoft.VisualStudio.Language.NavigateTo.Interfaces.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\NavigateTo\Microsoft.VisualStudio.Language.NavigateTo.Interfaces.dll
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\NavigateTo\Microsoft.VisualStudio.Language.NavigateTo.Interfaces.dll'.
+[da4c:0007][2026-05-10T00:50:00] Processing file /Microsoft.VisualStudio.Platform.NavigateTo.pkgdef
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Microsoft.VisualStudio.Platform.NavigateTo.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Microsoft\NavigateTo\Microsoft.VisualStudio.Platform.NavigateTo.pkgdef
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /Microsoft.VisualStudio.Platform.NavigateTo.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Microsoft\NavigateTo\Microsoft.VisualStudio.Platform.NavigateTo.pkgdef
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\NavigateTo\Microsoft.VisualStudio.Platform.NavigateTo.pkgdef'.
+[da4c:0007][2026-05-10T00:50:00] Processing file /extension.vsixmanifest
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /extension.vsixmanifest to D:\Program\Common7\IDE\CommonExtensions\Microsoft\NavigateTo\extension.vsixmanifest
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /extension.vsixmanifest to D:\Program\Common7\IDE\CommonExtensions\Microsoft\NavigateTo\extension.vsixmanifest
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\NavigateTo\extension.vsixmanifest'.
+[da4c:0007][2026-05-10T00:50:00] Package executed successfully. Return code: 0

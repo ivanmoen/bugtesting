@@ -1,0 +1,12 @@
+[c9c4:0009][2026-05-10T01:02:00] Opening the package for processing
+[c9c4:0009][2026-05-10T01:02:00] Using package payload to get the embedded manifest
+[c9c4:0009][2026-05-10T01:02:00] Getting list of files within the package
+[c9c4:0009][2026-05-10T01:02:00] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/Microsoft.VisualStudio.Debugger.AzureAttach.dll
+[c9c4:0009][2026-05-10T01:02:00] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/Microsoft.VisualStudio.Debugger.AzureAttach.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\Microsoft.VisualStudio.Debugger.AzureAttach.dll
+[c9c4:0009][2026-05-10T01:02:00] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/Microsoft.VisualStudio.Debugger.AzureAttach.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\Microsoft.VisualStudio.Debugger.AzureAttach.dll
+[c9c4:0009][2026-05-10T01:02:00] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\Microsoft.VisualStudio.Debugger.AzureAttach.dll'.
+[c9c4:0009][2026-05-10T01:02:00] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/Microsoft.VisualStudio.Debugger.AzureAttach.pkgdef
+[c9c4:0009][2026-05-10T01:02:00] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/Microsoft.VisualStudio.Debugger.AzureAttach.pkgdef to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\Microsoft.VisualStudio.Debugger.AzureAttach.pkgdef
+[c9c4:0009][2026-05-10T01:02:00] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/Microsoft.VisualStudio.Debugger.AzureAttach.pkgdef to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\Microsoft.VisualStudio.Debugger.AzureAttach.pkgdef
+[c9c4:0009][2026-05-10T01:02:00] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\Microsoft.VisualStudio.Debugger.AzureAttach.pkgdef'.
+[c9c4:0009][2026-05-10T01:02:00] Package executed successfully. Return code: 0

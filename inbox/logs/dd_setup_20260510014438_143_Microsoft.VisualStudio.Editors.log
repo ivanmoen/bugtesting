@@ -1,0 +1,70 @@
+[0c48:0003][2026-05-10T01:44:47] Using cached package manifest as the embedded manifest
+[0c48:0003][2026-05-10T01:44:47] Processing file /extension.vsixmanifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VisualStudio\Editors\extension.vsixmanifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /VisualStudioEditorsSetup.pkgdef
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VisualStudio\Editors\VisualStudioEditorsSetup.pkgdef file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /cs/Microsoft.VisualStudio.AppDesigner.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VisualStudio\Editors\cs\Microsoft.VisualStudio.AppDesigner.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /de/Microsoft.VisualStudio.AppDesigner.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VisualStudio\Editors\de\Microsoft.VisualStudio.AppDesigner.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /es/Microsoft.VisualStudio.AppDesigner.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VisualStudio\Editors\es\Microsoft.VisualStudio.AppDesigner.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /fr/Microsoft.VisualStudio.AppDesigner.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VisualStudio\Editors\fr\Microsoft.VisualStudio.AppDesigner.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /it/Microsoft.VisualStudio.AppDesigner.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VisualStudio\Editors\it\Microsoft.VisualStudio.AppDesigner.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /ja/Microsoft.VisualStudio.AppDesigner.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VisualStudio\Editors\ja\Microsoft.VisualStudio.AppDesigner.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /ko/Microsoft.VisualStudio.AppDesigner.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VisualStudio\Editors\ko\Microsoft.VisualStudio.AppDesigner.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /pl/Microsoft.VisualStudio.AppDesigner.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VisualStudio\Editors\pl\Microsoft.VisualStudio.AppDesigner.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /pt-BR/Microsoft.VisualStudio.AppDesigner.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VisualStudio\Editors\pt-BR\Microsoft.VisualStudio.AppDesigner.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /ru/Microsoft.VisualStudio.AppDesigner.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VisualStudio\Editors\ru\Microsoft.VisualStudio.AppDesigner.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /tr/Microsoft.VisualStudio.AppDesigner.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VisualStudio\Editors\tr\Microsoft.VisualStudio.AppDesigner.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /zh-Hans/Microsoft.VisualStudio.AppDesigner.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VisualStudio\Editors\zh-Hans\Microsoft.VisualStudio.AppDesigner.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /zh-Hant/Microsoft.VisualStudio.AppDesigner.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VisualStudio\Editors\zh-Hant\Microsoft.VisualStudio.AppDesigner.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /cs/Microsoft.VisualStudio.Editors.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VisualStudio\Editors\cs\Microsoft.VisualStudio.Editors.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /de/Microsoft.VisualStudio.Editors.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VisualStudio\Editors\de\Microsoft.VisualStudio.Editors.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /es/Microsoft.VisualStudio.Editors.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VisualStudio\Editors\es\Microsoft.VisualStudio.Editors.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /fr/Microsoft.VisualStudio.Editors.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VisualStudio\Editors\fr\Microsoft.VisualStudio.Editors.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /it/Microsoft.VisualStudio.Editors.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VisualStudio\Editors\it\Microsoft.VisualStudio.Editors.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /ja/Microsoft.VisualStudio.Editors.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VisualStudio\Editors\ja\Microsoft.VisualStudio.Editors.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /ko/Microsoft.VisualStudio.Editors.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VisualStudio\Editors\ko\Microsoft.VisualStudio.Editors.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /pl/Microsoft.VisualStudio.Editors.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VisualStudio\Editors\pl\Microsoft.VisualStudio.Editors.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /pt-BR/Microsoft.VisualStudio.Editors.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VisualStudio\Editors\pt-BR\Microsoft.VisualStudio.Editors.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /ru/Microsoft.VisualStudio.Editors.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VisualStudio\Editors\ru\Microsoft.VisualStudio.Editors.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /tr/Microsoft.VisualStudio.Editors.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VisualStudio\Editors\tr\Microsoft.VisualStudio.Editors.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /zh-Hans/Microsoft.VisualStudio.Editors.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VisualStudio\Editors\zh-Hans\Microsoft.VisualStudio.Editors.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /zh-Hant/Microsoft.VisualStudio.Editors.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VisualStudio\Editors\zh-Hant\Microsoft.VisualStudio.Editors.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Microsoft.VisualStudio.Editors.pkgdef
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VisualStudio\Editors\Microsoft.VisualStudio.Editors.pkgdef file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Microsoft.VisualStudio.AppDesigner.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VisualStudio\Editors\Microsoft.VisualStudio.AppDesigner.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Microsoft.VisualStudio.Editors.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VisualStudio\Editors\Microsoft.VisualStudio.Editors.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /manifest.json
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VisualStudio\Editors\manifest.json file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /catalog.json
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VisualStudio\Editors\catalog.json file deleted.
+[0c48:0003][2026-05-10T01:44:47] Started: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:47] Completed: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:47] Package executed successfully. Return code: 0

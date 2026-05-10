@@ -1,0 +1,6 @@
+[0c48:0003][2026-05-10T01:44:48] Using cached package manifest as the embedded manifest
+[0c48:0003][2026-05-10T01:44:48] Warning: Microsoft.VisualStudio.TextTemplating.Integration.Resources package has no files per the cached manifest.
+[0c48:0003][2026-05-10T01:44:48] Uninstalling ProgId: VisualStudio.tt.[InstanceId]
+[0c48:0003][2026-05-10T01:44:48] Uninstalling file association: .tt
+[0c48:0003][2026-05-10T01:44:48] RegistrationPath: Software\Microsoft\VisualStudio_6d5b802f\Capabilities\FileAssociations
+[0c48:0003][2026-05-10T01:44:48] Package executed successfully. Return code: 0

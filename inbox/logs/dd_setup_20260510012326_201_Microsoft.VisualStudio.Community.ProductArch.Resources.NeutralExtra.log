@@ -1,0 +1,354 @@
+[2e2c:0007][2026-05-10T01:24:14] Opening the package for processing
+[2e2c:0007][2026-05-10T01:24:14] Using package payload to get the embedded manifest
+[2e2c:0007][2026-05-10T01:24:14] Getting list of files within the package
+[2e2c:0007][2026-05-10T01:24:14] Processing file /Contents/Licenses/1033/SQLServerExpress_Sql2016.rtf
+[2e2c:0007][2026-05-10T01:24:14] Started: Copying file /Contents/Licenses/1033/SQLServerExpress_Sql2016.rtf to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Licenses\1033\SQLServerExpress_Sql2016.rtf
+[2e2c:0007][2026-05-10T01:24:14] Completed: Copying file /Contents/Licenses/1033/SQLServerExpress_Sql2016.rtf to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Licenses\1033\SQLServerExpress_Sql2016.rtf
+[2e2c:0007][2026-05-10T01:24:14] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Licenses\1033\SQLServerExpress_Sql2016.rtf'.
+[2e2c:0007][2026-05-10T01:24:14] Processing file /Contents/Licenses/1033/SQLServerLocalDB_Sql2016.rtf
+[2e2c:0007][2026-05-10T01:24:14] Started: Copying file /Contents/Licenses/1033/SQLServerLocalDB_Sql2016.rtf to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Licenses\1033\SQLServerLocalDB_Sql2016.rtf
+[2e2c:0007][2026-05-10T01:24:14] Completed: Copying file /Contents/Licenses/1033/SQLServerLocalDB_Sql2016.rtf to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Licenses\1033\SQLServerLocalDB_Sql2016.rtf
+[2e2c:0007][2026-05-10T01:24:14] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Licenses\1033\SQLServerLocalDB_Sql2016.rtf'.
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.config.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.cs.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.csproj.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.datasource.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.disco.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.dtd.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.hta.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.htm.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.html.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.itrace.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.jsproj.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.natvis.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.props.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.resw.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.resx.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.ruleset.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.sdl.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.settings.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.sitemap.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.snippet.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.snk.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.targets.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.user.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.vb.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.vbproj.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.asm.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.bsc.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.c.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.cc.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.cod.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.cpp.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.cppm.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.csh.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.cshader.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.cxx.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.def.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.dsh.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.dshader.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.exp.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.vcxproj.filters.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.fx.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.gsh.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.gshader.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.h.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.hh.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.hlsl.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.hlsli.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.hpp.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.hsh.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.hshader.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.hxx.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.i.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.idb.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.idl.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.ilk.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.inc.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.inl.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.ipp.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.ixx.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.lib.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.lic.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.lst.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.map.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.ncb.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.obj.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.odh.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.odl.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.pch.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.pdb.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.psh.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.pshader.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.rgs.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.s.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.sbr.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.srf.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.tlh.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.tli.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.vsh.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.vshader.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.vsz.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Error: The ProgID 'VisualStudio.Launcher.androidproj.e00ab787' has 42 characters, but the maximum allowed size is 39 characters
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.androidproj.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.mak.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.mk.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.Launcher.vcproj.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.vcproj.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.Launcher.vcxproj.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.vcxproj.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.Launcher.vcxitems.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.vcxitems.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.vsprops.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.bmp.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.cur.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.ico.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.mfcribbon-ms.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.pal.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.rc.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.rc2.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.rct.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.res.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.vspscc.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.vsscc.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.vssettings.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.vssscc.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.vstemplate.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.wsdl.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.wsf.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.xdr.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.xml.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.xsc.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.xsd.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.xsl.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.xslt.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Installing ProgId: VisualStudio.xss.e00ab787
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .config
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .cs
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .csproj
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .datasource
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .disco
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .dtd
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .hta
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .htm
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .html
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .itrace
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .jsproj
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .natvis
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .props
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .resw
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .resx
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .ruleset
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .sdl
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .settings
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .sitemap
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .snippet
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .snk
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .targets
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .user
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .vb
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .vbproj
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .asm
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .bsc
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .c
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .cc
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .cod
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .cpp
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .csh
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .cshader
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .cxx
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .def
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .dsh
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .dshader
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .exp
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .filters
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .fx
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .gsh
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .gshader
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .h
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .hh
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .hlsl
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .hlsli
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .hpp
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .hsh
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .hshader
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .hxx
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .i
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .idb
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .idl
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .ilk
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .inc
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .inl
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .lib
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .lic
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .lst
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .map
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .ncb
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .obj
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .odh
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .odl
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .pch
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .pdb
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .psh
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .pshader
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .rgs
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .s
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .sbr
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .srf
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .tlh
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .tli
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .vsh
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .vshader
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .vsz
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .ipp
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .ixx
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .cppm
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .androidproj
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .androidproj
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .mak
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .mk
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .vcproj
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .vcproj
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .vcxproj
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .vcxproj
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .vcxitems
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .vcxitems
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .vsprops
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .bmp
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .cur
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .ico
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .mfcribbon-ms
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .pal
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .rc
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .rc2
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .rct
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .res
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .vspscc
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .vsscc
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .vssettings
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .vssscc
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .vstemplate
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .wsdl
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .wsf
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .xdr
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .xml
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .xsc
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .xsd
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .xsl
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .xslt
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Processing file extension for install .xss
+[2e2c:0007][2026-05-10T01:24:14] RegistrationPath: Software\Microsoft\VisualStudio_e00ab787\Capabilities\FileAssociations
+[2e2c:0007][2026-05-10T01:24:14] Package executed successfully. Return code: 0

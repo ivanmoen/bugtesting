@@ -1,0 +1,18 @@
+[0c48:0003][2026-05-10T01:44:46] Using cached package manifest as the embedded manifest
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/VC_Pkg_Pro_Registration.pkgdef
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\VC_Pkg_Pro_Registration.pkgdef file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/Tools/spyxx_amd64.chm
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\spyxx_amd64.chm file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/Tools/spyxx_amd64.exe
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\spyxx_amd64.exe file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/Tools/spyxxhk_amd64.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\spyxxhk_amd64.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/Tools/spyxx.chm
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\spyxx.chm file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/Tools/spyxx.exe
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\spyxx.exe file deleted.
+[0c48:0003][2026-05-10T01:44:46] Processing file /Contents/Common7/Tools/spyxxhk.dll
+[0c48:0003][2026-05-10T01:44:46] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\spyxxhk.dll file deleted.
+[0c48:0003][2026-05-10T01:44:46] Started: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:46] Completed: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:46] Package executed successfully. Return code: 0

@@ -1,0 +1,44 @@
+[3474:0009][2026-05-10T01:45:55] Using cached package manifest as the embedded manifest
+[3474:0009][2026-05-10T01:45:55] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Linux/Linux/ConnectionManager.extension.vsixmanifest
+[3474:0009][2026-05-10T01:45:55] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Linux\Linux\ConnectionManager.extension.vsixmanifest file deleted.
+[3474:0009][2026-05-10T01:45:55] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Linux/Linux/Microsoft.VisualStudio.Linux.ConnectionManager.dll
+[3474:0009][2026-05-10T01:45:55] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Linux\Linux\Microsoft.VisualStudio.Linux.ConnectionManager.dll file deleted.
+[3474:0009][2026-05-10T01:45:55] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Linux/Linux/Microsoft.VisualStudio.Linux.ConnectionManager.pkgdef
+[3474:0009][2026-05-10T01:45:55] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Linux\Linux\Microsoft.VisualStudio.Linux.ConnectionManager.pkgdef file deleted.
+[3474:0009][2026-05-10T01:45:55] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Linux/Linux/Microsoft.VisualStudio.Linux.ConnectionManager.Contracts.dll
+[3474:0009][2026-05-10T01:45:55] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Linux\Linux\Microsoft.VisualStudio.Linux.ConnectionManager.Contracts.dll file deleted.
+[3474:0009][2026-05-10T01:45:55] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Linux/Linux/ThirdPartyNotices.txt
+[3474:0009][2026-05-10T01:45:55] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Linux\Linux\ThirdPartyNotices.txt file deleted.
+[3474:0009][2026-05-10T01:45:55] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Linux.ConnectionManager.Contracts.dll
+[3474:0009][2026-05-10T01:45:55] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Linux.ConnectionManager.Contracts.dll file deleted.
+[3474:0009][2026-05-10T01:45:55] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Linux.ConnectionManager.Store.dll
+[3474:0009][2026-05-10T01:45:55] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Linux.ConnectionManager.Store.dll file deleted.
+[3474:0009][2026-05-10T01:45:55] Processing file /Contents/Common7/IDE/PrivateAssemblies/liblinux.dll
+[3474:0009][2026-05-10T01:45:55] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\liblinux.dll file deleted.
+[3474:0009][2026-05-10T01:45:55] Processing file /Contents/Common7/IDE/PrivateAssemblies/liblinux.IO.dll
+[3474:0009][2026-05-10T01:45:55] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\liblinux.IO.dll file deleted.
+[3474:0009][2026-05-10T01:45:55] Processing file /Contents/Common7/IDE/PrivateAssemblies/liblinux.Local.dll
+[3474:0009][2026-05-10T01:45:55] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\liblinux.Local.dll file deleted.
+[3474:0009][2026-05-10T01:45:55] Processing file /Contents/Common7/IDE/PrivateAssemblies/VS.Renci.SshNet.dll
+[3474:0009][2026-05-10T01:45:55] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\VS.Renci.SshNet.dll file deleted.
+[3474:0009][2026-05-10T01:45:55] Processing file /Contents/Common7/IDE/PrivateAssemblies/Visual CPP for Linux Development ThirdPartyNotices.txt
+[3474:0009][2026-05-10T01:45:55] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Visual CPP for Linux Development ThirdPartyNotices.txt file deleted.
+[3474:0009][2026-05-10T01:45:55] Processing file /Contents/Common7/IDE/PrivateAssemblies/CommandLine.dll
+[3474:0009][2026-05-10T01:45:55] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\CommandLine.dll file deleted.
+[3474:0009][2026-05-10T01:45:55] Processing file /Contents/Common7/IDE/PrivateAssemblies/liblinux.Local/devcontainers-cli-0.60.0.tgz
+[3474:0009][2026-05-10T01:45:55] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\liblinux.Local\devcontainers-cli-0.60.0.tgz file deleted.
+[3474:0009][2026-05-10T01:45:55] Processing file /Contents/Common7/IDE/PrivateAssemblies/liblinux.Local/provision-openssh.sh
+[3474:0009][2026-05-10T01:45:55] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\liblinux.Local\provision-openssh.sh file deleted.
+[3474:0009][2026-05-10T01:45:55] Processing file /Contents/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/ConnectionManager.exe
+[3474:0009][2026-05-10T01:45:55] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\Linux\bin\ConnectionManagerExe\ConnectionManager.exe file deleted.
+[3474:0009][2026-05-10T01:45:55] Processing file /Contents/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/ConnectionManager.exe.config
+[3474:0009][2026-05-10T01:45:55] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\Linux\bin\ConnectionManagerExe\ConnectionManager.exe.config file deleted.
+[3474:0009][2026-05-10T01:45:55] Processing file /Contents/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/NOTICE.txt
+[3474:0009][2026-05-10T01:45:55] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\Linux\bin\ConnectionManagerExe\NOTICE.txt file deleted.
+[3474:0009][2026-05-10T01:45:55] Processing file /Contents/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/liblinux.dll
+[3474:0009][2026-05-10T01:45:55] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\Linux\bin\ConnectionManagerExe\liblinux.dll file deleted.
+[3474:0009][2026-05-10T01:45:55] Processing file /Contents/Common7/Tools/vsdevcmd/ext/ConnectionManagerExe.bat
+[3474:0009][2026-05-10T01:45:55] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\vsdevcmd\ext\ConnectionManagerExe.bat file deleted.
+[3474:0009][2026-05-10T01:45:55] Started: Deleting empty directories
+[3474:0009][2026-05-10T01:45:55] Completed: Deleting empty directories
+[3474:0009][2026-05-10T01:45:55] Package executed successfully. Return code: 0

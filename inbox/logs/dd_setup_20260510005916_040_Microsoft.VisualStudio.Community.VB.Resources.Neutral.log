@@ -1,0 +1,698 @@
+[bd94:0009][2026-05-10T01:00:40] Using cached package manifest as the embedded manifest
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/Common7/IDE/Remote Debugger/x64/1033/vbdebugui.dll
+[bd94:0009][2026-05-10T01:00:40] D:\Program\Common7\IDE\Remote Debugger\x64\1033\vbdebugui.dll file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/Common7/IDE/Remote Debugger/x86/1033/vbdebugui.dll
+[bd94:0009][2026-05-10T01:00:40] D:\Program\Common7\IDE\Remote Debugger\x86\1033\vbdebugui.dll file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/SnippetIndex.xml
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\SnippetIndex.xml file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/application/ActivateaRunningApplicationByName.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\application\ActivateaRunningApplicationByName.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/application/ActivateaRunningApplicationByProcess.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\application\ActivateaRunningApplicationByProcess.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/application/CaptureOutputfromaConsoleApplication.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\application\CaptureOutputfromaConsoleApplication.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/application/ChangetheForegroundandBackgroundTextColorsinaConsoleWindow.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\application\ChangetheForegroundandBackgroundTextColorsinaConsoleWindow.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/application/CheckForUpdates.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\application\CheckForUpdates.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/application/CleartheConsoleWindow.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\application\CleartheConsoleWindow.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/application/DeleteDatafromIsolatedStorage.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\application\DeleteDatafromIsolatedStorage.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/application/DeterminetheAmountofIsolatedStorageAvailable.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\application\DeterminetheAmountofIsolatedStorageAvailable.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/application/DeterminetheScopeofIsolatedStorage.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\application\DeterminetheScopeofIsolatedStorage.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/application/FindtheNamesofResourcesinanAssembly.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\application\FindtheNamesofResourcesinanAssembly.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/application/LoadaCursorFilefromanAssembly.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\application\LoadaCursorFilefromanAssembly.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/application/LoadanAssemblyatRunTime.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\application\LoadanAssemblyatRunTime.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/application/MakeanAsynchronousMethodCall.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\application\MakeanAsynchronousMethodCall.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/application/ReadandWritefromtheConsoleWindow.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\application\ReadandWritefromtheConsoleWindow.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/application/ReadCommandLineArguments.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\application\ReadCommandLineArguments.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/application/ReadTextfromIsolateStorage.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\application\ReadTextfromIsolateStorage.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/application/RetrieveanImagethatIsanApplicationResource.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\application\RetrieveanImagethatIsanApplicationResource.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/application/RetrieveaTextFilefromanAssembly'sResources.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\application\RetrieveaTextFilefromanAssembly'sResources.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/application/Savetextinisolatedstorage.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\application\Savetextinisolatedstorage.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/application/SendAnApplicationKeystrokes.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\application\SendAnApplicationKeystrokes.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/application/StopanApplication.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\application\StopanApplication.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/application/WriteMessagetotheApplicationLogUsingMy.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\application\WriteMessagetotheApplicationLogUsingMy.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/application/WritetoaTextFileUsingMy.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\application\WritetoaTextFileUsingMy.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/common code patterns/conditionals and loops/CompilerDirectiveIf.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\common code patterns\conditionals and loops\CompilerDirectiveIf.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/common code patterns/conditionals and loops/DoLoopUntil(Condition).snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\common code patterns\conditionals and loops\DoLoopUntil(Condition).snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/common code patterns/conditionals and loops/DoLoopWhile(Condition).snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\common code patterns\conditionals and loops\DoLoopWhile(Condition).snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/common code patterns/conditionals and loops/DoUntil(Condition)Loop.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\common code patterns\conditionals and loops\DoUntil(Condition)Loop.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/common code patterns/conditionals and loops/DoWhile(Condition)Loop.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\common code patterns\conditionals and loops\DoWhile(Condition)Loop.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/common code patterns/conditionals and loops/ForEachNext.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\common code patterns\conditionals and loops\ForEachNext.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/common code patterns/conditionals and loops/ForNext(Integerloop).snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\common code patterns\conditionals and loops\ForNext(Integerloop).snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/common code patterns/conditionals and loops/IfElseEndIfStatement.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\common code patterns\conditionals and loops\IfElseEndIfStatement.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/common code patterns/conditionals and loops/IfElseIfElseEndIf.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\common code patterns\conditionals and loops\IfElseIfElseEndIf.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/common code patterns/conditionals and loops/IfEndifStatement.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\common code patterns\conditionals and loops\IfEndifStatement.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/common code patterns/conditionals and loops/SelectCaseStatement.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\common code patterns\conditionals and loops\SelectCaseStatement.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/common code patterns/conditionals and loops/While(Cond)EndWhile.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\common code patterns\conditionals and loops\While(Cond)EndWhile.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/common code patterns/exception handling/DefineAnExceptionClass.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\common code patterns\exception handling\DefineAnExceptionClass.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/common code patterns/exception handling/ThrowanException.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\common code patterns\exception handling\ThrowanException.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/common code patterns/exception handling/TryCatchEndTryStatement.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\common code patterns\exception handling\TryCatchEndTryStatement.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/common code patterns/exception handling/TryCatchFinallyEndTry.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\common code patterns\exception handling\TryCatchFinallyEndTry.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/common code patterns/exception handling/TryFinallyEndTryStatement.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\common code patterns\exception handling\TryFinallyEndTryStatement.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/common code patterns/exception handling/UsingStatement.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\common code patterns\exception handling\UsingStatement.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/common code patterns/properties and procedures/Addition(+)Operator.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\common code patterns\properties and procedures\Addition(+)Operator.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/common code patterns/properties and procedures/CallAWindowsAPI.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\common code patterns\properties and procedures\CallAWindowsAPI.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/common code patterns/properties and procedures/ComparisonOperators.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\common code patterns\properties and procedures\ComparisonOperators.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/common code patterns/properties and procedures/CTypeOperators.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\common code patterns\properties and procedures\CTypeOperators.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/common code patterns/properties and procedures/DeclareAnEvent.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\common code patterns\properties and procedures\DeclareAnEvent.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/common code patterns/properties and procedures/DefaultProperty.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\common code patterns\properties and procedures\DefaultProperty.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/common code patterns/properties and procedures/DefineAPrivateSub.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\common code patterns\properties and procedures\DefineAPrivateSub.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/common code patterns/properties and procedures/DefineAProperty.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\common code patterns\properties and procedures\DefineAProperty.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/common code patterns/properties and procedures/DefineAPublicSub.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\common code patterns\properties and procedures\DefineAPublicSub.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/common code patterns/properties and procedures/EqualityOperators.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\common code patterns\properties and procedures\EqualityOperators.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/common code patterns/properties and procedures/FuncWithGenericParam.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\common code patterns\properties and procedures\FuncWithGenericParam.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/common code patterns/properties and procedures/FuncWithVarParams.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\common code patterns\properties and procedures\FuncWithVarParams.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/common code patterns/properties and procedures/OverridableSub.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\common code patterns\properties and procedures\OverridableSub.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/common code patterns/properties and procedures/ProcedureWithReturn.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\common code patterns\properties and procedures\ProcedureWithReturn.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/common code patterns/properties and procedures/ProcWithoutReturn.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\common code patterns\properties and procedures\ProcWithoutReturn.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/common code patterns/properties and procedures/ReadOnlyProperty.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\common code patterns\properties and procedures\ReadOnlyProperty.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/common code patterns/properties and procedures/SubToOverrideDispose.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\common code patterns\properties and procedures\SubToOverrideDispose.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/common code patterns/properties and procedures/SubWithByRefParam.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\common code patterns\properties and procedures\SubWithByRefParam.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/common code patterns/properties and procedures/WriteOnlyProperty.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\common code patterns\properties and procedures\WriteOnlyProperty.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/common code patterns/types/DefineAnEnumeration.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\common code patterns\types\DefineAnEnumeration.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/common code patterns/types/DefineAnEnumerationWithCustomValues.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\common code patterns\types\DefineAnEnumerationWithCustomValues.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/common code patterns/types/DefineANewGenericType.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\common code patterns\types\DefineANewGenericType.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/common code patterns/types/DefineAnInterface.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\common code patterns\types\DefineAnInterface.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/common code patterns/types/DefineAStructure.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\common code patterns\types\DefineAStructure.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/common code patterns/types/GetTheStringValueOfAnEnumerationValue.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\common code patterns\types\GetTheStringValueOfAnEnumerationValue.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/common code patterns/types/ImplementTheDisposeFinalizePattern.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\common code patterns\types\ImplementTheDisposeFinalizePattern.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/database/AddaNewRowToTypedDataTable.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\database\AddaNewRowToTypedDataTable.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/database/CalltheExecuteNonQueryMethodofaDataCommand.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\database\CalltheExecuteNonQueryMethodofaDataCommand.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/database/CalltheExecuteReaderMethodofaDataCommand.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\database\CalltheExecuteReaderMethodofaDataCommand.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/database/CalltheExecuteScalarMethodofaDataCommand.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\database\CalltheExecuteScalarMethodofaDataCommand.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/database/ConvertBindingSourceCurrenttoTypedRow.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\database\ConvertBindingSourceCurrenttoTypedRow.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/database/CreateaDataRelation.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\database\CreateaDataRelation.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/database/CreateanExpressionColumn.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\database\CreateanExpressionColumn.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/database/CreateParameterizedSelectCommand.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\database\CreateParameterizedSelectCommand.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/database/CreateParameterizedStoredProcedureCommand.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\database\CreateParameterizedStoredProcedureCommand.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/database/CreateSqlExpressConnection.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\database\CreateSqlExpressConnection.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/database/CreateSqlServerConnection.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\database\CreateSqlServerConnection.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/database/ExtendTableAdapter.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\database\ExtendTableAdapter.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/database/ImplementDataTryCatchBlocks.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\database\ImplementDataTryCatchBlocks.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/database/ReadAccessDataintoaDataset.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\database\ReadAccessDataintoaDataset.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/database/ReturnTableAdapterOutputParameters.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\database\ReturnTableAdapterOutputParameters.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/qCount.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\LINQ Queries\qCount.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/qFrom.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\LINQ Queries\qFrom.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/qFromOBSelect.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\LINQ Queries\qFromOBSelect.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/qFromSelect.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\LINQ Queries\qFromSelect.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/qFromWSelect.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\LINQ Queries\qFromWSelect.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/qIterate.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\LINQ Queries\qIterate.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Query - Filter with 'Where'/qFilt.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\LINQ Queries\Query - Filter with 'Where'\qFilt.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Query - Filter with 'Where'/qFiltDiff.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\LINQ Queries\Query - Filter with 'Where'\qFiltDiff.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Query - Filter with 'Where'/qFiltFunc.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\LINQ Queries\Query - Filter with 'Where'\qFiltFunc.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Query - Filter with 'Where'/qFiltMult.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\LINQ Queries\Query - Filter with 'Where'\qFiltMult.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Query - Filter with 'Where'/qQueryDist.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\LINQ Queries\Query - Filter with 'Where'\qQueryDist.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Query - Grouping/qAggregate.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\LINQ Queries\Query - Grouping\qAggregate.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Query - Grouping/qAggregateAvg.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\LINQ Queries\Query - Grouping\qAggregateAvg.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Query - Grouping/qAggregateMax.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\LINQ Queries\Query - Grouping\qAggregateMax.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Query - Grouping/qGroup.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\LINQ Queries\Query - Grouping\qGroup.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Query - Grouping/qGroupRename.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\LINQ Queries\Query - Grouping\qGroupRename.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Query - Grouping/qGroupSum.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\LINQ Queries\Query - Grouping\qGroupSum.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Query - Joining/qJoinExpArray.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\LINQ Queries\Query - Joining\qJoinExpArray.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Query - Joining/qJoinImpArray.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\LINQ Queries\Query - Joining\qJoinImpArray.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Query - Joining/queGroJo.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\LINQ Queries\Query - Joining\queGroJo.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Query - Joining/queGroJoName.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\LINQ Queries\Query - Joining\queGroJoName.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Query - Sort with 'Order By'/qSortAsc.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\LINQ Queries\Query - Sort with 'Order By'\qSortAsc.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Query - Sort with 'Order By'/qSortDesc.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\LINQ Queries\Query - Sort with 'Order By'\qSortDesc.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Query - Sort with 'Order By'/qSortDiff.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\LINQ Queries\Query - Sort with 'Order By'\qSortDiff.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Query - Sort with 'Order By'/qSortFilt.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\LINQ Queries\Query - Sort with 'Order By'\qSortFilt.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Query - Sort with 'Order By'/qSortMult.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\LINQ Queries\Query - Sort with 'Order By'\qSortMult.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Query - Take and Skip/qSkip.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\LINQ Queries\Query - Take and Skip\qSkip.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Query - Take and Skip/qSkipTake.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\LINQ Queries\Query - Take and Skip\qSkipTake.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Query - Take and Skip/qSkipW.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\LINQ Queries\Query - Take and Skip\qSkipW.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Query - Take and Skip/qTake.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\LINQ Queries\Query - Take and Skip\qTake.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Query - Take and Skip/qTakeW.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\LINQ Queries\Query - Take and Skip\qTakeW.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Using Different Sources/qArray.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\LINQ Queries\Using Different Sources\qArray.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Using Different Sources/qArrayIn.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\LINQ Queries\Using Different Sources\qArrayIn.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Using Different Sources/qCollection.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\LINQ Queries\Using Different Sources\qCollection.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Using Different Sources/qQueryQ.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\LINQ Queries\Using Different Sources\qQueryQ.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Using Query Results/qConsole.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\LINQ Queries\Using Query Results\qConsole.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Using Query Results/qLoop.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\LINQ Queries\Using Query Results\qLoop.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Using Query Results/qWebForm.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\LINQ Queries\Using Query Results\qWebForm.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Using Query Results/qWinForm.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\LINQ Queries\Using Query Results\qWinForm.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/xml/EmbedQueryInsideXmlElement.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\xml\EmbedQueryInsideXmlElement.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/xml/InferaSchemafromanXmlFile.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\xml\InferaSchemafromanXmlFile.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/xml/NavigatewithXpathNavigator.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\xml\NavigatewithXpathNavigator.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/xml/XML - Create/CreateXHTML.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\xml\XML - Create\CreateXHTML.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/xml/XML - Create/CreateXMLDocument.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\xml\XML - Create\CreateXMLDocument.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/xml/XML - Create/CreateXMLElement.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\xml\XML - Create\CreateXMLElement.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/xml/XML - Query/FindChildElementsinanXMLFile.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\xml\XML - Query\FindChildElementsinanXMLFile.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/xml/XML - Query/FindDescElementsinanXMLFile.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\xml\XML - Query\FindDescElementsinanXMLFile.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/xml/XML - Query/PrintXmlAxisPropertyResults.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\xml\XML - Query\PrintXmlAxisPropertyResults.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/xml/XML - Query/ReturnElemNodesinanXMLFile.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\xml\XML - Query\ReturnElemNodesinanXMLFile.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/xml/XML - Query/SelectNthNodeInXMLFile.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\xml\XML - Query\SelectNthNodeInXMLFile.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/xml/XML - Read/ReadClassDatafromanXMLFile.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\xml\XML - Read\ReadClassDatafromanXMLFile.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/xml/XML - Read/ReadXMLfromaFile.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\xml\XML - Read\ReadXMLfromaFile.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/xml/XML - Read/ReadXMLfromURLSample.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\xml\XML - Read\ReadXMLfromURLSample.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/xml/XML - Update/AddanElementtoXMLData.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\xml\XML - Update\AddanElementtoXMLData.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/xml/XML - Update/AddNewElementtoNthElement.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\xml\XML - Update\AddNewElementtoNthElement.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/xml/XML - Update/InsertNewAttributeForSpecificChildElements.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\xml\XML - Update\InsertNewAttributeForSpecificChildElements.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/xml/XML - Update/UpdateContentOfChildElements.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\xml\XML - Update\UpdateContentOfChildElements.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/xml/XML - Write/WriteClassDatatoanXMLFile.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\xml\XML - Write\WriteClassDatatoanXMLFile.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/data/xml/XML - Write/WriteXmlElementtoFile.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\data\xml\XML - Write\WriteXmlElementtoFile.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/collections and arrays/ConverttoStronglyTypedArrayUsingToArray.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\collections and arrays\ConverttoStronglyTypedArrayUsingToArray.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/collections and arrays/CreateAStronglyTypedCollection.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\collections and arrays\CreateAStronglyTypedCollection.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/collections and arrays/CreateAStronglyTypedDictionary.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\collections and arrays\CreateAStronglyTypedDictionary.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/collections and arrays/CreateAStronglyTypedSortedDictionary.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\collections and arrays\CreateAStronglyTypedSortedDictionary.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/collections and arrays/DefineATypeComparerForSorting.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\collections and arrays\DefineATypeComparerForSorting.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/collections and arrays/IndexIntoStronglyTypedDictionaryByKey.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\collections and arrays\IndexIntoStronglyTypedDictionaryByKey.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/collections and arrays/InitializeanArray.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\collections and arrays\InitializeanArray.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/collections and arrays/IteratingThroughACollection.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\collections and arrays\IteratingThroughACollection.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/collections and arrays/IteratingThroughADictionary.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\collections and arrays\IteratingThroughADictionary.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/collections and arrays/IteratingThroughASortedDictionaryByKey.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\collections and arrays\IteratingThroughASortedDictionaryByKey.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/collections and arrays/LocateanElementinanArray.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\collections and arrays\LocateanElementinanArray.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/collections and arrays/SortAnArray.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\collections and arrays\SortAnArray.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/datatypes/byteImage.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\datatypes\byteImage.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/datatypes/ConvertanArrayofBytesintoaString.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\datatypes\ConvertanArrayofBytesintoaString.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/datatypes/ConvertaNumbertoaHexaDecimalString.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\datatypes\ConvertaNumbertoaHexaDecimalString.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/datatypes/ConvertaNumbertoaOctalString.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\datatypes\ConvertaNumbertoaOctalString.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/datatypes/ConvertaStringtoByteArray.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\datatypes\ConvertaStringtoByteArray.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/datatypes/ConvertBetweenHiraganaandKatakanaCharacters.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\datatypes\ConvertBetweenHiraganaandKatakanaCharacters.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/datatypes/ConvertBetweenSimplifiedChineseandTraditionalChineseCharacters.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\datatypes\ConvertBetweenSimplifiedChineseandTraditionalChineseCharacters.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/datatypes/ConvertBetweenWideandNarrowCharacters.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\datatypes\ConvertBetweenWideandNarrowCharacters.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/datatypes/DeterminetheSpanbetweenTwoDates.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\datatypes\DeterminetheSpanbetweenTwoDates.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/datatypes/DeterminetheSpanbetweenTwoTimes.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\datatypes\DeterminetheSpanbetweenTwoTimes.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/datatypes/GenerateMultilineStringLiterals.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\datatypes\GenerateMultilineStringLiterals.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/datatypes/imageByte.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\datatypes\imageByte.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/datatypes/ParseanEmailAddress.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\datatypes\ParseanEmailAddress.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/datatypes/RemovePartsofaString.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\datatypes\RemovePartsofaString.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/filesystem/CompareTwoFiles.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\filesystem\CompareTwoFiles.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/filesystem/CopyaDirectory.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\filesystem\CopyaDirectory.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/filesystem/CopyaFile.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\filesystem\CopyaFile.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/filesystem/CreateaFile.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\filesystem\CreateaFile.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/filesystem/CreateaFolder.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\filesystem\CreateaFolder.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/filesystem/CreateaTemporaryFilename.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\filesystem\CreateaTemporaryFilename.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/filesystem/DeleteFiles.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\filesystem\DeleteFiles.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/filesystem/DetermineifaFileExists.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\filesystem\DetermineifaFileExists.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/filesystem/DetermineifaFolderExists.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\filesystem\DetermineifaFolderExists.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/filesystem/DeterminingtheSizeofaFile.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\filesystem\DeterminingtheSizeofaFile.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/filesystem/EnumerateDrivesonaComputer.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\filesystem\EnumerateDrivesonaComputer.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/filesystem/FindAmountofDiskSpaceAvailable.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\filesystem\FindAmountofDiskSpaceAvailable.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/filesystem/GetInformationAboutaFile.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\filesystem\GetInformationAboutaFile.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/filesystem/MoveFiles.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\filesystem\MoveFiles.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/filesystem/ReadaDelimitedTextfile.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\filesystem\ReadaDelimitedTextfile.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/filesystem/ReadfromaBinaryFile.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\filesystem\ReadfromaBinaryFile.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/filesystem/ReadfromanExistingTextFileinMyDocuments.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\filesystem\ReadfromanExistingTextFileinMyDocuments.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/filesystem/ReadTextfromaFile.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\filesystem\ReadTextfromaFile.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/filesystem/RenameaDirectory.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\filesystem\RenameaDirectory.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/filesystem/RenameaFile.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\filesystem\RenameaFile.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/filesystem/RetrievetheDriveNamesontheLocalComputer.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\filesystem\RetrievetheDriveNamesontheLocalComputer.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/filesystem/SearchaDirectoryforFilesRecursively.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\filesystem\SearchaDirectoryforFilesRecursively.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/filesystem/SearchFilesforanExpression.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\filesystem\SearchFilesforanExpression.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/filesystem/WriteTexttoFiles.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\filesystem\WriteTexttoFiles.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/filesystem/WritetoaBinaryFile.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\filesystem\WritetoaBinaryFile.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/math/CalculateaMonthlyPaymentonaLoan.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\math\CalculateaMonthlyPaymentonaLoan.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/math/CalculateCosineOfAnAngle.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\math\CalculateCosineOfAnAngle.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/math/CalculateDepreciation.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\math\CalculateDepreciation.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/math/CalculateSineOfAnAngle.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\math\CalculateSineOfAnAngle.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/math/CalculateTangentOfAnAngle.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\math\CalculateTangentOfAnAngle.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/fundamentals/math/GetARandomNumber.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\fundamentals\math\GetARandomNumber.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/os/FindtheCurrentUsersName.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\os\FindtheCurrentUsersName.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/os/PerformanActionwhenSystemPowerModeChanges.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\os\PerformanActionwhenSystemPowerModeChanges.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/os/RespondtoTimerEvent.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\os\RespondtoTimerEvent.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/os/UseBeginInvokeonaControltorunCodeAsynchronously.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\os\UseBeginInvokeonaControltorunCodeAsynchronously.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/os/EventLog/ReadEntriesCreatedbyaParticularApplicationfromtheEventlog.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\os\EventLog\ReadEntriesCreatedbyaParticularApplicationfromtheEventlog.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/os/EventLog/ReadEntriesfromEventLogs.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\os\EventLog\ReadEntriesfromEventLogs.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/os/EventLog/WritetotheApplicationEventLogfromaSpecifiedSource.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\os\EventLog\WritetotheApplicationEventLogfromaSpecifiedSource.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/os/EventLog/WritetotheMyApplicationLog.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\os\EventLog\WritetotheMyApplicationLog.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/os/Messaging/CreateaMessageQueue.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\os\Messaging\CreateaMessageQueue.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/os/Messaging/CreateaPrivateMessageQueue.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\os\Messaging\CreateaPrivateMessageQueue.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/os/Messaging/PeekatMessages.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\os\Messaging\PeekatMessages.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/os/Messaging/PurgeQueueContents.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\os\Messaging\PurgeQueueContents.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/os/Messaging/RetrieveaListofMessageQueuesontheLocalMachine.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\os\Messaging\RetrieveaListofMessageQueuesontheLocalMachine.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/os/Messaging/RetrieveMessageLabels.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\os\Messaging\RetrieveMessageLabels.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/os/Messaging/SendaMessagetoaMessageQueue.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\os\Messaging\SendaMessagetoaMessageQueue.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/os/Messaging/SendandReceiveMessagesProgrammatically.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\os\Messaging\SendandReceiveMessagesProgrammatically.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/os/Messaging/SpecifytheFormatterforRetrievedMessages.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\os\Messaging\SpecifytheFormatterforRetrievedMessages.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/os/Process/ListApplications.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\os\Process\ListApplications.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/os/Process/OpenWebpageinDefaultBrowser.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\os\Process\OpenWebpageinDefaultBrowser.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/os/Process/RunaProgramAssociatedwithaFileType.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\os\Process\RunaProgramAssociatedwithaFileType.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/os/Process/StartanApplication.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\os\Process\StartanApplication.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/os/Process/StopanApplication.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\os\Process\StopanApplication.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/os/Registry/CreateaRegistryKeyandSetItsValues.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\os\Registry\CreateaRegistryKeyandSetItsValues.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/os/Registry/DeleteRegistryKey.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\os\Registry\DeleteRegistryKey.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/os/Registry/DetermineWhetheraRegistryKeyExists.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\os\Registry\DetermineWhetheraRegistryKeyExists.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/os/Registry/ReadRegistryValues.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\os\Registry\ReadRegistryValues.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/os/Registry/WriteRegistryValues.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\os\Registry\WriteRegistryValues.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/os/Services/ContinueaWindowsService.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\os\Services\ContinueaWindowsService.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/os/Services/PauseaWindowsService.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\os\Services\PauseaWindowsService.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/os/Services/RetrieveaListofServices.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\os\Services\RetrieveaListofServices.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/os/Services/StartaWindowsService.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\os\Services\StartaWindowsService.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/os/Services/StopaWindowsService.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\os\Services\StopaWindowsService.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/os/SystemInfo/CentralizedResponsetoChangesintheDesktop.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\os\SystemInfo\CentralizedResponsetoChangesintheDesktop.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/os/SystemInfo/ChangeRegionalSettings.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\os\SystemInfo\ChangeRegionalSettings.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/os/SystemInfo/CreateanEnvironmentVariable.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\os\SystemInfo\CreateanEnvironmentVariable.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/os/SystemInfo/DetectDesktopDisplayResolution.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\os\SystemInfo\DetectDesktopDisplayResolution.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/os/SystemInfo/DeterminetheAmountofSystemMemory.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\os\SystemInfo\DeterminetheAmountofSystemMemory.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/os/SystemInfo/DeterminetheCurrentWindowsVersion.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\os\SystemInfo\DeterminetheCurrentWindowsVersion.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/os/SystemInfo/DeterminetheWindowsSystemDirectory.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\os\SystemInfo\DeterminetheWindowsSystemDirectory.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/os/SystemInfo/FindtheAmountofDiskSpaceAvailable.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\os\SystemInfo\FindtheAmountofDiskSpaceAvailable.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/os/SystemInfo/ListEnvironmentVariables.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\os\SystemInfo\ListEnvironmentVariables.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/os/SystemInfo/RetrieveAccessiblityPreferences.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\os\SystemInfo\RetrieveAccessiblityPreferences.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/os/SystemInfo/RetrieveanEnvironmentVariable.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\os\SystemInfo\RetrieveanEnvironmentVariable.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/os/SystemInfo/RetrieveorChangeUserPreferencesforIcons.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\os\SystemInfo\RetrieveorChangeUserPreferencesforIcons.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/os/SystemInfo/RetrieveorChangeUserPreferencesforKeyboardSettings.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\os\SystemInfo\RetrieveorChangeUserPreferencesforKeyboardSettings.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/os/SystemInfo/RetrieveorChangeUserPreferencesforMenus.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\os\SystemInfo\RetrieveorChangeUserPreferencesforMenus.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/os/SystemInfo/RetrieveorChangeUserPreferencesforMouseSettings.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\os\SystemInfo\RetrieveorChangeUserPreferencesforMouseSettings.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/os/SystemInfo/RetrieveorChangeUserPreferencesforRegionalSettings.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\os\SystemInfo\RetrieveorChangeUserPreferencesforRegionalSettings.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/os/SystemInfo/RetrieveorChangeUserPreferencesforSystemColors.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\os\SystemInfo\RetrieveorChangeUserPreferencesforSystemColors.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/os/SystemInfo/RetrieveorChangeUserPreferencesforSystemPowerSettings.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\os\SystemInfo\RetrieveorChangeUserPreferencesforSystemPowerSettings.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/os/SystemInfo/RetrievetheCurrentTimeontheLocalComputer.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\os\SystemInfo\RetrievetheCurrentTimeontheLocalComputer.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/other/connectivity/ConvertaRelativeUritoanAbsoluteUri.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\other\connectivity\ConvertaRelativeUritoanAbsoluteUri.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/other/connectivity/DetermineiftheNetworkisAvailable.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\other\connectivity\DetermineiftheNetworkisAvailable.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/other/connectivity/DownloadaFileusingHttp.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\other\connectivity\DownloadaFileusingHttp.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/other/connectivity/EnumerateSerialPorts.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\other\connectivity\EnumerateSerialPorts.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/other/connectivity/PingAnotherComputer.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\other\connectivity\PingAnotherComputer.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/other/connectivity/ReadDatafromaSerialPort.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\other\connectivity\ReadDatafromaSerialPort.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/other/connectivity/SendAnEmail.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\other\connectivity\SendAnEmail.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/other/connectivity/UploadAFile.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\other\connectivity\UploadAFile.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/other/connectivity/UseaSerialPorttoDialaPhoneNumber.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\other\connectivity\UseaSerialPorttoDialaPhoneNumber.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/other/security/ComputetheHashCodeofaPassword.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\other\security\ComputetheHashCodeofaPassword.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/other/security/ComputetheHashCodeofaString.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\other\security\ComputetheHashCodeofaString.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/other/security/DecryptaString.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\other\security\DecryptaString.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/other/security/EncryptaString.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\other\security\EncryptaString.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/other/security/FindtheCurrentUser'sName.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\other\security\FindtheCurrentUser'sName.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/other/security/GenerateCryptographicallyRandomData.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\other\security\GenerateCryptographicallyRandomData.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Clipboard/CopyAClassInstanceToTheClipboard.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Clipboard\CopyAClassInstanceToTheClipboard.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Clipboard/CopyAnImageToTheClipboard.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Clipboard\CopyAnImageToTheClipboard.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Clipboard/CopyAStringToTheClipboard.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Clipboard\CopyAStringToTheClipboard.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Clipboard/GetAnImageFromTheClipboard.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Clipboard\GetAnImageFromTheClipboard.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Clipboard/GetaStringFromTheClipboard.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Clipboard\GetaStringFromTheClipboard.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Controls/AddaToolTiptoaWindowsFormsControl.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Controls\AddaToolTiptoaWindowsFormsControl.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Controls/Button/ResizeaButtonDynamicallyByMeasuringItsText.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Controls\Button\ResizeaButtonDynamicallyByMeasuringItsText.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Controls/Button/ResizeaButtonDynamicallyByUsingAutoSize.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Controls\Button\ResizeaButtonDynamicallyByUsingAutoSize.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Controls/Calendar/SelectRangeOfDatesInAMonthCalendar.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Controls\Calendar\SelectRangeOfDatesInAMonthCalendar.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Controls/ComboBox/PopulateaComboBoxfromanArrayList.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Controls\ComboBox\PopulateaComboBoxfromanArrayList.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Controls/ComboBox/PopulateComboBoxfromColumnofaDatabaseTable.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Controls\ComboBox\PopulateComboBoxfromColumnofaDatabaseTable.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Controls/ComboBox/ProvideAutomaticTextCompletionforaComboBox.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Controls\ComboBox\ProvideAutomaticTextCompletionforaComboBox.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Controls/datagridview/LocktheColumnWidthsofaDataGridView.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Controls\datagridview\LocktheColumnWidthsofaDataGridView.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Controls/ListBox/ClearItemsFromaBoundListBoxControl.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Controls\ListBox\ClearItemsFromaBoundListBoxControl.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Controls/ListBox/LoadDataTableColumnIntoListBoxControl.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Controls\ListBox\LoadDataTableColumnIntoListBoxControl.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Controls/ListBox/LocateAnItemInAListBoxControl.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Controls\ListBox\LocateAnItemInAListBoxControl.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Controls/ListBox/SelectAnItemInAListBoxControl.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Controls\ListBox\SelectAnItemInAListBoxControl.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Controls/ListView/DeterminetheSelectedIteminaListView.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Controls\ListView\DeterminetheSelectedIteminaListView.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Controls/Menu/AddACheckMarkToAToolStripMenuItem.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Controls\Menu\AddACheckMarkToAToolStripMenuItem.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Controls/Menu/AddAContextMenuToAWindowsForm.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Controls\Menu\AddAContextMenuToAWindowsForm.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Controls/Menu/AddAShortcutKeyToAToolStripMenuItem.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Controls\Menu\AddAShortcutKeyToAToolStripMenuItem.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Controls/Menu/AddMenuItemsToAWindowsForm.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Controls\Menu\AddMenuItemsToAWindowsForm.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Controls/Menu/DeleteAToolStripMenuItemFromAMenuStrip.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Controls\Menu\DeleteAToolStripMenuItemFromAMenuStrip.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Controls/ProgressBar/UseAProgressBarToTrackIterations.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Controls\ProgressBar\UseAProgressBarToTrackIterations.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Controls/radiobutton/CreateRadioButtonGroupfromaStringArray.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Controls\radiobutton\CreateRadioButtonGroupfromaStringArray.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Controls/RichTextBox/FormatCharactersinBoldinaRichTextBox.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Controls\RichTextBox\FormatCharactersinBoldinaRichTextBox.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Controls/RichTextBox/LoadanRTFFileintoaRichTextBoxControl.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Controls\RichTextBox\LoadanRTFFileintoaRichTextBoxControl.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Controls/RichTextBox/PositiontheCursorinaRichTextBox.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Controls\RichTextBox\PositiontheCursorinaRichTextBox.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Controls/RichTextBox/SavetheContentsofaRichTextBoxtoaRTFFile.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Controls\RichTextBox\SavetheContentsofaRichTextBoxtoaRTFFile.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Controls/textbox/PopulateAMultilineTextBoxWithAStringArray.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Controls\textbox\PopulateAMultilineTextBoxWithAStringArray.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Controls/TreeView/DeterminetheSelectedNodeinaTreeView.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Controls\TreeView\DeterminetheSelectedNodeinaTreeView.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Drawing/CreateaBitmapatRunTime.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Drawing\CreateaBitmapatRunTime.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Drawing/CreateaCustomBrushDesign.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Drawing\CreateaCustomBrushDesign.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Drawing/CreateaPen.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Drawing\CreateaPen.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Drawing/CreateaSolidBrush.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Drawing\CreateaSolidBrush.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Drawing/CreateaTriangleShapeusingaGraphicsPathObject.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Drawing\CreateaTriangleShapeusingaGraphicsPathObject.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Drawing/DisplayanAnimatedGif.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Drawing\DisplayanAnimatedGif.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Drawing/DrawaFilledEllipseonaWindowsForm.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Drawing\DrawaFilledEllipseonaWindowsForm.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Drawing/DrawaFilledRectangleonaWindowsForm.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Drawing\DrawaFilledRectangleonaWindowsForm.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Drawing/DrawaLineonaWindowsForm.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Drawing\DrawaLineonaWindowsForm.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Drawing/DrawaPieChart.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Drawing\DrawaPieChart.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Drawing/DrawaRubberBandRectangle.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Drawing\DrawaRubberBandRectangle.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Drawing/DrawaShapewithGradientFill.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Drawing\DrawaShapewithGradientFill.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Drawing/DrawOutlinedEllipse.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Drawing\DrawOutlinedEllipse.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Drawing/DrawOutlinedRectangle.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Drawing\DrawOutlinedRectangle.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Drawing/DrawTextonaWindowsForm.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Drawing\DrawTextonaWindowsForm.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Drawing/DrawVerticalTextonaWindowsForm.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Drawing\DrawVerticalTextonaWindowsForm.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Fonts/CreateaFont.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Fonts\CreateaFont.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Forms/AddaWindowsFormsControlatRunTime.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Forms\AddaWindowsFormsControlatRunTime.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Forms/ArrangeMDIChildForms.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Forms\ArrangeMDIChildForms.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Forms/ConvertMouseCoordinatestoScreenCoordinates.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Forms\ConvertMouseCoordinatestoScreenCoordinates.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Forms/CreateMDIChildForms.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Forms\CreateMDIChildForms.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Forms/CreateTransparentWindowsForms.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Forms\CreateTransparentWindowsForms.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Forms/DeterminetheActiveMDIChild.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Forms\DeterminetheActiveMDIChild.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Forms/DeterminewhichControlonaWindowsFormisSelected.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Forms\DeterminewhichControlonaWindowsFormisSelected.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Forms/DetermineWhichModifierKeyWasPressed.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Forms\DetermineWhichModifierKeyWasPressed.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Forms/DisplayOneWindowsFormfromAnother.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Forms\DisplayOneWindowsFormfromAnother.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Forms/EliminatetheTitleBar.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Forms\EliminatetheTitleBar.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Forms/KeepaWindowsFormonTop.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Forms\KeepaWindowsFormonTop.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Forms/MoveaWindowbyDraggingtheClientAreaoftheForm.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Forms\MoveaWindowbyDraggingtheClientAreaoftheForm.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Forms/PlayaBeepFromaWindowsForm.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Forms\PlayaBeepFromaWindowsForm.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Forms/ResizeWindowsForms.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Forms\ResizeWindowsForms.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Forms/RestrictaControl'sAcceptableKeystrokes.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Forms\RestrictaControl'sAcceptableKeystrokes.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Forms/RetrieveInformationfromtheParentFormofaDialogBox.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Forms\RetrieveInformationfromtheParentFormofaDialogBox.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Forms/RetrievetheResultforDialogBoxes.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Forms\RetrievetheResultforDialogBoxes.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Forms/SettheScreenLocationofWindowsForms.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Forms\SettheScreenLocationofWindowsForms.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Sound/LoopaSoundPlayingonaWindowsForm.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Sound\LoopaSoundPlayingonaWindowsForm.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Sound/PlayaSound.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Sound\PlayaSound.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/windowsforms/Sound/StopPlayingSoundsintheBackground.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\windowsforms\Sound\StopPlayingSoundsintheBackground.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/WPF/DependencyProperty Attached.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\WPF\DependencyProperty Attached.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/WPF/DependencyProperty ReadOnly.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\WPF\DependencyProperty ReadOnly.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/WPF/DependencyProperty.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\WPF\DependencyProperty.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/WPF/RoutedCommand.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\WPF\RoutedCommand.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/WPF/RoutedCommandHandlers.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\WPF\RoutedCommandHandlers.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/Snippets/1033/WPF/RoutedEvent.snippet
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\Snippets\1033\WPF\RoutedEvent.snippet file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/VBWizards/1033/common.js
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\VBWizards\1033\common.js file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/VBWizards/AppConfiguration/Scripts/1033/default.js
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\VBWizards\AppConfiguration\Scripts\1033\default.js file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/VBWizards/AppConfiguration/Templates/1033/app.config
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\VBWizards\AppConfiguration\Templates\1033\app.config file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/VBWizards/DesignerTemplates/1033/InheritedTemplate.Designer.vb
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\VBWizards\DesignerTemplates\1033\InheritedTemplate.Designer.vb file deleted.
+[bd94:0009][2026-05-10T01:00:40] Processing file /Contents/VB/VBWizards/DesignerTemplates/1033/InheritedTemplate.vb
+[bd94:0009][2026-05-10T01:00:40] D:\Program\VB\VBWizards\DesignerTemplates\1033\InheritedTemplate.vb file deleted.
+[bd94:0009][2026-05-10T01:00:40] Started: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:40] Completed: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:40] Package executed successfully. Return code: 0

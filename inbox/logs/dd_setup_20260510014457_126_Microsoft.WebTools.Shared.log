@@ -1,0 +1,740 @@
+[3474:0009][2026-05-10T01:46:14] Using cached package manifest as the embedded manifest
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Microsoft.WebTools.Shared.CPS.VS.dll
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Microsoft.WebTools.Shared.CPS.VS.dll file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Microsoft.WebTools.Shared.VS.dll
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Microsoft.WebTools.Shared.VS.dll file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Microsoft.WebTools.Shared.dll
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Microsoft.WebTools.Shared.dll file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Shared.pkgdef
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Shared.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/extension.vsixmanifest
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\extension.vsixmanifest file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/SharedVS.imagemanifest
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\SharedVS.imagemanifest file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/WebTools.Shared.clientenabledpkg
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\WebTools.Shared.clientenabledpkg file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/assets/images/images.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\assets\images\images.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/assets/strings/enu/strings.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\assets\strings\enu\strings.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/assets/strings/chs/strings.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\assets\strings\chs\strings.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/assets/strings/cht/strings.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\assets\strings\cht\strings.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/assets/strings/csy/strings.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\assets\strings\csy\strings.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/assets/strings/deu/strings.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\assets\strings\deu\strings.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/assets/strings/esn/strings.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\assets\strings\esn\strings.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/assets/strings/fra/strings.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\assets\strings\fra\strings.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/assets/strings/ita/strings.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\assets\strings\ita\strings.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/assets/strings/jpn/strings.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\assets\strings\jpn\strings.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/assets/strings/kor/strings.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\assets\strings\kor\strings.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/assets/strings/plk/strings.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\assets\strings\plk\strings.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/assets/strings/ptb/strings.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\assets\strings\ptb\strings.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/assets/strings/rus/strings.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\assets\strings\rus\strings.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/assets/strings/trk/strings.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\assets\strings\trk\strings.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/components/appInsightsConfig.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\components\appInsightsConfig.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/components/appServiceRemoteAccess.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\components\appServiceRemoteAccess.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/components/appServiceSettings.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\components\appServiceSettings.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/components/appSettings.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\components\appSettings.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/components/code.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\components\code.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/components/containerAppRemoteAccess.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\components\containerAppRemoteAccess.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/components/containerAppSettings.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\components\containerAppSettings.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/components/customConnector.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\components\customConnector.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/components/devtunnel.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\components\devtunnel.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/components/dotnetMsIdentity.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\components\dotnetMsIdentity.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/components/identityCodeUpdate.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\components\identityCodeUpdate.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/components/itemTemplateCreator.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\components\itemTemplateCreator.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/components/launchSettings.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\components\launchSettings.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/components/localAccess.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\components\localAccess.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/components/msbuildProperty.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\components\msbuildProperty.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/components/nuget.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\components\nuget.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/components/projectProperty.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\components\projectProperty.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/components/secretStore.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\components\secretStore.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/components/serviceConnector.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\components\serviceConnector.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/components/wapWebConfig.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\components\wapWebConfig.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/definitions/code.apis.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\definitions\code.apis.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/definitions/code.appConfig.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\definitions\code.appConfig.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/definitions/code.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\definitions\code.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/definitions/conditions.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\definitions\conditions.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/definitions/packages.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\definitions\packages.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/configs/apis/apis.code.coreweb.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\configs\apis\apis.code.coreweb.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/configs/apis/apis.nuget.coreweb.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\configs\apis\apis.nuget.coreweb.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/configs/apis/apis.nuget.functions.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\configs\apis\apis.nuget.functions.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/configs/appConfig/appConfig.code.addConfiguration.coreweb30.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\configs\appConfig\appConfig.code.addConfiguration.coreweb30.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/configs/appConfig/appConfig.code.addConfiguration.coreweb31.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\configs\appConfig\appConfig.code.addConfiguration.coreweb31.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/configs/appConfig/appConfig.code.addConfiguration.nonweb.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\configs\appConfig\appConfig.code.addConfiguration.nonweb.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/configs/appConfig/appConfig.code.coreweb.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\configs\appConfig\appConfig.code.coreweb.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/configs/appConfig/appConfig.launchSettings.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\configs\appConfig\appConfig.launchSettings.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/configs/appConfig/appConfig.nuget.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\configs\appConfig\appConfig.nuget.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/configs/appConfig/code.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\configs\appConfig\code.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/configs/appInsights/appInsights.code.startup.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\configs\appInsights\appInsights.code.startup.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/configs/appInsights/appInsights.nuget.coreweb.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\configs\appInsights\appInsights.nuget.coreweb.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/configs/appInsights/appInsights.nuget.web.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\configs\appInsights\appInsights.nuget.web.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/configs/appInsights/appInsights.projectProperty.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\configs\appInsights\appInsights.projectProperty.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/configs/cosmosdb/cosmosdb.nuget.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\configs\cosmosdb\cosmosdb.nuget.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/configs/grpc/grpc.code.startup.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\configs\grpc\grpc.code.startup.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/configs/identity/identity.nuget.blazor.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\configs\identity\identity.nuget.blazor.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/configs/identity/identity.nuget.coreweb.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\configs\identity\identity.nuget.coreweb.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/configs/identity/identity.nuget.wap.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\configs\identity\identity.nuget.wap.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/configs/mongodb/mongodb.nuget.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\configs\mongodb\mongodb.nuget.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/configs/mssql/mssql.appSettings.everywhere.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\configs\mssql\mssql.appSettings.everywhere.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/configs/mssql/mssql.appSettings.explicitSection.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\configs\mssql\mssql.appSettings.explicitSection.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/configs/mssql/mssql.nuget.coreweb.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\configs\mssql\mssql.nuget.coreweb.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/configs/mssql/mssql.nuget.web.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\configs\mssql\mssql.nuget.web.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/configs/postgresql/postgresql.nuget.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\configs\postgresql\postgresql.nuget.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/configs/rabbitmq/rabbitmq.nuget.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\configs\rabbitmq\rabbitmq.nuget.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/configs/redis/redis.nuget.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\configs\redis\redis.nuget.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/configs/secrets/secrets.keyVault.code.configBuild.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\configs\secrets\secrets.keyVault.code.configBuild.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/configs/secrets/secrets.keyVault.launchSettings.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\configs\secrets\secrets.keyVault.launchSettings.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/configs/secrets/secrets.keyVault.nuget.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\configs\secrets\secrets.keyVault.nuget.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/configs/secrets/secrets.user.projectProperty.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\configs\secrets\secrets.user.projectProperty.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/configs/signalr/signalr.code.startup.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\configs\signalr\signalr.code.startup.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/configs/signalr/signalr.launchSettings.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\configs\signalr\signalr.launchSettings.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/configs/signalr/signalr.nuget.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\configs\signalr\signalr.nuget.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/configs/springCloud/springCloud.code.configBuild.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\configs\springCloud\springCloud.code.configBuild.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/configs/springCloud/springCloud.nuget.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\configs\springCloud\springCloud.nuget.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/configs/sqlite/sqlite.nuget.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\configs\sqlite\sqlite.nuget.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/configs/storage/storage.appSettings.everywhere.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\configs\storage\storage.appSettings.everywhere.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/configs/storage/storage.appSettings.explicitSection.json
+[3474:0009][2026-05-10T01:46:14] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\configs\storage\storage.appSettings.explicitSection.json file deleted.
+[3474:0009][2026-05-10T01:46:14] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/configs/storage/storage.code.startup.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\configs\storage\storage.code.startup.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/configs/storage/storage.nuget.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\configs\storage\storage.nuget.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/contexts/appServiceApiEligibleProject.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\contexts\appServiceApiEligibleProject.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/contexts/dotNetCoreWeb.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\contexts\dotNetCoreWeb.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/contexts/dotNetCoreWebAndNotNetStandard.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\contexts\dotNetCoreWebAndNotNetStandard.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/contexts/dotNetCoreWebAndNotNetStandardAfter31.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\contexts\dotNetCoreWebAndNotNetStandardAfter31.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/contexts/dotNetCoreWebAndNotNetStandardBefore31.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\contexts\dotNetCoreWebAndNotNetStandardBefore31.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/contexts/dotNetCoreWebOrFunctionAndNotNetStandard.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\contexts\dotNetCoreWebOrFunctionAndNotNetStandard.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/contexts/dotNetCoreWithAppConfigCode.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\contexts\dotNetCoreWithAppConfigCode.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/contexts/dotNetCoreWorker.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\contexts\dotNetCoreWorker.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/contexts/functionAppApiEligibleProject.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\contexts\functionAppApiEligibleProject.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/contexts/hasSteelToe.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\contexts\hasSteelToe.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/contexts/web.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\contexts\web.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/detectors/contexts/webAssembly.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\detectors\contexts\webAssembly.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/apis/apis.azure.coreweb.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\apis\apis.azure.coreweb.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/apis/apis.azure.function.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\apis\apis.azure.function.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/appConfig/appConfig.azure.appService.core.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\appConfig\appConfig.azure.appService.core.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/appConfig/appConfig.azure.appService.coreweb.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\appConfig\appConfig.azure.appService.coreweb.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/appConfig/appConfig.azure.appService.coreweb30.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\appConfig\appConfig.azure.appService.coreweb30.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/appConfig/appConfig.azure.containerApp.core.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\appConfig\appConfig.azure.containerApp.core.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/appConfig/appConfig.azure.containerApp.coreweb.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\appConfig\appConfig.azure.containerApp.coreweb.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/appConfig/appConfig.azure.containerApp.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\appConfig\appConfig.azure.containerApp.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/appConfig/appConfig.azure.core.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\appConfig\appConfig.azure.core.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/appConfig/appConfig.azure.coreweb.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\appConfig\appConfig.azure.coreweb.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/appConfig/appConfig.azure.coreweb30.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\appConfig\appConfig.azure.coreweb30.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/appConfig/appConfig.azure.function.isolated.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\appConfig\appConfig.azure.function.isolated.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/appConfig/appConfig.azure.function.regular.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\appConfig\appConfig.azure.function.regular.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/appConfig/appConfig.azure.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\appConfig\appConfig.azure.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/appInsights/appInsights.appService.coreweb.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\appInsights\appInsights.appService.coreweb.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/appInsights/appInsights.appService.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\appInsights\appInsights.appService.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/appInsights/appInsights.appService.wap.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\appInsights\appInsights.appService.wap.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/appInsights/appInsights.containerApp.core.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\appInsights\appInsights.containerApp.core.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/appInsights/appInsights.coreweb.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\appInsights\appInsights.coreweb.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/appInsights/appInsights.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\appInsights\appInsights.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/appInsights/appInsights.sdk.coreweb.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\appInsights\appInsights.sdk.coreweb.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/appInsights/appInsights.sdk.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\appInsights\appInsights.sdk.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/appInsights/appInsights.wap.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\appInsights\appInsights.wap.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/cosmosdb/cosmosdb.azure.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\cosmosdb\cosmosdb.azure.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/cosmosdb/cosmosdb.azure.appService.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\cosmosdb\cosmosdb.azure.appService.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/cosmosdb/cosmosdb.azure.appService.coreweb.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\cosmosdb\cosmosdb.azure.appService.coreweb.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/cosmosdb/cosmosdb.azure.coreweb.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\cosmosdb\cosmosdb.azure.coreweb.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/cosmosdb/cosmosdb.coreweb.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\cosmosdb\cosmosdb.coreweb.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/cosmosdb/cosmosdb.function.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\cosmosdb\cosmosdb.function.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/cosmosdb/cosmosdb.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\cosmosdb\cosmosdb.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/grpc/grpc.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\grpc\grpc.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/identity/blazor/identityapp.blazor.callsgraph.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\identity\blazor\identityapp.blazor.callsgraph.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/identity/blazor/identityapp.blazor.downstreamapi.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\identity\blazor\identityapp.blazor.downstreamapi.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/identity/blazor/identityapp.blazor.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\identity\blazor\identityapp.blazor.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/identity/wap/identityapp.wap.local.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\identity\wap\identityapp.wap.local.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/identity/wap/identityapp.wap.remote.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\identity\wap\identityapp.wap.remote.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/identity/identityapp.callsgraph.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\identity\identityapp.callsgraph.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/identity/identityapp.callsgraph_api.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\identity\identityapp.callsgraph_api.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/identity/identityapp.downstreamapi.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\identity\identityapp.downstreamapi.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/identity/identityapp.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\identity\identityapp.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/mongodb/mongodb.coreweb.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\mongodb\mongodb.coreweb.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/mongodb/mongodb.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\mongodb\mongodb.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/mssql/ef.sqlServer.coreweb.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\mssql\ef.sqlServer.coreweb.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/mssql/ef.sqlServer.azure.coreweb.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\mssql\ef.sqlServer.azure.coreweb.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/mssql/ef.sqlServer.azure.appService.coreweb.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\mssql\ef.sqlServer.azure.appService.coreweb.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/mssql/ef.sqlServer.function.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\mssql\ef.sqlServer.function.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/mssql/ef.sqlServer.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\mssql\ef.sqlServer.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/mssql/ef.sqlServer.azure.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\mssql\ef.sqlServer.azure.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/mssql/ef.sqlServer.azure.appService.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\mssql\ef.sqlServer.azure.appService.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/postgresql/postgresql.coreweb.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\postgresql\postgresql.coreweb.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/postgresql/postgresql.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\postgresql\postgresql.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/powerplatform/powerplatform.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\powerplatform\powerplatform.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/contexts/powerplatform/powerplatform.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\contexts\powerplatform\powerplatform.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/rabbitmq/rabbitmq.coreweb.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\rabbitmq\rabbitmq.coreweb.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/rabbitmq/rabbitmq.function.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\rabbitmq\rabbitmq.function.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/rabbitmq/rabbitmq.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\rabbitmq\rabbitmq.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/redis/redis.azure.appService.coreweb.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\redis\redis.azure.appService.coreweb.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/redis/redis.azure.appService.coreweb60.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\redis\redis.azure.appService.coreweb60.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/redis/redis.azure.appService.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\redis\redis.azure.appService.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/redis/redis.azure.coreweb.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\redis\redis.azure.coreweb.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/redis/redis.azure.coreweb60.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\redis\redis.azure.coreweb60.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/redis/redis.azure.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\redis\redis.azure.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/redis/redis.coreweb.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\redis\redis.coreweb.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/redis/redis.coreweb60.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\redis\redis.coreweb60.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/redis/redis.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\redis\redis.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/secrets/secrets.keyVault.appService.coreweb.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\secrets\secrets.keyVault.appService.coreweb.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/secrets/secrets.keyVault.appService.coreweb31.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\secrets\secrets.keyVault.appService.coreweb31.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/secrets/secrets.keyVault.appService.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\secrets\secrets.keyVault.appService.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/secrets/secrets.keyVault.containerApp.coreweb.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\secrets\secrets.keyVault.containerApp.coreweb.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/secrets/secrets.keyVault.containerApp.coreweb31.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\secrets\secrets.keyVault.containerApp.coreweb31.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/secrets/secrets.keyVault.coreweb.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\secrets\secrets.keyVault.coreweb.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/secrets/secrets.keyVault.coreweb31.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\secrets\secrets.keyVault.coreweb31.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/secrets/secrets.keyVault.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\secrets\secrets.keyVault.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/secrets/secrets.user.coreweb.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\secrets\secrets.user.coreweb.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/secrets/secrets.user.function.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\secrets\secrets.user.function.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/secrets/secrets.user.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\secrets\secrets.user.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/signalr/signalr.appService.coreweb.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\signalr\signalr.appService.coreweb.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/signalr/signalr.appService.function.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\signalr\signalr.appService.function.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/signalr/signalr.appService.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\signalr\signalr.appService.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/signalr/signalr.coreweb.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\signalr\signalr.coreweb.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/signalr/signalr.function.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\signalr\signalr.function.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/signalr/signalr.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\signalr\signalr.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/springCloud/springCloud.steeltoe24.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\springCloud\springCloud.steeltoe24.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/springCloud/springCloud.steeltoe30.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\springCloud\springCloud.steeltoe30.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/sqlite/sqlite.coreweb.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\sqlite\sqlite.coreweb.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/storage/storage.azure.appService.coreweb.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\storage\storage.azure.appService.coreweb.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/storage/storage.azure.appService.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\storage\storage.azure.appService.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/storage/storage.azure.containerApp.coreweb.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\storage\storage.azure.containerApp.coreweb.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/storage/storage.azure.coreweb.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\storage\storage.azure.coreweb.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/storage/storage.azure.function.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\storage\storage.azure.function.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/storage/storage.azure.worker.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\storage\storage.azure.worker.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/storage/storage.azure.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\storage\storage.azure.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/storage/storage.emulator.coreweb.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\storage\storage.emulator.coreweb.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/storage/storage.emulator.function.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\storage\storage.emulator.function.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/storage/storage.emulator.worker.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\storage\storage.emulator.worker.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/configs/storage/storage.emulator.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\configs\storage\storage.emulator.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/contexts/apis/apis.azure.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\contexts\apis\apis.azure.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/contexts/appConfig/appConfig.azure.appService.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\contexts\appConfig\appConfig.azure.appService.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/contexts/appConfig/appConfig.azure.containerApp.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\contexts\appConfig\appConfig.azure.containerApp.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/contexts/appConfig/appConfig.azure.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\contexts\appConfig\appConfig.azure.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/contexts/appInsights/appInsights.appService.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\contexts\appInsights\appInsights.appService.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/contexts/appInsights/appInsights.containerApp.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\contexts\appInsights\appInsights.containerApp.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/contexts/appInsights/appInsights.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\contexts\appInsights\appInsights.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/contexts/appInsights/appInsights.sdk.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\contexts\appInsights\appInsights.sdk.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/contexts/cosmosdb/cosmosdb.azure.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\contexts\cosmosdb\cosmosdb.azure.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/contexts/cosmosdb/cosmosdb.azure.appService.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\contexts\cosmosdb\cosmosdb.azure.appService.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/contexts/cosmosdb/cosmosdb.local.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\contexts\cosmosdb\cosmosdb.local.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/contexts/grpc/grpc.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\contexts\grpc\grpc.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/contexts/identity/identityapp.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\contexts\identity\identityapp.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/contexts/identity/identityapp.wap.local.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\contexts\identity\identityapp.wap.local.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/contexts/identity/identityapp.wap.remote.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\contexts\identity\identityapp.wap.remote.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/contexts/mongodb/mongodb.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\contexts\mongodb\mongodb.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/contexts/mssql/ef.sqlServer.local.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\contexts\mssql\ef.sqlServer.local.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/contexts/mssql/ef.sqlServer.azure.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\contexts\mssql\ef.sqlServer.azure.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/contexts/mssql/ef.sqlServer.azure.appService.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\contexts\mssql\ef.sqlServer.azure.appService.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/contexts/postgresql/postgresql.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\contexts\postgresql\postgresql.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/contexts/rabbitmq/rabbitmq.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\contexts\rabbitmq\rabbitmq.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/contexts/redis/redis.azure.appService.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\contexts\redis\redis.azure.appService.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/contexts/redis/redis.azure.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\contexts\redis\redis.azure.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/contexts/redis/redis.local.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\contexts\redis\redis.local.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/contexts/secrets/secrets.keyVault.appService.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\contexts\secrets\secrets.keyVault.appService.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/contexts/secrets/secrets.keyVault.containerApp.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\contexts\secrets\secrets.keyVault.containerApp.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/contexts/secrets/secrets.keyVault.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\contexts\secrets\secrets.keyVault.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/contexts/secrets/secrets.user.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\contexts\secrets\secrets.user.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/contexts/signalr/signalr.appService.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\contexts\signalr\signalr.appService.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/contexts/signalr/signalr.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\contexts\signalr\signalr.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/contexts/springCloud/springCloud.azure.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\contexts\springCloud\springCloud.azure.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/contexts/sqlite/sqlite.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\contexts\sqlite\sqlite.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/contexts/storage/storage.azure.appService.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\contexts\storage\storage.azure.appService.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/contexts/storage/storage.azure.containerApp.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\contexts\storage\storage.azure.containerApp.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/contexts/storage/storage.azure.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\contexts\storage\storage.azure.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/features/contexts/storage/storage.emulator.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\features\contexts\storage\storage.emulator.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/apis/apis.msbuildProperty.coreweb.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\apis\apis.msbuildProperty.coreweb.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/apis/apis.msbuildProperty.function.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\apis\apis.msbuildProperty.function.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/appConfig/isolated/AzureAppConfigShowBetaFeature.cs
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\appConfig\isolated\AzureAppConfigShowBetaFeature.cs file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/appConfig/isolated/AzureAppConfigShowMessage.cs
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\appConfig\isolated\AzureAppConfigShowMessage.cs file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/appConfig/regular/AzureAppConfigShowBetaFeature.cs
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\appConfig\regular\AzureAppConfigShowBetaFeature.cs file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/appConfig/regular/AzureAppConfigShowMessage.cs
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\appConfig\regular\AzureAppConfigShowMessage.cs file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/appConfig/regular/AzureAppConfigStartup.cs
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\appConfig\regular\AzureAppConfigStartup.cs file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/appConfig/appConfig.appServiceSettings.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\appConfig\appConfig.appServiceSettings.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/appConfig/appConfig.appSettings.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\appConfig\appConfig.appSettings.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/appConfig/appConfig.code.generic.appConfigCore.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\appConfig\appConfig.code.generic.appConfigCore.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/appConfig/appConfig.code.generic.appConfigCoreMinimalAppModel.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\appConfig\appConfig.code.generic.appConfigCoreMinimalAppModel.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/appConfig/appConfig.code.generic.appConfigCoreMinimalAppModelUsing1.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\appConfig\appConfig.code.generic.appConfigCoreMinimalAppModelUsing1.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/appConfig/appConfig.code.generic.appConfigCoreMinimalAppModelUsing2.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\appConfig\appConfig.code.generic.appConfigCoreMinimalAppModelUsing2.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/appConfig/appConfig.code.generic.appConfigCoreMinimalAppModelUsing3.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\appConfig\appConfig.code.generic.appConfigCoreMinimalAppModelUsing3.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/appConfig/appConfig.code.generic.appConfigFunctionConfigureAppConfiguration.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\appConfig\appConfig.code.generic.appConfigFunctionConfigureAppConfiguration.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/appConfig/appConfig.code.generic.appConfigFunctionConfigureAppConfigurationMinimalAppModel.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\appConfig\appConfig.code.generic.appConfigFunctionConfigureAppConfigurationMinimalAppModel.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/appConfig/appConfig.code.generic.appConfigFunctionConfigureFunctionsWorkerDefaults.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\appConfig\appConfig.code.generic.appConfigFunctionConfigureFunctionsWorkerDefaults.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/appConfig/appConfig.code.generic.appConfigFunctionConfigureServices.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\appConfig\appConfig.code.generic.appConfigFunctionConfigureServices.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/appConfig/appConfig.code.generic.appConfigFunctionConfigureServicesMinimalModel.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\appConfig\appConfig.code.generic.appConfigFunctionConfigureServicesMinimalModel.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/appConfig/appConfig.code.generic.appConfigFunctionConfigureServicesMinimalModel2.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\appConfig\appConfig.code.generic.appConfigFunctionConfigureServicesMinimalModel2.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/appConfig/appConfig.code.generic.appConfigFunctionUsingDeclaration.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\appConfig\appConfig.code.generic.appConfigFunctionUsingDeclaration.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/appConfig/appConfig.code.generic.appConfigFunctionUsingDeclarationMinimalAppModel.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\appConfig\appConfig.code.generic.appConfigFunctionUsingDeclarationMinimalAppModel.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/appConfig/appConfig.code.generic.appConfigWebCoreMinimalAppModel.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\appConfig\appConfig.code.generic.appConfigWebCoreMinimalAppModel.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/appConfig/appConfig.code.generic.appConfigWebCoreMinimalAppModelUsing.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\appConfig\appConfig.code.generic.appConfigWebCoreMinimalAppModelUsing.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/appConfig/appConfig.code.generic.appConfigWebCore_Main.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\appConfig\appConfig.code.generic.appConfigWebCore_Main.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/appConfig/appConfig.code.generic.appConfigWebCore_Main30.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\appConfig\appConfig.code.generic.appConfigWebCore_Main30.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/appConfig/appConfig.code.generic.codeFunctionShowBetaFeature.isolated.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\appConfig\appConfig.code.generic.codeFunctionShowBetaFeature.isolated.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/appConfig/appConfig.code.generic.codeFunctionShowBetaFeature.regular.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\appConfig\appConfig.code.generic.codeFunctionShowBetaFeature.regular.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/appConfig/appConfig.code.generic.codeFunctionShowMessage.isolated.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\appConfig\appConfig.code.generic.codeFunctionShowMessage.isolated.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/appConfig/appConfig.code.generic.codeFunctionShowMessage.regular.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\appConfig\appConfig.code.generic.codeFunctionShowMessage.regular.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/appConfig/appConfig.code.generic.codeFunctionStartup.regular.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\appConfig\appConfig.code.generic.codeFunctionStartup.regular.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/appConfig/appConfig.code.generic.startupCode.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\appConfig\appConfig.code.generic.startupCode.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/appConfig/appConfig.nuget.core.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\appConfig\appConfig.nuget.core.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/appConfig/appConfig.nuget.coreweb.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\appConfig\appConfig.nuget.coreweb.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/appConfig/appConfig.nuget.function.isolated.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\appConfig\appConfig.nuget.function.isolated.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/appConfig/appConfig.nuget.function.regular.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\appConfig\appConfig.nuget.function.regular.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/appConfig/appConfig.nuget.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\appConfig\appConfig.nuget.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/appConfig/appConfig.serviceConnector.appService.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\appConfig\appConfig.serviceConnector.appService.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/appConfig/appConfig.serviceConnector.containerApp.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\appConfig\appConfig.serviceConnector.containerApp.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/appConfig/appConfig.serviceConnector.local.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\appConfig\appConfig.serviceConnector.local.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/appInsights/appInsights.appInsightsConfig.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\appInsights\appInsights.appInsightsConfig.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/appInsights/appInsights.appServiceSettings.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\appInsights\appInsights.appServiceSettings.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/appInsights/appInsights.appSettings.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\appInsights\appInsights.appSettings.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/appInsights/appInsights.code.generic.sdk.startupCode.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\appInsights\appInsights.code.generic.sdk.startupCode.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/appInsights/appInsights.code.generic.startupCode.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\appInsights\appInsights.code.generic.startupCode.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/appInsights/appInsights.code.usings.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\appInsights\appInsights.code.usings.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/appInsights/appInsights.nuget.coreweb.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\appInsights\appInsights.nuget.coreweb.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/appInsights/appInsights.nuget.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\appInsights\appInsights.nuget.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/appInsights/appInsights.projectProperty.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\appInsights\appInsights.projectProperty.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/appInsights/appInsights.secretStore.local.connectionId.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\appInsights\appInsights.secretStore.local.connectionId.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/code/code.generic.startupSystemNamespace.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\code\code.generic.startupSystemNamespace.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/cosmosdb/cosmosdb.itemTemplateCreator.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\cosmosdb\cosmosdb.itemTemplateCreator.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/cosmosdb/cosmosdb.nuget.allPackages.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\cosmosdb\cosmosdb.nuget.allPackages.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/cosmosdb/cosmosdb.serviceConnector.appService.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\cosmosdb\cosmosdb.serviceConnector.appService.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/cosmosdb/cosmosdb.serviceConnector.local.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\cosmosdb\cosmosdb.serviceConnector.local.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/identity/identityapp.code.update.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\identity\identityapp.code.update.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/identity/identityapp.nuget.blazor.callsgraph.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\identity\identityapp.nuget.blazor.callsgraph.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/identity/identityapp.nuget.blazor.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\identity\identityapp.nuget.blazor.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/identity/identityapp.nuget.callsgraph.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\identity\identityapp.nuget.callsgraph.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/identity/identityapp.nuget.default.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\identity\identityapp.nuget.default.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/identity/identityapp.nuget.downstreamApi.callsgraph.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\identity\identityapp.nuget.downstreamApi.callsgraph.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/identity/identityapp.nuget.downstreamApi.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\identity\identityapp.nuget.downstreamApi.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/identity/identityapp.nuget.wap.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\identity\identityapp.nuget.wap.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/identity/identityapp.redirectUris.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\identity\identityapp.redirectUris.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/identity/identityapp.webConfig.wap.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\identity\identityapp.webConfig.wap.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/mongodb/mongodb.nuget.allPackages.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\mongodb\mongodb.nuget.allPackages.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/mssql/ef.sqlServer.itemTemplateCreator.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\mssql\ef.sqlServer.itemTemplateCreator.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/mssql/ef.sqlServer.functionSqlItemTemplateCreator.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\mssql\ef.sqlServer.functionSqlItemTemplateCreator.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/mssql/ef.sqlServer.nuget.coreweb.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\mssql\ef.sqlServer.nuget.coreweb.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/mssql/ef.sqlServer.nuget.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\mssql\ef.sqlServer.nuget.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/mssql/ef.sqlServer.secretStore.local.connectionId.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\mssql\ef.sqlServer.secretStore.local.connectionId.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/mssql/ef.sqlServer.serviceConnector.appService.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\mssql\ef.sqlServer.serviceConnector.appService.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/mssql/ef.sqlServer.serviceConnector.local.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\mssql\ef.sqlServer.serviceConnector.local.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/postgresql/postgresql.nuget.allPackages.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\postgresql\postgresql.nuget.allPackages.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/powerplatform/powerplatform.connector.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\powerplatform\powerplatform.connector.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/rabbitmq/rabbitmq.itemTemplateCreator.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\rabbitmq\rabbitmq.itemTemplateCreator.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/rabbitmq/rabbitmq.nuget.allPackages.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\rabbitmq\rabbitmq.nuget.allPackages.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/redis/redis.code.startup.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\redis\redis.code.startup.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/redis/redis.code.usings.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\redis\redis.code.usings.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/redis/redis.code.usings.Azure.Identity.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\redis\redis.code.usings.Azure.Identity.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/redis/redis.nuget.allPackages.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\redis\redis.nuget.allPackages.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/redis/redis.serviceConnector.local.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\redis\redis.serviceConnector.local.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/redis/redis.serviceConnector.appService.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\redis\redis.serviceConnector.appService.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/secrets/secrets.keyVault.code.buildConfig.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\secrets\secrets.keyVault.code.buildConfig.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/secrets/secrets.keyVault.code.usings.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\secrets\secrets.keyVault.code.usings.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/secrets/secrets.keyVault.launchSettings.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\secrets\secrets.keyVault.launchSettings.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/secrets/secrets.keyVault.nuget.coreweb.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\secrets\secrets.keyVault.nuget.coreweb.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/secrets/secrets.keyVault.nuget.coreweb31.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\secrets\secrets.keyVault.nuget.coreweb31.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/secrets/secrets.keyVault.nuget.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\secrets\secrets.keyVault.nuget.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/secrets/secrets.keyVault.serviceConnector.appService.coreweb.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\secrets\secrets.keyVault.serviceConnector.appService.coreweb.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/secrets/secrets.keyVault.serviceConnector.appService.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\secrets\secrets.keyVault.serviceConnector.appService.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/secrets/secrets.keyVault.serviceConnector.containerApp.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\secrets\secrets.keyVault.serviceConnector.containerApp.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/secrets/secrets.user.nuget.function.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\secrets\secrets.user.nuget.function.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/secrets/secrets.user.nuget.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\secrets\secrets.user.nuget.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/secretStore/secretStore.localSecretsOrAcaKeyVault.connectionId.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\secretStore\secretStore.localSecretsOrAcaKeyVault.connectionId.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/secretStore/secretStore.local.connectionId.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\secretStore\secretStore.local.connectionId.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/signalr/signalr.appServiceSettings.appSettings.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\signalr\signalr.appServiceSettings.appSettings.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/signalr/signalr.appServiceSettings.webAppSettings.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\signalr\signalr.appServiceSettings.webAppSettings.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/signalr/signalr.appSettings.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\signalr\signalr.appSettings.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/signalr/signalr.code.startup.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\signalr\signalr.code.startup.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/signalr/signalr.code.usings.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\signalr\signalr.code.usings.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/signalr/signalr.itemTemplateCreator.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\signalr\signalr.itemTemplateCreator.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/signalr/signalr.launchSettings.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\signalr\signalr.launchSettings.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/signalr/signalr.msbuildProperty.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\signalr\signalr.msbuildProperty.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/signalr/signalr.nuget.coreweb.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\signalr\signalr.nuget.coreweb.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/signalr/signalr.nuget.function.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\signalr\signalr.nuget.function.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/signalr/signalr.nuget.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\signalr\signalr.nuget.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/signalr/signalr.serviceConnector.appService.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\signalr\signalr.serviceConnector.appService.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/signalr/signalr.serviceConnector.local.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\signalr\signalr.serviceConnector.local.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/springCloud/springCloud.nuget.steeltoe24.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\springCloud\springCloud.nuget.steeltoe24.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/springCloud/springCloud.nuget.steeltoe30.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\springCloud\springCloud.nuget.steeltoe30.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/springCloud/steeltoe.code.generic.buildConfig.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\springCloud\steeltoe.code.generic.buildConfig.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/sqlite/sqlite.nuget.allPackages.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\sqlite\sqlite.nuget.allPackages.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/storage/AzureClientFactoryBuilderExtensions.cs
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\storage\AzureClientFactoryBuilderExtensions.cs file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/storage/definitions.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\storage\definitions.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/storage/storage.access.appService.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\storage\storage.access.appService.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/storage/storage.access.containerApp.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\storage\storage.access.containerApp.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/storage/storage.access.local.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\storage\storage.access.local.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/storage/storage.code.generic.extensions.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\storage\storage.code.generic.extensions.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/storage/storage.code.generic.startupCode.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\storage\storage.code.generic.startupCode.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/storage/storage.code.generic.startupMicrosoftExtensionsAzureNamespace.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\storage\storage.code.generic.startupMicrosoftExtensionsAzureNamespace.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/storage/storage.code.generic.startupMoreUsings.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\storage\storage.code.generic.startupMoreUsings.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/storage/storage.code.worker.startupCode.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\storage\storage.code.worker.startupCode.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/storage/storage.itemTemplateCreator.blob.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\storage\storage.itemTemplateCreator.blob.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/storage/storage.itemTemplateCreator.queue.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\storage\storage.itemTemplateCreator.queue.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/storage/storage.nuget.allPackages.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\storage\storage.nuget.allPackages.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/storage/storage.secretStore.localOrKeyVault.connectionId.blob.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\storage\storage.secretStore.localOrKeyVault.connectionId.blob.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/storage/storage.secretStore.localOrKeyVault.connectionId.queue.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\storage\storage.secretStore.localOrKeyVault.connectionId.queue.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/storage/storage.secretStore.localOrKeyVault.connectionId.table.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\storage\storage.secretStore.localOrKeyVault.connectionId.table.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/storage/storage.secretStore.local.connectionId.blob.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\storage\storage.secretStore.local.connectionId.blob.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/storage/storage.secretStore.local.connectionId.queue.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\storage\storage.secretStore.local.connectionId.queue.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/storage/storage.secretStore.local.connectionId.table.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\storage\storage.secretStore.local.connectionId.table.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/storage/storage.serviceConnector.cloud.appService.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\storage\storage.serviceConnector.cloud.appService.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/storage/storage.serviceConnector.cloud.containerApp.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\storage\storage.serviceConnector.cloud.containerApp.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/modifiers/storage/storage.serviceConnector.local.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\modifiers\storage\storage.serviceConnector.local.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools Shared/Configs/root.json
+[3474:0009][2026-05-10T01:46:15] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Microsoft\Web Tools Shared\Configs\root.json file deleted.
+[3474:0009][2026-05-10T01:46:15] Started: Deleting empty directories
+[3474:0009][2026-05-10T01:46:15] Completed: Deleting empty directories
+[3474:0009][2026-05-10T01:46:15] Package executed successfully. Return code: 0

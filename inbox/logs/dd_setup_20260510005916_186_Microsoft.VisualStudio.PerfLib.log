@@ -1,0 +1,24 @@
+[bd94:0009][2026-05-10T01:00:53] Using cached package manifest as the embedded manifest
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Common7/IDE/PrivateAssemblies/Dia2Lib.dll
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Common7\IDE\PrivateAssemblies\Dia2Lib.dll file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Diagnostics.FastSerialization.dll
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.Diagnostics.FastSerialization.dll file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Diagnostics.Tracing.TraceEvent.dll
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.Diagnostics.Tracing.TraceEvent.dll file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Common7/IDE/PrivateAssemblies/TraceReloggerLib.dll
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Common7\IDE\PrivateAssemblies\TraceReloggerLib.dll file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Diagnostics.EtwHeapDump.dll
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.Diagnostics.EtwHeapDump.dll file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Diagnostics.HeapDump.dll
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.Diagnostics.HeapDump.dll file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Diagnostics.MemoryGraph.dll
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.Diagnostics.MemoryGraph.dll file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Diagnostics.Utilities.dll
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.Diagnostics.Utilities.dll file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Common7/IDE/PrivateAssemblies/x86/msdia140.dll
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Common7\IDE\PrivateAssemblies\x86\msdia140.dll file deleted.
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Common7/IDE/PrivateAssemblies/amd64/msdia140.dll
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Common7\IDE\PrivateAssemblies\amd64\msdia140.dll file deleted.
+[bd94:0009][2026-05-10T01:00:53] Started: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:53] Completed: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:53] Package executed successfully. Return code: 0

@@ -1,0 +1,12 @@
+[c9c4:0009][2026-05-10T01:02:19] Opening the package for processing
+[c9c4:0009][2026-05-10T01:02:19] Using package payload to get the embedded manifest
+[c9c4:0009][2026-05-10T01:02:19] Getting list of files within the package
+[c9c4:0009][2026-05-10T01:02:19] Processing file /Contents/Team%20Tools/DiagnosticsHub/Collector/Agents/MemoryProfilerCollectionAgent.dll
+[c9c4:0009][2026-05-10T01:02:19] Started: Copying file /Contents/Team%20Tools/DiagnosticsHub/Collector/Agents/MemoryProfilerCollectionAgent.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Team Tools\DiagnosticsHub\Collector\Agents\MemoryProfilerCollectionAgent.dll
+[c9c4:0009][2026-05-10T01:02:19] Completed: Copying file /Contents/Team%20Tools/DiagnosticsHub/Collector/Agents/MemoryProfilerCollectionAgent.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Team Tools\DiagnosticsHub\Collector\Agents\MemoryProfilerCollectionAgent.dll
+[c9c4:0009][2026-05-10T01:02:19] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Team Tools\DiagnosticsHub\Collector\Agents\MemoryProfilerCollectionAgent.dll'.
+[c9c4:0009][2026-05-10T01:02:19] Processing file /Contents/Team%20Tools/DiagnosticsHub/Collector/Agents/NativeMemoryCollectionAgent.dll
+[c9c4:0009][2026-05-10T01:02:19] Started: Copying file /Contents/Team%20Tools/DiagnosticsHub/Collector/Agents/NativeMemoryCollectionAgent.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Team Tools\DiagnosticsHub\Collector\Agents\NativeMemoryCollectionAgent.dll
+[c9c4:0009][2026-05-10T01:02:19] Completed: Copying file /Contents/Team%20Tools/DiagnosticsHub/Collector/Agents/NativeMemoryCollectionAgent.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Team Tools\DiagnosticsHub\Collector\Agents\NativeMemoryCollectionAgent.dll
+[c9c4:0009][2026-05-10T01:02:19] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Team Tools\DiagnosticsHub\Collector\Agents\NativeMemoryCollectionAgent.dll'.
+[c9c4:0009][2026-05-10T01:02:19] Package executed successfully. Return code: 0

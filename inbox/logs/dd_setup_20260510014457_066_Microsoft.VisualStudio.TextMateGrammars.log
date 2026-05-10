@@ -1,0 +1,716 @@
+[3474:0009][2026-05-10T01:46:08] Using cached package manifest as the embedded manifest
+[3474:0009][2026-05-10T01:46:08] Processing file /extension.vsixmanifest
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\extension.vsixmanifest file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/bat/syntaxes/Batch%20File.tmLanguage
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\bat\syntaxes\Batch File.tmLanguage file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/bicep/syntaxes/bicep.tmLanguage
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\bicep\syntaxes\bicep.tmLanguage file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/bicep/syntaxes/bicep.tmTheme
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\bicep\syntaxes\bicep.tmTheme file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/bicep/syntaxes/language-configuration.json
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\bicep\syntaxes\language-configuration.json file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/clojure/syntaxes/Clojure.tmLanguage
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\clojure\syntaxes\Clojure.tmLanguage file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cmake/Snippets/File(Glob …).tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cmake\Snippets\File(Glob …).tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cmake/Snippets/Foreach … EndForeach.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cmake\Snippets\Foreach … EndForeach.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cmake/Snippets/If … Endif.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cmake\Snippets\If … Endif.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cmake/Snippets/List(Append …).tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cmake\Snippets\List(Append …).tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cmake/Snippets/Message(…).tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cmake\Snippets\Message(…).tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cmake/Snippets/Set(Variable …).tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cmake\Snippets\Set(Variable …).tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cmake/Syntaxes/CMake.tmLanguage
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cmake\Syntaxes\CMake.tmLanguage file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cmake/Syntaxes/CMake.tmTheme
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cmake\Syntaxes\CMake.tmTheme file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cmake/Syntaxes/CMakeCache.tmLanguage
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cmake\Syntaxes\CMakeCache.tmLanguage file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/coffeescript/syntaxes/CoffeeScript.tmLanguage
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\coffeescript\syntaxes\CoffeeScript.tmLanguage file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cpp/Snippets/do...while%20loop%20(do).plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cpp\Snippets\do...while loop (do).plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cpp/Snippets/Enumeration.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cpp\Snippets\Enumeration.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cpp/Snippets/if%20..%20(if).plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cpp\Snippets\if .. (if).plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cpp/Snippets/pragma%20mark%20(mark).plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cpp\Snippets\pragma mark (mark).plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cpp/Snippets/std__map%20(map).plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cpp\Snippets\std__map (map).plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cpp/Snippets/std__string.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cpp\Snippets\std__string.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cpp/Snippets/std__vector%20(v).plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cpp\Snippets\std__vector (v).plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cpp/Snippets/Typedef.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cpp\Snippets\Typedef.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cpp/syntaxes/c.tmLanguage.json
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cpp\syntaxes\c.tmLanguage.json file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cpp/syntaxes/c.tmLanguage.tmTheme
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cpp\syntaxes\c.tmLanguage.tmTheme file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cpp/syntaxes/cpp.tmLanguage.json
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cpp\syntaxes\cpp.tmLanguage.json file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cpp/syntaxes/cpp.tmLanguage.tmtheme
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cpp\syntaxes\cpp.tmLanguage.tmtheme file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cpp/syntaxes/language-configuration.json
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cpp\syntaxes\language-configuration.json file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cpp/syntaxes/platform.tmLanguage.json
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cpp\syntaxes\platform.tmLanguage.json file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/csharp/Syntaxes/csharp.tmLanguage
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\csharp\Syntaxes\csharp.tmLanguage file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/css/syntaxes/css.plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\css\syntaxes\css.plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cs/Snippets/Abstract.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cs\Snippets\Abstract.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cs/Snippets/Break.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cs\Snippets\Break.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cs/Snippets/Case.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cs\Snippets\Case.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cs/Snippets/Catch.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cs\Snippets\Catch.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cs/Snippets/Constant%20String.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cs\Snippets\Constant String.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cs/Snippets/Constant.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cs\Snippets\Constant.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cs/Snippets/Default.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cs\Snippets\Default.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cs/Snippets/Do%20While.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cs\Snippets\Do While.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cs/Snippets/Else%20If.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cs\Snippets\Else If.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cs/Snippets/Else.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cs\Snippets\Else.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cs/Snippets/Final.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cs\Snippets\Final.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cs/Snippets/Finally.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cs\Snippets\Finally.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cs/Snippets/For.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cs\Snippets\For.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cs/Snippets/ForEach.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cs\Snippets\ForEach.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cs/Snippets/If.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cs\Snippets\If.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cs/Snippets/Main%20Method.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cs\Snippets\Main Method.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cs/Snippets/Method.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cs\Snippets\Method.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cs/Snippets/Namespace.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cs\Snippets\Namespace.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cs/Snippets/Override.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cs\Snippets\Override.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cs/Snippets/Private.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cs\Snippets\Private.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cs/Snippets/Property.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cs\Snippets\Property.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cs/Snippets/Protected.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cs\Snippets\Protected.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cs/Snippets/Public.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cs\Snippets\Public.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cs/Snippets/Region.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cs\Snippets\Region.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cs/Snippets/Return.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cs\Snippets\Return.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cs/Snippets/Static.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cs\Snippets\Static.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cs/Snippets/Switch.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cs\Snippets\Switch.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cs/Snippets/Throw%20New.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cs\Snippets\Throw New.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cs/Snippets/Throw.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cs\Snippets\Throw.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cs/Snippets/Try.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cs\Snippets\Try.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cs/Snippets/Using.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cs\Snippets\Using.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cs/Snippets/Virtual.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cs\Snippets\Virtual.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cs/Snippets/While.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cs\Snippets\While.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cs/Snippets/Write.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cs\Snippets\Write.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cs/Snippets/Writeline.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cs\Snippets\Writeline.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cs/Syntaxes/Build.tmLanguage
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cs\Syntaxes\Build.tmLanguage file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/cs/Syntaxes/csharp.tmTheme
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\cs\Syntaxes\csharp.tmTheme file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/docker/syntaxes/Dockerfile.tmLanguage
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\docker\syntaxes\Dockerfile.tmLanguage file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/fsharp/syntaxes/fsharp.json
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\fsharp\syntaxes\fsharp.json file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/go/Snippets/Case%20Clause.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\go\Snippets\Case Clause.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/go/Snippets/Channel.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\go\Snippets\Channel.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/go/Snippets/Default%20Clause.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\go\Snippets\Default Clause.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/go/Snippets/Empty%20Interface.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\go\Snippets\Empty Interface.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/go/Snippets/For%20Range%20Loop.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\go\Snippets\For Range Loop.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/go/Snippets/Imports.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\go\Snippets\Imports.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/go/Snippets/Init%20Function.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\go\Snippets\Init Function.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/go/Snippets/Interface.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\go\Snippets\Interface.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/go/Snippets/Main%20Function.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\go\Snippets\Main Function.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/go/Snippets/Map.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\go\Snippets\Map.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/go/Snippets/Method%20w_%20result%20vars.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\go\Snippets\Method w_ result vars.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/go/Snippets/Struct.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\go\Snippets\Struct.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/go/Snippets/Type.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\go\Snippets\Type.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/go/Snippets/Types.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\go\Snippets\Types.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/go/syntaxes/go.json
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\go\syntaxes\go.json file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/groovy/Snippets/Ant%20__%20replace.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\groovy\Snippets\Ant __ replace.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/groovy/Snippets/as%20BigDecimal.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\groovy\Snippets\as BigDecimal.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/groovy/Snippets/as%20BigInteger.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\groovy\Snippets\as BigInteger.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/groovy/Snippets/as%20Double.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\groovy\Snippets\as Double.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/groovy/Snippets/as%20Float.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\groovy\Snippets\as Float.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/groovy/Snippets/as%20Set.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\groovy\Snippets\as Set.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/groovy/Snippets/as%20String.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\groovy\Snippets\as String.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/groovy/Snippets/as%20Writable.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\groovy\Snippets\as Writable.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/groovy/Snippets/Block%20Comment.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\groovy\Snippets\Block Comment.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/groovy/Snippets/case.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\groovy\Snippets\case.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/groovy/Snippets/copy__%20file.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\groovy\Snippets\copy__ file.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/groovy/Snippets/copy__%20fileset%20include_exclude.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\groovy\Snippets\copy__ fileset include_exclude.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/groovy/Snippets/copy__%20fileset.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\groovy\Snippets\copy__ fileset.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/groovy/Snippets/def%20__%20closure%20=%20%7B__%7D%20.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\groovy\Snippets\def __ closure = {__} .tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/groovy/Snippets/def.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\groovy\Snippets\def.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/groovy/Snippets/for%20in.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\groovy\Snippets\for in.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/groovy/Snippets/mkdir.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\groovy\Snippets\mkdir.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/groovy/Snippets/print.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\groovy\Snippets\print.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/groovy/Snippets/println%20.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\groovy\Snippets\println .tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/groovy/Snippets/run%20after.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\groovy\Snippets\run after.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/groovy/Snippets/setUp().tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\groovy\Snippets\setUp().tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/groovy/Snippets/sleep(secs)%20%7B%20__%20__%20on%20interrupt%20%7D.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\groovy\Snippets\sleep(secs) { __ __ on interrupt }.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/groovy/Snippets/sleep(secs).tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\groovy\Snippets\sleep(secs).tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/groovy/Snippets/sort%20%7B%20__%20%7D.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\groovy\Snippets\sort { __ }.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/groovy/Snippets/static%20main%20method.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\groovy\Snippets\static main method.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/groovy/Snippets/switch__case.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\groovy\Snippets\switch__case.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/groovy/Snippets/switch__case__default.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\groovy\Snippets\switch__case__default.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/groovy/Snippets/tearDown().tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\groovy\Snippets\tearDown().tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/groovy/Snippets/test%20case.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\groovy\Snippets\test case.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/groovy/Snippets/Thread_start%20%7B%20__%20%7D.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\groovy\Snippets\Thread_start { __ }.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/groovy/Snippets/Thread_startDaemon%20%7B%20__%20%7D%20.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\groovy\Snippets\Thread_startDaemon { __ } .tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/groovy/Snippets/to%20Array.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\groovy\Snippets\to Array.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/groovy/Snippets/to%20BigDecimal.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\groovy\Snippets\to BigDecimal.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/groovy/Snippets/to%20BigInteger.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\groovy\Snippets\to BigInteger.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/groovy/Snippets/to%20Boolean.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\groovy\Snippets\to Boolean.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/groovy/Snippets/to%20Character.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\groovy\Snippets\to Character.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/groovy/Snippets/to%20Double.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\groovy\Snippets\to Double.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/groovy/Snippets/to%20Float.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\groovy\Snippets\to Float.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/groovy/Snippets/to%20Integer.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\groovy\Snippets\to Integer.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/groovy/Snippets/to%20List.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\groovy\Snippets\to List.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/groovy/Snippets/to%20String.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\groovy\Snippets\to String.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/groovy/Snippets/to%20URI.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\groovy\Snippets\to URI.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/groovy/Snippets/to%20URL.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\groovy\Snippets\to URL.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/groovy/Syntaxes/Groovy.tmLanguage
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\groovy\Syntaxes\Groovy.tmLanguage file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/html/Snippets/DocType%20HTML%204.0%20Strict.plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\html\Snippets\DocType HTML 4.0 Strict.plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/html/Snippets/DocType%20HTML%205.plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\html\Snippets\DocType HTML 5.plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/html/Snippets/DocType%20XHTL%201.0%20Frameset.plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\html\Snippets\DocType XHTL 1.0 Frameset.plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/html/Snippets/DocType%20XHTML%201.0%20Strict.plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\html\Snippets\DocType XHTML 1.0 Strict.plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/html/Snippets/DocType%20XHTML%201.0%20Transitional.plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\html\Snippets\DocType XHTML 1.0 Transitional.plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/html/Snippets/DocType%20XHTML%201.1.plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\html\Snippets\DocType XHTML 1.1.plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/html/Snippets/HTML — 4.0 Transitional (doctype).plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\html\Snippets\HTML — 4.0 Transitional (doctype).plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/html/syntaxes/HTML.plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\html\syntaxes\HTML.plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/ini/syntaxes/Ini.plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\ini\syntaxes\Ini.plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/jade/syntaxes/Jade.tmLanguage
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\jade\syntaxes\Jade.tmLanguage file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/javadoc/Snippets/serial.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\javadoc\Snippets\serial.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/javadoc/Syntaxes/JavaDoc.tmLanguage
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\javadoc\Syntaxes\JavaDoc.tmLanguage file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/javascript/Snippets/function%20(fun).plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\javascript\Snippets\function (fun).plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/javascript/Snippets/Object%20Method.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\javascript\Snippets\Object Method.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/javascript/Snippets/Prototype%20(proto).plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\javascript\Snippets\Prototype (proto).plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/javascript/Syntaxes/Readme.md
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\javascript\Syntaxes\Readme.md file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/java/Snippets/abstract.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\java\Snippets\abstract.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/java/Snippets/break.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\java\Snippets\break.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/java/Snippets/case.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\java\Snippets\case.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/java/Snippets/catch.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\java\Snippets\catch.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/java/Snippets/constant%20string.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\java\Snippets\constant string.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/java/Snippets/constant.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\java\Snippets\constant.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/java/Snippets/default.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\java\Snippets\default.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/java/Snippets/else%20if.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\java\Snippets\else if.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/java/Snippets/else.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\java\Snippets\else.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/java/Snippets/final.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\java\Snippets\final.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/java/Snippets/finally.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\java\Snippets\finally.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/java/Snippets/for%20(each).tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\java\Snippets\for (each).tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/java/Snippets/for.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\java\Snippets\for.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/java/Snippets/if.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\java\Snippets\if.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/java/Snippets/import%20junit_framework_TestCase;.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\java\Snippets\import junit_framework_TestCase;.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/java/Snippets/import.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\java\Snippets\import.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/java/Snippets/method%20(main).tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\java\Snippets\method (main).tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/java/Snippets/print.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\java\Snippets\print.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/java/Snippets/println.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\java\Snippets\println.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/java/Snippets/private.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\java\Snippets\private.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/java/Snippets/protected.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\java\Snippets\protected.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/java/Snippets/public.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\java\Snippets\public.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/java/Snippets/return.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\java\Snippets\return.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/java/Snippets/static.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\java\Snippets\static.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/java/Snippets/switch.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\java\Snippets\switch.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/java/Snippets/synchronized.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\java\Snippets\synchronized.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/java/Snippets/test.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\java\Snippets\test.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/java/Snippets/throw%20new.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\java\Snippets\throw new.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/java/Snippets/throw.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\java\Snippets\throw.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/java/Snippets/try.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\java\Snippets\try.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/java/Snippets/while.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\java\Snippets\while.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/java/Syntaxes/Java.plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\java\Syntaxes\Java.plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/json/Syntaxes/JSON.tmLanguage
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\json\Syntaxes\JSON.tmLanguage file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/less/syntaxes/LESS.tmLanguage
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\less\syntaxes\LESS.tmLanguage file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/lua/Snippets/for%20i,v%20in%20ipairs().plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\lua\Snippets\for i,v in ipairs().plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/lua/Snippets/for%20i=1,10.plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\lua\Snippets\for i=1,10.plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/lua/Snippets/for%20k,v%20in%20pairs().plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\lua\Snippets\for k,v in pairs().plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/lua/Snippets/function%20(fun).plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\lua\Snippets\function (fun).plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/lua/Snippets/function%20(function).plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\lua\Snippets\function (function).plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/lua/Snippets/local%20x%20=%201.plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\lua\Snippets\local x = 1.plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/lua/Syntaxes/Lua.plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\lua\Syntaxes\Lua.plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/make/Syntaxes/Makefile.plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\make\Syntaxes\Makefile.plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/markdown/Syntaxes/Markdown.tmLanguage
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\markdown\Syntaxes\Markdown.tmLanguage file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/objective-c/syntaxes/Objective-C.tmLanguage
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\objective-c\syntaxes\Objective-C.tmLanguage file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/perl/Snippets/Conditional%20if..else%20(ife).plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\perl\Snippets\Conditional if..else (ife).plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/perl/Snippets/Conditional%20if..elsif..else%20(ifee).plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\perl\Snippets\Conditional if..elsif..else (ifee).plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/perl/Snippets/Conditional%20one-line%20(unless).plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\perl\Snippets\Conditional one-line (unless).plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/perl/Snippets/Conditional%20one-line%20(xif).plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\perl\Snippets\Conditional one-line (xif).plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/perl/Snippets/eval.plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\perl\Snippets\eval.plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/perl/Snippets/for.plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\perl\Snippets\for.plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/perl/Snippets/Function%20(sub).plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\perl\Snippets\Function (sub).plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/perl/Snippets/if.plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\perl\Snippets\if.plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/perl/Snippets/Loop%20one-line%20(xforeach).plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\perl\Snippets\Loop one-line (xforeach).plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/perl/Snippets/Loop%20one-line%20(xwhile).plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\perl\Snippets\Loop one-line (xwhile).plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/perl/Snippets/slurp.plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\perl\Snippets\slurp.plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/perl/Snippets/Test.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\perl\Snippets\Test.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/perl/Snippets/unless.plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\perl\Snippets\unless.plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/perl/Snippets/while.plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\perl\Snippets\while.plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/perl/Syntaxes/Perl%206.tmLanguage
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\perl\Syntaxes\Perl 6.tmLanguage file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/perl/Syntaxes/Perl.plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\perl\Syntaxes\Perl.plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/php/Snippets/$GLOBALS[''].tmSnippet
+[3474:0009][2026-05-10T01:46:08] 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\php\Snippets\$GLOBALS[''].tmSnippet' file is already deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/php/Snippets/$_COOKIE[''].tmSnippet
+[3474:0009][2026-05-10T01:46:08] 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\php\Snippets\$_COOKIE[''].tmSnippet' file is already deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/php/Snippets/$_ENV[''].tmSnippet
+[3474:0009][2026-05-10T01:46:08] 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\php\Snippets\$_ENV[''].tmSnippet' file is already deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/php/Snippets/$_FILES[''].tmSnippet
+[3474:0009][2026-05-10T01:46:08] 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\php\Snippets\$_FILES[''].tmSnippet' file is already deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/php/Snippets/$_GET[''].tmSnippet
+[3474:0009][2026-05-10T01:46:08] 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\php\Snippets\$_GET[''].tmSnippet' file is already deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/php/Snippets/$_POST[''].tmSnippet
+[3474:0009][2026-05-10T01:46:08] 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\php\Snippets\$_POST[''].tmSnippet' file is already deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/php/Snippets/$_REQUEST[''].tmSnippet
+[3474:0009][2026-05-10T01:46:08] 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\php\Snippets\$_REQUEST[''].tmSnippet' file is already deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/php/Snippets/$_SERVER[''].tmSnippet
+[3474:0009][2026-05-10T01:46:08] 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\php\Snippets\$_SERVER[''].tmSnippet' file is already deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/php/Snippets/$_SESSION[''].tmSnippet
+[3474:0009][2026-05-10T01:46:08] 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\php\Snippets\$_SESSION[''].tmSnippet' file is already deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/php/Snippets/else%20%7B%7D.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\php\Snippets\else {}.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/php/Snippets/elseif(%20).tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\php\Snippets\elseif( ).tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/php/Snippets/for(%20).tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\php\Snippets\for( ).tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/php/Snippets/if(%20)%20else(%20).tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\php\Snippets\if( ) else( ).tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/php/Snippets/if(%20).tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\php\Snippets\if( ).tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/php/Snippets/include(%20).tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\php\Snippets\include( ).tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/php/Snippets/include_once(%20).tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\php\Snippets\include_once( ).tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/php/Snippets/new%20array(%20).tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\php\Snippets\new array( ).tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/php/Snippets/PHPDoc%20class%20var.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\php\Snippets\PHPDoc class var.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/php/Snippets/PHPDoc%20constant%20definition.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\php\Snippets\PHPDoc constant definition.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/php/Snippets/require(%20).tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\php\Snippets\require( ).tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/php/Snippets/require_once(%20).tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\php\Snippets\require_once( ).tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/php/Snippets/return%20$retVal;.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\php\Snippets\return $retVal;.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/php/Snippets/return%20FALSE;.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\php\Snippets\return FALSE;.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/php/Snippets/return%20TRUE;.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\php\Snippets\return TRUE;.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/php/Snippets/Start%20Docblock.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\php\Snippets\Start Docblock.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/php/Snippets/switch(%20).tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\php\Snippets\switch( ).tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/php/Syntaxes/php.tmLanguage.json
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\php\Syntaxes\php.tmLanguage.json file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/powershell/syntaxes/PowershellSyntax.tmLanguage
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\powershell\syntaxes\PowershellSyntax.tmLanguage file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/powershell/syntaxes/PowershellSyntax.tmTheme
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\powershell\syntaxes\PowershellSyntax.tmTheme file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/proto/syntaxes/Protocol%20Buffer.tmLanguage
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\proto\syntaxes\Protocol Buffer.tmLanguage file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/python/syntaxes/language-configuration.json
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\python\syntaxes\language-configuration.json file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/python/syntaxes/MagicPython.tmLanguage
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\python\syntaxes\MagicPython.tmLanguage file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/python/syntaxes/MagicRegExp.tmLanguage
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\python\syntaxes\MagicRegExp.tmLanguage file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/ruby/Snippets/060%20ruby%20if%20else.plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\ruby\Snippets\060 ruby if else.plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/ruby/Snippets/070%20ruby%20if.plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\ruby\Snippets\070 ruby if.plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/ruby/Snippets/080%20ruby%20case.plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\ruby\Snippets\080 ruby case.plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/ruby/Snippets/alias_method%20..%20%20(am).plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\ruby\Snippets\alias_method ..  (am).plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/ruby/Snippets/application_code%20..%20%20(app).plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\ruby\Snippets\application_code ..  (app).plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/ruby/Snippets/assert_nothing_raised(..)%20%7B%20..%20%7D%20%20(asnr).plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\ruby\Snippets\assert_nothing_raised(..) { .. }  (asnr).plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/ruby/Snippets/assert_nothing_thrown%20%7B%20..%20%7D%20%20(asnt).plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\ruby\Snippets\assert_nothing_thrown { .. }  (asnt).plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/ruby/Snippets/assert_raise(..)%20%7B%20..%20%7D%20%20(asr).plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\ruby\Snippets\assert_raise(..) { .. }  (asr).plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/ruby/Snippets/assert_throws(..)%20%7B%20..%20%7D%20%20(ast).plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\ruby\Snippets\assert_throws(..) { .. }  (ast).plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/ruby/Snippets/attr_accessor%20..%20%20(rw).plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\ruby\Snippets\attr_accessor ..  (rw).plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/ruby/Snippets/attr_reader%20..%20%20(r).plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\ruby\Snippets\attr_reader ..  (r).plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/ruby/Snippets/attr_writer%20..%20%20(w).plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\ruby\Snippets\attr_writer ..  (w).plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/ruby/Snippets/class_from_name()%20%20(clafn).plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\ruby\Snippets\class_from_name()  (clafn).plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/ruby/Snippets/deep_copy(..)%20%20(dee).plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\ruby\Snippets\deep_copy(..)  (dee).plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/ruby/Snippets/def%20end.plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\ruby\Snippets\def end.plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/ruby/Snippets/def%20method_missing%20..%20end%20%20(mm).plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\ruby\Snippets\def method_missing .. end  (mm).plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/ruby/Snippets/def%20self%20..%20end%20%20(defs).plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\ruby\Snippets\def self .. end  (defs).plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/ruby/Snippets/def%20test_%20..%20end%20%20(t).plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\ruby\Snippets\def test_ .. end  (t).plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/ruby/Snippets/def_delegator%20..%20(defd).plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\ruby\Snippets\def_delegator .. (defd).plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/ruby/Snippets/def_delegators%20..%20(defds).plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\ruby\Snippets\def_delegators .. (defds).plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/ruby/Snippets/directory().tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\ruby\Snippets\directory().tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/ruby/Snippets/elsif%20___.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\ruby\Snippets\elsif ___.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/ruby/Snippets/encoding_%20%20UTF-8.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\ruby\Snippets\encoding_  UTF-8.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/ruby/Snippets/flatten_once%20%20(fla).plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\ruby\Snippets\flatten_once  (fla).plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/ruby/Snippets/include%20Comparable%20..%20%20(Comp).plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\ruby\Snippets\include Comparable ..  (Comp).plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/ruby/Snippets/include%20Enumerable%20..%20%20(Enum).plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\ruby\Snippets\include Enumerable ..  (Enum).plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/ruby/Snippets/inspect.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\ruby\Snippets\inspect.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/ruby/Snippets/loop%20%7B%20__%20%7D.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\ruby\Snippets\loop { __ }.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/ruby/Snippets/path_from_here(%20__%20).tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\ruby\Snippets\path_from_here( __ ).tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/ruby/Snippets/randomize%20%20(ran).plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\ruby\Snippets\randomize  (ran).plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/ruby/Snippets/require%20'..'%20%20(req).plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\ruby\Snippets\require '..'  (req).plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/ruby/Snippets/require%20_tc_.._%20..%20%20(ts).plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\ruby\Snippets\require _tc_.._ ..  (ts).plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/ruby/Snippets/results_report(__)%20%7B%20__%20%7D.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\ruby\Snippets\results_report(__) { __ }.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/ruby/Snippets/singleton_class().tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\ruby\Snippets\singleton_class().tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/ruby/Snippets/unix_filter%20..%20(uni).plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\ruby\Snippets\unix_filter .. (uni).plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/ruby/Snippets/unless%20(unless).plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\ruby\Snippets\unless (unless).plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/ruby/Snippets/until%20___%20end.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\ruby\Snippets\until ___ end.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/ruby/Snippets/usage_if()%20%20(usai).plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\ruby\Snippets\usage_if()  (usai).plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/ruby/Snippets/usage_unless()%20%20(usau).plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\ruby\Snippets\usage_unless()  (usau).plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/ruby/Snippets/when.plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\ruby\Snippets\when.plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/ruby/Snippets/while%20___%20end.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\ruby\Snippets\while ___ end.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/ruby/Snippets/__END__.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\ruby\Snippets\__END__.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/ruby/Syntaxes/Ruby.plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\ruby\Syntaxes\Ruby.plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/rust/syntaxes/rust.json
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\rust\syntaxes\rust.json file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/r/Snippets/Attach.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\r\Snippets\Attach.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/r/Snippets/Cummulative.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\r\Snippets\Cummulative.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/r/Snippets/Detach.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\r\Snippets\Detach.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/r/Snippets/Factor.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\r\Snippets\Factor.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/r/Snippets/file_choose.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\r\Snippets\file_choose.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/r/Snippets/Ifelse.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\r\Snippets\Ifelse.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/r/Snippets/Length.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\r\Snippets\Length.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/r/Snippets/Load%20Dataset.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\r\Snippets\Load Dataset.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/r/Snippets/na_omit.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\r\Snippets\na_omit.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/r/Snippets/Sequence%20(from,to,by).tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\r\Snippets\Sequence (from,to,by).tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/r/Snippets/Sort.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\r\Snippets\Sort.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/r/Syntaxes/R.plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\r\Syntaxes\R.plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/shaderlab/syntaxes/shaderlab.json
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\shaderlab\syntaxes\shaderlab.json file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/shellscript/Snippets/case%20..%20esac%20(case).plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\shellscript\Snippets\case .. esac (case).plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/shellscript/Snippets/do … done.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\shellscript\Snippets\do … done.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/shellscript/Snippets/for%20...%20done%20(for).plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\shellscript\Snippets\for ... done (for).plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/shellscript/Syntaxes/Shell-Unix-Bash.tmLanguage
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\shellscript\Syntaxes\Shell-Unix-Bash.tmLanguage file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/sql/syntaxes/SQL.plist
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\sql\syntaxes\SQL.plist file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/swift/Snippets/Array.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\swift\Snippets\Array.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/swift/Snippets/class-var.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\swift\Snippets\class-var.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/swift/Snippets/class.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\swift\Snippets\class.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/swift/Snippets/deinit.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\swift\Snippets\deinit.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/swift/Snippets/Dictionary.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\swift\Snippets\Dictionary.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/swift/Snippets/didSet.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\swift\Snippets\didSet.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/swift/Snippets/else-if.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\swift\Snippets\else-if.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/swift/Snippets/else.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\swift\Snippets\else.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/swift/Snippets/enum.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\swift\Snippets\enum.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/swift/Snippets/extension.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\swift\Snippets\extension.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/swift/Snippets/fixme.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\swift\Snippets\fixme.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/swift/Snippets/func.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\swift\Snippets\func.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/swift/Snippets/get.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\swift\Snippets\get.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/swift/Snippets/if.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\swift\Snippets\if.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/swift/Snippets/init.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\swift\Snippets\init.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/swift/Snippets/mark.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\swift\Snippets\mark.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/swift/Snippets/operator.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\swift\Snippets\operator.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/swift/Snippets/protocol.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\swift\Snippets\protocol.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/swift/Snippets/return%20value.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\swift\Snippets\return value.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/swift/Snippets/set.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\swift\Snippets\set.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/swift/Snippets/static-var.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\swift\Snippets\static-var.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/swift/Snippets/struct.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\swift\Snippets\struct.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/swift/Snippets/subscript.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\swift\Snippets\subscript.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/swift/Snippets/switch.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\swift\Snippets\switch.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/swift/Snippets/todo.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\swift\Snippets\todo.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/swift/Snippets/typealias.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\swift\Snippets\typealias.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/swift/Snippets/willSet.tmSnippet
+[3474:0009][2026-05-10T01:46:08] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\swift\Snippets\willSet.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:08] Processing file /Starterkit/Extensions/swift/Syntaxes/swift.json
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\swift\Syntaxes\swift.json file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Starterkit/Extensions/swift/Syntaxes/Swift.tmLanguage-license.txt
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\swift\Syntaxes\Swift.tmLanguage-license.txt file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Starterkit/Extensions/typescript/syntaxes/Readme.txt
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\typescript\syntaxes\Readme.txt file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Starterkit/Extensions/typescript/syntaxes/TypeScript.tmLanguage
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\typescript\syntaxes\TypeScript.tmLanguage file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Starterkit/Extensions/typescript/syntaxes/TypeScript.tmTheme
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\typescript\syntaxes\TypeScript.tmTheme file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Starterkit/Extensions/typescript/syntaxes/TypeScriptReact.tmLanguage
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\typescript\syntaxes\TypeScriptReact.tmLanguage file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Starterkit/Extensions/typescript/syntaxes/TypeScriptReact.tmTheme
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\typescript\syntaxes\TypeScriptReact.tmTheme file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Starterkit/Extensions/vb/syntaxes/ASPVBnet.tmlanguage
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\vb\syntaxes\ASPVBnet.tmlanguage file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Starterkit/Extensions/xaml/Syntaxes/XAML.plist
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\xaml\Syntaxes\XAML.plist file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Starterkit/Extensions/xml/Snippets/CDATA.tmSnippet
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\xml\Snippets\CDATA.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Starterkit/Extensions/xml/Snippets/long%20attribute%20tag.plist
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\xml\Snippets\long attribute tag.plist file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Starterkit/Extensions/xml/Snippets/short%20tag.plist
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\xml\Snippets\short tag.plist file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Starterkit/Extensions/xml/Snippets/XML%20Processing%20Instruction.tmSnippet
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\xml\Snippets\XML Processing Instruction.tmSnippet file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Starterkit/Extensions/xml/Syntaxes/XML.plist
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\xml\Syntaxes\XML.plist file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Starterkit/Extensions/xml/Syntaxes/XSL.plist
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\xml\Syntaxes\XSL.plist file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Starterkit/Extensions/yaml/Syntaxes/yaml.tmLanguage.json
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\yaml\Syntaxes\yaml.tmLanguage.json file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Starterkit/Extensions/yaml/Syntaxes/yaml.tmLanguage.tmtheme
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Extensions\yaml\Syntaxes\yaml.tmLanguage.tmtheme file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Starterkit/Themes/vs.tmTheme
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Starterkit\Themes\vs.tmTheme file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /TMLanguage.pkgdef
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\TMLanguage.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /runtimes/win-arm64/native/Oniguruma.dll
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\runtimes\win-arm64\native\Oniguruma.dll file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /runtimes/win-x64/native/Oniguruma.dll
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\runtimes\win-x64\native\Oniguruma.dll file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Microsoft.VisualStudio.Extensibility.Editor.Contracts.dll
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Microsoft.VisualStudio.Extensibility.Editor.Contracts.dll file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Microsoft.VisualStudio.TextMate.Core.dll
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Microsoft.VisualStudio.TextMate.Core.dll file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Microsoft.VisualStudio.TextMate.VSWindows.dll
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Microsoft.VisualStudio.TextMate.VSWindows.dll file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Microsoft.VisualStudio.TextMate.Snippets.Manager.dll
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Microsoft.VisualStudio.TextMate.Snippets.Manager.dll file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /Microsoft.VisualStudio.TextMate.Snippets.Translator.dll
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\Microsoft.VisualStudio.TextMate.Snippets.Translator.dll file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /manifest.json
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\manifest.json file deleted.
+[3474:0009][2026-05-10T01:46:09] Processing file /catalog.json
+[3474:0009][2026-05-10T01:46:09] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TextMate\catalog.json file deleted.
+[3474:0009][2026-05-10T01:46:09] Started: Deleting empty directories
+[3474:0009][2026-05-10T01:46:09] Completed: Deleting empty directories
+[3474:0009][2026-05-10T01:46:09] Package executed successfully. Return code: 0

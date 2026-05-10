@@ -1,0 +1,18 @@
+[3474:0009][2026-05-10T01:46:11] Using cached package manifest as the embedded manifest
+[3474:0009][2026-05-10T01:46:11] Processing file /Contents/Common7/IDE/Profiles/CSharp.vssettings
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Profiles\CSharp.vssettings file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /Contents/Common7/IDE/Profiles/General.vssettings
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Profiles\General.vssettings file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /Contents/Common7/IDE/Profiles/VB.vssettings
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Profiles\VB.vssettings file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /Contents/Common7/IDE/Profiles/Web.vssettings
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Profiles\Web.vssettings file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /Contents/Common7/IDE/Profiles/WebCode.vssettings
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Profiles\WebCode.vssettings file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /Contents/Common7/IDE/Profiles/VC.vssettings
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Profiles\VC.vssettings file deleted.
+[3474:0009][2026-05-10T01:46:11] Processing file /Contents/Common7/IDE/Profiles/JavaScript.vssettings
+[3474:0009][2026-05-10T01:46:11] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Profiles\JavaScript.vssettings file deleted.
+[3474:0009][2026-05-10T01:46:11] Started: Deleting empty directories
+[3474:0009][2026-05-10T01:46:11] Completed: Deleting empty directories
+[3474:0009][2026-05-10T01:46:11] Package executed successfully. Return code: 0

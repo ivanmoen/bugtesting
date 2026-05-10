@@ -1,0 +1,206 @@
+[0c48:0003][2026-05-10T01:44:49] Using cached package manifest as the embedded manifest
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/SdkResolvers/Microsoft.VC.VcpkgSdkResolver/Microsoft.VC.VcpkgSdkResolver.xml
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\SdkResolvers\Microsoft.VC.VcpkgSdkResolver\Microsoft.VC.VcpkgSdkResolver.xml file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/SdkResolvers/Microsoft.VC.VcpkgSdkResolver/Microsoft.VC.VcpkgSdkResolver.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\SdkResolvers\Microsoft.VC.VcpkgSdkResolver\Microsoft.VC.VcpkgSdkResolver.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Build.CPPTasks.Common.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Build.CPPTasks.Common.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Build.CPPTasks.Common.Base.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Build.CPPTasks.Common.Base.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.BuildSteps.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.BuildSteps.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cl.Common.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cl.Common.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.BuildPass.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.BuildPass.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Analysis.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Analysis.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Analysis.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Analysis.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.AppContainerApplication.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.AppContainerApplication.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Application.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Application.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.BuildBsc.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.BuildBsc.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Clang.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Clang.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Clang.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Clang.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.ClangTidy.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.ClangTidy.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.ClangTidy.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.ClangTidy.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Common.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.CoreWin.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.CoreWin.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Current.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Current.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Default.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Default.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.DesignTime.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.DesignTime.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.EnableASAN.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.EnableASAN.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.InvalidPlatform.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.InvalidPlatform.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.ManagedExtensions.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.ManagedExtensions.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.ManagedExtensionsNetCore.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.ManagedExtensionsNetCore.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.managedExtensionsOldSyntax.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.managedExtensionsOldSyntax.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.ManagedExtensionsPure.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.ManagedExtensionsPure.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.ManagedExtensionsSafe.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.ManagedExtensionsSafe.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.mfcDynamic.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.mfcDynamic.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.mfcStatic.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.mfcStatic.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.MissingToolset.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.MissingToolset.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.MSVC.Toolset.Common.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.MSVC.Toolset.Common.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.MSVC.Toolset.ARM.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.MSVC.Toolset.ARM.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.MSVC.Toolset.ARM64.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.MSVC.Toolset.ARM64.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.MSVC.Toolset.ARM64EC.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.MSVC.Toolset.ARM64EC.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.MSVC.Toolset.Win32.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.MSVC.Toolset.Win32.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.MSVC.Toolset.x64.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.MSVC.Toolset.x64.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.MultiByteCharSupport.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.MultiByteCharSupport.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.pginstrument.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.pginstrument.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.pgoptimize.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.pgoptimize.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.pgupdate.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.pgupdate.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Platform.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Platform.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Platform.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Platform.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.10.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.10.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.10.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.10.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.11.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.11.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.11.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.11.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.12.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.12.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.12.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.12.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.14.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.14.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.14.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.14.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.14.Build.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.14.Build.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.15.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.15.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.15.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.15.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.16.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.16.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.16.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.16.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.17.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.17.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.17.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.17.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Redirect.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Redirect.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.StaticAnalysis.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.StaticAnalysis.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.ToolsetLocation.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.ToolsetLocation.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.ToolsetLocation.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.ToolsetLocation.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.unicodesupport.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.unicodesupport.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.UnitTest.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.UnitTest.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.UpgradeFromVC60.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.UpgradeFromVC60.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.UpgradeFromVC70.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.UpgradeFromVC70.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.UpgradeFromVC71.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.UpgradeFromVC71.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.UseDynamicDebugging.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.UseDynamicDebugging.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.WholeProgramOptimization.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.WholeProgramOptimization.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.WinDLL.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.WinDLL.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.WindowsSDK.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.WindowsSDK.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.WindowsSDK.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.WindowsSDK.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.VCTools.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.VCTools.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.VCTools.Content.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.VCTools.Content.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.CppBuild.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.CppBuild.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.CppClean.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.CppClean.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.CppCommon.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.CppCommon.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Link.Common.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Link.Common.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Makefile.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Makefile.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.MakeFile.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.MakeFile.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Metagen.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Metagen.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Unity.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Unity.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/Microsoft.Cpp.Unity.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\Microsoft.Cpp.Unity.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/ImageContentTask.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\BuildCustomizations\ImageContentTask.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/ImageContentTask.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\BuildCustomizations\ImageContentTask.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/MeshContentTask.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\BuildCustomizations\MeshContentTask.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/MeshContentTask.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\BuildCustomizations\MeshContentTask.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/ShaderGraphContentTask.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\BuildCustomizations\ShaderGraphContentTask.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/ShaderGraphContentTask.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\BuildCustomizations\ShaderGraphContentTask.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/lc.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\BuildCustomizations\lc.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/lc.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\BuildCustomizations\lc.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/lc.xml
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\BuildCustomizations\lc.xml file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/masm.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\BuildCustomizations\masm.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/masm.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\BuildCustomizations\masm.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/masm.xml
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\BuildCustomizations\masm.xml file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/marmasm.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\BuildCustomizations\marmasm.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/marmasm.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\BuildCustomizations\marmasm.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Msbuild/Microsoft/VC/v170/BuildCustomizations/marmasm.xml
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Msbuild\Microsoft\VC\v170\BuildCustomizations\marmasm.xml file deleted.
+[0c48:0003][2026-05-10T01:44:49] Started: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:49] Completed: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:49] Package executed successfully. Return code: 0

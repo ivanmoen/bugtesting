@@ -1,0 +1,32 @@
+[2e2c:0007][2026-05-10T01:23:32] Opening the package for processing
+[2e2c:0007][2026-05-10T01:23:32] Using package payload to get the embedded manifest
+[2e2c:0007][2026-05-10T01:23:32] Getting list of files within the package
+[2e2c:0007][2026-05-10T01:23:32] Processing file /Contents/MSBuild/Current/Imports/Microsoft.Common.Props/ImportBefore/Microsoft.NuGet.ImportBefore.props
+[2e2c:0007][2026-05-10T01:23:32] Started: Copying file /Contents/MSBuild/Current/Imports/Microsoft.Common.Props/ImportBefore/Microsoft.NuGet.ImportBefore.props to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Imports\Microsoft.Common.Props\ImportBefore\Microsoft.NuGet.ImportBefore.props
+[2e2c:0007][2026-05-10T01:23:32] Completed: Copying file /Contents/MSBuild/Current/Imports/Microsoft.Common.Props/ImportBefore/Microsoft.NuGet.ImportBefore.props to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Imports\Microsoft.Common.Props\ImportBefore\Microsoft.NuGet.ImportBefore.props
+[2e2c:0007][2026-05-10T01:23:32] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Imports\Microsoft.Common.Props\ImportBefore\Microsoft.NuGet.ImportBefore.props'.
+[2e2c:0007][2026-05-10T01:23:32] Processing file /Contents/MSBuild/Current/Microsoft.Common.Targets/ImportAfter/Microsoft.NuGet.ImportAfter.targets
+[2e2c:0007][2026-05-10T01:23:32] Started: Copying file /Contents/MSBuild/Current/Microsoft.Common.Targets/ImportAfter/Microsoft.NuGet.ImportAfter.targets to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Microsoft.Common.Targets\ImportAfter\Microsoft.NuGet.ImportAfter.targets
+[2e2c:0007][2026-05-10T01:23:32] Completed: Copying file /Contents/MSBuild/Current/Microsoft.Common.Targets/ImportAfter/Microsoft.NuGet.ImportAfter.targets to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Microsoft.Common.Targets\ImportAfter\Microsoft.NuGet.ImportAfter.targets
+[2e2c:0007][2026-05-10T01:23:32] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Microsoft.Common.Targets\ImportAfter\Microsoft.NuGet.ImportAfter.targets'.
+[2e2c:0007][2026-05-10T01:23:32] Processing file /Contents/MSBuild/Current/SolutionFile/ImportAfter/Microsoft.NuGet.Solution.ImportAfter.targets
+[2e2c:0007][2026-05-10T01:23:32] Started: Copying file /Contents/MSBuild/Current/SolutionFile/ImportAfter/Microsoft.NuGet.Solution.ImportAfter.targets to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\SolutionFile\ImportAfter\Microsoft.NuGet.Solution.ImportAfter.targets
+[2e2c:0007][2026-05-10T01:23:32] Completed: Copying file /Contents/MSBuild/Current/SolutionFile/ImportAfter/Microsoft.NuGet.Solution.ImportAfter.targets to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\SolutionFile\ImportAfter\Microsoft.NuGet.Solution.ImportAfter.targets
+[2e2c:0007][2026-05-10T01:23:32] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\SolutionFile\ImportAfter\Microsoft.NuGet.Solution.ImportAfter.targets'.
+[2e2c:0007][2026-05-10T01:23:32] Processing file /Contents/MSBuild/Microsoft/NuGet/17.0/Microsoft.NuGet.Build.Tasks.dll
+[2e2c:0007][2026-05-10T01:23:32] Started: Copying file /Contents/MSBuild/Microsoft/NuGet/17.0/Microsoft.NuGet.Build.Tasks.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\NuGet\17.0\Microsoft.NuGet.Build.Tasks.dll
+[2e2c:0007][2026-05-10T01:23:32] Completed: Copying file /Contents/MSBuild/Microsoft/NuGet/17.0/Microsoft.NuGet.Build.Tasks.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\NuGet\17.0\Microsoft.NuGet.Build.Tasks.dll
+[2e2c:0007][2026-05-10T01:23:32] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\NuGet\17.0\Microsoft.NuGet.Build.Tasks.dll'.
+[2e2c:0007][2026-05-10T01:23:32] Processing file /Contents/MSBuild/Microsoft/NuGet/17.0/Microsoft.NuGet.props
+[2e2c:0007][2026-05-10T01:23:32] Started: Copying file /Contents/MSBuild/Microsoft/NuGet/17.0/Microsoft.NuGet.props to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\NuGet\17.0\Microsoft.NuGet.props
+[2e2c:0007][2026-05-10T01:23:32] Completed: Copying file /Contents/MSBuild/Microsoft/NuGet/17.0/Microsoft.NuGet.props to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\NuGet\17.0\Microsoft.NuGet.props
+[2e2c:0007][2026-05-10T01:23:32] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\NuGet\17.0\Microsoft.NuGet.props'.
+[2e2c:0007][2026-05-10T01:23:32] Processing file /Contents/MSBuild/Microsoft/NuGet/17.0/Microsoft.NuGet.targets
+[2e2c:0007][2026-05-10T01:23:32] Started: Copying file /Contents/MSBuild/Microsoft/NuGet/17.0/Microsoft.NuGet.targets to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\NuGet\17.0\Microsoft.NuGet.targets
+[2e2c:0007][2026-05-10T01:23:32] Completed: Copying file /Contents/MSBuild/Microsoft/NuGet/17.0/Microsoft.NuGet.targets to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\NuGet\17.0\Microsoft.NuGet.targets
+[2e2c:0007][2026-05-10T01:23:32] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\NuGet\17.0\Microsoft.NuGet.targets'.
+[2e2c:0007][2026-05-10T01:23:32] Processing file /Contents/MSBuild/Microsoft/NuGet/17.0/Newtonsoft.Json.dll
+[2e2c:0007][2026-05-10T01:23:32] Started: Copying file /Contents/MSBuild/Microsoft/NuGet/17.0/Newtonsoft.Json.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\NuGet\17.0\Newtonsoft.Json.dll
+[2e2c:0007][2026-05-10T01:23:32] Completed: Copying file /Contents/MSBuild/Microsoft/NuGet/17.0/Newtonsoft.Json.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\NuGet\17.0\Newtonsoft.Json.dll
+[2e2c:0007][2026-05-10T01:23:32] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\NuGet\17.0\Newtonsoft.Json.dll'.
+[2e2c:0007][2026-05-10T01:23:32] Package executed successfully. Return code: 0

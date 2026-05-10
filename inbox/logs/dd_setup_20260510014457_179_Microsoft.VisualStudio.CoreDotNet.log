@@ -1,0 +1,116 @@
+[3474:0009][2026-05-10T01:46:20] Using cached package manifest as the embedded manifest
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Win32.Registry.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Win32.Registry.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PublicAssemblies/System.Security.AccessControl.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Security.AccessControl.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PublicAssemblies/System.Security.Principal.Windows.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Security.Principal.Windows.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PublicAssemblies/System.Net.Http.Formatting.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Net.Http.Formatting.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Bcl.AsyncInterfaces.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Bcl.AsyncInterfaces.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Bcl.HashCode.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Bcl.HashCode.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.Configuration.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.Configuration.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.Configuration.Abstractions.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.Configuration.Abstractions.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.Configuration.Binder.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.Configuration.Binder.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.DependencyInjection.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.DependencyInjection.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.DependencyInjection.Abstractions.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.DependencyModel.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.DependencyModel.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.Diagnostics.Abstractions.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.Diagnostics.Abstractions.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.FileProviders.Abstractions.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.FileProviders.Abstractions.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.FileSystemGlobbing.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.FileSystemGlobbing.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.Logging.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.Logging.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.Logging.Abstractions.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.Logging.Abstractions.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.Logging.Configuration.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.Logging.Configuration.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.ObjectPool.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.ObjectPool.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.Options.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.Options.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.Options.ConfigurationExtensions.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.Extensions.Primitives.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.Extensions.Primitives.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.IO.Redist.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.IO.Redist.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PublicAssemblies/System.Buffers.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Buffers.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PublicAssemblies/System.Collections.Immutable.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Collections.Immutable.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PublicAssemblies/System.Composition.AttributedModel.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Composition.AttributedModel.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PublicAssemblies/System.Composition.Convention.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Composition.Convention.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PublicAssemblies/System.Composition.Hosting.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Composition.Hosting.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PublicAssemblies/System.Composition.Runtime.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Composition.Runtime.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PublicAssemblies/System.Composition.TypedParts.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Composition.TypedParts.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PublicAssemblies/System.Diagnostics.DiagnosticSource.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Diagnostics.DiagnosticSource.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PublicAssemblies/System.IO.Pipelines.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.IO.Pipelines.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PublicAssemblies/System.Memory.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Memory.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PublicAssemblies/System.Numerics.Vectors.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Numerics.Vectors.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PublicAssemblies/System.Reflection.Metadata.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Reflection.Metadata.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PublicAssemblies/System.Reflection.MetadataLoadContext.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Reflection.MetadataLoadContext.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PublicAssemblies/System.Reflection.TypeExtensions.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Reflection.TypeExtensions.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PublicAssemblies/System.Runtime.CompilerServices.Unsafe.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Runtime.CompilerServices.Unsafe.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PublicAssemblies/System.Spatial.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Spatial.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PublicAssemblies/System.Text.Encoding.CodePages.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Text.Encoding.CodePages.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PublicAssemblies/System.Text.Encodings.Web.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Text.Encodings.Web.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PublicAssemblies/System.Text.Json.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Text.Json.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PublicAssemblies/System.Threading.AccessControl.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Threading.AccessControl.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PublicAssemblies/System.Threading.Channels.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Threading.Channels.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PublicAssemblies/System.Threading.Tasks.Extensions.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.Threading.Tasks.Extensions.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PublicAssemblies/System.ValueTuple.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\System.ValueTuple.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PrivateAssemblies/System.IO.FileSystem.AccessControl.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\System.IO.FileSystem.AccessControl.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.ServiceHub.Framework.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.ServiceHub.Framework.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Composition.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Composition.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Validation.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Validation.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PrivateAssemblies/Nerdbank.NetStandardBridge.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Nerdbank.NetStandardBridge.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PrivateAssemblies/System.IO.Packaging.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\System.IO.Packaging.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PrivateAssemblies/System.Security.Cryptography.ProtectedData.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\System.Security.Cryptography.ProtectedData.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Threading.17.x/Microsoft.VisualStudio.Threading.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Threading.17.x\Microsoft.VisualStudio.Threading.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/PublicAssemblies/Rx/System.Reactive.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Rx\System.Reactive.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Processing file /Contents/Common7/IDE/System.Threading.Tasks.Dataflow.dll
+[3474:0009][2026-05-10T01:46:20] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\System.Threading.Tasks.Dataflow.dll file deleted.
+[3474:0009][2026-05-10T01:46:20] Started: Deleting empty directories
+[3474:0009][2026-05-10T01:46:20] Completed: Deleting empty directories
+[3474:0009][2026-05-10T01:46:20] Package executed successfully. Return code: 0

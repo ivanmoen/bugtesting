@@ -1,0 +1,14 @@
+[3474:0009][2026-05-10T01:45:59] Using cached package manifest as the embedded manifest
+[3474:0009][2026-05-10T01:45:59] Processing file /Contents/Common7/IDE/ItemTemplates/VisualC/1033/SimpleUnitTest/UnitTest.cpp
+[3474:0009][2026-05-10T01:45:59] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\VisualC\1033\SimpleUnitTest\UnitTest.cpp file deleted.
+[3474:0009][2026-05-10T01:45:59] Processing file /Contents/Common7/IDE/ItemTemplates/VisualC/1033/SimpleUnitTest/SimpleUnitTest.vstemplate
+[3474:0009][2026-05-10T01:45:59] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\VisualC\1033\SimpleUnitTest\SimpleUnitTest.vstemplate file deleted.
+[3474:0009][2026-05-10T01:45:59] Processing file /Contents/Common7/IDE/VC/VCWizards/CodeWiz/Generic/UnitTest/scripts/1033/default.js
+[3474:0009][2026-05-10T01:45:59] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCWizards\CodeWiz\Generic\UnitTest\scripts\1033\default.js file deleted.
+[3474:0009][2026-05-10T01:45:59] Processing file /Contents/Common7/IDE/VC/VCWizards/CodeWiz/Generic/UnitTest/templates/1033/unittest.cpp
+[3474:0009][2026-05-10T01:45:59] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VC\VCWizards\CodeWiz\Generic\UnitTest\templates\1033\unittest.cpp file deleted.
+[3474:0009][2026-05-10T01:45:59] Processing file /contents/Common7/IDE/ItemTemplates/Microsoft.VisualStudio.VC.Templates.UnitTest.Resources.en-US.Item..vstman
+[3474:0009][2026-05-10T01:45:59] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\Microsoft.VisualStudio.VC.Templates.UnitTest.Resources.en-US.Item..vstman file deleted.
+[3474:0009][2026-05-10T01:45:59] Started: Deleting empty directories
+[3474:0009][2026-05-10T01:45:59] Completed: Deleting empty directories
+[3474:0009][2026-05-10T01:45:59] Package executed successfully. Return code: 0

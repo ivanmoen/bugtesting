@@ -1,0 +1,20 @@
+[c9c4:0009][2026-05-10T01:01:50] Opening the package for processing
+[c9c4:0009][2026-05-10T01:01:50] Using package payload to get the embedded manifest
+[c9c4:0009][2026-05-10T01:01:50] Getting list of files within the package
+[c9c4:0009][2026-05-10T01:01:50] Processing file /Contents/VC/Auxiliary/Build/Microsoft.VCRedistVersion.default.props
+[c9c4:0009][2026-05-10T01:01:50] Started: Copying file /Contents/VC/Auxiliary/Build/Microsoft.VCRedistVersion.default.props to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\Build\Microsoft.VCRedistVersion.default.props
+[c9c4:0009][2026-05-10T01:01:50] Completed: Copying file /Contents/VC/Auxiliary/Build/Microsoft.VCRedistVersion.default.props to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\Build\Microsoft.VCRedistVersion.default.props
+[c9c4:0009][2026-05-10T01:01:50] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\Build\Microsoft.VCRedistVersion.default.props'.
+[c9c4:0009][2026-05-10T01:01:50] Processing file /Contents/VC/Auxiliary/Build/Microsoft.VCRedistVersion.default.txt
+[c9c4:0009][2026-05-10T01:01:50] Started: Copying file /Contents/VC/Auxiliary/Build/Microsoft.VCRedistVersion.default.txt to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\Build\Microsoft.VCRedistVersion.default.txt
+[c9c4:0009][2026-05-10T01:01:50] Completed: Copying file /Contents/VC/Auxiliary/Build/Microsoft.VCRedistVersion.default.txt to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\Build\Microsoft.VCRedistVersion.default.txt
+[c9c4:0009][2026-05-10T01:01:50] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\Build\Microsoft.VCRedistVersion.default.txt'.
+[c9c4:0009][2026-05-10T01:01:50] Processing file /Contents/VC/Auxiliary/Build/Microsoft.VCRedistVersion.v143.default.props
+[c9c4:0009][2026-05-10T01:01:50] Started: Copying file /Contents/VC/Auxiliary/Build/Microsoft.VCRedistVersion.v143.default.props to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\Build\Microsoft.VCRedistVersion.v143.default.props
+[c9c4:0009][2026-05-10T01:01:50] Completed: Copying file /Contents/VC/Auxiliary/Build/Microsoft.VCRedistVersion.v143.default.props to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\Build\Microsoft.VCRedistVersion.v143.default.props
+[c9c4:0009][2026-05-10T01:01:50] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Auxiliary\Build\Microsoft.VCRedistVersion.v143.default.props'.
+[c9c4:0009][2026-05-10T01:01:50] Processing file /Contents/VC/Redist/MSVC/14.44.35112/Auxiliary/Microsoft.VC.ServicingVersion.Redist.props
+[c9c4:0009][2026-05-10T01:01:50] Started: Copying file /Contents/VC/Redist/MSVC/14.44.35112/Auxiliary/Microsoft.VC.ServicingVersion.Redist.props to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Redist\MSVC\14.44.35112\Auxiliary\Microsoft.VC.ServicingVersion.Redist.props
+[c9c4:0009][2026-05-10T01:01:50] Completed: Copying file /Contents/VC/Redist/MSVC/14.44.35112/Auxiliary/Microsoft.VC.ServicingVersion.Redist.props to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Redist\MSVC\14.44.35112\Auxiliary\Microsoft.VC.ServicingVersion.Redist.props
+[c9c4:0009][2026-05-10T01:01:50] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC\Redist\MSVC\14.44.35112\Auxiliary\Microsoft.VC.ServicingVersion.Redist.props'.
+[c9c4:0009][2026-05-10T01:01:50] Package executed successfully. Return code: 0

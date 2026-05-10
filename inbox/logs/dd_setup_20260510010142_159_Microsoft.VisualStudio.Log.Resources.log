@@ -1,0 +1,8 @@
+[c9c4:0009][2026-05-10T01:02:07] Opening the package for processing
+[c9c4:0009][2026-05-10T01:02:07] Using package payload to get the embedded manifest
+[c9c4:0009][2026-05-10T01:02:07] Getting list of files within the package
+[c9c4:0009][2026-05-10T01:02:07] Processing file /Contents/Common7/IDE/1033/vslogui.dll
+[c9c4:0009][2026-05-10T01:02:07] Started: Copying file /Contents/Common7/IDE/1033/vslogui.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\1033\vslogui.dll
+[c9c4:0009][2026-05-10T01:02:07] Completed: Copying file /Contents/Common7/IDE/1033/vslogui.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\1033\vslogui.dll
+[c9c4:0009][2026-05-10T01:02:07] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\1033\vslogui.dll'.
+[c9c4:0009][2026-05-10T01:02:07] Package executed successfully. Return code: 0

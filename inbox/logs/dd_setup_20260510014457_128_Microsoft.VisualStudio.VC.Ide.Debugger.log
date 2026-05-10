@@ -1,0 +1,62 @@
+[3474:0009][2026-05-10T01:46:15] Using cached package manifest as the embedded manifest
+[3474:0009][2026-05-10T01:46:15] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/MCppEE.pkgdef
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\MCppEE.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/ObjC.pkgdef
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\ObjC.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/ECBuild.pkgdef
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Debugger\ECBuild.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /Contents/Common7/Packages/Debugger/ecbuild.dll
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\ecbuild.dll file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /Contents/Common7/Packages/Debugger/vcencbld.dll
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\vcencbld.dll file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /Contents/Common7/Packages/Debugger/natvis.xsd
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\natvis.xsd file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /Contents/Common7/Packages/Debugger/natstepfilter.xsd
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\natstepfilter.xsd file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /Contents/Common7/Packages/Debugger/Visualizers/atlmfc.natvis
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\Visualizers\atlmfc.natvis file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /Contents/Common7/Packages/Debugger/Visualizers/concurrency.natvis
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\Visualizers\concurrency.natvis file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /Contents/Common7/Packages/Debugger/Visualizers/cpp_rest.natvis
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\Visualizers\cpp_rest.natvis file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /Contents/Common7/Packages/Debugger/Visualizers/CppAMP.natstepfilter
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\Visualizers\CppAMP.natstepfilter file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /Contents/Common7/Packages/Debugger/Visualizers/default.natstepfilter
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\Visualizers\default.natstepfilter file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /Contents/Common7/Packages/Debugger/Visualizers/ObjectiveC.natvis
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\Visualizers\ObjectiveC.natvis file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /Contents/Common7/Packages/Debugger/Visualizers/stl.natvis
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\Visualizers\stl.natvis file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /Contents/Common7/Packages/Debugger/Visualizers/Windows.Data.Json.natvis
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\Visualizers\Windows.Data.Json.natvis file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /Contents/Common7/Packages/Debugger/Visualizers/windows.devices.geolocation.natvis
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\Visualizers\windows.devices.geolocation.natvis file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /Contents/Common7/Packages/Debugger/Visualizers/windows.devices.sensors.natvis
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\Visualizers\windows.devices.sensors.natvis file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /Contents/Common7/Packages/Debugger/Visualizers/windows.media.natvis
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\Visualizers\windows.media.natvis file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /Contents/Common7/Packages/Debugger/Visualizers/windows.natvis
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\Visualizers\windows.natvis file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /Contents/Common7/Packages/Debugger/Visualizers/winrt.natvis
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\Visualizers\winrt.natvis file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Debugger/cppdebug.vsdconfig
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Debugger\cppdebug.vsdconfig file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Debugger/cppdebug.remote.vsdconfig
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Debugger\cppdebug.remote.vsdconfig file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Debugger/extension.vsixmanifest
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Debugger\extension.vsixmanifest file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Debugger/VCDebugger.pkgdef
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Debugger\VCDebugger.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Debugger/x86/CppDebug.dll
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Debugger\x86\CppDebug.dll file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Debugger/x86/cppdebug.remote.dll
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Debugger\x86\cppdebug.remote.dll file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Debugger/x64/CppDebug.dll
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Debugger\x64\CppDebug.dll file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VC/Debugger/x64/cppdebug.remote.dll
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VC\Debugger\x64\cppdebug.remote.dll file deleted.
+[3474:0009][2026-05-10T01:46:16] Processing file /Contents/Xml/Schemas/natstepfilter.xsd
+[3474:0009][2026-05-10T01:46:16] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\Schemas\natstepfilter.xsd file deleted.
+[3474:0009][2026-05-10T01:46:16] Started: Deleting empty directories
+[3474:0009][2026-05-10T01:46:16] Completed: Deleting empty directories
+[3474:0009][2026-05-10T01:46:16] Package executed successfully. Return code: 0

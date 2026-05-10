@@ -1,0 +1,698 @@
+[0c48:0003][2026-05-10T01:44:43] Using cached package manifest as the embedded manifest
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/Remote Debugger/x64/1033/vbdebugui.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x64\1033\vbdebugui.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/Remote Debugger/x86/1033/vbdebugui.dll
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Remote Debugger\x86\1033\vbdebugui.dll file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/SnippetIndex.xml
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\SnippetIndex.xml file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/application/ActivateaRunningApplicationByName.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\application\ActivateaRunningApplicationByName.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/application/ActivateaRunningApplicationByProcess.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\application\ActivateaRunningApplicationByProcess.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/application/CaptureOutputfromaConsoleApplication.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\application\CaptureOutputfromaConsoleApplication.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/application/ChangetheForegroundandBackgroundTextColorsinaConsoleWindow.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\application\ChangetheForegroundandBackgroundTextColorsinaConsoleWindow.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/application/CheckForUpdates.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\application\CheckForUpdates.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/application/CleartheConsoleWindow.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\application\CleartheConsoleWindow.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/application/DeleteDatafromIsolatedStorage.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\application\DeleteDatafromIsolatedStorage.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/application/DeterminetheAmountofIsolatedStorageAvailable.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\application\DeterminetheAmountofIsolatedStorageAvailable.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/application/DeterminetheScopeofIsolatedStorage.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\application\DeterminetheScopeofIsolatedStorage.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/application/FindtheNamesofResourcesinanAssembly.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\application\FindtheNamesofResourcesinanAssembly.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/application/LoadaCursorFilefromanAssembly.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\application\LoadaCursorFilefromanAssembly.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/application/LoadanAssemblyatRunTime.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\application\LoadanAssemblyatRunTime.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/application/MakeanAsynchronousMethodCall.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\application\MakeanAsynchronousMethodCall.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/application/ReadandWritefromtheConsoleWindow.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\application\ReadandWritefromtheConsoleWindow.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/application/ReadCommandLineArguments.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\application\ReadCommandLineArguments.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/application/ReadTextfromIsolateStorage.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\application\ReadTextfromIsolateStorage.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/application/RetrieveanImagethatIsanApplicationResource.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\application\RetrieveanImagethatIsanApplicationResource.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/application/RetrieveaTextFilefromanAssembly'sResources.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\application\RetrieveaTextFilefromanAssembly'sResources.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/application/Savetextinisolatedstorage.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\application\Savetextinisolatedstorage.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/application/SendAnApplicationKeystrokes.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\application\SendAnApplicationKeystrokes.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/application/StopanApplication.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\application\StopanApplication.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/application/WriteMessagetotheApplicationLogUsingMy.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\application\WriteMessagetotheApplicationLogUsingMy.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/application/WritetoaTextFileUsingMy.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\application\WritetoaTextFileUsingMy.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/common code patterns/conditionals and loops/CompilerDirectiveIf.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\common code patterns\conditionals and loops\CompilerDirectiveIf.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/common code patterns/conditionals and loops/DoLoopUntil(Condition).snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\common code patterns\conditionals and loops\DoLoopUntil(Condition).snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/common code patterns/conditionals and loops/DoLoopWhile(Condition).snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\common code patterns\conditionals and loops\DoLoopWhile(Condition).snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/common code patterns/conditionals and loops/DoUntil(Condition)Loop.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\common code patterns\conditionals and loops\DoUntil(Condition)Loop.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/common code patterns/conditionals and loops/DoWhile(Condition)Loop.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\common code patterns\conditionals and loops\DoWhile(Condition)Loop.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/common code patterns/conditionals and loops/ForEachNext.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\common code patterns\conditionals and loops\ForEachNext.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/common code patterns/conditionals and loops/ForNext(Integerloop).snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\common code patterns\conditionals and loops\ForNext(Integerloop).snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/common code patterns/conditionals and loops/IfElseEndIfStatement.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\common code patterns\conditionals and loops\IfElseEndIfStatement.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/common code patterns/conditionals and loops/IfElseIfElseEndIf.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\common code patterns\conditionals and loops\IfElseIfElseEndIf.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/common code patterns/conditionals and loops/IfEndifStatement.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\common code patterns\conditionals and loops\IfEndifStatement.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/common code patterns/conditionals and loops/SelectCaseStatement.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\common code patterns\conditionals and loops\SelectCaseStatement.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/common code patterns/conditionals and loops/While(Cond)EndWhile.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\common code patterns\conditionals and loops\While(Cond)EndWhile.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/common code patterns/exception handling/DefineAnExceptionClass.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\common code patterns\exception handling\DefineAnExceptionClass.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/common code patterns/exception handling/ThrowanException.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\common code patterns\exception handling\ThrowanException.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/common code patterns/exception handling/TryCatchEndTryStatement.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\common code patterns\exception handling\TryCatchEndTryStatement.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/common code patterns/exception handling/TryCatchFinallyEndTry.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\common code patterns\exception handling\TryCatchFinallyEndTry.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/common code patterns/exception handling/TryFinallyEndTryStatement.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\common code patterns\exception handling\TryFinallyEndTryStatement.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/common code patterns/exception handling/UsingStatement.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\common code patterns\exception handling\UsingStatement.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/common code patterns/properties and procedures/Addition(+)Operator.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\common code patterns\properties and procedures\Addition(+)Operator.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/common code patterns/properties and procedures/CallAWindowsAPI.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\common code patterns\properties and procedures\CallAWindowsAPI.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/common code patterns/properties and procedures/ComparisonOperators.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\common code patterns\properties and procedures\ComparisonOperators.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/common code patterns/properties and procedures/CTypeOperators.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\common code patterns\properties and procedures\CTypeOperators.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/common code patterns/properties and procedures/DeclareAnEvent.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\common code patterns\properties and procedures\DeclareAnEvent.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/common code patterns/properties and procedures/DefaultProperty.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\common code patterns\properties and procedures\DefaultProperty.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/common code patterns/properties and procedures/DefineAPrivateSub.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\common code patterns\properties and procedures\DefineAPrivateSub.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/common code patterns/properties and procedures/DefineAProperty.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\common code patterns\properties and procedures\DefineAProperty.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/common code patterns/properties and procedures/DefineAPublicSub.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\common code patterns\properties and procedures\DefineAPublicSub.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/common code patterns/properties and procedures/EqualityOperators.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\common code patterns\properties and procedures\EqualityOperators.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/common code patterns/properties and procedures/FuncWithGenericParam.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\common code patterns\properties and procedures\FuncWithGenericParam.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/common code patterns/properties and procedures/FuncWithVarParams.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\common code patterns\properties and procedures\FuncWithVarParams.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/common code patterns/properties and procedures/OverridableSub.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\common code patterns\properties and procedures\OverridableSub.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/common code patterns/properties and procedures/ProcedureWithReturn.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\common code patterns\properties and procedures\ProcedureWithReturn.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/common code patterns/properties and procedures/ProcWithoutReturn.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\common code patterns\properties and procedures\ProcWithoutReturn.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/common code patterns/properties and procedures/ReadOnlyProperty.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\common code patterns\properties and procedures\ReadOnlyProperty.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/common code patterns/properties and procedures/SubToOverrideDispose.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\common code patterns\properties and procedures\SubToOverrideDispose.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/common code patterns/properties and procedures/SubWithByRefParam.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\common code patterns\properties and procedures\SubWithByRefParam.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/common code patterns/properties and procedures/WriteOnlyProperty.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\common code patterns\properties and procedures\WriteOnlyProperty.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/common code patterns/types/DefineAnEnumeration.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\common code patterns\types\DefineAnEnumeration.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/common code patterns/types/DefineAnEnumerationWithCustomValues.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\common code patterns\types\DefineAnEnumerationWithCustomValues.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/common code patterns/types/DefineANewGenericType.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\common code patterns\types\DefineANewGenericType.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/common code patterns/types/DefineAnInterface.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\common code patterns\types\DefineAnInterface.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/common code patterns/types/DefineAStructure.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\common code patterns\types\DefineAStructure.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/common code patterns/types/GetTheStringValueOfAnEnumerationValue.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\common code patterns\types\GetTheStringValueOfAnEnumerationValue.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/common code patterns/types/ImplementTheDisposeFinalizePattern.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\common code patterns\types\ImplementTheDisposeFinalizePattern.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/data/database/AddaNewRowToTypedDataTable.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\database\AddaNewRowToTypedDataTable.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/data/database/CalltheExecuteNonQueryMethodofaDataCommand.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\database\CalltheExecuteNonQueryMethodofaDataCommand.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/data/database/CalltheExecuteReaderMethodofaDataCommand.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\database\CalltheExecuteReaderMethodofaDataCommand.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/data/database/CalltheExecuteScalarMethodofaDataCommand.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\database\CalltheExecuteScalarMethodofaDataCommand.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/data/database/ConvertBindingSourceCurrenttoTypedRow.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\database\ConvertBindingSourceCurrenttoTypedRow.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/data/database/CreateaDataRelation.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\database\CreateaDataRelation.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/data/database/CreateanExpressionColumn.snippet
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\database\CreateanExpressionColumn.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VB/Snippets/1033/data/database/CreateParameterizedSelectCommand.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\database\CreateParameterizedSelectCommand.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/database/CreateParameterizedStoredProcedureCommand.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\database\CreateParameterizedStoredProcedureCommand.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/database/CreateSqlExpressConnection.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\database\CreateSqlExpressConnection.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/database/CreateSqlServerConnection.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\database\CreateSqlServerConnection.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/database/ExtendTableAdapter.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\database\ExtendTableAdapter.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/database/ImplementDataTryCatchBlocks.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\database\ImplementDataTryCatchBlocks.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/database/ReadAccessDataintoaDataset.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\database\ReadAccessDataintoaDataset.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/database/ReturnTableAdapterOutputParameters.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\database\ReturnTableAdapterOutputParameters.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/qCount.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\LINQ Queries\qCount.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/qFrom.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\LINQ Queries\qFrom.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/qFromOBSelect.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\LINQ Queries\qFromOBSelect.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/qFromSelect.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\LINQ Queries\qFromSelect.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/qFromWSelect.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\LINQ Queries\qFromWSelect.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/qIterate.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\LINQ Queries\qIterate.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Query - Filter with 'Where'/qFilt.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\LINQ Queries\Query - Filter with 'Where'\qFilt.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Query - Filter with 'Where'/qFiltDiff.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\LINQ Queries\Query - Filter with 'Where'\qFiltDiff.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Query - Filter with 'Where'/qFiltFunc.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\LINQ Queries\Query - Filter with 'Where'\qFiltFunc.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Query - Filter with 'Where'/qFiltMult.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\LINQ Queries\Query - Filter with 'Where'\qFiltMult.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Query - Filter with 'Where'/qQueryDist.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\LINQ Queries\Query - Filter with 'Where'\qQueryDist.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Query - Grouping/qAggregate.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\LINQ Queries\Query - Grouping\qAggregate.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Query - Grouping/qAggregateAvg.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\LINQ Queries\Query - Grouping\qAggregateAvg.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Query - Grouping/qAggregateMax.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\LINQ Queries\Query - Grouping\qAggregateMax.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Query - Grouping/qGroup.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\LINQ Queries\Query - Grouping\qGroup.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Query - Grouping/qGroupRename.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\LINQ Queries\Query - Grouping\qGroupRename.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Query - Grouping/qGroupSum.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\LINQ Queries\Query - Grouping\qGroupSum.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Query - Joining/qJoinExpArray.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\LINQ Queries\Query - Joining\qJoinExpArray.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Query - Joining/qJoinImpArray.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\LINQ Queries\Query - Joining\qJoinImpArray.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Query - Joining/queGroJo.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\LINQ Queries\Query - Joining\queGroJo.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Query - Joining/queGroJoName.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\LINQ Queries\Query - Joining\queGroJoName.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Query - Sort with 'Order By'/qSortAsc.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\LINQ Queries\Query - Sort with 'Order By'\qSortAsc.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Query - Sort with 'Order By'/qSortDesc.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\LINQ Queries\Query - Sort with 'Order By'\qSortDesc.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Query - Sort with 'Order By'/qSortDiff.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\LINQ Queries\Query - Sort with 'Order By'\qSortDiff.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Query - Sort with 'Order By'/qSortFilt.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\LINQ Queries\Query - Sort with 'Order By'\qSortFilt.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Query - Sort with 'Order By'/qSortMult.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\LINQ Queries\Query - Sort with 'Order By'\qSortMult.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Query - Take and Skip/qSkip.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\LINQ Queries\Query - Take and Skip\qSkip.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Query - Take and Skip/qSkipTake.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\LINQ Queries\Query - Take and Skip\qSkipTake.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Query - Take and Skip/qSkipW.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\LINQ Queries\Query - Take and Skip\qSkipW.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Query - Take and Skip/qTake.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\LINQ Queries\Query - Take and Skip\qTake.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Query - Take and Skip/qTakeW.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\LINQ Queries\Query - Take and Skip\qTakeW.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Using Different Sources/qArray.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\LINQ Queries\Using Different Sources\qArray.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Using Different Sources/qArrayIn.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\LINQ Queries\Using Different Sources\qArrayIn.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Using Different Sources/qCollection.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\LINQ Queries\Using Different Sources\qCollection.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Using Different Sources/qQueryQ.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\LINQ Queries\Using Different Sources\qQueryQ.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Using Query Results/qConsole.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\LINQ Queries\Using Query Results\qConsole.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Using Query Results/qLoop.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\LINQ Queries\Using Query Results\qLoop.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Using Query Results/qWebForm.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\LINQ Queries\Using Query Results\qWebForm.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/LINQ Queries/Using Query Results/qWinForm.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\LINQ Queries\Using Query Results\qWinForm.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/xml/EmbedQueryInsideXmlElement.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\xml\EmbedQueryInsideXmlElement.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/xml/InferaSchemafromanXmlFile.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\xml\InferaSchemafromanXmlFile.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/xml/NavigatewithXpathNavigator.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\xml\NavigatewithXpathNavigator.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/xml/XML - Create/CreateXHTML.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\xml\XML - Create\CreateXHTML.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/xml/XML - Create/CreateXMLDocument.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\xml\XML - Create\CreateXMLDocument.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/xml/XML - Create/CreateXMLElement.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\xml\XML - Create\CreateXMLElement.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/xml/XML - Query/FindChildElementsinanXMLFile.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\xml\XML - Query\FindChildElementsinanXMLFile.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/xml/XML - Query/FindDescElementsinanXMLFile.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\xml\XML - Query\FindDescElementsinanXMLFile.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/xml/XML - Query/PrintXmlAxisPropertyResults.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\xml\XML - Query\PrintXmlAxisPropertyResults.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/xml/XML - Query/ReturnElemNodesinanXMLFile.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\xml\XML - Query\ReturnElemNodesinanXMLFile.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/xml/XML - Query/SelectNthNodeInXMLFile.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\xml\XML - Query\SelectNthNodeInXMLFile.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/xml/XML - Read/ReadClassDatafromanXMLFile.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\xml\XML - Read\ReadClassDatafromanXMLFile.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/xml/XML - Read/ReadXMLfromaFile.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\xml\XML - Read\ReadXMLfromaFile.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/xml/XML - Read/ReadXMLfromURLSample.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\xml\XML - Read\ReadXMLfromURLSample.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/xml/XML - Update/AddanElementtoXMLData.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\xml\XML - Update\AddanElementtoXMLData.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/xml/XML - Update/AddNewElementtoNthElement.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\xml\XML - Update\AddNewElementtoNthElement.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/xml/XML - Update/InsertNewAttributeForSpecificChildElements.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\xml\XML - Update\InsertNewAttributeForSpecificChildElements.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/xml/XML - Update/UpdateContentOfChildElements.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\xml\XML - Update\UpdateContentOfChildElements.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/xml/XML - Write/WriteClassDatatoanXMLFile.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\xml\XML - Write\WriteClassDatatoanXMLFile.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/data/xml/XML - Write/WriteXmlElementtoFile.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\data\xml\XML - Write\WriteXmlElementtoFile.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/collections and arrays/ConverttoStronglyTypedArrayUsingToArray.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\collections and arrays\ConverttoStronglyTypedArrayUsingToArray.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/collections and arrays/CreateAStronglyTypedCollection.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\collections and arrays\CreateAStronglyTypedCollection.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/collections and arrays/CreateAStronglyTypedDictionary.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\collections and arrays\CreateAStronglyTypedDictionary.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/collections and arrays/CreateAStronglyTypedSortedDictionary.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\collections and arrays\CreateAStronglyTypedSortedDictionary.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/collections and arrays/DefineATypeComparerForSorting.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\collections and arrays\DefineATypeComparerForSorting.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/collections and arrays/IndexIntoStronglyTypedDictionaryByKey.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\collections and arrays\IndexIntoStronglyTypedDictionaryByKey.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/collections and arrays/InitializeanArray.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\collections and arrays\InitializeanArray.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/collections and arrays/IteratingThroughACollection.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\collections and arrays\IteratingThroughACollection.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/collections and arrays/IteratingThroughADictionary.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\collections and arrays\IteratingThroughADictionary.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/collections and arrays/IteratingThroughASortedDictionaryByKey.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\collections and arrays\IteratingThroughASortedDictionaryByKey.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/collections and arrays/LocateanElementinanArray.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\collections and arrays\LocateanElementinanArray.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/collections and arrays/SortAnArray.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\collections and arrays\SortAnArray.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/datatypes/byteImage.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\datatypes\byteImage.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/datatypes/ConvertanArrayofBytesintoaString.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\datatypes\ConvertanArrayofBytesintoaString.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/datatypes/ConvertaNumbertoaHexaDecimalString.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\datatypes\ConvertaNumbertoaHexaDecimalString.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/datatypes/ConvertaNumbertoaOctalString.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\datatypes\ConvertaNumbertoaOctalString.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/datatypes/ConvertaStringtoByteArray.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\datatypes\ConvertaStringtoByteArray.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/datatypes/ConvertBetweenHiraganaandKatakanaCharacters.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\datatypes\ConvertBetweenHiraganaandKatakanaCharacters.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/datatypes/ConvertBetweenSimplifiedChineseandTraditionalChineseCharacters.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\datatypes\ConvertBetweenSimplifiedChineseandTraditionalChineseCharacters.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/datatypes/ConvertBetweenWideandNarrowCharacters.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\datatypes\ConvertBetweenWideandNarrowCharacters.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/datatypes/DeterminetheSpanbetweenTwoDates.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\datatypes\DeterminetheSpanbetweenTwoDates.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/datatypes/DeterminetheSpanbetweenTwoTimes.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\datatypes\DeterminetheSpanbetweenTwoTimes.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/datatypes/GenerateMultilineStringLiterals.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\datatypes\GenerateMultilineStringLiterals.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/datatypes/imageByte.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\datatypes\imageByte.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/datatypes/ParseanEmailAddress.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\datatypes\ParseanEmailAddress.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/datatypes/RemovePartsofaString.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\datatypes\RemovePartsofaString.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/filesystem/CompareTwoFiles.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\filesystem\CompareTwoFiles.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/filesystem/CopyaDirectory.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\filesystem\CopyaDirectory.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/filesystem/CopyaFile.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\filesystem\CopyaFile.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/filesystem/CreateaFile.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\filesystem\CreateaFile.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/filesystem/CreateaFolder.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\filesystem\CreateaFolder.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/filesystem/CreateaTemporaryFilename.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\filesystem\CreateaTemporaryFilename.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/filesystem/DeleteFiles.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\filesystem\DeleteFiles.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/filesystem/DetermineifaFileExists.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\filesystem\DetermineifaFileExists.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/filesystem/DetermineifaFolderExists.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\filesystem\DetermineifaFolderExists.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/filesystem/DeterminingtheSizeofaFile.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\filesystem\DeterminingtheSizeofaFile.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/filesystem/EnumerateDrivesonaComputer.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\filesystem\EnumerateDrivesonaComputer.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/filesystem/FindAmountofDiskSpaceAvailable.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\filesystem\FindAmountofDiskSpaceAvailable.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/filesystem/GetInformationAboutaFile.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\filesystem\GetInformationAboutaFile.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/filesystem/MoveFiles.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\filesystem\MoveFiles.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/filesystem/ReadaDelimitedTextfile.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\filesystem\ReadaDelimitedTextfile.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/filesystem/ReadfromaBinaryFile.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\filesystem\ReadfromaBinaryFile.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/filesystem/ReadfromanExistingTextFileinMyDocuments.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\filesystem\ReadfromanExistingTextFileinMyDocuments.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/filesystem/ReadTextfromaFile.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\filesystem\ReadTextfromaFile.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/filesystem/RenameaDirectory.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\filesystem\RenameaDirectory.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/filesystem/RenameaFile.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\filesystem\RenameaFile.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/filesystem/RetrievetheDriveNamesontheLocalComputer.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\filesystem\RetrievetheDriveNamesontheLocalComputer.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/filesystem/SearchaDirectoryforFilesRecursively.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\filesystem\SearchaDirectoryforFilesRecursively.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/filesystem/SearchFilesforanExpression.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\filesystem\SearchFilesforanExpression.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/filesystem/WriteTexttoFiles.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\filesystem\WriteTexttoFiles.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/filesystem/WritetoaBinaryFile.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\filesystem\WritetoaBinaryFile.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/math/CalculateaMonthlyPaymentonaLoan.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\math\CalculateaMonthlyPaymentonaLoan.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/math/CalculateCosineOfAnAngle.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\math\CalculateCosineOfAnAngle.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/math/CalculateDepreciation.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\math\CalculateDepreciation.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/math/CalculateSineOfAnAngle.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\math\CalculateSineOfAnAngle.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/math/CalculateTangentOfAnAngle.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\math\CalculateTangentOfAnAngle.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/fundamentals/math/GetARandomNumber.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\fundamentals\math\GetARandomNumber.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/os/FindtheCurrentUsersName.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\os\FindtheCurrentUsersName.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/os/PerformanActionwhenSystemPowerModeChanges.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\os\PerformanActionwhenSystemPowerModeChanges.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/os/RespondtoTimerEvent.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\os\RespondtoTimerEvent.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/os/UseBeginInvokeonaControltorunCodeAsynchronously.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\os\UseBeginInvokeonaControltorunCodeAsynchronously.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/os/EventLog/ReadEntriesCreatedbyaParticularApplicationfromtheEventlog.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\os\EventLog\ReadEntriesCreatedbyaParticularApplicationfromtheEventlog.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/os/EventLog/ReadEntriesfromEventLogs.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\os\EventLog\ReadEntriesfromEventLogs.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/os/EventLog/WritetotheApplicationEventLogfromaSpecifiedSource.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\os\EventLog\WritetotheApplicationEventLogfromaSpecifiedSource.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/os/EventLog/WritetotheMyApplicationLog.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\os\EventLog\WritetotheMyApplicationLog.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/os/Messaging/CreateaMessageQueue.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\os\Messaging\CreateaMessageQueue.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/os/Messaging/CreateaPrivateMessageQueue.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\os\Messaging\CreateaPrivateMessageQueue.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/os/Messaging/PeekatMessages.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\os\Messaging\PeekatMessages.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/os/Messaging/PurgeQueueContents.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\os\Messaging\PurgeQueueContents.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/os/Messaging/RetrieveaListofMessageQueuesontheLocalMachine.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\os\Messaging\RetrieveaListofMessageQueuesontheLocalMachine.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/os/Messaging/RetrieveMessageLabels.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\os\Messaging\RetrieveMessageLabels.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/os/Messaging/SendaMessagetoaMessageQueue.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\os\Messaging\SendaMessagetoaMessageQueue.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/os/Messaging/SendandReceiveMessagesProgrammatically.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\os\Messaging\SendandReceiveMessagesProgrammatically.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/os/Messaging/SpecifytheFormatterforRetrievedMessages.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\os\Messaging\SpecifytheFormatterforRetrievedMessages.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/os/Process/ListApplications.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\os\Process\ListApplications.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/os/Process/OpenWebpageinDefaultBrowser.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\os\Process\OpenWebpageinDefaultBrowser.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/os/Process/RunaProgramAssociatedwithaFileType.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\os\Process\RunaProgramAssociatedwithaFileType.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/os/Process/StartanApplication.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\os\Process\StartanApplication.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/os/Process/StopanApplication.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\os\Process\StopanApplication.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/os/Registry/CreateaRegistryKeyandSetItsValues.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\os\Registry\CreateaRegistryKeyandSetItsValues.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/os/Registry/DeleteRegistryKey.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\os\Registry\DeleteRegistryKey.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/os/Registry/DetermineWhetheraRegistryKeyExists.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\os\Registry\DetermineWhetheraRegistryKeyExists.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/os/Registry/ReadRegistryValues.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\os\Registry\ReadRegistryValues.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/os/Registry/WriteRegistryValues.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\os\Registry\WriteRegistryValues.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/os/Services/ContinueaWindowsService.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\os\Services\ContinueaWindowsService.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/os/Services/PauseaWindowsService.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\os\Services\PauseaWindowsService.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/os/Services/RetrieveaListofServices.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\os\Services\RetrieveaListofServices.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/os/Services/StartaWindowsService.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\os\Services\StartaWindowsService.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/os/Services/StopaWindowsService.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\os\Services\StopaWindowsService.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/os/SystemInfo/CentralizedResponsetoChangesintheDesktop.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\os\SystemInfo\CentralizedResponsetoChangesintheDesktop.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/os/SystemInfo/ChangeRegionalSettings.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\os\SystemInfo\ChangeRegionalSettings.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/os/SystemInfo/CreateanEnvironmentVariable.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\os\SystemInfo\CreateanEnvironmentVariable.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/os/SystemInfo/DetectDesktopDisplayResolution.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\os\SystemInfo\DetectDesktopDisplayResolution.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/os/SystemInfo/DeterminetheAmountofSystemMemory.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\os\SystemInfo\DeterminetheAmountofSystemMemory.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/os/SystemInfo/DeterminetheCurrentWindowsVersion.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\os\SystemInfo\DeterminetheCurrentWindowsVersion.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/os/SystemInfo/DeterminetheWindowsSystemDirectory.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\os\SystemInfo\DeterminetheWindowsSystemDirectory.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/os/SystemInfo/FindtheAmountofDiskSpaceAvailable.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\os\SystemInfo\FindtheAmountofDiskSpaceAvailable.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/os/SystemInfo/ListEnvironmentVariables.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\os\SystemInfo\ListEnvironmentVariables.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/os/SystemInfo/RetrieveAccessiblityPreferences.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\os\SystemInfo\RetrieveAccessiblityPreferences.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/os/SystemInfo/RetrieveanEnvironmentVariable.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\os\SystemInfo\RetrieveanEnvironmentVariable.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/os/SystemInfo/RetrieveorChangeUserPreferencesforIcons.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\os\SystemInfo\RetrieveorChangeUserPreferencesforIcons.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/os/SystemInfo/RetrieveorChangeUserPreferencesforKeyboardSettings.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\os\SystemInfo\RetrieveorChangeUserPreferencesforKeyboardSettings.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/os/SystemInfo/RetrieveorChangeUserPreferencesforMenus.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\os\SystemInfo\RetrieveorChangeUserPreferencesforMenus.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/os/SystemInfo/RetrieveorChangeUserPreferencesforMouseSettings.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\os\SystemInfo\RetrieveorChangeUserPreferencesforMouseSettings.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/os/SystemInfo/RetrieveorChangeUserPreferencesforRegionalSettings.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\os\SystemInfo\RetrieveorChangeUserPreferencesforRegionalSettings.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/os/SystemInfo/RetrieveorChangeUserPreferencesforSystemColors.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\os\SystemInfo\RetrieveorChangeUserPreferencesforSystemColors.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/os/SystemInfo/RetrieveorChangeUserPreferencesforSystemPowerSettings.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\os\SystemInfo\RetrieveorChangeUserPreferencesforSystemPowerSettings.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/os/SystemInfo/RetrievetheCurrentTimeontheLocalComputer.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\os\SystemInfo\RetrievetheCurrentTimeontheLocalComputer.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/other/connectivity/ConvertaRelativeUritoanAbsoluteUri.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\other\connectivity\ConvertaRelativeUritoanAbsoluteUri.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/other/connectivity/DetermineiftheNetworkisAvailable.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\other\connectivity\DetermineiftheNetworkisAvailable.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/other/connectivity/DownloadaFileusingHttp.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\other\connectivity\DownloadaFileusingHttp.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/other/connectivity/EnumerateSerialPorts.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\other\connectivity\EnumerateSerialPorts.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/other/connectivity/PingAnotherComputer.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\other\connectivity\PingAnotherComputer.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/other/connectivity/ReadDatafromaSerialPort.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\other\connectivity\ReadDatafromaSerialPort.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/other/connectivity/SendAnEmail.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\other\connectivity\SendAnEmail.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/other/connectivity/UploadAFile.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\other\connectivity\UploadAFile.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/other/connectivity/UseaSerialPorttoDialaPhoneNumber.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\other\connectivity\UseaSerialPorttoDialaPhoneNumber.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/other/security/ComputetheHashCodeofaPassword.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\other\security\ComputetheHashCodeofaPassword.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/other/security/ComputetheHashCodeofaString.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\other\security\ComputetheHashCodeofaString.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/other/security/DecryptaString.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\other\security\DecryptaString.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/other/security/EncryptaString.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\other\security\EncryptaString.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/other/security/FindtheCurrentUser'sName.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\other\security\FindtheCurrentUser'sName.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/other/security/GenerateCryptographicallyRandomData.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\other\security\GenerateCryptographicallyRandomData.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Clipboard/CopyAClassInstanceToTheClipboard.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Clipboard\CopyAClassInstanceToTheClipboard.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Clipboard/CopyAnImageToTheClipboard.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Clipboard\CopyAnImageToTheClipboard.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Clipboard/CopyAStringToTheClipboard.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Clipboard\CopyAStringToTheClipboard.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Clipboard/GetAnImageFromTheClipboard.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Clipboard\GetAnImageFromTheClipboard.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Clipboard/GetaStringFromTheClipboard.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Clipboard\GetaStringFromTheClipboard.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Controls/AddaToolTiptoaWindowsFormsControl.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Controls\AddaToolTiptoaWindowsFormsControl.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Controls/Button/ResizeaButtonDynamicallyByMeasuringItsText.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Controls\Button\ResizeaButtonDynamicallyByMeasuringItsText.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Controls/Button/ResizeaButtonDynamicallyByUsingAutoSize.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Controls\Button\ResizeaButtonDynamicallyByUsingAutoSize.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Controls/Calendar/SelectRangeOfDatesInAMonthCalendar.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Controls\Calendar\SelectRangeOfDatesInAMonthCalendar.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Controls/ComboBox/PopulateaComboBoxfromanArrayList.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Controls\ComboBox\PopulateaComboBoxfromanArrayList.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Controls/ComboBox/PopulateComboBoxfromColumnofaDatabaseTable.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Controls\ComboBox\PopulateComboBoxfromColumnofaDatabaseTable.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Controls/ComboBox/ProvideAutomaticTextCompletionforaComboBox.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Controls\ComboBox\ProvideAutomaticTextCompletionforaComboBox.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Controls/datagridview/LocktheColumnWidthsofaDataGridView.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Controls\datagridview\LocktheColumnWidthsofaDataGridView.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Controls/ListBox/ClearItemsFromaBoundListBoxControl.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Controls\ListBox\ClearItemsFromaBoundListBoxControl.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Controls/ListBox/LoadDataTableColumnIntoListBoxControl.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Controls\ListBox\LoadDataTableColumnIntoListBoxControl.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Controls/ListBox/LocateAnItemInAListBoxControl.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Controls\ListBox\LocateAnItemInAListBoxControl.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Controls/ListBox/SelectAnItemInAListBoxControl.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Controls\ListBox\SelectAnItemInAListBoxControl.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Controls/ListView/DeterminetheSelectedIteminaListView.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Controls\ListView\DeterminetheSelectedIteminaListView.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Controls/Menu/AddACheckMarkToAToolStripMenuItem.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Controls\Menu\AddACheckMarkToAToolStripMenuItem.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Controls/Menu/AddAContextMenuToAWindowsForm.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Controls\Menu\AddAContextMenuToAWindowsForm.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Controls/Menu/AddAShortcutKeyToAToolStripMenuItem.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Controls\Menu\AddAShortcutKeyToAToolStripMenuItem.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Controls/Menu/AddMenuItemsToAWindowsForm.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Controls\Menu\AddMenuItemsToAWindowsForm.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Controls/Menu/DeleteAToolStripMenuItemFromAMenuStrip.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Controls\Menu\DeleteAToolStripMenuItemFromAMenuStrip.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Controls/ProgressBar/UseAProgressBarToTrackIterations.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Controls\ProgressBar\UseAProgressBarToTrackIterations.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Controls/radiobutton/CreateRadioButtonGroupfromaStringArray.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Controls\radiobutton\CreateRadioButtonGroupfromaStringArray.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Controls/RichTextBox/FormatCharactersinBoldinaRichTextBox.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Controls\RichTextBox\FormatCharactersinBoldinaRichTextBox.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Controls/RichTextBox/LoadanRTFFileintoaRichTextBoxControl.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Controls\RichTextBox\LoadanRTFFileintoaRichTextBoxControl.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Controls/RichTextBox/PositiontheCursorinaRichTextBox.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Controls\RichTextBox\PositiontheCursorinaRichTextBox.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Controls/RichTextBox/SavetheContentsofaRichTextBoxtoaRTFFile.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Controls\RichTextBox\SavetheContentsofaRichTextBoxtoaRTFFile.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Controls/textbox/PopulateAMultilineTextBoxWithAStringArray.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Controls\textbox\PopulateAMultilineTextBoxWithAStringArray.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Controls/TreeView/DeterminetheSelectedNodeinaTreeView.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Controls\TreeView\DeterminetheSelectedNodeinaTreeView.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Drawing/CreateaBitmapatRunTime.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Drawing\CreateaBitmapatRunTime.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Drawing/CreateaCustomBrushDesign.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Drawing\CreateaCustomBrushDesign.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Drawing/CreateaPen.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Drawing\CreateaPen.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Drawing/CreateaSolidBrush.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Drawing\CreateaSolidBrush.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Drawing/CreateaTriangleShapeusingaGraphicsPathObject.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Drawing\CreateaTriangleShapeusingaGraphicsPathObject.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Drawing/DisplayanAnimatedGif.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Drawing\DisplayanAnimatedGif.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Drawing/DrawaFilledEllipseonaWindowsForm.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Drawing\DrawaFilledEllipseonaWindowsForm.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Drawing/DrawaFilledRectangleonaWindowsForm.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Drawing\DrawaFilledRectangleonaWindowsForm.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Drawing/DrawaLineonaWindowsForm.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Drawing\DrawaLineonaWindowsForm.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Drawing/DrawaPieChart.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Drawing\DrawaPieChart.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Drawing/DrawaRubberBandRectangle.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Drawing\DrawaRubberBandRectangle.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Drawing/DrawaShapewithGradientFill.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Drawing\DrawaShapewithGradientFill.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Drawing/DrawOutlinedEllipse.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Drawing\DrawOutlinedEllipse.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Drawing/DrawOutlinedRectangle.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Drawing\DrawOutlinedRectangle.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Drawing/DrawTextonaWindowsForm.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Drawing\DrawTextonaWindowsForm.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Drawing/DrawVerticalTextonaWindowsForm.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Drawing\DrawVerticalTextonaWindowsForm.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Fonts/CreateaFont.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Fonts\CreateaFont.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Forms/AddaWindowsFormsControlatRunTime.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Forms\AddaWindowsFormsControlatRunTime.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Forms/ArrangeMDIChildForms.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Forms\ArrangeMDIChildForms.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Forms/ConvertMouseCoordinatestoScreenCoordinates.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Forms\ConvertMouseCoordinatestoScreenCoordinates.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Forms/CreateMDIChildForms.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Forms\CreateMDIChildForms.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Forms/CreateTransparentWindowsForms.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Forms\CreateTransparentWindowsForms.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Forms/DeterminetheActiveMDIChild.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Forms\DeterminetheActiveMDIChild.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Forms/DeterminewhichControlonaWindowsFormisSelected.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Forms\DeterminewhichControlonaWindowsFormisSelected.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Forms/DetermineWhichModifierKeyWasPressed.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Forms\DetermineWhichModifierKeyWasPressed.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Forms/DisplayOneWindowsFormfromAnother.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Forms\DisplayOneWindowsFormfromAnother.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Forms/EliminatetheTitleBar.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Forms\EliminatetheTitleBar.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Forms/KeepaWindowsFormonTop.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Forms\KeepaWindowsFormonTop.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Forms/MoveaWindowbyDraggingtheClientAreaoftheForm.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Forms\MoveaWindowbyDraggingtheClientAreaoftheForm.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Forms/PlayaBeepFromaWindowsForm.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Forms\PlayaBeepFromaWindowsForm.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Forms/ResizeWindowsForms.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Forms\ResizeWindowsForms.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Forms/RestrictaControl'sAcceptableKeystrokes.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Forms\RestrictaControl'sAcceptableKeystrokes.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Forms/RetrieveInformationfromtheParentFormofaDialogBox.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Forms\RetrieveInformationfromtheParentFormofaDialogBox.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Forms/RetrievetheResultforDialogBoxes.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Forms\RetrievetheResultforDialogBoxes.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Forms/SettheScreenLocationofWindowsForms.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Forms\SettheScreenLocationofWindowsForms.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Sound/LoopaSoundPlayingonaWindowsForm.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Sound\LoopaSoundPlayingonaWindowsForm.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Sound/PlayaSound.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Sound\PlayaSound.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/windowsforms/Sound/StopPlayingSoundsintheBackground.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\windowsforms\Sound\StopPlayingSoundsintheBackground.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/WPF/DependencyProperty Attached.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\WPF\DependencyProperty Attached.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/WPF/DependencyProperty ReadOnly.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\WPF\DependencyProperty ReadOnly.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/WPF/DependencyProperty.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\WPF\DependencyProperty.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/WPF/RoutedCommand.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\WPF\RoutedCommand.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/WPF/RoutedCommandHandlers.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\WPF\RoutedCommandHandlers.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/Snippets/1033/WPF/RoutedEvent.snippet
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\Snippets\1033\WPF\RoutedEvent.snippet file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/VBWizards/1033/common.js
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\VBWizards\1033\common.js file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/VBWizards/AppConfiguration/Scripts/1033/default.js
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\VBWizards\AppConfiguration\Scripts\1033\default.js file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/VBWizards/AppConfiguration/Templates/1033/app.config
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\VBWizards\AppConfiguration\Templates\1033\app.config file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/VBWizards/DesignerTemplates/1033/InheritedTemplate.Designer.vb
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\VBWizards\DesignerTemplates\1033\InheritedTemplate.Designer.vb file deleted.
+[0c48:0003][2026-05-10T01:44:44] Processing file /Contents/VB/VBWizards/DesignerTemplates/1033/InheritedTemplate.vb
+[0c48:0003][2026-05-10T01:44:44] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VB\VBWizards\DesignerTemplates\1033\InheritedTemplate.vb file deleted.
+[0c48:0003][2026-05-10T01:44:44] Started: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:44] Completed: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:44] Package executed successfully. Return code: 0

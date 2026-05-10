@@ -1,0 +1,18 @@
+[0c48:0003][2026-05-10T01:44:48] Using cached package manifest as the embedded manifest
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/TestWindow/vstest.console.exe
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TestWindow\vstest.console.exe file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/TestWindow/vstest.console.exe.config
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TestWindow\vstest.console.exe.config file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/TestWindow/Microsoft.VisualStudio.MSTest.TestWindow.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TestWindow\Microsoft.VisualStudio.MSTest.TestWindow.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/TestWindow/Microsoft.TestPlatform.CoreUtilities.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TestWindow\Microsoft.TestPlatform.CoreUtilities.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/TestWindow/Microsoft.TestPlatform.PlatformAbstractions.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TestWindow\Microsoft.TestPlatform.PlatformAbstractions.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/TestWindow/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\TestWindow\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll file deleted.
+[0c48:0003][2026-05-10T01:44:48] Processing file /Contents/Common7/Tools/vsdevcmd/ext/testwindow.bat
+[0c48:0003][2026-05-10T01:44:48] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Tools\vsdevcmd\ext\testwindow.bat file deleted.
+[0c48:0003][2026-05-10T01:44:48] Started: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:48] Completed: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:48] Package executed successfully. Return code: 0

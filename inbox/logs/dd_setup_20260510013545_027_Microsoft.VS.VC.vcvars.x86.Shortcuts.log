@@ -1,0 +1,4 @@
+[3c7c:000c][2026-05-10T01:35:52] Opening the package for processing
+[3c7c:000c][2026-05-10T01:35:52] Using package payload to get the embedded manifest
+[3c7c:000c][2026-05-10T01:35:52] Getting list of files within the package
+[3c7c:000c][2026-05-10T01:35:52] Package executed successfully. Return code: 0

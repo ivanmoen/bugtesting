@@ -1,0 +1,28 @@
+[da4c:0007][2026-05-10T00:49:49] Opening the package for processing
+[da4c:0007][2026-05-10T00:49:49] Using package payload to get the embedded manifest
+[da4c:0007][2026-05-10T00:49:49] Getting list of files within the package
+[da4c:0007][2026-05-10T00:49:49] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.ExtensionEngine.dll
+[da4c:0007][2026-05-10T00:49:49] Started: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.ExtensionEngine.dll to D:\Program\Common7\IDE\Microsoft.VisualStudio.ExtensionEngine.dll
+[da4c:0007][2026-05-10T00:49:49] Completed: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.ExtensionEngine.dll to D:\Program\Common7\IDE\Microsoft.VisualStudio.ExtensionEngine.dll
+[da4c:0007][2026-05-10T00:49:49] Timestamp updated for file 'D:\Program\Common7\IDE\Microsoft.VisualStudio.ExtensionEngine.dll'.
+[da4c:0007][2026-05-10T00:49:49] Queueing D:\Program\Common7\IDE\Microsoft.VisualStudio.ExtensionEngine.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:49] Successfully queued file '/Contents/Common7/IDE/Microsoft.VisualStudio.ExtensionEngine.dll' for ngen
+[da4c:0007][2026-05-10T00:49:49] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ExtensionEngine.dll
+[da4c:0007][2026-05-10T00:49:49] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ExtensionEngine.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ExtensionEngine.dll
+[da4c:0007][2026-05-10T00:49:49] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ExtensionEngine.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ExtensionEngine.dll
+[da4c:0007][2026-05-10T00:49:49] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ExtensionEngine.dll'.
+[da4c:0007][2026-05-10T00:49:49] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ExtensionManager.Implementation.dll
+[da4c:0007][2026-05-10T00:49:49] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ExtensionManager.Implementation.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ExtensionManager.Implementation.dll
+[da4c:0007][2026-05-10T00:49:49] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ExtensionManager.Implementation.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ExtensionManager.Implementation.dll
+[da4c:0007][2026-05-10T00:49:49] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ExtensionManager.Implementation.dll'.
+[da4c:0007][2026-05-10T00:49:49] Queueing D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ExtensionManager.Implementation.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:49] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ExtensionManager.Implementation.dll' for ngen
+[da4c:0007][2026-05-10T00:49:49] Processing file /Contents/Common7/IDE/VSIXInstaller.exe
+[da4c:0007][2026-05-10T00:49:49] Started: Copying file /Contents/Common7/IDE/VSIXInstaller.exe to D:\Program\Common7\IDE\VSIXInstaller.exe
+[da4c:0007][2026-05-10T00:49:49] Completed: Copying file /Contents/Common7/IDE/VSIXInstaller.exe to D:\Program\Common7\IDE\VSIXInstaller.exe
+[da4c:0007][2026-05-10T00:49:49] Timestamp updated for file 'D:\Program\Common7\IDE\VSIXInstaller.exe'.
+[da4c:0007][2026-05-10T00:49:49] Processing file /Contents/Common7/IDE/VSIXInstaller.exe.config
+[da4c:0007][2026-05-10T00:49:49] Started: Copying file /Contents/Common7/IDE/VSIXInstaller.exe.config to D:\Program\Common7\IDE\VSIXInstaller.exe.config
+[da4c:0007][2026-05-10T00:49:49] Completed: Copying file /Contents/Common7/IDE/VSIXInstaller.exe.config to D:\Program\Common7\IDE\VSIXInstaller.exe.config
+[da4c:0007][2026-05-10T00:49:49] Timestamp updated for file 'D:\Program\Common7\IDE\VSIXInstaller.exe.config'.
+[da4c:0007][2026-05-10T00:49:49] Package executed successfully. Return code: 0

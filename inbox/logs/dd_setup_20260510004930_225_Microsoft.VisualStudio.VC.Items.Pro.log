@@ -1,0 +1,24 @@
+[da4c:0007][2026-05-10T00:50:14] Opening the package for processing
+[da4c:0007][2026-05-10T00:50:14] Using package payload to get the embedded manifest
+[da4c:0007][2026-05-10T00:50:14] Getting list of files within the package
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/NewFileItems/hlslfile.hlsl
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/NewFileItems/hlslfile.hlsl to D:\Program\Common7\IDE\NewFileItems\hlslfile.hlsl
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/NewFileItems/hlslfile.hlsl to D:\Program\Common7\IDE\NewFileItems\hlslfile.hlsl
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\NewFileItems\hlslfile.hlsl'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/NewFileItems/NewVCFileItems.vsdir
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/NewFileItems/NewVCFileItems.vsdir to D:\Program\Common7\IDE\NewFileItems\NewVCFileItems.vsdir
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/NewFileItems/NewVCFileItems.vsdir to D:\Program\Common7\IDE\NewFileItems\NewVCFileItems.vsdir
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\NewFileItems\NewVCFileItems.vsdir'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/VC/VCProjectItemsOpenFolder/ClangFormat.vsz
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItemsOpenFolder/ClangFormat.vsz to D:\Program\Common7\IDE\VC\VCProjectItemsOpenFolder\ClangFormat.vsz
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItemsOpenFolder/ClangFormat.vsz to D:\Program\Common7\IDE\VC\VCProjectItemsOpenFolder\ClangFormat.vsz
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\VC\VCProjectItemsOpenFolder\ClangFormat.vsz'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/VC/VCProjectItemsOpenFolder/CppProperties.vsz
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItemsOpenFolder/CppProperties.vsz to D:\Program\Common7\IDE\VC\VCProjectItemsOpenFolder\CppProperties.vsz
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItemsOpenFolder/CppProperties.vsz to D:\Program\Common7\IDE\VC\VCProjectItemsOpenFolder\CppProperties.vsz
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\VC\VCProjectItemsOpenFolder\CppProperties.vsz'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/VC/VCProjectItemsOpenFolder/NewItems.vsdir
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/VC/VCProjectItemsOpenFolder/NewItems.vsdir to D:\Program\Common7\IDE\VC\VCProjectItemsOpenFolder\NewItems.vsdir
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/VC/VCProjectItemsOpenFolder/NewItems.vsdir to D:\Program\Common7\IDE\VC\VCProjectItemsOpenFolder\NewItems.vsdir
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\VC\VCProjectItemsOpenFolder\NewItems.vsdir'.
+[da4c:0007][2026-05-10T00:50:14] Package executed successfully. Return code: 0

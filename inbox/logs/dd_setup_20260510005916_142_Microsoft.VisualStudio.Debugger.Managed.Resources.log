@@ -1,0 +1,8 @@
+[bd94:0009][2026-05-10T01:00:52] Using cached package manifest as the embedded manifest
+[bd94:0009][2026-05-10T01:00:52] Processing file /Contents/Common7/Packages/Debugger/1033/cscompeeui.dll
+[bd94:0009][2026-05-10T01:00:52] D:\Program\Common7\Packages\Debugger\1033\cscompeeui.dll file deleted.
+[bd94:0009][2026-05-10T01:00:52] Processing file /Contents/Common7/IDE/ReferenceAssemblies/v2.0/en/Microsoft.VisualStudio.DebuggerVisualizers.xml
+[bd94:0009][2026-05-10T01:00:52] D:\Program\Common7\IDE\ReferenceAssemblies\v2.0\en\Microsoft.VisualStudio.DebuggerVisualizers.xml file deleted.
+[bd94:0009][2026-05-10T01:00:52] Started: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:52] Completed: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:52] Package executed successfully. Return code: 0

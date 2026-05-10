@@ -1,0 +1,104 @@
+[0c48:0003][2026-05-10T01:44:47] Using cached package manifest as the embedded manifest
+[0c48:0003][2026-05-10T01:44:47] Processing file /extension.vsixmanifest
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Extensibility\extension.vsixmanifest file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Microsoft.VisualStudio.Extensibility.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Extensibility\Microsoft.VisualStudio.Extensibility.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Microsoft.VisualStudio.Extensibility.Contracts.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Extensibility\Microsoft.VisualStudio.Extensibility.Contracts.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Microsoft.VisualStudio.Extensibility.Framework.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Extensibility\Microsoft.VisualStudio.Extensibility.Framework.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Microsoft.Extensions.DependencyInjection.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Extensibility\Microsoft.Extensions.DependencyInjection.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /ServiceHub.Host.Extensibility.Contracts.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Extensibility\ServiceHub.Host.Extensibility.Contracts.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Microsoft.VisualStudio.Extensibility.VSPackage.pkgdef
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Extensibility\Microsoft.VisualStudio.Extensibility.VSPackage.pkgdef file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Microsoft.VisualStudio.Extensibility.Redirects.pkgdef
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Extensibility\Microsoft.VisualStudio.Extensibility.Redirects.pkgdef file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /Microsoft.VisualStudio.Extensibility.VSPackage.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Extensibility\Microsoft.VisualStudio.Extensibility.VSPackage.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /zh-Hans/Microsoft.VisualStudio.Extensibility.Contracts.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Extensibility\zh-Hans\Microsoft.VisualStudio.Extensibility.Contracts.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /zh-Hant/Microsoft.VisualStudio.Extensibility.Contracts.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Extensibility\zh-Hant\Microsoft.VisualStudio.Extensibility.Contracts.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /de/Microsoft.VisualStudio.Extensibility.Contracts.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Extensibility\de\Microsoft.VisualStudio.Extensibility.Contracts.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /es/Microsoft.VisualStudio.Extensibility.Contracts.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Extensibility\es\Microsoft.VisualStudio.Extensibility.Contracts.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /fr/Microsoft.VisualStudio.Extensibility.Contracts.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Extensibility\fr\Microsoft.VisualStudio.Extensibility.Contracts.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /it/Microsoft.VisualStudio.Extensibility.Contracts.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Extensibility\it\Microsoft.VisualStudio.Extensibility.Contracts.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /ja/Microsoft.VisualStudio.Extensibility.Contracts.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Extensibility\ja\Microsoft.VisualStudio.Extensibility.Contracts.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /ko/Microsoft.VisualStudio.Extensibility.Contracts.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Extensibility\ko\Microsoft.VisualStudio.Extensibility.Contracts.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /ru/Microsoft.VisualStudio.Extensibility.Contracts.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Extensibility\ru\Microsoft.VisualStudio.Extensibility.Contracts.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /cs/Microsoft.VisualStudio.Extensibility.Contracts.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Extensibility\cs\Microsoft.VisualStudio.Extensibility.Contracts.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /pt-BR/Microsoft.VisualStudio.Extensibility.Contracts.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Extensibility\pt-BR\Microsoft.VisualStudio.Extensibility.Contracts.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /pl/Microsoft.VisualStudio.Extensibility.Contracts.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Extensibility\pl\Microsoft.VisualStudio.Extensibility.Contracts.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /tr/Microsoft.VisualStudio.Extensibility.Contracts.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Extensibility\tr\Microsoft.VisualStudio.Extensibility.Contracts.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /zh-Hans/Microsoft.VisualStudio.Extensibility.Framework.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Extensibility\zh-Hans\Microsoft.VisualStudio.Extensibility.Framework.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /zh-Hant/Microsoft.VisualStudio.Extensibility.Framework.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Extensibility\zh-Hant\Microsoft.VisualStudio.Extensibility.Framework.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /de/Microsoft.VisualStudio.Extensibility.Framework.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Extensibility\de\Microsoft.VisualStudio.Extensibility.Framework.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /es/Microsoft.VisualStudio.Extensibility.Framework.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Extensibility\es\Microsoft.VisualStudio.Extensibility.Framework.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /fr/Microsoft.VisualStudio.Extensibility.Framework.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Extensibility\fr\Microsoft.VisualStudio.Extensibility.Framework.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /it/Microsoft.VisualStudio.Extensibility.Framework.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Extensibility\it\Microsoft.VisualStudio.Extensibility.Framework.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /ja/Microsoft.VisualStudio.Extensibility.Framework.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Extensibility\ja\Microsoft.VisualStudio.Extensibility.Framework.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /ko/Microsoft.VisualStudio.Extensibility.Framework.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Extensibility\ko\Microsoft.VisualStudio.Extensibility.Framework.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /ru/Microsoft.VisualStudio.Extensibility.Framework.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Extensibility\ru\Microsoft.VisualStudio.Extensibility.Framework.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /cs/Microsoft.VisualStudio.Extensibility.Framework.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Extensibility\cs\Microsoft.VisualStudio.Extensibility.Framework.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /pt-BR/Microsoft.VisualStudio.Extensibility.Framework.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Extensibility\pt-BR\Microsoft.VisualStudio.Extensibility.Framework.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /pl/Microsoft.VisualStudio.Extensibility.Framework.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Extensibility\pl\Microsoft.VisualStudio.Extensibility.Framework.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /tr/Microsoft.VisualStudio.Extensibility.Framework.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Extensibility\tr\Microsoft.VisualStudio.Extensibility.Framework.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /zh-Hans/Microsoft.VisualStudio.Extensibility.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Extensibility\zh-Hans\Microsoft.VisualStudio.Extensibility.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /zh-Hant/Microsoft.VisualStudio.Extensibility.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Extensibility\zh-Hant\Microsoft.VisualStudio.Extensibility.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /de/Microsoft.VisualStudio.Extensibility.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Extensibility\de\Microsoft.VisualStudio.Extensibility.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /es/Microsoft.VisualStudio.Extensibility.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Extensibility\es\Microsoft.VisualStudio.Extensibility.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /fr/Microsoft.VisualStudio.Extensibility.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Extensibility\fr\Microsoft.VisualStudio.Extensibility.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /it/Microsoft.VisualStudio.Extensibility.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Extensibility\it\Microsoft.VisualStudio.Extensibility.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /ja/Microsoft.VisualStudio.Extensibility.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Extensibility\ja\Microsoft.VisualStudio.Extensibility.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /ko/Microsoft.VisualStudio.Extensibility.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Extensibility\ko\Microsoft.VisualStudio.Extensibility.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /ru/Microsoft.VisualStudio.Extensibility.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Extensibility\ru\Microsoft.VisualStudio.Extensibility.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /cs/Microsoft.VisualStudio.Extensibility.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Extensibility\cs\Microsoft.VisualStudio.Extensibility.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /pt-BR/Microsoft.VisualStudio.Extensibility.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Extensibility\pt-BR\Microsoft.VisualStudio.Extensibility.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /pl/Microsoft.VisualStudio.Extensibility.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Extensibility\pl\Microsoft.VisualStudio.Extensibility.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /tr/Microsoft.VisualStudio.Extensibility.resources.dll
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Extensibility\tr\Microsoft.VisualStudio.Extensibility.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /manifest.json
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Extensibility\manifest.json file deleted.
+[0c48:0003][2026-05-10T01:44:47] Processing file /catalog.json
+[0c48:0003][2026-05-10T01:44:47] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Extensibility\catalog.json file deleted.
+[0c48:0003][2026-05-10T01:44:47] Started: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:47] Completed: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:47] Package executed successfully. Return code: 0

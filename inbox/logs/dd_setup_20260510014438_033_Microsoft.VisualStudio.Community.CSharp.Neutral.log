@@ -1,0 +1,58 @@
+[0c48:0003][2026-05-10T01:44:43] Using cached package manifest as the embedded manifest
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/Extensions/Community/VCSh_Dir_Registry_Entry_5156.3643236F_FC70_11D3_A536_0090278A1BB8.pkgdef
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Community\VCSh_Dir_Registry_Entry_5156.3643236F_FC70_11D3_A536_0090278A1BB8.pkgdef file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/Extensions/Community/VCSh_LangService_Reg_26668.3643236F_FC70_11D3_A536_0090278A1BB8.pkgdef
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Community\VCSh_LangService_Reg_26668.3643236F_FC70_11D3_A536_0090278A1BB8.pkgdef file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Code/Code.VSTDIR
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\CSharp\Code\Code.VSTDIR file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Data/Data.VSTDIR
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\CSharp\Data\Data.VSTDIR file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/General/General.VSTDIR
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\CSharp\General\General.VSTDIR file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Web.VSTDIR
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\CSharp\Web\Web.VSTDIR file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Windows Forms/Windows Forms.VSTDIR
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\CSharp\Windows Forms\Windows Forms.VSTDIR file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/NewFileItems/NewCAFileItems.vsdir
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\NewFileItems\NewCAFileItems.vsdir file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/NewFileItems/bitmap.bmp
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\NewFileItems\bitmap.bmp file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/NewFileItems/csharpclass.cs
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\NewFileItems\csharpclass.cs file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/NewFileItems/cursor.cur
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\NewFileItems\cursor.cur file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/NewFileItems/icon.ico
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\NewFileItems\icon.ico file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/NewFileItems/NewCSharpFileItems.vsdir
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\NewFileItems\NewCSharpFileItems.vsdir file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/NewFileItems/NewFileItemsEX.VSDIR
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\NewFileItems\NewFileItemsEX.VSDIR file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/NewFileItems/NewVBFileItems.vsdir
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\NewFileItems\NewVBFileItems.vsdir file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/NewFileItems/restempl.rct
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\NewFileItems\restempl.rct file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/Common7/IDE/NewFileItems/vbclass.vb
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\NewFileItems\vbclass.vb file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/ImportProjects/vcs/ImportDefault.csproj
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\ImportProjects\vcs\ImportDefault.csproj file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/ImportProjects/vcs/ImportDefaultDll.csproj
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\ImportProjects\vcs\ImportDefaultDll.csproj file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/ImportProjects/vcs/ImportDefaultWinExe.csproj
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\ImportProjects\vcs\ImportDefaultWinExe.csproj file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VC#/CSharpProjectItems/Windows Forms/CSControlInheritanceWizard.vsz
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\CSharpProjectItems\Windows Forms\CSControlInheritanceWizard.vsz file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VC#/CSharpProjectItems/Windows Forms/CSFormInheritanceWizard.vsz
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\CSharpProjectItems\Windows Forms\CSFormInheritanceWizard.vsz file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VC#/CSharpProjectItems/Windows Forms/CSharpItems.vsdir
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\CSharpProjectItems\Windows Forms\CSharpItems.vsdir file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VC#/VC#Wizards/1033/Images/DottedHori.gif
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\VC#Wizards\1033\Images\DottedHori.gif file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VC#/VC#Wizards/1033/Images/DottedVert.gif
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\VC#Wizards\1033\Images\DottedVert.gif file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /Contents/VC#/VC#Wizards/1033/Images/spacer.gif
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\VC#\VC#Wizards\1033\Images\spacer.gif file deleted.
+[0c48:0003][2026-05-10T01:44:43] Processing file /contents/Common7/IDE/ItemTemplates/Microsoft.VisualStudio.Community.CSharp.Neutral.Item..vstman
+[0c48:0003][2026-05-10T01:44:43] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\Microsoft.VisualStudio.Community.CSharp.Neutral.Item..vstman file deleted.
+[0c48:0003][2026-05-10T01:44:43] Started: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:43] Completed: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:43] Package executed successfully. Return code: 0

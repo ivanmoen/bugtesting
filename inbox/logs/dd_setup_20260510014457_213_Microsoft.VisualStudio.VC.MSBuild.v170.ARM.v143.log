@@ -1,0 +1,8 @@
+[3474:0009][2026-05-10T01:46:25] Using cached package manifest as the embedded manifest
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/MSBuild/Microsoft/VC/v170/Platforms/ARM/PlatformToolsets/v143/Toolset.props
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VC\v170\Platforms\ARM\PlatformToolsets\v143\Toolset.props file deleted.
+[3474:0009][2026-05-10T01:46:25] Processing file /Contents/MSBuild/Microsoft/VC/v170/Platforms/ARM/PlatformToolsets/v143/Toolset.targets
+[3474:0009][2026-05-10T01:46:25] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Microsoft\VC\v170\Platforms\ARM\PlatformToolsets\v143\Toolset.targets file deleted.
+[3474:0009][2026-05-10T01:46:25] Started: Deleting empty directories
+[3474:0009][2026-05-10T01:46:25] Completed: Deleting empty directories
+[3474:0009][2026-05-10T01:46:25] Package executed successfully. Return code: 0

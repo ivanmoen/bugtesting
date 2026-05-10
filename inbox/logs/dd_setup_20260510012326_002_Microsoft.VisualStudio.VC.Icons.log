@@ -1,0 +1,8 @@
+[2e2c:0007][2026-05-10T01:23:31] Opening the package for processing
+[2e2c:0007][2026-05-10T01:23:31] Using package payload to get the embedded manifest
+[2e2c:0007][2026-05-10T01:23:31] Getting list of files within the package
+[2e2c:0007][2026-05-10T01:23:31] Processing file /Contents/Common7/IDE/devenv.ico
+[2e2c:0007][2026-05-10T01:23:31] Started: Copying file /Contents/Common7/IDE/devenv.ico to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\devenv.ico
+[2e2c:0007][2026-05-10T01:23:31] Completed: Copying file /Contents/Common7/IDE/devenv.ico to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\devenv.ico
+[2e2c:0007][2026-05-10T01:23:31] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\devenv.ico'.
+[2e2c:0007][2026-05-10T01:23:31] Package executed successfully. Return code: 0

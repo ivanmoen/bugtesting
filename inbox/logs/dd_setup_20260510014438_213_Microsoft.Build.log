@@ -1,0 +1,584 @@
+[0c48:0003][2026-05-10T01:44:49] Using cached package manifest as the embedded manifest
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Microsoft.Common.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Microsoft.Common.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Microsoft.VisualStudioVersion.v17.Common.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Microsoft.VisualStudioVersion.v17.Common.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/THIRDPARTYNOTICES.txt
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\THIRDPARTYNOTICES.txt file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Microsoft.Build.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Microsoft.Build.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Microsoft.Build.Framework.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Microsoft.Build.Framework.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Microsoft.Build.Framework.tlb
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Microsoft.Build.Framework.tlb file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Microsoft.Build.Tasks.Core.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Microsoft.Build.Tasks.Core.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Microsoft.Build.Utilities.Core.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Microsoft.Build.Utilities.Core.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Microsoft.IO.Redist.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Microsoft.IO.Redist.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/MSBuild.exe
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\MSBuild.exe file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/MSBuild.exe.config
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\MSBuild.exe.config file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/MSBuildTaskHost.exe
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\MSBuildTaskHost.exe file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/MSBuildTaskHost.exe.config
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\MSBuildTaskHost.exe.config file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/BuildXL.Native.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\BuildXL.Native.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/BuildXL.Processes.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\BuildXL.Processes.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/BuildXL.Utilities.Core.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\BuildXL.Utilities.Core.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Microsoft.VisualStudio.SolutionPersistence.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Microsoft.VisualStudio.SolutionPersistence.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/RuntimeContracts.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\RuntimeContracts.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/System.Buffers.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\System.Buffers.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/System.Diagnostics.DiagnosticSource.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\System.Diagnostics.DiagnosticSource.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/System.Formats.Nrbf.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\System.Formats.Nrbf.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/System.IO.Pipelines.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\System.IO.Pipelines.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/System.Memory.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\System.Memory.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/System.Reflection.Metadata.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\System.Reflection.Metadata.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/System.Reflection.MetadataLoadContext.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\System.Reflection.MetadataLoadContext.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/System.Text.Json.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\System.Text.Json.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/System.Threading.Channels.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\System.Threading.Channels.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Microsoft.Bcl.AsyncInterfaces.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Microsoft.Bcl.AsyncInterfaces.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/System.Text.Encodings.Web.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\System.Text.Encodings.Web.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/System.Threading.Tasks.Extensions.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\System.Threading.Tasks.Extensions.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/System.ValueTuple.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\System.ValueTuple.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/System.Numerics.Vectors.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\System.Numerics.Vectors.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/System.Resources.Extensions.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\System.Resources.Extensions.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/System.Runtime.CompilerServices.Unsafe.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\System.Runtime.CompilerServices.Unsafe.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/System.Threading.Tasks.Dataflow.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\System.Threading.Tasks.Dataflow.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/System.Collections.Immutable.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\System.Collections.Immutable.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Microsoft.Bcl.HashCode.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Microsoft.Bcl.HashCode.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Microsoft.NET.StringTools.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Microsoft.NET.StringTools.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Microsoft.NET.StringTools.net35.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Microsoft.NET.StringTools.net35.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Microsoft.Common.CurrentVersion.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Microsoft.Common.CrossTargeting.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Microsoft.Common.CrossTargeting.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Microsoft.Common.overridetasks
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Microsoft.Common.overridetasks file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Microsoft.Common.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Microsoft.Common.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Microsoft.Common.tasks
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Microsoft.Common.tasks file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Microsoft.Common.Test.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Microsoft.Common.Test.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Microsoft.Managed.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Microsoft.Managed.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Microsoft.Managed.Before.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Microsoft.Managed.Before.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Microsoft.Managed.After.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Microsoft.Managed.After.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Microsoft.CSharp.CurrentVersion.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Microsoft.CSharp.CurrentVersion.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Microsoft.CSharp.CrossTargeting.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Microsoft.CSharp.CrossTargeting.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Microsoft.CSharp.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Microsoft.CSharp.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Microsoft.Net.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Microsoft.Net.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Microsoft.NetFramework.CurrentVersion.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Microsoft.NetFramework.CurrentVersion.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Microsoft.NetFramework.CurrentVersion.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Microsoft.NetFramework.CurrentVersion.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Microsoft.NetFramework.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Microsoft.NetFramework.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Microsoft.NetFramework.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Microsoft.NetFramework.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Microsoft.VisualBasic.CurrentVersion.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Microsoft.VisualBasic.CurrentVersion.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Microsoft.VisualBasic.CrossTargeting.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Microsoft.VisualBasic.CrossTargeting.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Microsoft.VisualBasic.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Microsoft.VisualBasic.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/MSBuild.rsp
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\MSBuild.rsp file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Workflow.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Workflow.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Workflow.VisualBasic.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Workflow.VisualBasic.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Microsoft.Xaml.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Microsoft.Xaml.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Microsoft.Data.Entity.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Microsoft.Data.Entity.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Microsoft.ServiceModel.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Microsoft.ServiceModel.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Microsoft.WinFx.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Microsoft.WinFx.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Microsoft.WorkflowBuildExtensions.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Microsoft.WorkflowBuildExtensions.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Microsoft.VisualStudio.OpenTelemetry.ClientExtensions.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Microsoft.VisualStudio.OpenTelemetry.ClientExtensions.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Microsoft.VisualStudio.OpenTelemetry.Collector.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Microsoft.VisualStudio.OpenTelemetry.Collector.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Microsoft.VisualStudio.Utilities.Internal.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Microsoft.VisualStudio.Utilities.Internal.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/OpenTelemetry.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\OpenTelemetry.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/OpenTelemetry.Api.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\OpenTelemetry.Api.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/OpenTelemetry.Api.ProviderBuilderExtensions.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\OpenTelemetry.Api.ProviderBuilderExtensions.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Microsoft.Extensions.Configuration.Abstractions.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Microsoft.Extensions.Configuration.Abstractions.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Microsoft.Extensions.Configuration.Binder.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Microsoft.Extensions.Configuration.Binder.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Microsoft.Extensions.Configuration.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Microsoft.Extensions.Configuration.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Microsoft.Extensions.DependencyInjection.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Microsoft.Extensions.DependencyInjection.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Microsoft.Extensions.Logging.Abstractions.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Microsoft.Extensions.Logging.Abstractions.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Microsoft.Extensions.Logging.Configuration.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Microsoft.Extensions.Logging.Configuration.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Microsoft.Extensions.Logging.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Microsoft.Extensions.Logging.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Microsoft.Extensions.Options.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Microsoft.Extensions.Options.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Microsoft.Extensions.Options.ConfigurationExtensions.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Microsoft.Extensions.Primitives.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Microsoft.Extensions.Primitives.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Microsoft.Extensions.Diagnostics.Abstractions.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Microsoft.Extensions.Diagnostics.Abstractions.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/Newtonsoft.Json.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\Newtonsoft.Json.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/MSBuild/Microsoft.Build.Core.xsd
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\MSBuild\Microsoft.Build.Core.xsd file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/MSBuild/Microsoft.Build.CommonTypes.xsd
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\MSBuild\Microsoft.Build.CommonTypes.xsd file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/ref/mscorlib.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ref\mscorlib.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/ref/netstandard.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ref\netstandard.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/SdkResolvers/Microsoft.Build.NuGetSdkResolver/Microsoft.Build.NuGetSdkResolver.xml
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\SdkResolvers\Microsoft.Build.NuGetSdkResolver\Microsoft.Build.NuGetSdkResolver.xml file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/cs/Microsoft.Build.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\cs\Microsoft.Build.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/cs/Microsoft.Build.Tasks.Core.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\cs\Microsoft.Build.Tasks.Core.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/cs/Microsoft.Build.Utilities.Core.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\cs\Microsoft.Build.Utilities.Core.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/cs/MSBuild.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\cs\MSBuild.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/cs/MSBuildTaskHost.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\cs\MSBuildTaskHost.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/de/Microsoft.Build.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\de\Microsoft.Build.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/de/Microsoft.Build.Tasks.Core.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\de\Microsoft.Build.Tasks.Core.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/de/Microsoft.Build.Utilities.Core.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\de\Microsoft.Build.Utilities.Core.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/de/MSBuild.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\de\MSBuild.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/de/MSBuildTaskHost.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\de\MSBuildTaskHost.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/es/Microsoft.Build.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\es\Microsoft.Build.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/es/Microsoft.Build.Tasks.Core.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\es\Microsoft.Build.Tasks.Core.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/es/Microsoft.Build.Utilities.Core.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\es\Microsoft.Build.Utilities.Core.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/es/MSBuild.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\es\MSBuild.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/es/MSBuildTaskHost.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\es\MSBuildTaskHost.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/fr/Microsoft.Build.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\fr\Microsoft.Build.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/fr/Microsoft.Build.Tasks.Core.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\fr\Microsoft.Build.Tasks.Core.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/fr/Microsoft.Build.Utilities.Core.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\fr\Microsoft.Build.Utilities.Core.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/fr/MSBuild.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\fr\MSBuild.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/fr/MSBuildTaskHost.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\fr\MSBuildTaskHost.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/it/Microsoft.Build.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\it\Microsoft.Build.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/it/Microsoft.Build.Tasks.Core.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\it\Microsoft.Build.Tasks.Core.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/it/Microsoft.Build.Utilities.Core.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\it\Microsoft.Build.Utilities.Core.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/it/MSBuild.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\it\MSBuild.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/it/MSBuildTaskHost.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\it\MSBuildTaskHost.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/ja/Microsoft.Build.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ja\Microsoft.Build.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/ja/Microsoft.Build.Tasks.Core.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ja\Microsoft.Build.Tasks.Core.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/ja/Microsoft.Build.Utilities.Core.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ja\Microsoft.Build.Utilities.Core.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/ja/MSBuild.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ja\MSBuild.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/ja/MSBuildTaskHost.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ja\MSBuildTaskHost.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/ko/Microsoft.Build.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ko\Microsoft.Build.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/ko/Microsoft.Build.Tasks.Core.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ko\Microsoft.Build.Tasks.Core.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/ko/Microsoft.Build.Utilities.Core.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ko\Microsoft.Build.Utilities.Core.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/ko/MSBuild.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ko\MSBuild.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/ko/MSBuildTaskHost.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ko\MSBuildTaskHost.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/pl/Microsoft.Build.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\pl\Microsoft.Build.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/pl/Microsoft.Build.Tasks.Core.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\pl\Microsoft.Build.Tasks.Core.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/pl/Microsoft.Build.Utilities.Core.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\pl\Microsoft.Build.Utilities.Core.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/pl/MSBuild.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\pl\MSBuild.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/pl/MSBuildTaskHost.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\pl\MSBuildTaskHost.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/pt-BR/Microsoft.Build.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\pt-BR\Microsoft.Build.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/pt-BR/Microsoft.Build.Tasks.Core.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\pt-BR\Microsoft.Build.Tasks.Core.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/pt-BR/Microsoft.Build.Utilities.Core.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\pt-BR\Microsoft.Build.Utilities.Core.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/pt-BR/MSBuild.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\pt-BR\MSBuild.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/pt-BR/MSBuildTaskHost.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\pt-BR\MSBuildTaskHost.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/ru/Microsoft.Build.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ru\Microsoft.Build.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/ru/Microsoft.Build.Tasks.Core.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ru\Microsoft.Build.Tasks.Core.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/ru/Microsoft.Build.Utilities.Core.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ru\Microsoft.Build.Utilities.Core.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/ru/MSBuild.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ru\MSBuild.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/ru/MSBuildTaskHost.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\ru\MSBuildTaskHost.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/tr/Microsoft.Build.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\tr\Microsoft.Build.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/tr/Microsoft.Build.Tasks.Core.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\tr\Microsoft.Build.Tasks.Core.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/tr/Microsoft.Build.Utilities.Core.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\tr\Microsoft.Build.Utilities.Core.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/tr/MSBuild.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\tr\MSBuild.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/tr/MSBuildTaskHost.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\tr\MSBuildTaskHost.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/zh-Hans/Microsoft.Build.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-Hans\Microsoft.Build.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/zh-Hans/Microsoft.Build.Tasks.Core.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-Hans\Microsoft.Build.Tasks.Core.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/zh-Hans/Microsoft.Build.Utilities.Core.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-Hans\Microsoft.Build.Utilities.Core.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/zh-Hans/MSBuild.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-Hans\MSBuild.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/zh-Hans/MSBuildTaskHost.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-Hans\MSBuildTaskHost.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/zh-Hant/Microsoft.Build.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-Hant\Microsoft.Build.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/zh-Hant/Microsoft.Build.Tasks.Core.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-Hant\Microsoft.Build.Tasks.Core.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/zh-Hant/Microsoft.Build.Utilities.Core.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-Hant\Microsoft.Build.Utilities.Core.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/zh-Hant/MSBuild.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-Hant\MSBuild.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/zh-Hant/MSBuildTaskHost.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\zh-Hant\MSBuildTaskHost.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/MSBuild.exe
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\MSBuild.exe file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/MSBuildTaskHost.exe
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\MSBuildTaskHost.exe file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/MSBuild.exe.config
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\MSBuild.exe.config file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/MSBuildTaskHost.exe.config
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\MSBuildTaskHost.exe.config file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/Microsoft.Build.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\Microsoft.Build.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/Microsoft.Build.Framework.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\Microsoft.Build.Framework.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/Microsoft.Build.Framework.tlb
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\Microsoft.Build.Framework.tlb file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/Microsoft.Build.Tasks.Core.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\Microsoft.Build.Tasks.Core.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/Microsoft.Build.Utilities.Core.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\Microsoft.Build.Utilities.Core.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/System.Buffers.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\System.Buffers.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/System.Formats.Nrbf.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\System.Formats.Nrbf.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/System.IO.Pipelines.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\System.IO.Pipelines.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/System.Memory.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\System.Memory.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/System.Reflection.Metadata.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\System.Reflection.Metadata.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/System.Reflection.MetadataLoadContext.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\System.Reflection.MetadataLoadContext.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/System.Text.Json.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\System.Text.Json.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/Microsoft.Bcl.AsyncInterfaces.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\Microsoft.Bcl.AsyncInterfaces.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/Microsoft.IO.Redist.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\Microsoft.IO.Redist.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/System.Text.Encodings.Web.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\System.Text.Encodings.Web.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/System.Threading.Tasks.Extensions.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\System.Threading.Tasks.Extensions.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/System.ValueTuple.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\System.ValueTuple.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/System.Numerics.Vectors.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\System.Numerics.Vectors.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/System.Resources.Extensions.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\System.Resources.Extensions.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/System.Runtime.CompilerServices.Unsafe.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\System.Runtime.CompilerServices.Unsafe.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/System.Threading.Tasks.Dataflow.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\System.Threading.Tasks.Dataflow.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/System.Collections.Immutable.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\System.Collections.Immutable.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/Microsoft.Bcl.HashCode.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\Microsoft.Bcl.HashCode.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/Microsoft.NET.StringTools.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\Microsoft.NET.StringTools.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/Microsoft.NET.StringTools.net35.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\Microsoft.NET.StringTools.net35.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/Microsoft.Common.CurrentVersion.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/Microsoft.Common.CrossTargeting.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\Microsoft.Common.CrossTargeting.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/Microsoft.Common.overridetasks
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\Microsoft.Common.overridetasks file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/Microsoft.Common.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\Microsoft.Common.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/Microsoft.Common.tasks
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\Microsoft.Common.tasks file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/Microsoft.Common.Test.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\Microsoft.Common.Test.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/Microsoft.Managed.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\Microsoft.Managed.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/Microsoft.Managed.Before.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\Microsoft.Managed.Before.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/Microsoft.Managed.After.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\Microsoft.Managed.After.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/Microsoft.CSharp.CurrentVersion.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\Microsoft.CSharp.CurrentVersion.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/Microsoft.CSharp.CrossTargeting.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\Microsoft.CSharp.CrossTargeting.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/Microsoft.CSharp.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\Microsoft.CSharp.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/Microsoft.Net.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\Microsoft.Net.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/Microsoft.NetFramework.CurrentVersion.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\Microsoft.NetFramework.CurrentVersion.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/Microsoft.NetFramework.CurrentVersion.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\Microsoft.NetFramework.CurrentVersion.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/Microsoft.NetFramework.props
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\Microsoft.NetFramework.props file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/Microsoft.NetFramework.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\Microsoft.NetFramework.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/Microsoft.VisualBasic.CurrentVersion.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\Microsoft.VisualBasic.CurrentVersion.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/Microsoft.VisualBasic.CrossTargeting.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\Microsoft.VisualBasic.CrossTargeting.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/Microsoft.VisualBasic.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\Microsoft.VisualBasic.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/MSBuild.rsp
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\MSBuild.rsp file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/Workflow.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\Workflow.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/Workflow.VisualBasic.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\Workflow.VisualBasic.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/Microsoft.Xaml.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\Microsoft.Xaml.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/Microsoft.Data.Entity.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\Microsoft.Data.Entity.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/Microsoft.ServiceModel.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\Microsoft.ServiceModel.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/Microsoft.WinFx.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\Microsoft.WinFx.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/Microsoft.WorkflowBuildExtensions.targets
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\Microsoft.WorkflowBuildExtensions.targets file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/MSBuild/Microsoft.Build.Core.xsd
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\MSBuild\Microsoft.Build.Core.xsd file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/MSBuild/Microsoft.Build.CommonTypes.xsd
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\MSBuild\Microsoft.Build.CommonTypes.xsd file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/cs/Microsoft.Build.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\cs\Microsoft.Build.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/cs/Microsoft.Build.Tasks.Core.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\cs\Microsoft.Build.Tasks.Core.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/cs/Microsoft.Build.Utilities.Core.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\cs\Microsoft.Build.Utilities.Core.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/cs/MSBuild.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\cs\MSBuild.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/cs/MSBuildTaskHost.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\cs\MSBuildTaskHost.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/de/Microsoft.Build.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\de\Microsoft.Build.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/de/Microsoft.Build.Tasks.Core.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\de\Microsoft.Build.Tasks.Core.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/de/Microsoft.Build.Utilities.Core.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\de\Microsoft.Build.Utilities.Core.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/de/MSBuild.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\de\MSBuild.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/de/MSBuildTaskHost.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\de\MSBuildTaskHost.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/es/Microsoft.Build.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\es\Microsoft.Build.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/es/Microsoft.Build.Tasks.Core.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\es\Microsoft.Build.Tasks.Core.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/es/Microsoft.Build.Utilities.Core.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\es\Microsoft.Build.Utilities.Core.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/es/MSBuild.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\es\MSBuild.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/es/MSBuildTaskHost.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\es\MSBuildTaskHost.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/fr/Microsoft.Build.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\fr\Microsoft.Build.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/fr/Microsoft.Build.Tasks.Core.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\fr\Microsoft.Build.Tasks.Core.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/fr/Microsoft.Build.Utilities.Core.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\fr\Microsoft.Build.Utilities.Core.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/fr/MSBuild.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\fr\MSBuild.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/fr/MSBuildTaskHost.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\fr\MSBuildTaskHost.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/it/Microsoft.Build.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\it\Microsoft.Build.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/it/Microsoft.Build.Tasks.Core.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\it\Microsoft.Build.Tasks.Core.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/it/Microsoft.Build.Utilities.Core.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\it\Microsoft.Build.Utilities.Core.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/it/MSBuild.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\it\MSBuild.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/it/MSBuildTaskHost.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\it\MSBuildTaskHost.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/ja/Microsoft.Build.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ja\Microsoft.Build.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/ja/Microsoft.Build.Tasks.Core.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ja\Microsoft.Build.Tasks.Core.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/ja/Microsoft.Build.Utilities.Core.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ja\Microsoft.Build.Utilities.Core.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/ja/MSBuild.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ja\MSBuild.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/ja/MSBuildTaskHost.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ja\MSBuildTaskHost.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/ko/Microsoft.Build.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ko\Microsoft.Build.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/ko/Microsoft.Build.Tasks.Core.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ko\Microsoft.Build.Tasks.Core.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/ko/Microsoft.Build.Utilities.Core.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ko\Microsoft.Build.Utilities.Core.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/ko/MSBuild.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ko\MSBuild.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/ko/MSBuildTaskHost.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ko\MSBuildTaskHost.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/pl/Microsoft.Build.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\pl\Microsoft.Build.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/pl/Microsoft.Build.Tasks.Core.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\pl\Microsoft.Build.Tasks.Core.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/pl/Microsoft.Build.Utilities.Core.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\pl\Microsoft.Build.Utilities.Core.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/pl/MSBuild.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\pl\MSBuild.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/pl/MSBuildTaskHost.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\pl\MSBuildTaskHost.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/pt-BR/Microsoft.Build.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\pt-BR\Microsoft.Build.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/pt-BR/Microsoft.Build.Tasks.Core.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\pt-BR\Microsoft.Build.Tasks.Core.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/pt-BR/Microsoft.Build.Utilities.Core.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\pt-BR\Microsoft.Build.Utilities.Core.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/pt-BR/MSBuild.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\pt-BR\MSBuild.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/pt-BR/MSBuildTaskHost.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\pt-BR\MSBuildTaskHost.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/ru/Microsoft.Build.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ru\Microsoft.Build.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/ru/Microsoft.Build.Tasks.Core.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ru\Microsoft.Build.Tasks.Core.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/ru/Microsoft.Build.Utilities.Core.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ru\Microsoft.Build.Utilities.Core.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/ru/MSBuild.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ru\MSBuild.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/ru/MSBuildTaskHost.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\ru\MSBuildTaskHost.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/tr/Microsoft.Build.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\tr\Microsoft.Build.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/tr/Microsoft.Build.Tasks.Core.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\tr\Microsoft.Build.Tasks.Core.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/tr/Microsoft.Build.Utilities.Core.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\tr\Microsoft.Build.Utilities.Core.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/tr/MSBuild.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\tr\MSBuild.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/tr/MSBuildTaskHost.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\tr\MSBuildTaskHost.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-Hans/Microsoft.Build.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-Hans\Microsoft.Build.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-Hans/Microsoft.Build.Tasks.Core.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-Hans\Microsoft.Build.Tasks.Core.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-Hans/Microsoft.Build.Utilities.Core.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-Hans\Microsoft.Build.Utilities.Core.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-Hans/MSBuild.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-Hans\MSBuild.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-Hans/MSBuildTaskHost.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-Hans\MSBuildTaskHost.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-Hant/Microsoft.Build.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-Hant\Microsoft.Build.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-Hant/Microsoft.Build.Tasks.Core.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-Hant\Microsoft.Build.Tasks.Core.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-Hant/Microsoft.Build.Utilities.Core.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-Hant\Microsoft.Build.Utilities.Core.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-Hant/MSBuild.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-Hant\MSBuild.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/amd64/zh-Hant/MSBuildTaskHost.resources.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\amd64\zh-Hant\MSBuildTaskHost.resources.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/x86/DetoursServices.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\x86\DetoursServices.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/x64/DetoursServices.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\x64\DetoursServices.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/MSBuild/Current/Bin/x64/BuildXLNatives.dll
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\MSBuild\Current\Bin\x64\BuildXLNatives.dll file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Common7/IDE/CommonExtensions/MSBuild/MSBuild.clientenabledpkg
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\MSBuild\MSBuild.clientenabledpkg file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Common7/IDE/CommonExtensions/MSBuild/Microsoft.Build.Framework.pkgdef
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\MSBuild\Microsoft.Build.Framework.pkgdef file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Common7/IDE/CommonExtensions/MSBuild/Microsoft.Build.pkgdef
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\MSBuild\Microsoft.Build.pkgdef file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Common7/IDE/CommonExtensions/MSBuild/StringTools.pkgdef
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\MSBuild\StringTools.pkgdef file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Common7/IDE/CommonExtensions/MSBuild/Microsoft.Build.Tasks.Core.pkgdef
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\MSBuild\Microsoft.Build.Tasks.Core.pkgdef file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Common7/IDE/CommonExtensions/MSBuild/System.Resources.Extensions.pkgdef
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\MSBuild\System.Resources.Extensions.pkgdef file deleted.
+[0c48:0003][2026-05-10T01:44:49] Processing file /Contents/Common7/IDE/CommonExtensions/MSBuild/Microsoft.Build.Utilities.Core.pkgdef
+[0c48:0003][2026-05-10T01:44:49] C:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\MSBuild\Microsoft.Build.Utilities.Core.pkgdef file deleted.
+[0c48:0003][2026-05-10T01:44:49] Started: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:49] Completed: Deleting empty directories
+[0c48:0003][2026-05-10T01:44:49] Package executed successfully. Return code: 0

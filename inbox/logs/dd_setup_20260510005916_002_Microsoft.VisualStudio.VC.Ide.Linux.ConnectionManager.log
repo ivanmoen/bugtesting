@@ -1,0 +1,44 @@
+[bd94:0009][2026-05-10T01:00:38] Using cached package manifest as the embedded manifest
+[bd94:0009][2026-05-10T01:00:38] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Linux/Linux/ConnectionManager.extension.vsixmanifest
+[bd94:0009][2026-05-10T01:00:38] D:\Program\Common7\IDE\CommonExtensions\Microsoft\Linux\Linux\ConnectionManager.extension.vsixmanifest file deleted.
+[bd94:0009][2026-05-10T01:00:38] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Linux/Linux/Microsoft.VisualStudio.Linux.ConnectionManager.dll
+[bd94:0009][2026-05-10T01:00:38] D:\Program\Common7\IDE\CommonExtensions\Microsoft\Linux\Linux\Microsoft.VisualStudio.Linux.ConnectionManager.dll file deleted.
+[bd94:0009][2026-05-10T01:00:38] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Linux/Linux/Microsoft.VisualStudio.Linux.ConnectionManager.pkgdef
+[bd94:0009][2026-05-10T01:00:38] D:\Program\Common7\IDE\CommonExtensions\Microsoft\Linux\Linux\Microsoft.VisualStudio.Linux.ConnectionManager.pkgdef file deleted.
+[bd94:0009][2026-05-10T01:00:38] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Linux/Linux/Microsoft.VisualStudio.Linux.ConnectionManager.Contracts.dll
+[bd94:0009][2026-05-10T01:00:38] D:\Program\Common7\IDE\CommonExtensions\Microsoft\Linux\Linux\Microsoft.VisualStudio.Linux.ConnectionManager.Contracts.dll file deleted.
+[bd94:0009][2026-05-10T01:00:38] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Linux/Linux/ThirdPartyNotices.txt
+[bd94:0009][2026-05-10T01:00:38] D:\Program\Common7\IDE\CommonExtensions\Microsoft\Linux\Linux\ThirdPartyNotices.txt file deleted.
+[bd94:0009][2026-05-10T01:00:38] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Linux.ConnectionManager.Contracts.dll
+[bd94:0009][2026-05-10T01:00:38] D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Linux.ConnectionManager.Contracts.dll file deleted.
+[bd94:0009][2026-05-10T01:00:38] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Linux.ConnectionManager.Store.dll
+[bd94:0009][2026-05-10T01:00:38] D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Linux.ConnectionManager.Store.dll file deleted.
+[bd94:0009][2026-05-10T01:00:38] Processing file /Contents/Common7/IDE/PrivateAssemblies/liblinux.dll
+[bd94:0009][2026-05-10T01:00:38] D:\Program\Common7\IDE\PrivateAssemblies\liblinux.dll file deleted.
+[bd94:0009][2026-05-10T01:00:38] Processing file /Contents/Common7/IDE/PrivateAssemblies/liblinux.IO.dll
+[bd94:0009][2026-05-10T01:00:38] D:\Program\Common7\IDE\PrivateAssemblies\liblinux.IO.dll file deleted.
+[bd94:0009][2026-05-10T01:00:38] Processing file /Contents/Common7/IDE/PrivateAssemblies/liblinux.Local.dll
+[bd94:0009][2026-05-10T01:00:38] D:\Program\Common7\IDE\PrivateAssemblies\liblinux.Local.dll file deleted.
+[bd94:0009][2026-05-10T01:00:38] Processing file /Contents/Common7/IDE/PrivateAssemblies/VS.Renci.SshNet.dll
+[bd94:0009][2026-05-10T01:00:38] D:\Program\Common7\IDE\PrivateAssemblies\VS.Renci.SshNet.dll file deleted.
+[bd94:0009][2026-05-10T01:00:38] Processing file /Contents/Common7/IDE/PrivateAssemblies/Visual CPP for Linux Development ThirdPartyNotices.txt
+[bd94:0009][2026-05-10T01:00:38] D:\Program\Common7\IDE\PrivateAssemblies\Visual CPP for Linux Development ThirdPartyNotices.txt file deleted.
+[bd94:0009][2026-05-10T01:00:38] Processing file /Contents/Common7/IDE/PrivateAssemblies/CommandLine.dll
+[bd94:0009][2026-05-10T01:00:38] D:\Program\Common7\IDE\PrivateAssemblies\CommandLine.dll file deleted.
+[bd94:0009][2026-05-10T01:00:38] Processing file /Contents/Common7/IDE/PrivateAssemblies/liblinux.Local/devcontainers-cli-0.60.0.tgz
+[bd94:0009][2026-05-10T01:00:38] D:\Program\Common7\IDE\PrivateAssemblies\liblinux.Local\devcontainers-cli-0.60.0.tgz file deleted.
+[bd94:0009][2026-05-10T01:00:38] Processing file /Contents/Common7/IDE/PrivateAssemblies/liblinux.Local/provision-openssh.sh
+[bd94:0009][2026-05-10T01:00:38] D:\Program\Common7\IDE\PrivateAssemblies\liblinux.Local\provision-openssh.sh file deleted.
+[bd94:0009][2026-05-10T01:00:38] Processing file /Contents/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/ConnectionManager.exe
+[bd94:0009][2026-05-10T01:00:38] D:\Program\Common7\IDE\VC\Linux\bin\ConnectionManagerExe\ConnectionManager.exe file deleted.
+[bd94:0009][2026-05-10T01:00:38] Processing file /Contents/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/ConnectionManager.exe.config
+[bd94:0009][2026-05-10T01:00:38] D:\Program\Common7\IDE\VC\Linux\bin\ConnectionManagerExe\ConnectionManager.exe.config file deleted.
+[bd94:0009][2026-05-10T01:00:38] Processing file /Contents/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/NOTICE.txt
+[bd94:0009][2026-05-10T01:00:38] D:\Program\Common7\IDE\VC\Linux\bin\ConnectionManagerExe\NOTICE.txt file deleted.
+[bd94:0009][2026-05-10T01:00:38] Processing file /Contents/Common7/IDE/VC/Linux/bin/ConnectionManagerExe/liblinux.dll
+[bd94:0009][2026-05-10T01:00:38] D:\Program\Common7\IDE\VC\Linux\bin\ConnectionManagerExe\liblinux.dll file deleted.
+[bd94:0009][2026-05-10T01:00:38] Processing file /Contents/Common7/Tools/vsdevcmd/ext/ConnectionManagerExe.bat
+[bd94:0009][2026-05-10T01:00:38] D:\Program\Common7\Tools\vsdevcmd\ext\ConnectionManagerExe.bat file deleted.
+[bd94:0009][2026-05-10T01:00:38] Started: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:38] Completed: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:38] Package executed successfully. Return code: 0

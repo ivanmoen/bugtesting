@@ -1,0 +1,145 @@
+[da4c:0007][2026-05-10T00:50:00] Opening the package for processing
+[da4c:0007][2026-05-10T00:50:00] Using package payload to get the embedded manifest
+[da4c:0007][2026-05-10T00:50:00] Getting list of files within the package
+[da4c:0007][2026-05-10T00:50:00] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Commands/Microsoft.VisualStudio.Commands.dll
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Commands/Microsoft.VisualStudio.Commands.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Commands\Microsoft.VisualStudio.Commands.dll
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Commands/Microsoft.VisualStudio.Commands.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Commands\Microsoft.VisualStudio.Commands.dll
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\Commands\Microsoft.VisualStudio.Commands.dll'.
+[da4c:0007][2026-05-10T00:50:00] Queueing D:\Program\Common7\IDE\CommonExtensions\Microsoft\Commands\Microsoft.VisualStudio.Commands.dll for X86 ngen
+[da4c:0007][2026-05-10T00:50:00] Successfully queued file '/Contents/Common7/IDE/CommonExtensions/Microsoft/Commands/Microsoft.VisualStudio.Commands.dll' for ngen
+[da4c:0007][2026-05-10T00:50:00] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Commands/Microsoft.VisualStudio.Commands.pkgdef
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Commands/Microsoft.VisualStudio.Commands.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Commands\Microsoft.VisualStudio.Commands.pkgdef
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Commands/Microsoft.VisualStudio.Commands.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Commands\Microsoft.VisualStudio.Commands.pkgdef
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\Commands\Microsoft.VisualStudio.Commands.pkgdef'.
+[da4c:0007][2026-05-10T00:50:00] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Connected/crl.registration.json
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Connected/crl.registration.json to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Connected\crl.registration.json
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Connected/crl.registration.json to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Connected\crl.registration.json
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\Connected\crl.registration.json'.
+[da4c:0007][2026-05-10T00:50:00] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Connected/trust.registration.json
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Connected/trust.registration.json to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Connected\trust.registration.json
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Connected/trust.registration.json to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Connected\trust.registration.json
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\Connected\trust.registration.json'.
+[da4c:0007][2026-05-10T00:50:00] Processing file /Contents/Common7/IDE/PrivateAssemblies/AdalV5/Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/AdalV5/Microsoft.IdentityModel.Clients.ActiveDirectory.dll to D:\Program\Common7\IDE\PrivateAssemblies\AdalV5\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/AdalV5/Microsoft.IdentityModel.Clients.ActiveDirectory.dll to D:\Program\Common7\IDE\PrivateAssemblies\AdalV5\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\AdalV5\Microsoft.IdentityModel.Clients.ActiveDirectory.dll'.
+[da4c:0007][2026-05-10T00:50:00] Processing file /Contents/Common7/IDE/PrivateAssemblies/AxInterop.WMPLib.dll
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/AxInterop.WMPLib.dll to D:\Program\Common7\IDE\PrivateAssemblies\AxInterop.WMPLib.dll
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/AxInterop.WMPLib.dll to D:\Program\Common7\IDE\PrivateAssemblies\AxInterop.WMPLib.dll
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\AxInterop.WMPLib.dll'.
+[da4c:0007][2026-05-10T00:50:00] Processing file /Contents/Common7/IDE/PrivateAssemblies/Ben.Demystifier.dll
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Ben.Demystifier.dll to D:\Program\Common7\IDE\PrivateAssemblies\Ben.Demystifier.dll
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Ben.Demystifier.dll to D:\Program\Common7\IDE\PrivateAssemblies\Ben.Demystifier.dll
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Ben.Demystifier.dll'.
+[da4c:0007][2026-05-10T00:50:00] Queueing D:\Program\Common7\IDE\PrivateAssemblies\Ben.Demystifier.dll for X86 ngen
+[da4c:0007][2026-05-10T00:50:00] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/Ben.Demystifier.dll' for ngen
+[da4c:0007][2026-05-10T00:50:00] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Azure.ActiveDirectory.GraphClient.dll
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Azure.ActiveDirectory.GraphClient.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.Azure.ActiveDirectory.GraphClient.dll
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Azure.ActiveDirectory.GraphClient.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.Azure.ActiveDirectory.GraphClient.dll
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.Azure.ActiveDirectory.GraphClient.dll'.
+[da4c:0007][2026-05-10T00:50:00] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Azure.Management.ResourceManager.dll
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Azure.Management.ResourceManager.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.Azure.Management.ResourceManager.dll
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Azure.Management.ResourceManager.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.Azure.Management.ResourceManager.dll
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.Azure.Management.ResourceManager.dll'.
+[da4c:0007][2026-05-10T00:50:00] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Data.Edm.dll
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Data.Edm.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.Data.Edm.dll
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Data.Edm.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.Data.Edm.dll
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.Data.Edm.dll'.
+[da4c:0007][2026-05-10T00:50:00] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Data.OData.dll
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Data.OData.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.Data.OData.dll
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Data.OData.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.Data.OData.dll
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.Data.OData.dll'.
+[da4c:0007][2026-05-10T00:50:00] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Data.Services.Client.dll
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Data.Services.Client.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.Data.Services.Client.dll
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Data.Services.Client.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.Data.Services.Client.dll
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.Data.Services.Client.dll'.
+[da4c:0007][2026-05-10T00:50:00] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.IdentityModel.Clients.ActiveDirectory.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.IdentityModel.Clients.ActiveDirectory.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.IdentityModel.Clients.ActiveDirectory.dll'.
+[da4c:0007][2026-05-10T00:50:00] Queueing D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.IdentityModel.Clients.ActiveDirectory.dll for X86 ngen
+[da4c:0007][2026-05-10T00:50:00] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/Microsoft.IdentityModel.Clients.ActiveDirectory.dll' for ngen
+[da4c:0007][2026-05-10T00:50:00] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll'.
+[da4c:0007][2026-05-10T00:50:00] Queueing D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll for X86 ngen
+[da4c:0007][2026-05-10T00:50:00] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll' for ngen
+[da4c:0007][2026-05-10T00:50:00] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.QualityTools.CheckinPolicies.dll
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.QualityTools.CheckinPolicies.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.QualityTools.CheckinPolicies.dll
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.QualityTools.CheckinPolicies.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.QualityTools.CheckinPolicies.dll
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.QualityTools.CheckinPolicies.dll'.
+[da4c:0007][2026-05-10T00:50:00] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.TestImpact.Analysis.dll
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.TestImpact.Analysis.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.TestImpact.Analysis.dll
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.TestImpact.Analysis.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.TestImpact.Analysis.dll
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.TestImpact.Analysis.dll'.
+[da4c:0007][2026-05-10T00:50:00] Queueing D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.TestImpact.Analysis.dll for X86 ngen
+[da4c:0007][2026-05-10T00:50:00] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.TestImpact.Analysis.dll' for ngen
+[da4c:0007][2026-05-10T00:50:00] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.TestImpact.Common.dll
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.TestImpact.Common.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.TestImpact.Common.dll
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.TestImpact.Common.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.TestImpact.Common.dll
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.TestImpact.Common.dll'.
+[da4c:0007][2026-05-10T00:50:00] Queueing D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.TestImpact.Common.dll for X86 ngen
+[da4c:0007][2026-05-10T00:50:00] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.TestImpact.Common.dll' for ngen
+[da4c:0007][2026-05-10T00:50:00] Processing file /Contents/Common7/IDE/PrivateAssemblies/Octokit.dll
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Octokit.dll to D:\Program\Common7\IDE\PrivateAssemblies\Octokit.dll
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Octokit.dll to D:\Program\Common7\IDE\PrivateAssemblies\Octokit.dll
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Octokit.dll'.
+[da4c:0007][2026-05-10T00:50:00] Queueing D:\Program\Common7\IDE\PrivateAssemblies\Octokit.dll for X86 ngen
+[da4c:0007][2026-05-10T00:50:00] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/Octokit.dll' for ngen
+[da4c:0007][2026-05-10T00:50:00] Processing file /Contents/Common7/IDE/PrivateAssemblies/Octokit.GraphQL.core.dll
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Octokit.GraphQL.core.dll to D:\Program\Common7\IDE\PrivateAssemblies\Octokit.GraphQL.core.dll
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Octokit.GraphQL.core.dll to D:\Program\Common7\IDE\PrivateAssemblies\Octokit.GraphQL.core.dll
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Octokit.GraphQL.core.dll'.
+[da4c:0007][2026-05-10T00:50:00] Processing file /Contents/Common7/IDE/PrivateAssemblies/Octokit.GraphQL.dll
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Octokit.GraphQL.dll to D:\Program\Common7\IDE\PrivateAssemblies\Octokit.GraphQL.dll
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Octokit.GraphQL.dll to D:\Program\Common7\IDE\PrivateAssemblies\Octokit.GraphQL.dll
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Octokit.GraphQL.dll'.
+[da4c:0007][2026-05-10T00:50:00] Processing file /Contents/Common7/IDE/PrivateAssemblies/WMPLib.dll
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/WMPLib.dll to D:\Program\Common7\IDE\PrivateAssemblies\WMPLib.dll
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/WMPLib.dll to D:\Program\Common7\IDE\PrivateAssemblies\WMPLib.dll
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\WMPLib.dll'.
+[da4c:0007][2026-05-10T00:50:00] Processing file /Contents/Common7/IDE/PublicAssemblies/MessagePack.2.x/MessagePack.Annotations.dll
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/MessagePack.2.x/MessagePack.Annotations.dll to D:\Program\Common7\IDE\PublicAssemblies\MessagePack.2.x\MessagePack.Annotations.dll
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/MessagePack.2.x/MessagePack.Annotations.dll to D:\Program\Common7\IDE\PublicAssemblies\MessagePack.2.x\MessagePack.Annotations.dll
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\MessagePack.2.x\MessagePack.Annotations.dll'.
+[da4c:0007][2026-05-10T00:50:00] Queueing D:\Program\Common7\IDE\PublicAssemblies\MessagePack.2.x\MessagePack.Annotations.dll for X86 ngen
+[da4c:0007][2026-05-10T00:50:00] Successfully queued file '/Contents/Common7/IDE/PublicAssemblies/MessagePack.2.x/MessagePack.Annotations.dll' for ngen
+[da4c:0007][2026-05-10T00:50:00] Processing file /Contents/Common7/IDE/PublicAssemblies/MessagePack.2.x/MessagePack.dll
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/MessagePack.2.x/MessagePack.dll to D:\Program\Common7\IDE\PublicAssemblies\MessagePack.2.x\MessagePack.dll
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/MessagePack.2.x/MessagePack.dll to D:\Program\Common7\IDE\PublicAssemblies\MessagePack.2.x\MessagePack.dll
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\MessagePack.2.x\MessagePack.dll'.
+[da4c:0007][2026-05-10T00:50:00] Queueing D:\Program\Common7\IDE\PublicAssemblies\MessagePack.2.x\MessagePack.dll for X86 ngen
+[da4c:0007][2026-05-10T00:50:00] Queueing D:\Program\Common7\IDE\PublicAssemblies\MessagePack.2.x\MessagePack.dll for X64 ngen
+[da4c:0007][2026-05-10T00:50:00] Successfully queued file '/Contents/Common7/IDE/PublicAssemblies/MessagePack.2.x/MessagePack.dll' for ngen
+[da4c:0007][2026-05-10T00:50:00] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.RpcContracts.dll
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.RpcContracts.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.RpcContracts.dll
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.RpcContracts.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.RpcContracts.dll
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.RpcContracts.dll'.
+[da4c:0007][2026-05-10T00:50:00] Queueing D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.RpcContracts.dll for X86 ngen
+[da4c:0007][2026-05-10T00:50:00] Successfully queued file '/Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.RpcContracts.dll' for ngen
+[da4c:0007][2026-05-10T00:50:00] Processing file /Contents/Common7/IDE/PublicAssemblies/Nerdbank.Streams.2.x/Nerdbank.Streams.dll
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Nerdbank.Streams.2.x/Nerdbank.Streams.dll to D:\Program\Common7\IDE\PublicAssemblies\Nerdbank.Streams.2.x\Nerdbank.Streams.dll
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Nerdbank.Streams.2.x/Nerdbank.Streams.dll to D:\Program\Common7\IDE\PublicAssemblies\Nerdbank.Streams.2.x\Nerdbank.Streams.dll
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\Nerdbank.Streams.2.x\Nerdbank.Streams.dll'.
+[da4c:0007][2026-05-10T00:50:00] Queueing D:\Program\Common7\IDE\PublicAssemblies\Nerdbank.Streams.2.x\Nerdbank.Streams.dll for X86 ngen
+[da4c:0007][2026-05-10T00:50:00] Queueing D:\Program\Common7\IDE\PublicAssemblies\Nerdbank.Streams.2.x\Nerdbank.Streams.dll for X64 ngen
+[da4c:0007][2026-05-10T00:50:00] Successfully queued file '/Contents/Common7/IDE/PublicAssemblies/Nerdbank.Streams.2.x/Nerdbank.Streams.dll' for ngen
+[da4c:0007][2026-05-10T00:50:00] Processing file /Contents/Common7/IDE/PublicAssemblies/StreamJsonRpc.1.x/StreamJsonRpc.dll
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/StreamJsonRpc.1.x/StreamJsonRpc.dll to D:\Program\Common7\IDE\PublicAssemblies\StreamJsonRpc.1.x\StreamJsonRpc.dll
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/StreamJsonRpc.1.x/StreamJsonRpc.dll to D:\Program\Common7\IDE\PublicAssemblies\StreamJsonRpc.1.x\StreamJsonRpc.dll
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\StreamJsonRpc.1.x\StreamJsonRpc.dll'.
+[da4c:0007][2026-05-10T00:50:00] Queueing D:\Program\Common7\IDE\PublicAssemblies\StreamJsonRpc.1.x\StreamJsonRpc.dll for X86 ngen
+[da4c:0007][2026-05-10T00:50:00] Successfully queued file '/Contents/Common7/IDE/PublicAssemblies/StreamJsonRpc.1.x/StreamJsonRpc.dll' for ngen
+[da4c:0007][2026-05-10T00:50:00] Processing file /Contents/Common7/IDE/PublicAssemblies/StreamJsonRpc.2.x/StreamJsonRpc.dll
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/StreamJsonRpc.2.x/StreamJsonRpc.dll to D:\Program\Common7\IDE\PublicAssemblies\StreamJsonRpc.2.x\StreamJsonRpc.dll
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/StreamJsonRpc.2.x/StreamJsonRpc.dll to D:\Program\Common7\IDE\PublicAssemblies\StreamJsonRpc.2.x\StreamJsonRpc.dll
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\StreamJsonRpc.2.x\StreamJsonRpc.dll'.
+[da4c:0007][2026-05-10T00:50:00] Queueing D:\Program\Common7\IDE\PublicAssemblies\StreamJsonRpc.2.x\StreamJsonRpc.dll for X86 ngen
+[da4c:0007][2026-05-10T00:50:00] Queueing D:\Program\Common7\IDE\PublicAssemblies\StreamJsonRpc.2.x\StreamJsonRpc.dll for X64 ngen
+[da4c:0007][2026-05-10T00:50:00] Successfully queued file '/Contents/Common7/IDE/PublicAssemblies/StreamJsonRpc.2.x/StreamJsonRpc.dll' for ngen
+[da4c:0007][2026-05-10T00:50:00] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Commands/extension.vsixmanifest
+[da4c:0007][2026-05-10T00:50:00] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Commands/extension.vsixmanifest to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Commands\extension.vsixmanifest
+[da4c:0007][2026-05-10T00:50:00] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Commands/extension.vsixmanifest to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Commands\extension.vsixmanifest
+[da4c:0007][2026-05-10T00:50:00] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\Commands\extension.vsixmanifest'.
+[da4c:0007][2026-05-10T00:50:00] Package executed successfully. Return code: 0

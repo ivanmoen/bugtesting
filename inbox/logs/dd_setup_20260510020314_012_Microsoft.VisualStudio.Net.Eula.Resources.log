@@ -1,0 +1,8 @@
+[18d4:0007][2026-05-10T02:03:21] Opening the package for processing
+[18d4:0007][2026-05-10T02:03:21] Using package payload to get the embedded manifest
+[18d4:0007][2026-05-10T02:03:21] Getting list of files within the package
+[18d4:0007][2026-05-10T02:03:21] Processing file /Contents/Licenses/1033/.NET_Framework_EULA.rtf
+[18d4:0007][2026-05-10T02:03:21] Started: Copying file /Contents/Licenses/1033/.NET_Framework_EULA.rtf to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Licenses\1033\.NET_Framework_EULA.rtf
+[18d4:0007][2026-05-10T02:03:21] Completed: Copying file /Contents/Licenses/1033/.NET_Framework_EULA.rtf to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Licenses\1033\.NET_Framework_EULA.rtf
+[18d4:0007][2026-05-10T02:03:21] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Licenses\1033\.NET_Framework_EULA.rtf'.
+[18d4:0007][2026-05-10T02:03:21] Package executed successfully. Return code: 0

@@ -1,0 +1,20 @@
+[18d4:0007][2026-05-10T02:03:55] Opening the package for processing
+[18d4:0007][2026-05-10T02:03:55] Using package payload to get the embedded manifest
+[18d4:0007][2026-05-10T02:03:55] Getting list of files within the package
+[18d4:0007][2026-05-10T02:03:55] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/CS/VCSharp_Proj_System_Reg_ProjectFactory.pkgdef
+[18d4:0007][2026-05-10T02:03:55] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/CS/VCSharp_Proj_System_Reg_ProjectFactory.pkgdef to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CS\VCSharp_Proj_System_Reg_ProjectFactory.pkgdef
+[18d4:0007][2026-05-10T02:03:55] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/CS/VCSharp_Proj_System_Reg_ProjectFactory.pkgdef to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CS\VCSharp_Proj_System_Reg_ProjectFactory.pkgdef
+[18d4:0007][2026-05-10T02:03:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CS\VCSharp_Proj_System_Reg_ProjectFactory.pkgdef'.
+[18d4:0007][2026-05-10T02:03:55] Processing file /Contents/Common7/IDE/Script%20Diagnostics/x86/DiagnosticsRemoteHelper.dll
+[18d4:0007][2026-05-10T02:03:55] Started: Copying file /Contents/Common7/IDE/Script%20Diagnostics/x86/DiagnosticsRemoteHelper.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Script Diagnostics\x86\DiagnosticsRemoteHelper.dll
+[18d4:0007][2026-05-10T02:03:55] Completed: Copying file /Contents/Common7/IDE/Script%20Diagnostics/x86/DiagnosticsRemoteHelper.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Script Diagnostics\x86\DiagnosticsRemoteHelper.dll
+[18d4:0007][2026-05-10T02:03:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Script Diagnostics\x86\DiagnosticsRemoteHelper.dll'.
+[18d4:0007][2026-05-10T02:03:55] Processing file /Contents/Common7/IDE/Xml/Microsoft.XslDebugger.dll
+[18d4:0007][2026-05-10T02:03:55] Started: Copying file /Contents/Common7/IDE/Xml/Microsoft.XslDebugger.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Xml\Microsoft.XslDebugger.dll
+[18d4:0007][2026-05-10T02:03:55] Completed: Copying file /Contents/Common7/IDE/Xml/Microsoft.XslDebugger.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Xml\Microsoft.XslDebugger.dll
+[18d4:0007][2026-05-10T02:03:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Xml\Microsoft.XslDebugger.dll'.
+[18d4:0007][2026-05-10T02:03:55] Processing file /Contents/Common7/IDE/Xml/Microsoft.XslDebugger.Host.exe
+[18d4:0007][2026-05-10T02:03:55] Started: Copying file /Contents/Common7/IDE/Xml/Microsoft.XslDebugger.Host.exe to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Xml\Microsoft.XslDebugger.Host.exe
+[18d4:0007][2026-05-10T02:03:55] Completed: Copying file /Contents/Common7/IDE/Xml/Microsoft.XslDebugger.Host.exe to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Xml\Microsoft.XslDebugger.Host.exe
+[18d4:0007][2026-05-10T02:03:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Xml\Microsoft.XslDebugger.Host.exe'.
+[18d4:0007][2026-05-10T02:03:55] Package executed successfully. Return code: 0

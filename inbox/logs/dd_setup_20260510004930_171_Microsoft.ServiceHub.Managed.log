@@ -1,0 +1,205 @@
+[da4c:0007][2026-05-10T00:50:04] Opening the package for processing
+[da4c:0007][2026-05-10T00:50:04] Using package payload to get the embedded manifest
+[da4c:0007][2026-05-10T00:50:04] Getting list of files within the package
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ServiceHub/Microsoft.ServiceHub.Client.dll
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/ServiceHub/Microsoft.ServiceHub.Client.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\ServiceHub\Microsoft.ServiceHub.Client.dll
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/ServiceHub/Microsoft.ServiceHub.Client.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\ServiceHub\Microsoft.ServiceHub.Client.dll
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\ServiceHub\Microsoft.ServiceHub.Client.dll'.
+[da4c:0007][2026-05-10T00:50:04] Queueing D:\Program\Common7\IDE\CommonExtensions\Microsoft\ServiceHub\Microsoft.ServiceHub.Client.dll for X86 ngen
+[da4c:0007][2026-05-10T00:50:04] Queueing D:\Program\Common7\IDE\CommonExtensions\Microsoft\ServiceHub\Microsoft.ServiceHub.Client.dll for X64 ngen
+[da4c:0007][2026-05-10T00:50:04] Successfully queued file '/Contents/Common7/IDE/CommonExtensions/Microsoft/ServiceHub/Microsoft.ServiceHub.Client.dll' for ngen
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ServiceHub/Microsoft.ServiceHub.HostLib.dll
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/ServiceHub/Microsoft.ServiceHub.HostLib.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\ServiceHub\Microsoft.ServiceHub.HostLib.dll
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/ServiceHub/Microsoft.ServiceHub.HostLib.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\ServiceHub\Microsoft.ServiceHub.HostLib.dll
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\ServiceHub\Microsoft.ServiceHub.HostLib.dll'.
+[da4c:0007][2026-05-10T00:50:04] Queueing D:\Program\Common7\IDE\CommonExtensions\Microsoft\ServiceHub\Microsoft.ServiceHub.HostLib.dll for X86 ngen
+[da4c:0007][2026-05-10T00:50:04] Queueing D:\Program\Common7\IDE\CommonExtensions\Microsoft\ServiceHub\Microsoft.ServiceHub.HostLib.dll for X64 ngen
+[da4c:0007][2026-05-10T00:50:04] Successfully queued file '/Contents/Common7/IDE/CommonExtensions/Microsoft/ServiceHub/Microsoft.ServiceHub.HostLib.dll' for ngen
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ServiceHub/Microsoft.ServiceHub.HostStub.dll
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/ServiceHub/Microsoft.ServiceHub.HostStub.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\ServiceHub\Microsoft.ServiceHub.HostStub.dll
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/ServiceHub/Microsoft.ServiceHub.HostStub.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\ServiceHub\Microsoft.ServiceHub.HostStub.dll
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\ServiceHub\Microsoft.ServiceHub.HostStub.dll'.
+[da4c:0007][2026-05-10T00:50:04] Queueing D:\Program\Common7\IDE\CommonExtensions\Microsoft\ServiceHub\Microsoft.ServiceHub.HostStub.dll for X86 ngen
+[da4c:0007][2026-05-10T00:50:04] Queueing D:\Program\Common7\IDE\CommonExtensions\Microsoft\ServiceHub\Microsoft.ServiceHub.HostStub.dll for X64 ngen
+[da4c:0007][2026-05-10T00:50:04] Successfully queued file '/Contents/Common7/IDE/CommonExtensions/Microsoft/ServiceHub/Microsoft.ServiceHub.HostStub.dll' for ngen
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ServiceHub/ServiceHubClient.pkgdef
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/ServiceHub/ServiceHubClient.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Microsoft\ServiceHub\ServiceHubClient.pkgdef
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/ServiceHub/ServiceHubClient.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Microsoft\ServiceHub\ServiceHubClient.pkgdef
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\ServiceHub\ServiceHubClient.pkgdef'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ServiceHub/System.Text.Encodings.Web.dll
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/ServiceHub/System.Text.Encodings.Web.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\ServiceHub\System.Text.Encodings.Web.dll
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/ServiceHub/System.Text.Encodings.Web.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\ServiceHub\System.Text.Encodings.Web.dll
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\ServiceHub\System.Text.Encodings.Web.dll'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ServiceHub/System.Text.Json.dll
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/ServiceHub/System.Text.Json.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\ServiceHub\System.Text.Json.dll
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/ServiceHub/System.Text.Json.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\ServiceHub\System.Text.Json.dll
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\ServiceHub\System.Text.Json.dll'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/IDE/PrivateAssemblies/cs/Microsoft.ServiceHub.Resources.dll
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/cs/Microsoft.ServiceHub.Resources.dll to D:\Program\Common7\IDE\PrivateAssemblies\cs\Microsoft.ServiceHub.Resources.dll
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/cs/Microsoft.ServiceHub.Resources.dll to D:\Program\Common7\IDE\PrivateAssemblies\cs\Microsoft.ServiceHub.Resources.dll
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\cs\Microsoft.ServiceHub.Resources.dll'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/IDE/PrivateAssemblies/de/Microsoft.ServiceHub.Resources.dll
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/de/Microsoft.ServiceHub.Resources.dll to D:\Program\Common7\IDE\PrivateAssemblies\de\Microsoft.ServiceHub.Resources.dll
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/de/Microsoft.ServiceHub.Resources.dll to D:\Program\Common7\IDE\PrivateAssemblies\de\Microsoft.ServiceHub.Resources.dll
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\de\Microsoft.ServiceHub.Resources.dll'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/IDE/PrivateAssemblies/es/Microsoft.ServiceHub.Resources.dll
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/es/Microsoft.ServiceHub.Resources.dll to D:\Program\Common7\IDE\PrivateAssemblies\es\Microsoft.ServiceHub.Resources.dll
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/es/Microsoft.ServiceHub.Resources.dll to D:\Program\Common7\IDE\PrivateAssemblies\es\Microsoft.ServiceHub.Resources.dll
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\es\Microsoft.ServiceHub.Resources.dll'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/IDE/PrivateAssemblies/fr/Microsoft.ServiceHub.Resources.dll
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/fr/Microsoft.ServiceHub.Resources.dll to D:\Program\Common7\IDE\PrivateAssemblies\fr\Microsoft.ServiceHub.Resources.dll
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/fr/Microsoft.ServiceHub.Resources.dll to D:\Program\Common7\IDE\PrivateAssemblies\fr\Microsoft.ServiceHub.Resources.dll
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\fr\Microsoft.ServiceHub.Resources.dll'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/IDE/PrivateAssemblies/it/Microsoft.ServiceHub.Resources.dll
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/it/Microsoft.ServiceHub.Resources.dll to D:\Program\Common7\IDE\PrivateAssemblies\it\Microsoft.ServiceHub.Resources.dll
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/it/Microsoft.ServiceHub.Resources.dll to D:\Program\Common7\IDE\PrivateAssemblies\it\Microsoft.ServiceHub.Resources.dll
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\it\Microsoft.ServiceHub.Resources.dll'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/IDE/PrivateAssemblies/ja/Microsoft.ServiceHub.Resources.dll
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/ja/Microsoft.ServiceHub.Resources.dll to D:\Program\Common7\IDE\PrivateAssemblies\ja\Microsoft.ServiceHub.Resources.dll
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/ja/Microsoft.ServiceHub.Resources.dll to D:\Program\Common7\IDE\PrivateAssemblies\ja\Microsoft.ServiceHub.Resources.dll
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\ja\Microsoft.ServiceHub.Resources.dll'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/IDE/PrivateAssemblies/ko/Microsoft.ServiceHub.Resources.dll
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/ko/Microsoft.ServiceHub.Resources.dll to D:\Program\Common7\IDE\PrivateAssemblies\ko\Microsoft.ServiceHub.Resources.dll
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/ko/Microsoft.ServiceHub.Resources.dll to D:\Program\Common7\IDE\PrivateAssemblies\ko\Microsoft.ServiceHub.Resources.dll
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\ko\Microsoft.ServiceHub.Resources.dll'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.ServiceHub.Resources.dll
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.ServiceHub.Resources.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.ServiceHub.Resources.dll
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.ServiceHub.Resources.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.ServiceHub.Resources.dll
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.ServiceHub.Resources.dll'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/IDE/PrivateAssemblies/pl/Microsoft.ServiceHub.Resources.dll
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/pl/Microsoft.ServiceHub.Resources.dll to D:\Program\Common7\IDE\PrivateAssemblies\pl\Microsoft.ServiceHub.Resources.dll
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/pl/Microsoft.ServiceHub.Resources.dll to D:\Program\Common7\IDE\PrivateAssemblies\pl\Microsoft.ServiceHub.Resources.dll
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\pl\Microsoft.ServiceHub.Resources.dll'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/IDE/PrivateAssemblies/pt-BR/Microsoft.ServiceHub.Resources.dll
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/pt-BR/Microsoft.ServiceHub.Resources.dll to D:\Program\Common7\IDE\PrivateAssemblies\pt-BR\Microsoft.ServiceHub.Resources.dll
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/pt-BR/Microsoft.ServiceHub.Resources.dll to D:\Program\Common7\IDE\PrivateAssemblies\pt-BR\Microsoft.ServiceHub.Resources.dll
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\pt-BR\Microsoft.ServiceHub.Resources.dll'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/IDE/PrivateAssemblies/ru/Microsoft.ServiceHub.Resources.dll
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/ru/Microsoft.ServiceHub.Resources.dll to D:\Program\Common7\IDE\PrivateAssemblies\ru\Microsoft.ServiceHub.Resources.dll
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/ru/Microsoft.ServiceHub.Resources.dll to D:\Program\Common7\IDE\PrivateAssemblies\ru\Microsoft.ServiceHub.Resources.dll
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\ru\Microsoft.ServiceHub.Resources.dll'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/IDE/PrivateAssemblies/tr/Microsoft.ServiceHub.Resources.dll
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/tr/Microsoft.ServiceHub.Resources.dll to D:\Program\Common7\IDE\PrivateAssemblies\tr\Microsoft.ServiceHub.Resources.dll
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/tr/Microsoft.ServiceHub.Resources.dll to D:\Program\Common7\IDE\PrivateAssemblies\tr\Microsoft.ServiceHub.Resources.dll
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\tr\Microsoft.ServiceHub.Resources.dll'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/IDE/PrivateAssemblies/zh-Hans/Microsoft.ServiceHub.Resources.dll
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/zh-Hans/Microsoft.ServiceHub.Resources.dll to D:\Program\Common7\IDE\PrivateAssemblies\zh-Hans\Microsoft.ServiceHub.Resources.dll
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/zh-Hans/Microsoft.ServiceHub.Resources.dll to D:\Program\Common7\IDE\PrivateAssemblies\zh-Hans\Microsoft.ServiceHub.Resources.dll
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\zh-Hans\Microsoft.ServiceHub.Resources.dll'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/IDE/PrivateAssemblies/zh-Hant/Microsoft.ServiceHub.Resources.dll
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/zh-Hant/Microsoft.ServiceHub.Resources.dll to D:\Program\Common7\IDE\PrivateAssemblies\zh-Hant\Microsoft.ServiceHub.Resources.dll
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/zh-Hant/Microsoft.ServiceHub.Resources.dll to D:\Program\Common7\IDE\PrivateAssemblies\zh-Hant\Microsoft.ServiceHub.Resources.dll
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\zh-Hant\Microsoft.ServiceHub.Resources.dll'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x64/desktopClr.x64.DataWarehouseHost.servicehub.host.json
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x64/desktopClr.x64.DataWarehouseHost.servicehub.host.json to D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\desktopClr.x64.DataWarehouseHost.servicehub.host.json
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x64/desktopClr.x64.DataWarehouseHost.servicehub.host.json to D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\desktopClr.x64.DataWarehouseHost.servicehub.host.json
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\desktopClr.x64.DataWarehouseHost.servicehub.host.json'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x64/desktopClr.x64.IntellicodeModelService.servicehub.host.json
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x64/desktopClr.x64.IntellicodeModelService.servicehub.host.json to D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\desktopClr.x64.IntellicodeModelService.servicehub.host.json
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x64/desktopClr.x64.IntellicodeModelService.servicehub.host.json to D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\desktopClr.x64.IntellicodeModelService.servicehub.host.json
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\desktopClr.x64.IntellicodeModelService.servicehub.host.json'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x64/desktopClr.x64.servicehub.host.json
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x64/desktopClr.x64.servicehub.host.json to D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\desktopClr.x64.servicehub.host.json
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x64/desktopClr.x64.servicehub.host.json to D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\desktopClr.x64.servicehub.host.json
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\desktopClr.x64.servicehub.host.json'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x64/netfx.x64.DataWarehouseHost.servicehub.host.json
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x64/netfx.x64.DataWarehouseHost.servicehub.host.json to D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\netfx.x64.DataWarehouseHost.servicehub.host.json
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x64/netfx.x64.DataWarehouseHost.servicehub.host.json to D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\netfx.x64.DataWarehouseHost.servicehub.host.json
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\netfx.x64.DataWarehouseHost.servicehub.host.json'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x64/netfx.x64.IntellicodeModelService.servicehub.host.json
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x64/netfx.x64.IntellicodeModelService.servicehub.host.json to D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\netfx.x64.IntellicodeModelService.servicehub.host.json
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x64/netfx.x64.IntellicodeModelService.servicehub.host.json to D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\netfx.x64.IntellicodeModelService.servicehub.host.json
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\netfx.x64.IntellicodeModelService.servicehub.host.json'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x64/netfx.x64.servicehub.host.json
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x64/netfx.x64.servicehub.host.json to D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\netfx.x64.servicehub.host.json
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x64/netfx.x64.servicehub.host.json to D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\netfx.x64.servicehub.host.json
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\netfx.x64.servicehub.host.json'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x64/ServiceHub.DataWarehouseHost.exe
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x64/ServiceHub.DataWarehouseHost.exe to D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\ServiceHub.DataWarehouseHost.exe
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x64/ServiceHub.DataWarehouseHost.exe to D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\ServiceHub.DataWarehouseHost.exe
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\ServiceHub.DataWarehouseHost.exe'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x64/ServiceHub.DataWarehouseHost.exe.config
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x64/ServiceHub.DataWarehouseHost.exe.config to D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\ServiceHub.DataWarehouseHost.exe.config
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x64/ServiceHub.DataWarehouseHost.exe.config to D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\ServiceHub.DataWarehouseHost.exe.config
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\ServiceHub.DataWarehouseHost.exe.config'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x64/ServiceHub.Host.netfx.x64.exe
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x64/ServiceHub.Host.netfx.x64.exe to D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\ServiceHub.Host.netfx.x64.exe
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x64/ServiceHub.Host.netfx.x64.exe to D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\ServiceHub.Host.netfx.x64.exe
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\ServiceHub.Host.netfx.x64.exe'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x64/ServiceHub.Host.netfx.x64.exe.config
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x64/ServiceHub.Host.netfx.x64.exe.config to D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\ServiceHub.Host.netfx.x64.exe.config
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x64/ServiceHub.Host.netfx.x64.exe.config to D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\ServiceHub.Host.netfx.x64.exe.config
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\ServiceHub.Host.netfx.x64.exe.config'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x64/ServiceHub.IntellicodeModelService.exe
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x64/ServiceHub.IntellicodeModelService.exe to D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\ServiceHub.IntellicodeModelService.exe
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x64/ServiceHub.IntellicodeModelService.exe to D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\ServiceHub.IntellicodeModelService.exe
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\ServiceHub.IntellicodeModelService.exe'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x64/ServiceHub.IntellicodeModelService.exe.config
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x64/ServiceHub.IntellicodeModelService.exe.config to D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\ServiceHub.IntellicodeModelService.exe.config
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x64/ServiceHub.IntellicodeModelService.exe.config to D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\ServiceHub.IntellicodeModelService.exe.config
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x64\ServiceHub.IntellicodeModelService.exe.config'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x86/desktopClr.x86.DataWarehouseHost.servicehub.host.json
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x86/desktopClr.x86.DataWarehouseHost.servicehub.host.json to D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\desktopClr.x86.DataWarehouseHost.servicehub.host.json
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x86/desktopClr.x86.DataWarehouseHost.servicehub.host.json to D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\desktopClr.x86.DataWarehouseHost.servicehub.host.json
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\desktopClr.x86.DataWarehouseHost.servicehub.host.json'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x86/desktopClr.x86.IdentityHost.servicehub.host.json
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x86/desktopClr.x86.IdentityHost.servicehub.host.json to D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\desktopClr.x86.IdentityHost.servicehub.host.json
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x86/desktopClr.x86.IdentityHost.servicehub.host.json to D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\desktopClr.x86.IdentityHost.servicehub.host.json
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\desktopClr.x86.IdentityHost.servicehub.host.json'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x86/desktopClr.x86.servicehub.host.json
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x86/desktopClr.x86.servicehub.host.json to D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\desktopClr.x86.servicehub.host.json
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x86/desktopClr.x86.servicehub.host.json to D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\desktopClr.x86.servicehub.host.json
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\desktopClr.x86.servicehub.host.json'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x86/netfx.x86.DataWarehouseHost.servicehub.host.json
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x86/netfx.x86.DataWarehouseHost.servicehub.host.json to D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\netfx.x86.DataWarehouseHost.servicehub.host.json
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x86/netfx.x86.DataWarehouseHost.servicehub.host.json to D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\netfx.x86.DataWarehouseHost.servicehub.host.json
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\netfx.x86.DataWarehouseHost.servicehub.host.json'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x86/netfx.x86.IdentityHost.servicehub.host.json
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x86/netfx.x86.IdentityHost.servicehub.host.json to D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\netfx.x86.IdentityHost.servicehub.host.json
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x86/netfx.x86.IdentityHost.servicehub.host.json to D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\netfx.x86.IdentityHost.servicehub.host.json
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\netfx.x86.IdentityHost.servicehub.host.json'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x86/netfx.x86.servicehub.host.json
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x86/netfx.x86.servicehub.host.json to D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\netfx.x86.servicehub.host.json
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x86/netfx.x86.servicehub.host.json to D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\netfx.x86.servicehub.host.json
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\netfx.x86.servicehub.host.json'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x86/ServiceHub.DataWarehouseHost.exe
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x86/ServiceHub.DataWarehouseHost.exe to D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\ServiceHub.DataWarehouseHost.exe
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x86/ServiceHub.DataWarehouseHost.exe to D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\ServiceHub.DataWarehouseHost.exe
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\ServiceHub.DataWarehouseHost.exe'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x86/ServiceHub.DataWarehouseHost.exe.config
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x86/ServiceHub.DataWarehouseHost.exe.config to D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\ServiceHub.DataWarehouseHost.exe.config
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x86/ServiceHub.DataWarehouseHost.exe.config to D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\ServiceHub.DataWarehouseHost.exe.config
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\ServiceHub.DataWarehouseHost.exe.config'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x86/ServiceHub.Host.netfx.x86.exe
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x86/ServiceHub.Host.netfx.x86.exe to D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\ServiceHub.Host.netfx.x86.exe
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x86/ServiceHub.Host.netfx.x86.exe to D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\ServiceHub.Host.netfx.x86.exe
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\ServiceHub.Host.netfx.x86.exe'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x86/ServiceHub.Host.netfx.x86.exe.config
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x86/ServiceHub.Host.netfx.x86.exe.config to D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\ServiceHub.Host.netfx.x86.exe.config
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x86/ServiceHub.Host.netfx.x86.exe.config to D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\ServiceHub.Host.netfx.x86.exe.config
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\ServiceHub.Host.netfx.x86.exe.config'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x86/ServiceHub.IdentityHost.exe
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x86/ServiceHub.IdentityHost.exe to D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\ServiceHub.IdentityHost.exe
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x86/ServiceHub.IdentityHost.exe to D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\ServiceHub.IdentityHost.exe
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\ServiceHub.IdentityHost.exe'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x86/ServiceHub.IdentityHost.exe.config
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x86/ServiceHub.IdentityHost.exe.config to D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\ServiceHub.IdentityHost.exe.config
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.netfx.x86/ServiceHub.IdentityHost.exe.config to D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\ServiceHub.IdentityHost.exe.config
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.netfx.x86\ServiceHub.IdentityHost.exe.config'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/ServiceHub/Services/Microsoft.ServiceHub.Framework.AlwaysUnauthorizedService/Microsoft.ServiceHub.Framework.AlwaysUnauthorizedService.dll
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/ServiceHub/Services/Microsoft.ServiceHub.Framework.AlwaysUnauthorizedService/Microsoft.ServiceHub.Framework.AlwaysUnauthorizedService.dll to D:\Program\Common7\ServiceHub\Services\Microsoft.ServiceHub.Framework.AlwaysUnauthorizedService\Microsoft.ServiceHub.Framework.AlwaysUnauthorizedService.dll
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/ServiceHub/Services/Microsoft.ServiceHub.Framework.AlwaysUnauthorizedService/Microsoft.ServiceHub.Framework.AlwaysUnauthorizedService.dll to D:\Program\Common7\ServiceHub\Services\Microsoft.ServiceHub.Framework.AlwaysUnauthorizedService\Microsoft.ServiceHub.Framework.AlwaysUnauthorizedService.dll
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\ServiceHub\Services\Microsoft.ServiceHub.Framework.AlwaysUnauthorizedService\Microsoft.ServiceHub.Framework.AlwaysUnauthorizedService.dll'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/ServiceHub/Services/Microsoft.ServiceHub.Framework.AlwaysUnauthorizedService/Microsoft.ServiceHub.Framework.AuthorizationService.servicehub.service.json
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/ServiceHub/Services/Microsoft.ServiceHub.Framework.AlwaysUnauthorizedService/Microsoft.ServiceHub.Framework.AuthorizationService.servicehub.service.json to D:\Program\Common7\ServiceHub\Services\Microsoft.ServiceHub.Framework.AlwaysUnauthorizedService\Microsoft.ServiceHub.Framework.AuthorizationService.servicehub.service.json
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/ServiceHub/Services/Microsoft.ServiceHub.Framework.AlwaysUnauthorizedService/Microsoft.ServiceHub.Framework.AuthorizationService.servicehub.service.json to D:\Program\Common7\ServiceHub\Services\Microsoft.ServiceHub.Framework.AlwaysUnauthorizedService\Microsoft.ServiceHub.Framework.AuthorizationService.servicehub.service.json
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\ServiceHub\Services\Microsoft.ServiceHub.Framework.AlwaysUnauthorizedService\Microsoft.ServiceHub.Framework.AuthorizationService.servicehub.service.json'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/ServiceHub/Services/Microsoft.ServiceHub.Framework.AlwaysUnauthorizedService/System.Text.Encodings.Web.dll
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/ServiceHub/Services/Microsoft.ServiceHub.Framework.AlwaysUnauthorizedService/System.Text.Encodings.Web.dll to D:\Program\Common7\ServiceHub\Services\Microsoft.ServiceHub.Framework.AlwaysUnauthorizedService\System.Text.Encodings.Web.dll
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/ServiceHub/Services/Microsoft.ServiceHub.Framework.AlwaysUnauthorizedService/System.Text.Encodings.Web.dll to D:\Program\Common7\ServiceHub\Services\Microsoft.ServiceHub.Framework.AlwaysUnauthorizedService\System.Text.Encodings.Web.dll
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\ServiceHub\Services\Microsoft.ServiceHub.Framework.AlwaysUnauthorizedService\System.Text.Encodings.Web.dll'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /Contents/Common7/ServiceHub/Services/Microsoft.ServiceHub.Framework.AlwaysUnauthorizedService/System.Text.Json.dll
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /Contents/Common7/ServiceHub/Services/Microsoft.ServiceHub.Framework.AlwaysUnauthorizedService/System.Text.Json.dll to D:\Program\Common7\ServiceHub\Services\Microsoft.ServiceHub.Framework.AlwaysUnauthorizedService\System.Text.Json.dll
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /Contents/Common7/ServiceHub/Services/Microsoft.ServiceHub.Framework.AlwaysUnauthorizedService/System.Text.Json.dll to D:\Program\Common7\ServiceHub\Services\Microsoft.ServiceHub.Framework.AlwaysUnauthorizedService\System.Text.Json.dll
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\ServiceHub\Services\Microsoft.ServiceHub.Framework.AlwaysUnauthorizedService\System.Text.Json.dll'.
+[da4c:0007][2026-05-10T00:50:04] Package executed successfully. Return code: 0

@@ -1,0 +1,8 @@
+[18d4:0007][2026-05-10T02:03:54] Opening the package for processing
+[18d4:0007][2026-05-10T02:03:54] Using package payload to get the embedded manifest
+[18d4:0007][2026-05-10T02:03:54] Getting list of files within the package
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.mshtml.dll
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.mshtml.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.mshtml.dll
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.mshtml.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.mshtml.dll
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.mshtml.dll'.
+[18d4:0007][2026-05-10T02:03:54] Package executed successfully. Return code: 0

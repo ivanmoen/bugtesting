@@ -1,0 +1,34 @@
+[3474:0009][2026-05-10T01:45:59] Using cached package manifest as the embedded manifest
+[3474:0009][2026-05-10T01:45:59] Processing file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/ComputeShader/ComputeShader.hlsl
+[3474:0009][2026-05-10T01:45:59] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\VC\HLSL\1033\ComputeShader\ComputeShader.hlsl file deleted.
+[3474:0009][2026-05-10T01:45:59] Processing file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/ComputeShader/ComputeShader.vstemplate
+[3474:0009][2026-05-10T01:45:59] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\VC\HLSL\1033\ComputeShader\ComputeShader.vstemplate file deleted.
+[3474:0009][2026-05-10T01:45:59] Processing file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/DomainShader/DomainShader.hlsl
+[3474:0009][2026-05-10T01:45:59] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\VC\HLSL\1033\DomainShader\DomainShader.hlsl file deleted.
+[3474:0009][2026-05-10T01:45:59] Processing file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/DomainShader/DomainShader.vstemplate
+[3474:0009][2026-05-10T01:45:59] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\VC\HLSL\1033\DomainShader\DomainShader.vstemplate file deleted.
+[3474:0009][2026-05-10T01:45:59] Processing file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/GeometryShader/GeometryShader.hlsl
+[3474:0009][2026-05-10T01:45:59] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\VC\HLSL\1033\GeometryShader\GeometryShader.hlsl file deleted.
+[3474:0009][2026-05-10T01:45:59] Processing file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/GeometryShader/GeometryShader.vstemplate
+[3474:0009][2026-05-10T01:45:59] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\VC\HLSL\1033\GeometryShader\GeometryShader.vstemplate file deleted.
+[3474:0009][2026-05-10T01:45:59] Processing file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/Header/Header.hlsli
+[3474:0009][2026-05-10T01:45:59] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\VC\HLSL\1033\Header\Header.hlsli file deleted.
+[3474:0009][2026-05-10T01:45:59] Processing file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/Header/Header.vstemplate
+[3474:0009][2026-05-10T01:45:59] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\VC\HLSL\1033\Header\Header.vstemplate file deleted.
+[3474:0009][2026-05-10T01:45:59] Processing file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/HullShader/HullShader.hlsl
+[3474:0009][2026-05-10T01:45:59] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\VC\HLSL\1033\HullShader\HullShader.hlsl file deleted.
+[3474:0009][2026-05-10T01:45:59] Processing file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/HullShader/HullShader.vstemplate
+[3474:0009][2026-05-10T01:45:59] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\VC\HLSL\1033\HullShader\HullShader.vstemplate file deleted.
+[3474:0009][2026-05-10T01:45:59] Processing file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/PixelShader/PixelShader.hlsl
+[3474:0009][2026-05-10T01:45:59] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\VC\HLSL\1033\PixelShader\PixelShader.hlsl file deleted.
+[3474:0009][2026-05-10T01:45:59] Processing file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/PixelShader/PixelShader.vstemplate
+[3474:0009][2026-05-10T01:45:59] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\VC\HLSL\1033\PixelShader\PixelShader.vstemplate file deleted.
+[3474:0009][2026-05-10T01:45:59] Processing file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/VertexShader/VertexShader.hlsl
+[3474:0009][2026-05-10T01:45:59] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\VC\HLSL\1033\VertexShader\VertexShader.hlsl file deleted.
+[3474:0009][2026-05-10T01:45:59] Processing file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/VertexShader/VertexShader.vstemplate
+[3474:0009][2026-05-10T01:45:59] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\VC\HLSL\1033\VertexShader\VertexShader.vstemplate file deleted.
+[3474:0009][2026-05-10T01:45:59] Processing file /contents/Common7/IDE/ItemTemplates/Microsoft.VisualStudio.VC.Templates.General.Resources.en-US.Item..vstman
+[3474:0009][2026-05-10T01:45:59] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ItemTemplates\Microsoft.VisualStudio.VC.Templates.General.Resources.en-US.Item..vstman file deleted.
+[3474:0009][2026-05-10T01:45:59] Started: Deleting empty directories
+[3474:0009][2026-05-10T01:45:59] Completed: Deleting empty directories
+[3474:0009][2026-05-10T01:45:59] Package executed successfully. Return code: 0

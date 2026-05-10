@@ -1,0 +1,16 @@
+[bd94:0009][2026-05-10T01:00:48] Using cached package manifest as the embedded manifest
+[bd94:0009][2026-05-10T01:00:48] Processing file /Contents/Common7/IDE/PrivateAssemblies/jsonRpc.all.v2.js
+[bd94:0009][2026-05-10T01:00:48] D:\Program\Common7\IDE\PrivateAssemblies\jsonRpc.all.v2.js file deleted.
+[bd94:0009][2026-05-10T01:00:48] Processing file /Contents/Common7/IDE/PrivateAssemblies/serviceHub.all.v2.js
+[bd94:0009][2026-05-10T01:00:48] D:\Program\Common7\IDE\PrivateAssemblies\serviceHub.all.v2.js file deleted.
+[bd94:0009][2026-05-10T01:00:48] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.Node.x86/hubHost.all.js
+[bd94:0009][2026-05-10T01:00:48] D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.Node.x86\hubHost.all.js file deleted.
+[bd94:0009][2026-05-10T01:00:48] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.Node.x86/node.x86.servicehub.host.json
+[bd94:0009][2026-05-10T01:00:48] D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.Node.x86\node.x86.servicehub.host.json file deleted.
+[bd94:0009][2026-05-10T01:00:48] Processing file /Contents/Common7/ServiceHub/Hosts/ServiceHub.Host.Node.x86/package.json
+[bd94:0009][2026-05-10T01:00:48] D:\Program\Common7\ServiceHub\Hosts\ServiceHub.Host.Node.x86\package.json file deleted.
+[bd94:0009][2026-05-10T01:00:48] Processing file /Contents/Common7/ServiceHub/Services/ReadMe.txt
+[bd94:0009][2026-05-10T01:00:48] D:\Program\Common7\ServiceHub\Services\ReadMe.txt file deleted.
+[bd94:0009][2026-05-10T01:00:48] Started: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:48] Completed: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:48] Package executed successfully. Return code: 0

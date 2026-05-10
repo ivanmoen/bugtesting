@@ -1,0 +1,112 @@
+[da4c:0007][2026-05-10T00:49:47] Opening the package for processing
+[da4c:0007][2026-05-10T00:49:47] Using package payload to get the embedded manifest
+[da4c:0007][2026-05-10T00:49:47] Getting list of files within the package
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/MemoryAnalyzer.dll
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/MemoryAnalyzer.dll to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\MemoryAnalyzer.dll
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/MemoryAnalyzer.dll to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\MemoryAnalyzer.dll
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\MemoryAnalyzer.dll'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/Microsoft.VisualStudio.Debugger.TerminalLauncher.dll
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/Microsoft.VisualStudio.Debugger.TerminalLauncher.dll to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\Microsoft.VisualStudio.Debugger.TerminalLauncher.dll
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/Microsoft.VisualStudio.Debugger.TerminalLauncher.dll to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\Microsoft.VisualStudio.Debugger.TerminalLauncher.dll
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\Microsoft.VisualStudio.Debugger.TerminalLauncher.dll'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/Microsoft.VisualStudio.Debugger.TerminalLauncher.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/Microsoft.VisualStudio.Debugger.TerminalLauncher.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\Microsoft.VisualStudio.Debugger.TerminalLauncher.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/Microsoft.VisualStudio.Debugger.TerminalLauncher.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\Microsoft.VisualStudio.Debugger.TerminalLauncher.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\Microsoft.VisualStudio.Debugger.TerminalLauncher.pkgdef'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/ReflectionBDM.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/ReflectionBDM.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\ReflectionBDM.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/ReflectionBDM.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\ReflectionBDM.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\ReflectionBDM.pkgdef'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VSDbg_Engine.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VSDbg_Engine.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\VSDbg_Engine.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VSDbg_Engine.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\VSDbg_Engine.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\VSDbg_Engine.pkgdef'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VsDebugConsole.exe
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VsDebugConsole.exe to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\VsDebugConsole.exe
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VsDebugConsole.exe to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\VsDebugConsole.exe
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\VsDebugConsole.exe'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VsDebugConsole.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VsDebugConsole.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\VsDebugConsole.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VsDebugConsole.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\VsDebugConsole.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\VsDebugConsole.pkgdef'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/vsdebugeng.windockertransport.dll
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/vsdebugeng.windockertransport.dll to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\vsdebugeng.windockertransport.dll
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/vsdebugeng.windockertransport.dll to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\vsdebugeng.windockertransport.dll
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\vsdebugeng.windockertransport.dll'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/vsdebugeng.windockertransport.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/vsdebugeng.windockertransport.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\vsdebugeng.windockertransport.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/vsdebugeng.windockertransport.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\vsdebugeng.windockertransport.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\vsdebugeng.windockertransport.pkgdef'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VSDebugEng_Impl_Core.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VSDebugEng_Impl_Core.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\VSDebugEng_Impl_Core.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VSDebugEng_Impl_Core.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\VSDebugEng_Impl_Core.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\VSDebugEng_Impl_Core.pkgdef'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VSDebugEng_Impl_Engine.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VSDebugEng_Impl_Engine.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\VSDebugEng_Impl_Engine.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Debugger/VSDebugEng_Impl_Engine.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\VSDebugEng_Impl_Engine.pkgdef
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Debugger\VSDebugEng_Impl_Engine.pkgdef'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/iisresolver.dll
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/iisresolver.dll to D:\Program\Common7\IDE\iisresolver.dll
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/iisresolver.dll to D:\Program\Common7\IDE\iisresolver.dll
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\iisresolver.dll'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.Debugger.Engine.dll
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Debugger.Engine.dll to D:\Program\Common7\IDE\Microsoft.VisualStudio.Debugger.Engine.dll
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Debugger.Engine.dll to D:\Program\Common7\IDE\Microsoft.VisualStudio.Debugger.Engine.dll
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\Microsoft.VisualStudio.Debugger.Engine.dll'.
+[da4c:0007][2026-05-10T00:49:47] Queueing D:\Program\Common7\IDE\Microsoft.VisualStudio.Debugger.Engine.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:47] Successfully queued file '/Contents/Common7/IDE/Microsoft.VisualStudio.Debugger.Engine.dll' for ngen
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/PrivateAssemblies/MemoryAnalyzer.Extensions.dll
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/MemoryAnalyzer.Extensions.dll to D:\Program\Common7\IDE\PrivateAssemblies\MemoryAnalyzer.Extensions.dll
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/MemoryAnalyzer.Extensions.dll to D:\Program\Common7\IDE\PrivateAssemblies\MemoryAnalyzer.Extensions.dll
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\MemoryAnalyzer.Extensions.dll'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.DiagnosticAnalysis.Types.dll
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.DiagnosticAnalysis.Types.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.DiagnosticAnalysis.Types.dll
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.DiagnosticAnalysis.Types.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.DiagnosticAnalysis.Types.dll
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.DiagnosticAnalysis.Types.dll'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/PrivateAssemblies/vsdebugeng.manimpl.45.dll
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/vsdebugeng.manimpl.45.dll to D:\Program\Common7\IDE\PrivateAssemblies\vsdebugeng.manimpl.45.dll
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/vsdebugeng.manimpl.45.dll to D:\Program\Common7\IDE\PrivateAssemblies\vsdebugeng.manimpl.45.dll
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\vsdebugeng.manimpl.45.dll'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/PrivateAssemblies/vsdebugeng.manimpl.dll
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/vsdebugeng.manimpl.dll to D:\Program\Common7\IDE\PrivateAssemblies\vsdebugeng.manimpl.dll
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/vsdebugeng.manimpl.dll to D:\Program\Common7\IDE\PrivateAssemblies\vsdebugeng.manimpl.dll
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\vsdebugeng.manimpl.dll'.
+[da4c:0007][2026-05-10T00:49:47] Queueing D:\Program\Common7\IDE\PrivateAssemblies\vsdebugeng.manimpl.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:47] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/vsdebugeng.manimpl.dll' for ngen
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/PrivateAssemblies/vsdebugeng.manimpl.netstandard.dll
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/vsdebugeng.manimpl.netstandard.dll to D:\Program\Common7\IDE\PrivateAssemblies\vsdebugeng.manimpl.netstandard.dll
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/vsdebugeng.manimpl.netstandard.dll to D:\Program\Common7\IDE\PrivateAssemblies\vsdebugeng.manimpl.netstandard.dll
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\vsdebugeng.manimpl.netstandard.dll'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/vsdebugeng.dll
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/vsdebugeng.dll to D:\Program\Common7\IDE\vsdebugeng.dll
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/vsdebugeng.dll to D:\Program\Common7\IDE\vsdebugeng.dll
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\vsdebugeng.dll'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/IDE/VsDebugWERHelper.exe
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/IDE/VsDebugWERHelper.exe to D:\Program\Common7\IDE\VsDebugWERHelper.exe
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/IDE/VsDebugWERHelper.exe to D:\Program\Common7\IDE\VsDebugWERHelper.exe
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\IDE\VsDebugWERHelper.exe'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/Packages/Debugger/vsdebugeng.impl.dll
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/Packages/Debugger/vsdebugeng.impl.dll to D:\Program\Common7\Packages\Debugger\vsdebugeng.impl.dll
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/Packages/Debugger/vsdebugeng.impl.dll to D:\Program\Common7\Packages\Debugger\vsdebugeng.impl.dll
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\Packages\Debugger\vsdebugeng.impl.dll'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/Packages/Debugger/vsdebugeng.impl.vsdconfig
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/Packages/Debugger/vsdebugeng.impl.vsdconfig to D:\Program\Common7\Packages\Debugger\vsdebugeng.impl.vsdconfig
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/Packages/Debugger/vsdebugeng.impl.vsdconfig to D:\Program\Common7\Packages\Debugger\vsdebugeng.impl.vsdconfig
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\Packages\Debugger\vsdebugeng.impl.vsdconfig'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/Packages/Debugger/vsdebugeng.manimpl.45.vsdconfig
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/Packages/Debugger/vsdebugeng.manimpl.45.vsdconfig to D:\Program\Common7\Packages\Debugger\vsdebugeng.manimpl.45.vsdconfig
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/Packages/Debugger/vsdebugeng.manimpl.45.vsdconfig to D:\Program\Common7\Packages\Debugger\vsdebugeng.manimpl.45.vsdconfig
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\Packages\Debugger\vsdebugeng.manimpl.45.vsdconfig'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/Packages/Debugger/vsdebugeng.manimpl.netstandard.vsdconfig
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/Packages/Debugger/vsdebugeng.manimpl.netstandard.vsdconfig to D:\Program\Common7\Packages\Debugger\vsdebugeng.manimpl.netstandard.vsdconfig
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/Packages/Debugger/vsdebugeng.manimpl.netstandard.vsdconfig to D:\Program\Common7\Packages\Debugger\vsdebugeng.manimpl.netstandard.vsdconfig
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\Packages\Debugger\vsdebugeng.manimpl.netstandard.vsdconfig'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/Packages/Debugger/vsdebugeng.manimpl.vsdconfig
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/Packages/Debugger/vsdebugeng.manimpl.vsdconfig to D:\Program\Common7\Packages\Debugger\vsdebugeng.manimpl.vsdconfig
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/Packages/Debugger/vsdebugeng.manimpl.vsdconfig to D:\Program\Common7\Packages\Debugger\vsdebugeng.manimpl.vsdconfig
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\Packages\Debugger\vsdebugeng.manimpl.vsdconfig'.
+[da4c:0007][2026-05-10T00:49:47] Processing file /Contents/Common7/Packages/Debugger/VsDebugLaunchNotify.exe
+[da4c:0007][2026-05-10T00:49:47] Started: Copying file /Contents/Common7/Packages/Debugger/VsDebugLaunchNotify.exe to D:\Program\Common7\Packages\Debugger\VsDebugLaunchNotify.exe
+[da4c:0007][2026-05-10T00:49:47] Completed: Copying file /Contents/Common7/Packages/Debugger/VsDebugLaunchNotify.exe to D:\Program\Common7\Packages\Debugger\VsDebugLaunchNotify.exe
+[da4c:0007][2026-05-10T00:49:47] Timestamp updated for file 'D:\Program\Common7\Packages\Debugger\VsDebugLaunchNotify.exe'.
+[da4c:0007][2026-05-10T00:49:47] Package executed successfully. Return code: 0

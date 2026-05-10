@@ -1,0 +1,8 @@
+[18d4:0007][2026-05-10T02:03:30] Opening the package for processing
+[18d4:0007][2026-05-10T02:03:30] Using package payload to get the embedded manifest
+[18d4:0007][2026-05-10T02:03:30] Getting list of files within the package
+[18d4:0007][2026-05-10T02:03:30] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.DiaSymReader.PortablePdb.dll
+[18d4:0007][2026-05-10T02:03:30] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.DiaSymReader.PortablePdb.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.DiaSymReader.PortablePdb.dll
+[18d4:0007][2026-05-10T02:03:30] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.DiaSymReader.PortablePdb.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.DiaSymReader.PortablePdb.dll
+[18d4:0007][2026-05-10T02:03:30] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.DiaSymReader.PortablePdb.dll'.
+[18d4:0007][2026-05-10T02:03:30] Package executed successfully. Return code: 0

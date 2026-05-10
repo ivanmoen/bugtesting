@@ -1,0 +1,436 @@
+[da4c:0007][2026-05-10T00:49:50] Opening the package for processing
+[da4c:0007][2026-05-10T00:49:50] Using package payload to get the embedded manifest
+[da4c:0007][2026-05-10T00:49:51] Getting list of files within the package
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Search/Microsoft.VisualStudio.Platform.SearchProviders.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Search/Microsoft.VisualStudio.Platform.SearchProviders.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Search\Microsoft.VisualStudio.Platform.SearchProviders.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Search/Microsoft.VisualStudio.Platform.SearchProviders.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Search\Microsoft.VisualStudio.Platform.SearchProviders.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\Search\Microsoft.VisualStudio.Platform.SearchProviders.dll'.
+[da4c:0007][2026-05-10T00:49:51] Queueing D:\Program\Common7\IDE\CommonExtensions\Microsoft\Search\Microsoft.VisualStudio.Platform.SearchProviders.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:51] Successfully queued file '/Contents/Common7/IDE/CommonExtensions/Microsoft/Search/Microsoft.VisualStudio.Platform.SearchProviders.dll' for ngen
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Search/Microsoft.VisualStudio.Platform.SearchProviders.Legacy.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Search/Microsoft.VisualStudio.Platform.SearchProviders.Legacy.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Search\Microsoft.VisualStudio.Platform.SearchProviders.Legacy.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Search/Microsoft.VisualStudio.Platform.SearchProviders.Legacy.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Search\Microsoft.VisualStudio.Platform.SearchProviders.Legacy.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\Search\Microsoft.VisualStudio.Platform.SearchProviders.Legacy.pkgdef'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Search/Microsoft.VisualStudio.Search.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Search/Microsoft.VisualStudio.Search.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Search\Microsoft.VisualStudio.Search.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Search/Microsoft.VisualStudio.Search.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Search\Microsoft.VisualStudio.Search.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\Search\Microsoft.VisualStudio.Search.dll'.
+[da4c:0007][2026-05-10T00:49:51] Queueing D:\Program\Common7\IDE\CommonExtensions\Microsoft\Search\Microsoft.VisualStudio.Search.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:51] Successfully queued file '/Contents/Common7/IDE/CommonExtensions/Microsoft/Search/Microsoft.VisualStudio.Search.dll' for ngen
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Search/Microsoft.VisualStudio.Search.Implementation.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Search/Microsoft.VisualStudio.Search.Implementation.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Search\Microsoft.VisualStudio.Search.Implementation.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Search/Microsoft.VisualStudio.Search.Implementation.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Search\Microsoft.VisualStudio.Search.Implementation.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\Search\Microsoft.VisualStudio.Search.Implementation.dll'.
+[da4c:0007][2026-05-10T00:49:51] Queueing D:\Program\Common7\IDE\CommonExtensions\Microsoft\Search\Microsoft.VisualStudio.Search.Implementation.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:51] Successfully queued file '/Contents/Common7/IDE/CommonExtensions/Microsoft/Search/Microsoft.VisualStudio.Search.Implementation.dll' for ngen
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Search/Microsoft.VisualStudio.Search.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Search/Microsoft.VisualStudio.Search.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Search\Microsoft.VisualStudio.Search.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Search/Microsoft.VisualStudio.Search.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Search\Microsoft.VisualStudio.Search.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\Search\Microsoft.VisualStudio.Search.pkgdef'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Search/ranks.dat
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Search/ranks.dat to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Search\ranks.dat
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Search/ranks.dat to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Search\ranks.dat
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\Search\ranks.dat'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VSTelemetry/VSTelemetryPackage.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/VSTelemetry/VSTelemetryPackage.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Microsoft\VSTelemetry\VSTelemetryPackage.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/VSTelemetry/VSTelemetryPackage.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Microsoft\VSTelemetry\VSTelemetryPackage.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\VSTelemetry\VSTelemetryPackage.pkgdef'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/CmdDefUI.Pkgdef
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/CmdDefUI.Pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\CmdDefUI.Pkgdef
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/CmdDefUI.Pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\CmdDefUI.Pkgdef
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\CmdDefUI.Pkgdef'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.CommonIDE.imagemanifest
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.CommonIDE.imagemanifest to D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.CommonIDE.imagemanifest
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.CommonIDE.imagemanifest to D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.CommonIDE.imagemanifest
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.CommonIDE.imagemanifest'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.CommonIDE.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.CommonIDE.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.CommonIDE.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.CommonIDE.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.CommonIDE.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.CommonIDE.pkgdef'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.Dialogs.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.Dialogs.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.Dialogs.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.Dialogs.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.Dialogs.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.Dialogs.pkgdef'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.Pkgdef
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.Pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.Pkgdef
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.Pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.Pkgdef
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.Pkgdef'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.TemplateWizard.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.TemplateWizard.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.TemplateWizard.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.TemplateWizard.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.TemplateWizard.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.TemplateWizard.pkgdef'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Msenv.Core.Pkgdef
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Msenv.Core.Pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\Msenv.Core.Pkgdef
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Msenv.Core.Pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\Msenv.Core.Pkgdef
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\Msenv.Core.Pkgdef'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/msenv.imagemanifest
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/msenv.imagemanifest to D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\msenv.imagemanifest
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/msenv.imagemanifest to D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\msenv.imagemanifest
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\msenv.imagemanifest'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/ProjectAggregator.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/ProjectAggregator.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\ProjectAggregator.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/ProjectAggregator.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\ProjectAggregator.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\ProjectAggregator.pkgdef'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/VsAppDomainManager.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/VsAppDomainManager.dll to D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\VsAppDomainManager.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/VsAppDomainManager.dll to D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\VsAppDomainManager.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\VsAppDomainManager.dll'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/VsAppDomainManager.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/VsAppDomainManager.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\VsAppDomainManager.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/VsAppDomainManager.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\VsAppDomainManager.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\VsAppDomainManager.pkgdef'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/VSIXInstaller.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/VSIXInstaller.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\VSIXInstaller.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/VSIXInstaller.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\VSIXInstaller.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\VSIXInstaller.pkgdef'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/TreeNavigation/Microsoft.VisualStudio.Shell.TreeNavigation.HierarchyProvider.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/TreeNavigation/Microsoft.VisualStudio.Shell.TreeNavigation.HierarchyProvider.dll to D:\Program\Common7\IDE\CommonExtensions\Platform\TreeNavigation\Microsoft.VisualStudio.Shell.TreeNavigation.HierarchyProvider.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/TreeNavigation/Microsoft.VisualStudio.Shell.TreeNavigation.HierarchyProvider.dll to D:\Program\Common7\IDE\CommonExtensions\Platform\TreeNavigation\Microsoft.VisualStudio.Shell.TreeNavigation.HierarchyProvider.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\TreeNavigation\Microsoft.VisualStudio.Shell.TreeNavigation.HierarchyProvider.dll'.
+[da4c:0007][2026-05-10T00:49:51] Queueing D:\Program\Common7\IDE\CommonExtensions\Platform\TreeNavigation\Microsoft.VisualStudio.Shell.TreeNavigation.HierarchyProvider.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:51] Successfully queued file '/Contents/Common7/IDE/CommonExtensions/Platform/TreeNavigation/Microsoft.VisualStudio.Shell.TreeNavigation.HierarchyProvider.dll' for ngen
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/TreeNavigation/Microsoft.VisualStudio.Shell.TreeNavigation.HierarchyProvider.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/TreeNavigation/Microsoft.VisualStudio.Shell.TreeNavigation.HierarchyProvider.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\TreeNavigation\Microsoft.VisualStudio.Shell.TreeNavigation.HierarchyProvider.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/TreeNavigation/Microsoft.VisualStudio.Shell.TreeNavigation.HierarchyProvider.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\TreeNavigation\Microsoft.VisualStudio.Shell.TreeNavigation.HierarchyProvider.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\TreeNavigation\Microsoft.VisualStudio.Shell.TreeNavigation.HierarchyProvider.pkgdef'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/VSLogP.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/VSLogP.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\VSLogP.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/VSLogP.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Platform\VSLogP.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\VSLogP.pkgdef'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.Designer.Interfaces.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Designer.Interfaces.dll to D:\Program\Common7\IDE\Microsoft.VisualStudio.Designer.Interfaces.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Designer.Interfaces.dll to D:\Program\Common7\IDE\Microsoft.VisualStudio.Designer.Interfaces.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\Microsoft.VisualStudio.Designer.Interfaces.dll'.
+[da4c:0007][2026-05-10T00:49:51] Queueing D:\Program\Common7\IDE\Microsoft.VisualStudio.Designer.Interfaces.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:51] Successfully queued file '/Contents/Common7/IDE/Microsoft.VisualStudio.Designer.Interfaces.dll' for ngen
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.dll to D:\Program\Common7\IDE\Microsoft.VisualStudio.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.dll to D:\Program\Common7\IDE\Microsoft.VisualStudio.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\Microsoft.VisualStudio.dll'.
+[da4c:0007][2026-05-10T00:49:51] Queueing D:\Program\Common7\IDE\Microsoft.VisualStudio.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:51] Successfully queued file '/Contents/Common7/IDE/Microsoft.VisualStudio.dll' for ngen
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.Package.LanguageService.15.0.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Package.LanguageService.15.0.dll to D:\Program\Common7\IDE\Microsoft.VisualStudio.Package.LanguageService.15.0.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Package.LanguageService.15.0.dll to D:\Program\Common7\IDE\Microsoft.VisualStudio.Package.LanguageService.15.0.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\Microsoft.VisualStudio.Package.LanguageService.15.0.dll'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.ProductKeyDialog.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.ProductKeyDialog.dll to D:\Program\Common7\IDE\Microsoft.VisualStudio.ProductKeyDialog.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.ProductKeyDialog.dll to D:\Program\Common7\IDE\Microsoft.VisualStudio.ProductKeyDialog.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\Microsoft.VisualStudio.ProductKeyDialog.dll'.
+[da4c:0007][2026-05-10T00:49:51] Queueing D:\Program\Common7\IDE\Microsoft.VisualStudio.ProductKeyDialog.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:51] Successfully queued file '/Contents/Common7/IDE/Microsoft.VisualStudio.ProductKeyDialog.dll' for ngen
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.ProductKeyDialog.tlb
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.ProductKeyDialog.tlb to D:\Program\Common7\IDE\Microsoft.VisualStudio.ProductKeyDialog.tlb
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.ProductKeyDialog.tlb to D:\Program\Common7\IDE\Microsoft.VisualStudio.ProductKeyDialog.tlb
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\Microsoft.VisualStudio.ProductKeyDialog.tlb'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.Shell.ViewManager.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Shell.ViewManager.dll to D:\Program\Common7\IDE\Microsoft.VisualStudio.Shell.ViewManager.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.Shell.ViewManager.dll to D:\Program\Common7\IDE\Microsoft.VisualStudio.Shell.ViewManager.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\Microsoft.VisualStudio.Shell.ViewManager.dll'.
+[da4c:0007][2026-05-10T00:49:51] Queueing D:\Program\Common7\IDE\Microsoft.VisualStudio.Shell.ViewManager.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:51] Successfully queued file '/Contents/Common7/IDE/Microsoft.VisualStudio.Shell.ViewManager.dll' for ngen
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.TemplateWizard.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.TemplateWizard.dll to D:\Program\Common7\IDE\Microsoft.VisualStudio.TemplateWizard.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.TemplateWizard.dll to D:\Program\Common7\IDE\Microsoft.VisualStudio.TemplateWizard.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\Microsoft.VisualStudio.TemplateWizard.dll'.
+[da4c:0007][2026-05-10T00:49:51] Queueing D:\Program\Common7\IDE\Microsoft.VisualStudio.TemplateWizard.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:51] Successfully queued file '/Contents/Common7/IDE/Microsoft.VisualStudio.TemplateWizard.dll' for ngen
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/NewFileItems/HtmlPage.html
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/NewFileItems/HtmlPage.html to D:\Program\Common7\IDE\NewFileItems\HtmlPage.html
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/NewFileItems/HtmlPage.html to D:\Program\Common7\IDE\NewFileItems\HtmlPage.html
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\NewFileItems\HtmlPage.html'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/NewFileItems/jscript.js
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/NewFileItems/jscript.js to D:\Program\Common7\IDE\NewFileItems\jscript.js
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/NewFileItems/jscript.js to D:\Program\Common7\IDE\NewFileItems\jscript.js
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\NewFileItems\jscript.js'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/NewFileItems/NewFileItems.vsdir
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/NewFileItems/NewFileItems.vsdir to D:\Program\Common7\IDE\NewFileItems\NewFileItems.vsdir
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/NewFileItems/NewFileItems.vsdir to D:\Program\Common7\IDE\NewFileItems\NewFileItems.vsdir
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\NewFileItems\NewFileItems.vsdir'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/NewFileItems/stylesht.css
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/NewFileItems/stylesht.css to D:\Program\Common7\IDE\NewFileItems\stylesht.css
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/NewFileItems/stylesht.css to D:\Program\Common7\IDE\NewFileItems\stylesht.css
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\NewFileItems\stylesht.css'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/NewFileItems/TextFile.txt
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/NewFileItems/TextFile.txt to D:\Program\Common7\IDE\NewFileItems\TextFile.txt
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/NewFileItems/TextFile.txt to D:\Program\Common7\IDE\NewFileItems\TextFile.txt
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\NewFileItems\TextFile.txt'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/NewFileItems/xmlpage.xml
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/NewFileItems/xmlpage.xml to D:\Program\Common7\IDE\NewFileItems\xmlpage.xml
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/NewFileItems/xmlpage.xml to D:\Program\Common7\IDE\NewFileItems\xmlpage.xml
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\NewFileItems\xmlpage.xml'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/NewFileItems/xmlschem.xsd
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/NewFileItems/xmlschem.xsd to D:\Program\Common7\IDE\NewFileItems\xmlschem.xsd
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/NewFileItems/xmlschem.xsd to D:\Program\Common7\IDE\NewFileItems\xmlschem.xsd
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\NewFileItems\xmlschem.xsd'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/NewFileItems/xsltfile.xslt
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/NewFileItems/xsltfile.xslt to D:\Program\Common7\IDE\NewFileItems\xsltfile.xslt
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/NewFileItems/xsltfile.xslt to D:\Program\Common7\IDE\NewFileItems\xsltfile.xslt
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\NewFileItems\xsltfile.xslt'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/offreg.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/offreg.dll to D:\Program\Common7\IDE\offreg.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/offreg.dll to D:\Program\Common7\IDE\offreg.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\offreg.dll'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PrivateAssemblies/CheckHyperVHost.exe
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/CheckHyperVHost.exe to D:\Program\Common7\IDE\PrivateAssemblies\CheckHyperVHost.exe
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/CheckHyperVHost.exe to D:\Program\Common7\IDE\PrivateAssemblies\CheckHyperVHost.exe
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\CheckHyperVHost.exe'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PrivateAssemblies/Markdig.Signed.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Markdig.Signed.dll to D:\Program\Common7\IDE\PrivateAssemblies\Markdig.Signed.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Markdig.Signed.dll to D:\Program\Common7\IDE\PrivateAssemblies\Markdig.Signed.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Markdig.Signed.dll'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PrivateAssemblies/Markdig.Wpf.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Markdig.Wpf.dll to D:\Program\Common7\IDE\PrivateAssemblies\Markdig.Wpf.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Markdig.Wpf.dll to D:\Program\Common7\IDE\PrivateAssemblies\Markdig.Wpf.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Markdig.Wpf.dll'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Diagnostics.Tracing.EventSource.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Diagnostics.Tracing.EventSource.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.Diagnostics.Tracing.EventSource.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Diagnostics.Tracing.EventSource.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.Diagnostics.Tracing.EventSource.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.Diagnostics.Tracing.EventSource.dll'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.CommonIDE.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.CommonIDE.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.CommonIDE.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.CommonIDE.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.CommonIDE.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.CommonIDE.dll'.
+[da4c:0007][2026-05-10T00:49:51] Queueing D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.CommonIDE.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:51] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.CommonIDE.dll' for ngen
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Diagnostics.Assert.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Diagnostics.Assert.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Diagnostics.Assert.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Diagnostics.Assert.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Diagnostics.Assert.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Diagnostics.Assert.dll'.
+[da4c:0007][2026-05-10T00:49:51] Queueing D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Diagnostics.Assert.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:51] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Diagnostics.Assert.dll' for ngen
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Diagnostics.Measurement.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Diagnostics.Measurement.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Diagnostics.Measurement.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Diagnostics.Measurement.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Diagnostics.Measurement.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Diagnostics.Measurement.dll'.
+[da4c:0007][2026-05-10T00:49:51] Queueing D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Diagnostics.Measurement.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:51] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Diagnostics.Measurement.dll' for ngen
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Dialogs.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Dialogs.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Dialogs.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Dialogs.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Dialogs.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Dialogs.dll'.
+[da4c:0007][2026-05-10T00:49:51] Queueing D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Dialogs.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:51] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Dialogs.dll' for ngen
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.DpiAwareness.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.DpiAwareness.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.DpiAwareness.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.DpiAwareness.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.DpiAwareness.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.DpiAwareness.dll'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ExtensionsExplorer.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ExtensionsExplorer.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ExtensionsExplorer.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ExtensionsExplorer.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ExtensionsExplorer.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ExtensionsExplorer.dll'.
+[da4c:0007][2026-05-10T00:49:51] Queueing D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ExtensionsExplorer.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:51] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ExtensionsExplorer.dll' for ngen
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ExtensionsExplorer.UI.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ExtensionsExplorer.UI.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ExtensionsExplorer.UI.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ExtensionsExplorer.UI.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ExtensionsExplorer.UI.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ExtensionsExplorer.UI.dll'.
+[da4c:0007][2026-05-10T00:49:51] Queueing D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ExtensionsExplorer.UI.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:51] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ExtensionsExplorer.UI.dll' for ngen
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.FileDiscovery.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.FileDiscovery.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.FileDiscovery.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.FileDiscovery.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.FileDiscovery.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.FileDiscovery.dll'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Platform.AppDomainManager.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Platform.AppDomainManager.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Platform.AppDomainManager.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Platform.AppDomainManager.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Platform.AppDomainManager.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Platform.AppDomainManager.dll'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.RemoteControl.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.RemoteControl.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.RemoteControl.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.RemoteControl.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.RemoteControl.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.RemoteControl.dll'.
+[da4c:0007][2026-05-10T00:49:51] Queueing D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.RemoteControl.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:51] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.RemoteControl.dll' for ngen
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Services.Gallery.WebApi.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Services.Gallery.WebApi.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Services.Gallery.WebApi.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Services.Gallery.WebApi.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Services.Gallery.WebApi.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Services.Gallery.WebApi.dll'.
+[da4c:0007][2026-05-10T00:49:51] Queueing D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Services.Gallery.WebApi.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:51] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Services.Gallery.WebApi.dll' for ngen
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Setup.Common.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Setup.Common.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Setup.Common.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Setup.Common.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Setup.Common.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Setup.Common.dll'.
+[da4c:0007][2026-05-10T00:49:51] Queueing D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Setup.Common.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:51] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Setup.Common.dll' for ngen
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Setup.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Setup.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Setup.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Setup.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Setup.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Setup.dll'.
+[da4c:0007][2026-05-10T00:49:51] Queueing D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Setup.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:51] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Setup.dll' for ngen
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Setup.Download.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Setup.Download.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Setup.Download.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Setup.Download.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Setup.Download.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Setup.Download.dll'.
+[da4c:0007][2026-05-10T00:49:51] Queueing D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Setup.Download.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:51] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Setup.Download.dll' for ngen
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PrivateAssemblies/microsoft.visualstudio.setup.nuget.config
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/microsoft.visualstudio.setup.nuget.config to D:\Program\Common7\IDE\PrivateAssemblies\microsoft.visualstudio.setup.nuget.config
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/microsoft.visualstudio.setup.nuget.config to D:\Program\Common7\IDE\PrivateAssemblies\microsoft.visualstudio.setup.nuget.config
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\microsoft.visualstudio.setup.nuget.config'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Setup.NuGet.Packaging.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Setup.NuGet.Packaging.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Setup.NuGet.Packaging.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Setup.NuGet.Packaging.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Setup.NuGet.Packaging.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Setup.NuGet.Packaging.dll'.
+[da4c:0007][2026-05-10T00:49:51] Queueing D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Setup.NuGet.Packaging.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:51] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Setup.NuGet.Packaging.dll' for ngen
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Setup.VSApi.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Setup.VSApi.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Setup.VSApi.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Setup.VSApi.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Setup.VSApi.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Setup.VSApi.dll'.
+[da4c:0007][2026-05-10T00:49:51] Queueing D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Setup.VSApi.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:51] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Setup.VSApi.dll' for ngen
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Shell.Internal.WinMD.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Shell.Internal.WinMD.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Shell.Internal.WinMD.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Shell.Internal.WinMD.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Shell.Internal.WinMD.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Shell.Internal.WinMD.dll'.
+[da4c:0007][2026-05-10T00:49:51] Queueing D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Shell.Internal.WinMD.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:51] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Shell.Internal.WinMD.dll' for ngen
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.SolutionPersistence.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.SolutionPersistence.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.SolutionPersistence.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.SolutionPersistence.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.SolutionPersistence.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.SolutionPersistence.dll'.
+[da4c:0007][2026-05-10T00:49:51] Queueing D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.SolutionPersistence.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:51] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.SolutionPersistence.dll' for ngen
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Telemetry.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Telemetry.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Telemetry.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Telemetry.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Telemetry.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Telemetry.dll'.
+[da4c:0007][2026-05-10T00:49:51] Queueing D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Telemetry.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:51] Queueing D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Telemetry.dll for X64 ngen
+[da4c:0007][2026-05-10T00:49:51] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Telemetry.dll' for ngen
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Telemetry.Package.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Telemetry.Package.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Telemetry.Package.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Telemetry.Package.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Telemetry.Package.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Telemetry.Package.dll'.
+[da4c:0007][2026-05-10T00:49:51] Queueing D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Telemetry.Package.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:51] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Telemetry.Package.dll' for ngen
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.TemplateProviders.Implementation.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.TemplateProviders.Implementation.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.TemplateProviders.Implementation.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.TemplateProviders.Implementation.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.TemplateProviders.Implementation.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.TemplateProviders.Implementation.dll'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Threading.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Threading.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Threading.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Threading.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Threading.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Threading.dll'.
+[da4c:0007][2026-05-10T00:49:51] Queueing D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Threading.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:51] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Threading.dll' for ngen
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Utilities.Internal.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Utilities.Internal.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Utilities.Internal.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Utilities.Internal.dll to D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Utilities.Internal.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Utilities.Internal.dll'.
+[da4c:0007][2026-05-10T00:49:51] Queueing D:\Program\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Utilities.Internal.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:51] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Utilities.Internal.dll' for ngen
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PrivateAssemblies/Newtonsoft.Json.12.0.0.2/Newtonsoft.Json.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Newtonsoft.Json.12.0.0.2/Newtonsoft.Json.dll to D:\Program\Common7\IDE\PrivateAssemblies\Newtonsoft.Json.12.0.0.2\Newtonsoft.Json.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Newtonsoft.Json.12.0.0.2/Newtonsoft.Json.dll to D:\Program\Common7\IDE\PrivateAssemblies\Newtonsoft.Json.12.0.0.2\Newtonsoft.Json.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Newtonsoft.Json.12.0.0.2\Newtonsoft.Json.dll'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PrivateAssemblies/Newtonsoft.Json.13.0.1.0/Newtonsoft.Json.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Newtonsoft.Json.13.0.1.0/Newtonsoft.Json.dll to D:\Program\Common7\IDE\PrivateAssemblies\Newtonsoft.Json.13.0.1.0\Newtonsoft.Json.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Newtonsoft.Json.13.0.1.0/Newtonsoft.Json.dll to D:\Program\Common7\IDE\PrivateAssemblies\Newtonsoft.Json.13.0.1.0\Newtonsoft.Json.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Newtonsoft.Json.13.0.1.0\Newtonsoft.Json.dll'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PrivateAssemblies/Newtonsoft.Json.13.0.3.0/Newtonsoft.Json.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Newtonsoft.Json.13.0.3.0/Newtonsoft.Json.dll to D:\Program\Common7\IDE\PrivateAssemblies\Newtonsoft.Json.13.0.3.0\Newtonsoft.Json.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Newtonsoft.Json.13.0.3.0/Newtonsoft.Json.dll to D:\Program\Common7\IDE\PrivateAssemblies\Newtonsoft.Json.13.0.3.0\Newtonsoft.Json.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Newtonsoft.Json.13.0.3.0\Newtonsoft.Json.dll'.
+[da4c:0007][2026-05-10T00:49:51] Queueing D:\Program\Common7\IDE\PrivateAssemblies\Newtonsoft.Json.13.0.3.0\Newtonsoft.Json.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:51] Queueing D:\Program\Common7\IDE\PrivateAssemblies\Newtonsoft.Json.13.0.3.0\Newtonsoft.Json.dll for X64 ngen
+[da4c:0007][2026-05-10T00:49:51] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/Newtonsoft.Json.13.0.3.0/Newtonsoft.Json.dll' for ngen
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PrivateAssemblies/Newtonsoft.Json.9.0.0.1/Newtonsoft.Json.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Newtonsoft.Json.9.0.0.1/Newtonsoft.Json.dll to D:\Program\Common7\IDE\PrivateAssemblies\Newtonsoft.Json.9.0.0.1\Newtonsoft.Json.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Newtonsoft.Json.9.0.0.1/Newtonsoft.Json.dll to D:\Program\Common7\IDE\PrivateAssemblies\Newtonsoft.Json.9.0.0.1\Newtonsoft.Json.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\Newtonsoft.Json.9.0.0.1\Newtonsoft.Json.dll'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PrivateAssemblies/System.Design.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/System.Design.dll to D:\Program\Common7\IDE\PrivateAssemblies\System.Design.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/System.Design.dll to D:\Program\Common7\IDE\PrivateAssemblies\System.Design.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PrivateAssemblies\System.Design.dll'.
+[da4c:0007][2026-05-10T00:49:51] Queueing D:\Program\Common7\IDE\PrivateAssemblies\System.Design.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:51] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/System.Design.dll' for ngen
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.15.0.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.15.0.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.15.0.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.15.0.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.15.0.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.15.0.dll'.
+[da4c:0007][2026-05-10T00:49:51] Queueing D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.15.0.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:51] Successfully queued file '/Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.15.0.dll' for ngen
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Framework.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Framework.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Framework.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Framework.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Framework.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Framework.dll'.
+[da4c:0007][2026-05-10T00:49:51] Queueing D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Framework.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:51] Successfully queued file '/Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Framework.dll' for ngen
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Immutable.10.0.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Immutable.10.0.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Immutable.10.0.dll'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Immutable.11.0.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Immutable.11.0.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Immutable.11.0.dll'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Immutable.12.0.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Immutable.12.0.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Immutable.12.0.dll'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Immutable.14.0.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Immutable.14.0.dll to D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Immutable.14.0.dll'.
+[da4c:0007][2026-05-10T00:49:51] Queueing D:\Program\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Immutable.14.0.dll for X86 ngen
+[da4c:0007][2026-05-10T00:49:51] Successfully queued file '/Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Immutable.14.0.dll' for ngen
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/ShellExtensions/Platform/AppEnvConfig.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/ShellExtensions/Platform/AppEnvConfig.pkgdef to D:\Program\Common7\IDE\ShellExtensions\Platform\AppEnvConfig.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/ShellExtensions/Platform/AppEnvConfig.pkgdef to D:\Program\Common7\IDE\ShellExtensions\Platform\AppEnvConfig.pkgdef
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\ShellExtensions\Platform\AppEnvConfig.pkgdef'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/SolutionTemplates/blank.sln
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/SolutionTemplates/blank.sln to D:\Program\Common7\IDE\SolutionTemplates\blank.sln
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/SolutionTemplates/blank.sln to D:\Program\Common7\IDE\SolutionTemplates\blank.sln
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\SolutionTemplates\blank.sln'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/SolutionTemplates/blank.vsdir
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/SolutionTemplates/blank.vsdir to D:\Program\Common7\IDE\SolutionTemplates\blank.vsdir
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/SolutionTemplates/blank.vsdir to D:\Program\Common7\IDE\SolutionTemplates\blank.vsdir
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\SolutionTemplates\blank.vsdir'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/ToolboxCaches/ToolboxItemDiscoveryCache.2ed5b6c0-e464-4454-972b-0a666a9f8c5d.dat
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/ToolboxCaches/ToolboxItemDiscoveryCache.2ed5b6c0-e464-4454-972b-0a666a9f8c5d.dat to D:\Program\Common7\IDE\ToolboxCaches\ToolboxItemDiscoveryCache.2ed5b6c0-e464-4454-972b-0a666a9f8c5d.dat
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/ToolboxCaches/ToolboxItemDiscoveryCache.2ed5b6c0-e464-4454-972b-0a666a9f8c5d.dat to D:\Program\Common7\IDE\ToolboxCaches\ToolboxItemDiscoveryCache.2ed5b6c0-e464-4454-972b-0a666a9f8c5d.dat
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\ToolboxCaches\ToolboxItemDiscoveryCache.2ed5b6c0-e464-4454-972b-0a666a9f8c5d.dat'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/ToolboxCaches/ToolboxItemDiscoveryCache.3f527a12-a490-4474-8d61-1e52a873c122.dat
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/ToolboxCaches/ToolboxItemDiscoveryCache.3f527a12-a490-4474-8d61-1e52a873c122.dat to D:\Program\Common7\IDE\ToolboxCaches\ToolboxItemDiscoveryCache.3f527a12-a490-4474-8d61-1e52a873c122.dat
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/ToolboxCaches/ToolboxItemDiscoveryCache.3f527a12-a490-4474-8d61-1e52a873c122.dat to D:\Program\Common7\IDE\ToolboxCaches\ToolboxItemDiscoveryCache.3f527a12-a490-4474-8d61-1e52a873c122.dat
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\ToolboxCaches\ToolboxItemDiscoveryCache.3f527a12-a490-4474-8d61-1e52a873c122.dat'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/ToolboxCaches/ToolboxItemDiscoveryCache.7036b125-fa82-3aba-acb8-bdbc97782a06.dat
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/ToolboxCaches/ToolboxItemDiscoveryCache.7036b125-fa82-3aba-acb8-bdbc97782a06.dat to D:\Program\Common7\IDE\ToolboxCaches\ToolboxItemDiscoveryCache.7036b125-fa82-3aba-acb8-bdbc97782a06.dat
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/ToolboxCaches/ToolboxItemDiscoveryCache.7036b125-fa82-3aba-acb8-bdbc97782a06.dat to D:\Program\Common7\IDE\ToolboxCaches\ToolboxItemDiscoveryCache.7036b125-fa82-3aba-acb8-bdbc97782a06.dat
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\ToolboxCaches\ToolboxItemDiscoveryCache.7036b125-fa82-3aba-acb8-bdbc97782a06.dat'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/ToolboxCaches/ToolboxItemDiscoveryCache.7c9becba-12b9-4480-9dbf-2345aa3c4f9a.dat
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/ToolboxCaches/ToolboxItemDiscoveryCache.7c9becba-12b9-4480-9dbf-2345aa3c4f9a.dat to D:\Program\Common7\IDE\ToolboxCaches\ToolboxItemDiscoveryCache.7c9becba-12b9-4480-9dbf-2345aa3c4f9a.dat
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/ToolboxCaches/ToolboxItemDiscoveryCache.7c9becba-12b9-4480-9dbf-2345aa3c4f9a.dat to D:\Program\Common7\IDE\ToolboxCaches\ToolboxItemDiscoveryCache.7c9becba-12b9-4480-9dbf-2345aa3c4f9a.dat
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\ToolboxCaches\ToolboxItemDiscoveryCache.7c9becba-12b9-4480-9dbf-2345aa3c4f9a.dat'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/x64/offreg.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/x64/offreg.dll to D:\Program\Common7\IDE\x64\offreg.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/x64/offreg.dll to D:\Program\Common7\IDE\x64\offreg.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\x64\offreg.dll'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/x64/VsRegistryDetour.dll
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/x64/VsRegistryDetour.dll to D:\Program\Common7\IDE\x64\VsRegistryDetour.dll
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/x64/VsRegistryDetour.dll to D:\Program\Common7\IDE\x64\VsRegistryDetour.dll
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\x64\VsRegistryDetour.dll'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Xml/Schemas/ImageManifest.xsd
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Xml/Schemas/ImageManifest.xsd to D:\Program\Xml\Schemas\ImageManifest.xsd
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Xml/Schemas/ImageManifest.xsd to D:\Program\Xml\Schemas\ImageManifest.xsd
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Xml\Schemas\ImageManifest.xsd'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ProductUpdate/extension.vsixmanifest
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/ProductUpdate/extension.vsixmanifest to D:\Program\Common7\IDE\CommonExtensions\Microsoft\ProductUpdate\extension.vsixmanifest
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/ProductUpdate/extension.vsixmanifest to D:\Program\Common7\IDE\CommonExtensions\Microsoft\ProductUpdate\extension.vsixmanifest
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\ProductUpdate\extension.vsixmanifest'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Search/extension.vsixmanifest
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Search/extension.vsixmanifest to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Search\extension.vsixmanifest
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Microsoft/Search/extension.vsixmanifest to D:\Program\Common7\IDE\CommonExtensions\Microsoft\Search\extension.vsixmanifest
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\Search\extension.vsixmanifest'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/extension.vsixmanifest
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/extension.vsixmanifest to D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\extension.vsixmanifest
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/extension.vsixmanifest to D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\extension.vsixmanifest
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\Shell\extension.vsixmanifest'.
+[da4c:0007][2026-05-10T00:49:51] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/TreeNavigation/extension.vsixmanifest
+[da4c:0007][2026-05-10T00:49:51] Started: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/TreeNavigation/extension.vsixmanifest to D:\Program\Common7\IDE\CommonExtensions\Platform\TreeNavigation\extension.vsixmanifest
+[da4c:0007][2026-05-10T00:49:51] Completed: Copying file /Contents/Common7/IDE/CommonExtensions/Platform/TreeNavigation/extension.vsixmanifest to D:\Program\Common7\IDE\CommonExtensions\Platform\TreeNavigation\extension.vsixmanifest
+[da4c:0007][2026-05-10T00:49:51] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Platform\TreeNavigation\extension.vsixmanifest'.
+[da4c:0007][2026-05-10T00:49:51] Package executed successfully. Return code: 0

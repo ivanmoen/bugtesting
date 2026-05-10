@@ -1,0 +1,186 @@
+[3474:0009][2026-05-10T01:46:17] Using cached package manifest as the embedded manifest
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.ProductKeyDialog.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.ProductKeyDialog.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.ProductKeyDialog.tlb
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.ProductKeyDialog.tlb file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.Shell.ViewManager.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.Shell.ViewManager.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.TemplateWizard.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.TemplateWizard.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.Package.LanguageService.15.0.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.Package.LanguageService.15.0.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.Designer.Interfaces.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.Designer.Interfaces.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/offreg.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\offreg.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/x64/VsRegistryDetour.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\x64\VsRegistryDetour.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/x64/offreg.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\x64\offreg.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/ProductUpdate/extension.vsixmanifest
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\ProductUpdate\extension.vsixmanifest file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Search/extension.vsixmanifest
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Search\extension.vsixmanifest file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Search/Microsoft.VisualStudio.Platform.SearchProviders.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Search\Microsoft.VisualStudio.Platform.SearchProviders.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Search/Microsoft.VisualStudio.Platform.SearchProviders.Legacy.pkgdef
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Search\Microsoft.VisualStudio.Platform.SearchProviders.Legacy.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Search/Microsoft.VisualStudio.Search.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Search\Microsoft.VisualStudio.Search.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Search/Microsoft.VisualStudio.Search.Implementation.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Search\Microsoft.VisualStudio.Search.Implementation.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Search/Microsoft.VisualStudio.Search.pkgdef
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Search\Microsoft.VisualStudio.Search.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/Search/ranks.dat
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\Search\ranks.dat file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/CommonExtensions/Microsoft/VSTelemetry/VSTelemetryPackage.pkgdef
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Microsoft\VSTelemetry\VSTelemetryPackage.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/VSLogP.pkgdef
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\VSLogP.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.Pkgdef
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.Pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/msenv.imagemanifest
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Shell\msenv.imagemanifest file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.CommonIDE.imagemanifest
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.CommonIDE.imagemanifest file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/ProjectAggregator.pkgdef
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Shell\ProjectAggregator.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.CommonIDE.pkgdef
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.CommonIDE.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.Dialogs.pkgdef
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.Dialogs.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Microsoft.VisualStudio.TemplateWizard.pkgdef
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Shell\Microsoft.VisualStudio.TemplateWizard.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/Msenv.Core.Pkgdef
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Shell\Msenv.Core.Pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/VsAppDomainManager.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Shell\VsAppDomainManager.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/VsAppDomainManager.pkgdef
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Shell\VsAppDomainManager.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/CmdDefUI.Pkgdef
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Shell\CmdDefUI.Pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/VSIXInstaller.pkgdef
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Shell\VSIXInstaller.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Shell/extension.vsixmanifest
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\Shell\extension.vsixmanifest file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/TreeNavigation/Microsoft.VisualStudio.Shell.TreeNavigation.HierarchyProvider.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\TreeNavigation\Microsoft.VisualStudio.Shell.TreeNavigation.HierarchyProvider.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/TreeNavigation/Microsoft.VisualStudio.Shell.TreeNavigation.HierarchyProvider.pkgdef
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\TreeNavigation\Microsoft.VisualStudio.Shell.TreeNavigation.HierarchyProvider.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/TreeNavigation/extension.vsixmanifest
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\CommonExtensions\Platform\TreeNavigation\extension.vsixmanifest file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/NewFileItems/HtmlPage.html
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\NewFileItems\HtmlPage.html file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/NewFileItems/NewFileItems.vsdir
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\NewFileItems\NewFileItems.vsdir file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/NewFileItems/stylesht.css
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\NewFileItems\stylesht.css file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/NewFileItems/TextFile.txt
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\NewFileItems\TextFile.txt file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/NewFileItems/xmlpage.xml
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\NewFileItems\xmlpage.xml file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/NewFileItems/xmlschem.xsd
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\NewFileItems\xmlschem.xsd file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/NewFileItems/xsltfile.xslt
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\NewFileItems\xsltfile.xslt file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/NewFileItems/jscript.js
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\NewFileItems\jscript.js file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Telemetry.Package.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Telemetry.Package.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Diagnostics.Assert.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Diagnostics.Assert.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Diagnostics.Measurement.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Diagnostics.Measurement.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.FileDiscovery.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.FileDiscovery.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Shell.Internal.WinMD.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Shell.Internal.WinMD.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.DpiAwareness.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.DpiAwareness.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.SolutionPersistence.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.SolutionPersistence.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.CommonIDE.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.CommonIDE.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Dialogs.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Dialogs.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ExtensionsExplorer.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ExtensionsExplorer.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ExtensionsExplorer.UI.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ExtensionsExplorer.UI.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.TemplateProviders.Implementation.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.TemplateProviders.Implementation.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Platform.AppDomainManager.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Platform.AppDomainManager.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/System.Design.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\System.Design.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.Diagnostics.Tracing.EventSource.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.Diagnostics.Tracing.EventSource.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.RemoteControl.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.RemoteControl.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Telemetry.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Telemetry.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Utilities.Internal.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Utilities.Internal.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Threading.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Threading.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Setup.NuGet.Packaging.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Setup.NuGet.Packaging.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Setup.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Setup.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Setup.Common.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Setup.Common.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Setup.Download.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Setup.Download.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Setup.VSApi.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Setup.VSApi.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/microsoft.visualstudio.setup.nuget.config
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\microsoft.visualstudio.setup.nuget.config file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/CheckHyperVHost.exe
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\CheckHyperVHost.exe file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.Services.Gallery.WebApi.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.Services.Gallery.WebApi.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/Markdig.Signed.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Markdig.Signed.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/Markdig.Wpf.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Markdig.Wpf.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/Newtonsoft.Json.9.0.0.1/Newtonsoft.Json.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Newtonsoft.Json.9.0.0.1\Newtonsoft.Json.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/Newtonsoft.Json.12.0.0.2/Newtonsoft.Json.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Newtonsoft.Json.12.0.0.2\Newtonsoft.Json.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/Newtonsoft.Json.13.0.1.0/Newtonsoft.Json.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Newtonsoft.Json.13.0.1.0\Newtonsoft.Json.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/PrivateAssemblies/Newtonsoft.Json.13.0.3.0/Newtonsoft.Json.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Newtonsoft.Json.13.0.3.0\Newtonsoft.Json.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.15.0.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.15.0.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Framework.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Framework.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Immutable.10.0.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Immutable.11.0.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Immutable.12.0.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/PublicAssemblies/Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.Shell.Immutable.14.0.dll file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/ShellExtensions/Platform/AppEnvConfig.pkgdef
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ShellExtensions\Platform\AppEnvConfig.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/SolutionTemplates/blank.sln
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\SolutionTemplates\blank.sln file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/SolutionTemplates/blank.vsdir
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\SolutionTemplates\blank.vsdir file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/ToolboxCaches/ToolboxItemDiscoveryCache.2ed5b6c0-e464-4454-972b-0a666a9f8c5d.dat
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ToolboxCaches\ToolboxItemDiscoveryCache.2ed5b6c0-e464-4454-972b-0a666a9f8c5d.dat file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/ToolboxCaches/ToolboxItemDiscoveryCache.3f527a12-a490-4474-8d61-1e52a873c122.dat
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ToolboxCaches\ToolboxItemDiscoveryCache.3f527a12-a490-4474-8d61-1e52a873c122.dat file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/ToolboxCaches/ToolboxItemDiscoveryCache.7036b125-fa82-3aba-acb8-bdbc97782a06.dat
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ToolboxCaches\ToolboxItemDiscoveryCache.7036b125-fa82-3aba-acb8-bdbc97782a06.dat file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Common7/IDE/ToolboxCaches/ToolboxItemDiscoveryCache.7c9becba-12b9-4480-9dbf-2345aa3c4f9a.dat
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\ToolboxCaches\ToolboxItemDiscoveryCache.7c9becba-12b9-4480-9dbf-2345aa3c4f9a.dat file deleted.
+[3474:0009][2026-05-10T01:46:17] Processing file /Contents/Xml/Schemas/ImageManifest.xsd
+[3474:0009][2026-05-10T01:46:17] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Xml\Schemas\ImageManifest.xsd file deleted.
+[3474:0009][2026-05-10T01:46:17] Started: Deleting empty directories
+[3474:0009][2026-05-10T01:46:17] Completed: Deleting empty directories
+[3474:0009][2026-05-10T01:46:17] Package executed successfully. Return code: 0

@@ -1,0 +1,28 @@
+[c9c4:0009][2026-05-10T01:01:55] Opening the package for processing
+[c9c4:0009][2026-05-10T01:01:55] Using package payload to get the embedded manifest
+[c9c4:0009][2026-05-10T01:01:55] Getting list of files within the package
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/Microsoft.VisualStudio.ExtensionEngine.dll
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.ExtensionEngine.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.ExtensionEngine.dll
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/Microsoft.VisualStudio.ExtensionEngine.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.ExtensionEngine.dll
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.ExtensionEngine.dll'.
+[c9c4:0009][2026-05-10T01:01:55] Queueing D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Microsoft.VisualStudio.ExtensionEngine.dll for X86 ngen
+[c9c4:0009][2026-05-10T01:01:55] Successfully queued file '/Contents/Common7/IDE/Microsoft.VisualStudio.ExtensionEngine.dll' for ngen
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ExtensionEngine.dll
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ExtensionEngine.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ExtensionEngine.dll
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ExtensionEngine.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ExtensionEngine.dll
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ExtensionEngine.dll'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ExtensionManager.Implementation.dll
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ExtensionManager.Implementation.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ExtensionManager.Implementation.dll
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ExtensionManager.Implementation.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ExtensionManager.Implementation.dll
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ExtensionManager.Implementation.dll'.
+[c9c4:0009][2026-05-10T01:01:55] Queueing D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\PrivateAssemblies\Microsoft.VisualStudio.ExtensionManager.Implementation.dll for X86 ngen
+[c9c4:0009][2026-05-10T01:01:55] Successfully queued file '/Contents/Common7/IDE/PrivateAssemblies/Microsoft.VisualStudio.ExtensionManager.Implementation.dll' for ngen
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/VSIXInstaller.exe
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/VSIXInstaller.exe to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSIXInstaller.exe
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/VSIXInstaller.exe to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSIXInstaller.exe
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSIXInstaller.exe'.
+[c9c4:0009][2026-05-10T01:01:55] Processing file /Contents/Common7/IDE/VSIXInstaller.exe.config
+[c9c4:0009][2026-05-10T01:01:55] Started: Copying file /Contents/Common7/IDE/VSIXInstaller.exe.config to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSIXInstaller.exe.config
+[c9c4:0009][2026-05-10T01:01:55] Completed: Copying file /Contents/Common7/IDE/VSIXInstaller.exe.config to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSIXInstaller.exe.config
+[c9c4:0009][2026-05-10T01:01:55] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VSIXInstaller.exe.config'.
+[c9c4:0009][2026-05-10T01:01:55] Package executed successfully. Return code: 0

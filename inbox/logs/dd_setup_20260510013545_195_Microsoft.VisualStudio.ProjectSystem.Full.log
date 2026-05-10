@@ -1,0 +1,7 @@
+[3c7c:000c][2026-05-10T01:36:06] Opening the package for processing
+[3c7c:000c][2026-05-10T01:36:06] Using package payload to get the embedded manifest
+[3c7c:000c][2026-05-10T01:36:06] Getting list of files within the package
+[3c7c:000c][2026-05-10T01:36:06] Installing ProgId: VisualStudio.shproj.6d5b802f
+[3c7c:000c][2026-05-10T01:36:06] Processing file extension for install .shproj
+[3c7c:000c][2026-05-10T01:36:06] RegistrationPath: Software\Microsoft\VisualStudio_6d5b802f\Capabilities\FileAssociations
+[3c7c:000c][2026-05-10T01:36:06] Package executed successfully. Return code: 0

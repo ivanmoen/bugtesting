@@ -1,0 +1,3 @@
+[3474:0009][2026-05-10T01:46:24] Using cached package manifest as the embedded manifest
+[3474:0009][2026-05-10T01:46:24] Warning: Microsoft.VS.VC.vcvars.x86.Shortcuts package has no files per the cached manifest.
+[3474:0009][2026-05-10T01:46:24] Package executed successfully. Return code: 0

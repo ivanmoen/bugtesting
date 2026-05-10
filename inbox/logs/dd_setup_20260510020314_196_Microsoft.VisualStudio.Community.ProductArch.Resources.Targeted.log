@@ -1,0 +1,52 @@
+[18d4:0007][2026-05-10T02:03:54] Opening the package for processing
+[18d4:0007][2026-05-10T02:03:54] Using package payload to get the embedded manifest
+[18d4:0007][2026-05-10T02:03:54] Getting list of files within the package
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/Common7/IDE/1033/Microsoft.VisualStudio.DesignUI.dll
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/Common7/IDE/1033/Microsoft.VisualStudio.DesignUI.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\1033\Microsoft.VisualStudio.DesignUI.dll
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/Common7/IDE/1033/Microsoft.VisualStudio.DesignUI.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\1033\Microsoft.VisualStudio.DesignUI.dll
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\1033\Microsoft.VisualStudio.DesignUI.dll'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/Common7/IDE/1033/Microsoft.VisualStudio.ExportTemplateUI.dll
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/Common7/IDE/1033/Microsoft.VisualStudio.ExportTemplateUI.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\1033\Microsoft.VisualStudio.ExportTemplateUI.dll
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/Common7/IDE/1033/Microsoft.VisualStudio.ExportTemplateUI.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\1033\Microsoft.VisualStudio.ExportTemplateUI.dll
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\1033\Microsoft.VisualStudio.ExportTemplateUI.dll'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/Common7/IDE/1033/Microsoft.VisualStudio.Windows.FormsUI.dll
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/Common7/IDE/1033/Microsoft.VisualStudio.Windows.FormsUI.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\1033\Microsoft.VisualStudio.Windows.FormsUI.dll
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/Common7/IDE/1033/Microsoft.VisualStudio.Windows.FormsUI.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\1033\Microsoft.VisualStudio.Windows.FormsUI.dll
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\1033\Microsoft.VisualStudio.Windows.FormsUI.dll'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/Common7/IDE/1033/vsslnui.dll
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/Common7/IDE/1033/vsslnui.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\1033\vsslnui.dll
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/Common7/IDE/1033/vsslnui.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\1033\vsslnui.dll
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\1033\vsslnui.dll'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/Common7/IDE/1033/WindowsFormsIntegration.PackageUI.dll
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/Common7/IDE/1033/WindowsFormsIntegration.PackageUI.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\1033\WindowsFormsIntegration.PackageUI.dll
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/Common7/IDE/1033/WindowsFormsIntegration.PackageUI.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\1033\WindowsFormsIntegration.PackageUI.dll
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\1033\WindowsFormsIntegration.PackageUI.dll'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/Common7/IDE/VS%20SCC/1033/msempui.dll
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/Common7/IDE/VS%20SCC/1033/msempui.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VS SCC\1033\msempui.dll
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/Common7/IDE/VS%20SCC/1033/msempui.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VS SCC\1033\msempui.dll
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VS SCC\1033\msempui.dll'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/Common7/IDE/VS%20SCC/1033/VssProviderStubui.dll
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/Common7/IDE/VS%20SCC/1033/VssProviderStubui.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VS SCC\1033\VssProviderStubui.dll
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/Common7/IDE/VS%20SCC/1033/VssProviderStubui.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VS SCC\1033\VssProviderStubui.dll
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VS SCC\1033\VssProviderStubui.dll'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/Common7/IDE/VS%20SCC/1033/VssProviderui.dll
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/Common7/IDE/VS%20SCC/1033/VssProviderui.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VS SCC\1033\VssProviderui.dll
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/Common7/IDE/VS%20SCC/1033/VssProviderui.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VS SCC\1033\VssProviderui.dll
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\VS SCC\1033\VssProviderui.dll'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/Common7/IDE/Xml/1033/Microsoft.XmlEditorUI.dll
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/Common7/IDE/Xml/1033/Microsoft.XmlEditorUI.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Xml\1033\Microsoft.XmlEditorUI.dll
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/Common7/IDE/Xml/1033/Microsoft.XmlEditorUI.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Xml\1033\Microsoft.XmlEditorUI.dll
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Xml\1033\Microsoft.XmlEditorUI.dll'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/Common7/Packages/1033/compsvcspkgui.dll
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/Common7/Packages/1033/compsvcspkgui.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\compsvcspkgui.dll
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/Common7/Packages/1033/compsvcspkgui.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\compsvcspkgui.dll
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\compsvcspkgui.dll'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/Common7/Packages/1033/dirprjui.dll
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/Common7/Packages/1033/dirprjui.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\dirprjui.dll
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/Common7/Packages/1033/dirprjui.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\dirprjui.dll
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\1033\dirprjui.dll'.
+[18d4:0007][2026-05-10T02:03:54] Processing file /Contents/Common7/Packages/Debugger/1033/GpuDebugEngine.resources.dll
+[18d4:0007][2026-05-10T02:03:54] Started: Copying file /Contents/Common7/Packages/Debugger/1033/GpuDebugEngine.resources.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\1033\GpuDebugEngine.resources.dll
+[18d4:0007][2026-05-10T02:03:54] Completed: Copying file /Contents/Common7/Packages/Debugger/1033/GpuDebugEngine.resources.dll to D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\1033\GpuDebugEngine.resources.dll
+[18d4:0007][2026-05-10T02:03:54] Timestamp updated for file 'D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\Packages\Debugger\1033\GpuDebugEngine.resources.dll'.
+[18d4:0007][2026-05-10T02:03:54] Package executed successfully. Return code: 0

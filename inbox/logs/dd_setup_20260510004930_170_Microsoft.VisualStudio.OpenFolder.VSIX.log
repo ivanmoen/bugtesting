@@ -1,0 +1,408 @@
+[da4c:0007][2026-05-10T00:50:03] Opening the package for processing
+[da4c:0007][2026-05-10T00:50:03] Using package payload to get the embedded manifest
+[da4c:0007][2026-05-10T00:50:03] Getting list of files within the package
+[da4c:0007][2026-05-10T00:50:03] Processing file /catalog.json
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /catalog.json to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\catalog.json
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /catalog.json to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\catalog.json
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\catalog.json'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /cs/Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /cs/Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\cs\Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /cs/Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\cs\Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\cs\Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /cs/Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /cs/Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\cs\Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /cs/Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\cs\Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\cs\Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /cs/Microsoft.VisualStudio.Workspace.Extensions.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /cs/Microsoft.VisualStudio.Workspace.Extensions.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\cs\Microsoft.VisualStudio.Workspace.Extensions.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /cs/Microsoft.VisualStudio.Workspace.Extensions.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\cs\Microsoft.VisualStudio.Workspace.Extensions.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\cs\Microsoft.VisualStudio.Workspace.Extensions.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /cs/Microsoft.VisualStudio.Workspace.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /cs/Microsoft.VisualStudio.Workspace.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\cs\Microsoft.VisualStudio.Workspace.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /cs/Microsoft.VisualStudio.Workspace.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\cs\Microsoft.VisualStudio.Workspace.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\cs\Microsoft.VisualStudio.Workspace.Implementation.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /cs/Microsoft.VisualStudio.Workspace.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /cs/Microsoft.VisualStudio.Workspace.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\cs\Microsoft.VisualStudio.Workspace.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /cs/Microsoft.VisualStudio.Workspace.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\cs\Microsoft.VisualStudio.Workspace.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\cs\Microsoft.VisualStudio.Workspace.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /cs/Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /cs/Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\cs\Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /cs/Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\cs\Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\cs\Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /de/Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /de/Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\de\Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /de/Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\de\Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\de\Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /de/Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /de/Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\de\Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /de/Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\de\Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\de\Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /de/Microsoft.VisualStudio.Workspace.Extensions.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /de/Microsoft.VisualStudio.Workspace.Extensions.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\de\Microsoft.VisualStudio.Workspace.Extensions.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /de/Microsoft.VisualStudio.Workspace.Extensions.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\de\Microsoft.VisualStudio.Workspace.Extensions.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\de\Microsoft.VisualStudio.Workspace.Extensions.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /de/Microsoft.VisualStudio.Workspace.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /de/Microsoft.VisualStudio.Workspace.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\de\Microsoft.VisualStudio.Workspace.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /de/Microsoft.VisualStudio.Workspace.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\de\Microsoft.VisualStudio.Workspace.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\de\Microsoft.VisualStudio.Workspace.Implementation.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /de/Microsoft.VisualStudio.Workspace.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /de/Microsoft.VisualStudio.Workspace.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\de\Microsoft.VisualStudio.Workspace.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /de/Microsoft.VisualStudio.Workspace.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\de\Microsoft.VisualStudio.Workspace.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\de\Microsoft.VisualStudio.Workspace.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /de/Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /de/Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\de\Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /de/Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\de\Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\de\Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /DefaultGenericSettings.json
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /DefaultGenericSettings.json to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\DefaultGenericSettings.json
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /DefaultGenericSettings.json to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\DefaultGenericSettings.json
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\DefaultGenericSettings.json'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /es/Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /es/Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\es\Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /es/Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\es\Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\es\Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /es/Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /es/Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\es\Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /es/Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\es\Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\es\Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /es/Microsoft.VisualStudio.Workspace.Extensions.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /es/Microsoft.VisualStudio.Workspace.Extensions.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\es\Microsoft.VisualStudio.Workspace.Extensions.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /es/Microsoft.VisualStudio.Workspace.Extensions.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\es\Microsoft.VisualStudio.Workspace.Extensions.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\es\Microsoft.VisualStudio.Workspace.Extensions.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /es/Microsoft.VisualStudio.Workspace.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /es/Microsoft.VisualStudio.Workspace.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\es\Microsoft.VisualStudio.Workspace.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /es/Microsoft.VisualStudio.Workspace.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\es\Microsoft.VisualStudio.Workspace.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\es\Microsoft.VisualStudio.Workspace.Implementation.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /es/Microsoft.VisualStudio.Workspace.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /es/Microsoft.VisualStudio.Workspace.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\es\Microsoft.VisualStudio.Workspace.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /es/Microsoft.VisualStudio.Workspace.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\es\Microsoft.VisualStudio.Workspace.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\es\Microsoft.VisualStudio.Workspace.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /es/Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /es/Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\es\Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /es/Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\es\Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\es\Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /fr/Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /fr/Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\fr\Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /fr/Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\fr\Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\fr\Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /fr/Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /fr/Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\fr\Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /fr/Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\fr\Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\fr\Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /fr/Microsoft.VisualStudio.Workspace.Extensions.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /fr/Microsoft.VisualStudio.Workspace.Extensions.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\fr\Microsoft.VisualStudio.Workspace.Extensions.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /fr/Microsoft.VisualStudio.Workspace.Extensions.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\fr\Microsoft.VisualStudio.Workspace.Extensions.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\fr\Microsoft.VisualStudio.Workspace.Extensions.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /fr/Microsoft.VisualStudio.Workspace.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /fr/Microsoft.VisualStudio.Workspace.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\fr\Microsoft.VisualStudio.Workspace.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /fr/Microsoft.VisualStudio.Workspace.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\fr\Microsoft.VisualStudio.Workspace.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\fr\Microsoft.VisualStudio.Workspace.Implementation.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /fr/Microsoft.VisualStudio.Workspace.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /fr/Microsoft.VisualStudio.Workspace.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\fr\Microsoft.VisualStudio.Workspace.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /fr/Microsoft.VisualStudio.Workspace.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\fr\Microsoft.VisualStudio.Workspace.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\fr\Microsoft.VisualStudio.Workspace.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /fr/Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /fr/Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\fr\Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /fr/Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\fr\Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\fr\Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /it/Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /it/Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\it\Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /it/Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\it\Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\it\Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /it/Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /it/Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\it\Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /it/Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\it\Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\it\Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /it/Microsoft.VisualStudio.Workspace.Extensions.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /it/Microsoft.VisualStudio.Workspace.Extensions.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\it\Microsoft.VisualStudio.Workspace.Extensions.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /it/Microsoft.VisualStudio.Workspace.Extensions.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\it\Microsoft.VisualStudio.Workspace.Extensions.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\it\Microsoft.VisualStudio.Workspace.Extensions.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /it/Microsoft.VisualStudio.Workspace.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /it/Microsoft.VisualStudio.Workspace.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\it\Microsoft.VisualStudio.Workspace.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /it/Microsoft.VisualStudio.Workspace.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\it\Microsoft.VisualStudio.Workspace.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\it\Microsoft.VisualStudio.Workspace.Implementation.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /it/Microsoft.VisualStudio.Workspace.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /it/Microsoft.VisualStudio.Workspace.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\it\Microsoft.VisualStudio.Workspace.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /it/Microsoft.VisualStudio.Workspace.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\it\Microsoft.VisualStudio.Workspace.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\it\Microsoft.VisualStudio.Workspace.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /it/Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /it/Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\it\Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /it/Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\it\Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\it\Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /ja/Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /ja/Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ja\Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /ja/Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ja\Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ja\Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /ja/Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /ja/Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ja\Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /ja/Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ja\Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ja\Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /ja/Microsoft.VisualStudio.Workspace.Extensions.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /ja/Microsoft.VisualStudio.Workspace.Extensions.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ja\Microsoft.VisualStudio.Workspace.Extensions.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /ja/Microsoft.VisualStudio.Workspace.Extensions.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ja\Microsoft.VisualStudio.Workspace.Extensions.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ja\Microsoft.VisualStudio.Workspace.Extensions.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /ja/Microsoft.VisualStudio.Workspace.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /ja/Microsoft.VisualStudio.Workspace.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ja\Microsoft.VisualStudio.Workspace.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /ja/Microsoft.VisualStudio.Workspace.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ja\Microsoft.VisualStudio.Workspace.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ja\Microsoft.VisualStudio.Workspace.Implementation.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /ja/Microsoft.VisualStudio.Workspace.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /ja/Microsoft.VisualStudio.Workspace.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ja\Microsoft.VisualStudio.Workspace.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /ja/Microsoft.VisualStudio.Workspace.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ja\Microsoft.VisualStudio.Workspace.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ja\Microsoft.VisualStudio.Workspace.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /ja/Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /ja/Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ja\Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /ja/Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ja\Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ja\Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /ko/Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /ko/Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ko\Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /ko/Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ko\Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ko\Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /ko/Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /ko/Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ko\Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /ko/Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ko\Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ko\Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /ko/Microsoft.VisualStudio.Workspace.Extensions.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /ko/Microsoft.VisualStudio.Workspace.Extensions.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ko\Microsoft.VisualStudio.Workspace.Extensions.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /ko/Microsoft.VisualStudio.Workspace.Extensions.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ko\Microsoft.VisualStudio.Workspace.Extensions.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ko\Microsoft.VisualStudio.Workspace.Extensions.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /ko/Microsoft.VisualStudio.Workspace.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /ko/Microsoft.VisualStudio.Workspace.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ko\Microsoft.VisualStudio.Workspace.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /ko/Microsoft.VisualStudio.Workspace.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ko\Microsoft.VisualStudio.Workspace.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ko\Microsoft.VisualStudio.Workspace.Implementation.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /ko/Microsoft.VisualStudio.Workspace.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /ko/Microsoft.VisualStudio.Workspace.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ko\Microsoft.VisualStudio.Workspace.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /ko/Microsoft.VisualStudio.Workspace.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ko\Microsoft.VisualStudio.Workspace.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ko\Microsoft.VisualStudio.Workspace.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /ko/Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /ko/Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ko\Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /ko/Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ko\Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ko\Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /manifest.json
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /manifest.json to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\manifest.json
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /manifest.json to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\manifest.json
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\manifest.json'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /Microsoft.VisualStudio.Workspace.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /Microsoft.VisualStudio.Workspace.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\Microsoft.VisualStudio.Workspace.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /Microsoft.VisualStudio.Workspace.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\Microsoft.VisualStudio.Workspace.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\Microsoft.VisualStudio.Workspace.dll'.
+[da4c:0007][2026-05-10T00:50:03] Queueing D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\Microsoft.VisualStudio.Workspace.dll for X86 ngen
+[da4c:0007][2026-05-10T00:50:03] Successfully queued file '/Microsoft.VisualStudio.Workspace.dll' for ngen
+[da4c:0007][2026-05-10T00:50:03] Processing file /Microsoft.VisualStudio.Workspace.Extensions.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /Microsoft.VisualStudio.Workspace.Extensions.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\Microsoft.VisualStudio.Workspace.Extensions.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /Microsoft.VisualStudio.Workspace.Extensions.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\Microsoft.VisualStudio.Workspace.Extensions.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\Microsoft.VisualStudio.Workspace.Extensions.dll'.
+[da4c:0007][2026-05-10T00:50:03] Queueing D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\Microsoft.VisualStudio.Workspace.Extensions.dll for X86 ngen
+[da4c:0007][2026-05-10T00:50:03] Successfully queued file '/Microsoft.VisualStudio.Workspace.Extensions.dll' for ngen
+[da4c:0007][2026-05-10T00:50:03] Processing file /Microsoft.VisualStudio.Workspace.Extensions.Implementation.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /Microsoft.VisualStudio.Workspace.Extensions.Implementation.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\Microsoft.VisualStudio.Workspace.Extensions.Implementation.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /Microsoft.VisualStudio.Workspace.Extensions.Implementation.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\Microsoft.VisualStudio.Workspace.Extensions.Implementation.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\Microsoft.VisualStudio.Workspace.Extensions.Implementation.dll'.
+[da4c:0007][2026-05-10T00:50:03] Queueing D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\Microsoft.VisualStudio.Workspace.Extensions.Implementation.dll for X86 ngen
+[da4c:0007][2026-05-10T00:50:03] Successfully queued file '/Microsoft.VisualStudio.Workspace.Extensions.Implementation.dll' for ngen
+[da4c:0007][2026-05-10T00:50:03] Processing file /Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.dll'.
+[da4c:0007][2026-05-10T00:50:03] Queueing D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.dll for X86 ngen
+[da4c:0007][2026-05-10T00:50:03] Successfully queued file '/Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.dll' for ngen
+[da4c:0007][2026-05-10T00:50:03] Processing file /Microsoft.VisualStudio.Workspace.Extensions.VS.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /Microsoft.VisualStudio.Workspace.Extensions.VS.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\Microsoft.VisualStudio.Workspace.Extensions.VS.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /Microsoft.VisualStudio.Workspace.Extensions.VS.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\Microsoft.VisualStudio.Workspace.Extensions.VS.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\Microsoft.VisualStudio.Workspace.Extensions.VS.dll'.
+[da4c:0007][2026-05-10T00:50:03] Queueing D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\Microsoft.VisualStudio.Workspace.Extensions.VS.dll for X86 ngen
+[da4c:0007][2026-05-10T00:50:03] Successfully queued file '/Microsoft.VisualStudio.Workspace.Extensions.VS.dll' for ngen
+[da4c:0007][2026-05-10T00:50:03] Processing file /Microsoft.VisualStudio.Workspace.Implementation.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /Microsoft.VisualStudio.Workspace.Implementation.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\Microsoft.VisualStudio.Workspace.Implementation.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /Microsoft.VisualStudio.Workspace.Implementation.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\Microsoft.VisualStudio.Workspace.Implementation.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\Microsoft.VisualStudio.Workspace.Implementation.dll'.
+[da4c:0007][2026-05-10T00:50:03] Queueing D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\Microsoft.VisualStudio.Workspace.Implementation.dll for X86 ngen
+[da4c:0007][2026-05-10T00:50:03] Successfully queued file '/Microsoft.VisualStudio.Workspace.Implementation.dll' for ngen
+[da4c:0007][2026-05-10T00:50:03] Processing file /Microsoft.VisualStudio.Workspace.VSIntegration.Contracts.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /Microsoft.VisualStudio.Workspace.VSIntegration.Contracts.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\Microsoft.VisualStudio.Workspace.VSIntegration.Contracts.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /Microsoft.VisualStudio.Workspace.VSIntegration.Contracts.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\Microsoft.VisualStudio.Workspace.VSIntegration.Contracts.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\Microsoft.VisualStudio.Workspace.VSIntegration.Contracts.dll'.
+[da4c:0007][2026-05-10T00:50:03] Queueing D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\Microsoft.VisualStudio.Workspace.VSIntegration.Contracts.dll for X86 ngen
+[da4c:0007][2026-05-10T00:50:03] Successfully queued file '/Microsoft.VisualStudio.Workspace.VSIntegration.Contracts.dll' for ngen
+[da4c:0007][2026-05-10T00:50:03] Processing file /Microsoft.VisualStudio.Workspace.VSIntegration.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /Microsoft.VisualStudio.Workspace.VSIntegration.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\Microsoft.VisualStudio.Workspace.VSIntegration.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /Microsoft.VisualStudio.Workspace.VSIntegration.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\Microsoft.VisualStudio.Workspace.VSIntegration.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\Microsoft.VisualStudio.Workspace.VSIntegration.dll'.
+[da4c:0007][2026-05-10T00:50:03] Queueing D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\Microsoft.VisualStudio.Workspace.VSIntegration.dll for X86 ngen
+[da4c:0007][2026-05-10T00:50:03] Successfully queued file '/Microsoft.VisualStudio.Workspace.VSIntegration.dll' for ngen
+[da4c:0007][2026-05-10T00:50:03] Processing file /pl/Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /pl/Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\pl\Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /pl/Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\pl\Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\pl\Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /pl/Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /pl/Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\pl\Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /pl/Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\pl\Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\pl\Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /pl/Microsoft.VisualStudio.Workspace.Extensions.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /pl/Microsoft.VisualStudio.Workspace.Extensions.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\pl\Microsoft.VisualStudio.Workspace.Extensions.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /pl/Microsoft.VisualStudio.Workspace.Extensions.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\pl\Microsoft.VisualStudio.Workspace.Extensions.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\pl\Microsoft.VisualStudio.Workspace.Extensions.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /pl/Microsoft.VisualStudio.Workspace.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /pl/Microsoft.VisualStudio.Workspace.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\pl\Microsoft.VisualStudio.Workspace.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /pl/Microsoft.VisualStudio.Workspace.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\pl\Microsoft.VisualStudio.Workspace.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\pl\Microsoft.VisualStudio.Workspace.Implementation.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /pl/Microsoft.VisualStudio.Workspace.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /pl/Microsoft.VisualStudio.Workspace.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\pl\Microsoft.VisualStudio.Workspace.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /pl/Microsoft.VisualStudio.Workspace.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\pl\Microsoft.VisualStudio.Workspace.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\pl\Microsoft.VisualStudio.Workspace.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /pl/Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /pl/Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\pl\Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /pl/Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\pl\Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\pl\Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /pt-BR/Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /pt-BR/Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\pt-BR\Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /pt-BR/Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\pt-BR\Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\pt-BR\Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /pt-BR/Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /pt-BR/Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\pt-BR\Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /pt-BR/Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\pt-BR\Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\pt-BR\Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /pt-BR/Microsoft.VisualStudio.Workspace.Extensions.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /pt-BR/Microsoft.VisualStudio.Workspace.Extensions.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\pt-BR\Microsoft.VisualStudio.Workspace.Extensions.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /pt-BR/Microsoft.VisualStudio.Workspace.Extensions.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\pt-BR\Microsoft.VisualStudio.Workspace.Extensions.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\pt-BR\Microsoft.VisualStudio.Workspace.Extensions.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /pt-BR/Microsoft.VisualStudio.Workspace.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /pt-BR/Microsoft.VisualStudio.Workspace.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\pt-BR\Microsoft.VisualStudio.Workspace.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /pt-BR/Microsoft.VisualStudio.Workspace.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\pt-BR\Microsoft.VisualStudio.Workspace.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\pt-BR\Microsoft.VisualStudio.Workspace.Implementation.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /pt-BR/Microsoft.VisualStudio.Workspace.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /pt-BR/Microsoft.VisualStudio.Workspace.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\pt-BR\Microsoft.VisualStudio.Workspace.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /pt-BR/Microsoft.VisualStudio.Workspace.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\pt-BR\Microsoft.VisualStudio.Workspace.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\pt-BR\Microsoft.VisualStudio.Workspace.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /pt-BR/Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /pt-BR/Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\pt-BR\Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /pt-BR/Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\pt-BR\Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\pt-BR\Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /ru/Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /ru/Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ru\Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /ru/Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ru\Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ru\Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /ru/Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /ru/Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ru\Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /ru/Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ru\Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ru\Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /ru/Microsoft.VisualStudio.Workspace.Extensions.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /ru/Microsoft.VisualStudio.Workspace.Extensions.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ru\Microsoft.VisualStudio.Workspace.Extensions.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /ru/Microsoft.VisualStudio.Workspace.Extensions.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ru\Microsoft.VisualStudio.Workspace.Extensions.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ru\Microsoft.VisualStudio.Workspace.Extensions.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /ru/Microsoft.VisualStudio.Workspace.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /ru/Microsoft.VisualStudio.Workspace.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ru\Microsoft.VisualStudio.Workspace.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /ru/Microsoft.VisualStudio.Workspace.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ru\Microsoft.VisualStudio.Workspace.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ru\Microsoft.VisualStudio.Workspace.Implementation.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /ru/Microsoft.VisualStudio.Workspace.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /ru/Microsoft.VisualStudio.Workspace.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ru\Microsoft.VisualStudio.Workspace.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /ru/Microsoft.VisualStudio.Workspace.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ru\Microsoft.VisualStudio.Workspace.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ru\Microsoft.VisualStudio.Workspace.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /ru/Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /ru/Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ru\Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Completed: Copying file /ru/Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ru\Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll
+[da4c:0007][2026-05-10T00:50:03] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\ru\Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll'.
+[da4c:0007][2026-05-10T00:50:03] Processing file /runtimes/win-arm64/native/e_sqlite3.dll
+[da4c:0007][2026-05-10T00:50:03] Started: Copying file /runtimes/win-arm64/native/e_sqlite3.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\runtimes\win-arm64\native\e_sqlite3.dll
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /runtimes/win-arm64/native/e_sqlite3.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\runtimes\win-arm64\native\e_sqlite3.dll
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\runtimes\win-arm64\native\e_sqlite3.dll'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /runtimes/win-x64/native/e_sqlite3.dll
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /runtimes/win-x64/native/e_sqlite3.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\runtimes\win-x64\native\e_sqlite3.dll
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /runtimes/win-x64/native/e_sqlite3.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\runtimes\win-x64\native\e_sqlite3.dll
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\runtimes\win-x64\native\e_sqlite3.dll'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /runtimes/win-x86/native/e_sqlite3.dll
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /runtimes/win-x86/native/e_sqlite3.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\runtimes\win-x86\native\e_sqlite3.dll
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /runtimes/win-x86/native/e_sqlite3.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\runtimes\win-x86\native\e_sqlite3.dll
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\runtimes\win-x86\native\e_sqlite3.dll'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /SQLitePCLRaw.batteries_v2.dll
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /SQLitePCLRaw.batteries_v2.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\SQLitePCLRaw.batteries_v2.dll
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /SQLitePCLRaw.batteries_v2.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\SQLitePCLRaw.batteries_v2.dll
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\SQLitePCLRaw.batteries_v2.dll'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /SQLitePCLRaw.core.dll
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /SQLitePCLRaw.core.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\SQLitePCLRaw.core.dll
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /SQLitePCLRaw.core.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\SQLitePCLRaw.core.dll
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\SQLitePCLRaw.core.dll'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /SQLitePCLRaw.provider.dynamic_cdecl.dll
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /SQLitePCLRaw.provider.dynamic_cdecl.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\SQLitePCLRaw.provider.dynamic_cdecl.dll
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /SQLitePCLRaw.provider.dynamic_cdecl.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\SQLitePCLRaw.provider.dynamic_cdecl.dll
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\SQLitePCLRaw.provider.dynamic_cdecl.dll'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /tr/Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /tr/Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\tr\Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /tr/Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\tr\Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\tr\Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /tr/Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /tr/Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\tr\Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /tr/Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\tr\Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\tr\Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /tr/Microsoft.VisualStudio.Workspace.Extensions.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /tr/Microsoft.VisualStudio.Workspace.Extensions.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\tr\Microsoft.VisualStudio.Workspace.Extensions.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /tr/Microsoft.VisualStudio.Workspace.Extensions.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\tr\Microsoft.VisualStudio.Workspace.Extensions.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\tr\Microsoft.VisualStudio.Workspace.Extensions.resources.dll'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /tr/Microsoft.VisualStudio.Workspace.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /tr/Microsoft.VisualStudio.Workspace.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\tr\Microsoft.VisualStudio.Workspace.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /tr/Microsoft.VisualStudio.Workspace.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\tr\Microsoft.VisualStudio.Workspace.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\tr\Microsoft.VisualStudio.Workspace.Implementation.resources.dll'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /tr/Microsoft.VisualStudio.Workspace.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /tr/Microsoft.VisualStudio.Workspace.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\tr\Microsoft.VisualStudio.Workspace.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /tr/Microsoft.VisualStudio.Workspace.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\tr\Microsoft.VisualStudio.Workspace.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\tr\Microsoft.VisualStudio.Workspace.resources.dll'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /tr/Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /tr/Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\tr\Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /tr/Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\tr\Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\tr\Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /VSIntegrationPackage.pkgdef
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /VSIntegrationPackage.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\VSIntegrationPackage.pkgdef
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /VSIntegrationPackage.pkgdef to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\VSIntegrationPackage.pkgdef
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\VSIntegrationPackage.pkgdef'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /zh-Hans/Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /zh-Hans/Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\zh-Hans\Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /zh-Hans/Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\zh-Hans\Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\zh-Hans\Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /zh-Hans/Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /zh-Hans/Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\zh-Hans\Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /zh-Hans/Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\zh-Hans\Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\zh-Hans\Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /zh-Hans/Microsoft.VisualStudio.Workspace.Extensions.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /zh-Hans/Microsoft.VisualStudio.Workspace.Extensions.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\zh-Hans\Microsoft.VisualStudio.Workspace.Extensions.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /zh-Hans/Microsoft.VisualStudio.Workspace.Extensions.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\zh-Hans\Microsoft.VisualStudio.Workspace.Extensions.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\zh-Hans\Microsoft.VisualStudio.Workspace.Extensions.resources.dll'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /zh-Hans/Microsoft.VisualStudio.Workspace.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /zh-Hans/Microsoft.VisualStudio.Workspace.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\zh-Hans\Microsoft.VisualStudio.Workspace.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /zh-Hans/Microsoft.VisualStudio.Workspace.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\zh-Hans\Microsoft.VisualStudio.Workspace.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\zh-Hans\Microsoft.VisualStudio.Workspace.Implementation.resources.dll'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /zh-Hans/Microsoft.VisualStudio.Workspace.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /zh-Hans/Microsoft.VisualStudio.Workspace.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\zh-Hans\Microsoft.VisualStudio.Workspace.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /zh-Hans/Microsoft.VisualStudio.Workspace.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\zh-Hans\Microsoft.VisualStudio.Workspace.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\zh-Hans\Microsoft.VisualStudio.Workspace.resources.dll'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /zh-Hans/Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /zh-Hans/Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\zh-Hans\Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /zh-Hans/Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\zh-Hans\Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\zh-Hans\Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /zh-Hant/Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /zh-Hant/Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\zh-Hant\Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /zh-Hant/Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\zh-Hant\Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\zh-Hant\Microsoft.VisualStudio.Workspace.Extensions.Implementation.resources.dll'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /zh-Hant/Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /zh-Hant/Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\zh-Hant\Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /zh-Hant/Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\zh-Hant\Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\zh-Hant\Microsoft.VisualStudio.Workspace.Extensions.Implementation.VS.resources.dll'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /zh-Hant/Microsoft.VisualStudio.Workspace.Extensions.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /zh-Hant/Microsoft.VisualStudio.Workspace.Extensions.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\zh-Hant\Microsoft.VisualStudio.Workspace.Extensions.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /zh-Hant/Microsoft.VisualStudio.Workspace.Extensions.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\zh-Hant\Microsoft.VisualStudio.Workspace.Extensions.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\zh-Hant\Microsoft.VisualStudio.Workspace.Extensions.resources.dll'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /zh-Hant/Microsoft.VisualStudio.Workspace.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /zh-Hant/Microsoft.VisualStudio.Workspace.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\zh-Hant\Microsoft.VisualStudio.Workspace.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /zh-Hant/Microsoft.VisualStudio.Workspace.Implementation.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\zh-Hant\Microsoft.VisualStudio.Workspace.Implementation.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\zh-Hant\Microsoft.VisualStudio.Workspace.Implementation.resources.dll'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /zh-Hant/Microsoft.VisualStudio.Workspace.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /zh-Hant/Microsoft.VisualStudio.Workspace.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\zh-Hant\Microsoft.VisualStudio.Workspace.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /zh-Hant/Microsoft.VisualStudio.Workspace.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\zh-Hant\Microsoft.VisualStudio.Workspace.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\zh-Hant\Microsoft.VisualStudio.Workspace.resources.dll'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /zh-Hant/Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /zh-Hant/Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\zh-Hant\Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /zh-Hant/Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\zh-Hant\Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\zh-Hant\Microsoft.VisualStudio.Workspace.VSIntegration.resources.dll'.
+[da4c:0007][2026-05-10T00:50:04] Processing file /extension.vsixmanifest
+[da4c:0007][2026-05-10T00:50:04] Started: Copying file /extension.vsixmanifest to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\extension.vsixmanifest
+[da4c:0007][2026-05-10T00:50:04] Completed: Copying file /extension.vsixmanifest to D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\extension.vsixmanifest
+[da4c:0007][2026-05-10T00:50:04] Timestamp updated for file 'D:\Program\Common7\IDE\CommonExtensions\Microsoft\OpenFolder\extension.vsixmanifest'.
+[da4c:0007][2026-05-10T00:50:04] Package executed successfully. Return code: 0

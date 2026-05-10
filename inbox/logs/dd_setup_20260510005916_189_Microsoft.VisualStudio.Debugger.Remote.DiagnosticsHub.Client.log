@@ -1,0 +1,6 @@
+[bd94:0009][2026-05-10T01:00:53] Using cached package manifest as the embedded manifest
+[bd94:0009][2026-05-10T01:00:53] Processing file /Contents/Common7/IDE/Remote Debugger/x86/DiagnosticsHub.ClientCommon.dll
+[bd94:0009][2026-05-10T01:00:53] D:\Program\Common7\IDE\Remote Debugger\x86\DiagnosticsHub.ClientCommon.dll file deleted.
+[bd94:0009][2026-05-10T01:00:53] Started: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:53] Completed: Deleting empty directories
+[bd94:0009][2026-05-10T01:00:53] Package executed successfully. Return code: 0

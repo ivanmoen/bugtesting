@@ -1,0 +1,64 @@
+[da4c:0007][2026-05-10T00:50:14] Opening the package for processing
+[da4c:0007][2026-05-10T00:50:14] Using package payload to get the embedded manifest
+[da4c:0007][2026-05-10T00:50:14] Getting list of files within the package
+[da4c:0007][2026-05-10T00:50:14] Processing file /contents/Common7/IDE/ItemTemplates/Microsoft.VisualStudio.VC.Templates.General.Resources.en-US.Item..vstman
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /contents/Common7/IDE/ItemTemplates/Microsoft.VisualStudio.VC.Templates.General.Resources.en-US.Item..vstman to D:\Program\Common7\IDE\ItemTemplates\Microsoft.VisualStudio.VC.Templates.General.Resources.en-US.Item..vstman
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /contents/Common7/IDE/ItemTemplates/Microsoft.VisualStudio.VC.Templates.General.Resources.en-US.Item..vstman to D:\Program\Common7\IDE\ItemTemplates\Microsoft.VisualStudio.VC.Templates.General.Resources.en-US.Item..vstman
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\ItemTemplates\Microsoft.VisualStudio.VC.Templates.General.Resources.en-US.Item..vstman'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/ComputeShader/ComputeShader.hlsl
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/ComputeShader/ComputeShader.hlsl to D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\ComputeShader\ComputeShader.hlsl
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/ComputeShader/ComputeShader.hlsl to D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\ComputeShader\ComputeShader.hlsl
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\ComputeShader\ComputeShader.hlsl'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/ComputeShader/ComputeShader.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/ComputeShader/ComputeShader.vstemplate to D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\ComputeShader\ComputeShader.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/ComputeShader/ComputeShader.vstemplate to D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\ComputeShader\ComputeShader.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\ComputeShader\ComputeShader.vstemplate'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/DomainShader/DomainShader.hlsl
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/DomainShader/DomainShader.hlsl to D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\DomainShader\DomainShader.hlsl
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/DomainShader/DomainShader.hlsl to D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\DomainShader\DomainShader.hlsl
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\DomainShader\DomainShader.hlsl'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/DomainShader/DomainShader.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/DomainShader/DomainShader.vstemplate to D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\DomainShader\DomainShader.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/DomainShader/DomainShader.vstemplate to D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\DomainShader\DomainShader.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\DomainShader\DomainShader.vstemplate'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/GeometryShader/GeometryShader.hlsl
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/GeometryShader/GeometryShader.hlsl to D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\GeometryShader\GeometryShader.hlsl
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/GeometryShader/GeometryShader.hlsl to D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\GeometryShader\GeometryShader.hlsl
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\GeometryShader\GeometryShader.hlsl'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/GeometryShader/GeometryShader.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/GeometryShader/GeometryShader.vstemplate to D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\GeometryShader\GeometryShader.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/GeometryShader/GeometryShader.vstemplate to D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\GeometryShader\GeometryShader.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\GeometryShader\GeometryShader.vstemplate'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/Header/Header.hlsli
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/Header/Header.hlsli to D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\Header\Header.hlsli
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/Header/Header.hlsli to D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\Header\Header.hlsli
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\Header\Header.hlsli'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/Header/Header.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/Header/Header.vstemplate to D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\Header\Header.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/Header/Header.vstemplate to D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\Header\Header.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\Header\Header.vstemplate'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/HullShader/HullShader.hlsl
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/HullShader/HullShader.hlsl to D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\HullShader\HullShader.hlsl
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/HullShader/HullShader.hlsl to D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\HullShader\HullShader.hlsl
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\HullShader\HullShader.hlsl'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/HullShader/HullShader.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/HullShader/HullShader.vstemplate to D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\HullShader\HullShader.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/HullShader/HullShader.vstemplate to D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\HullShader\HullShader.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\HullShader\HullShader.vstemplate'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/PixelShader/PixelShader.hlsl
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/PixelShader/PixelShader.hlsl to D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\PixelShader\PixelShader.hlsl
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/PixelShader/PixelShader.hlsl to D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\PixelShader\PixelShader.hlsl
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\PixelShader\PixelShader.hlsl'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/PixelShader/PixelShader.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/PixelShader/PixelShader.vstemplate to D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\PixelShader\PixelShader.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/PixelShader/PixelShader.vstemplate to D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\PixelShader\PixelShader.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\PixelShader\PixelShader.vstemplate'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/VertexShader/VertexShader.hlsl
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/VertexShader/VertexShader.hlsl to D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\VertexShader\VertexShader.hlsl
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/VertexShader/VertexShader.hlsl to D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\VertexShader\VertexShader.hlsl
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\VertexShader\VertexShader.hlsl'.
+[da4c:0007][2026-05-10T00:50:14] Processing file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/VertexShader/VertexShader.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Started: Copying file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/VertexShader/VertexShader.vstemplate to D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\VertexShader\VertexShader.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Completed: Copying file /Contents/Common7/IDE/ItemTemplates/VC/HLSL/1033/VertexShader/VertexShader.vstemplate to D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\VertexShader\VertexShader.vstemplate
+[da4c:0007][2026-05-10T00:50:14] Timestamp updated for file 'D:\Program\Common7\IDE\ItemTemplates\VC\HLSL\1033\VertexShader\VertexShader.vstemplate'.
+[da4c:0007][2026-05-10T00:50:14] Package executed successfully. Return code: 0

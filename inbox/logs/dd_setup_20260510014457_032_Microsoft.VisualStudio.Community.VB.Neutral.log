@@ -1,0 +1,22 @@
+[3474:0009][2026-05-10T01:46:00] Using cached package manifest as the embedded manifest
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/Extensions/Community/MSVB7_Registration_for_VB_3609.3643236F_FC70_11D3_A536_0090278A1BB8.pkgdef
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Community\MSVB7_Registration_for_VB_3609.3643236F_FC70_11D3_A536_0090278A1BB8.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/Extensions/Community/MSVB7_Snippets_Registration_39641.3643236F_FC70_11D3_A536_0090278A1BB8.pkgdef
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Community\MSVB7_Snippets_Registration_39641.3643236F_FC70_11D3_A536_0090278A1BB8.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/Extensions/Community/VB7to8DL_DLL_Reg_27312.3643236F_FC70_11D3_A536_0090278A1BB8.pkgdef
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Community\VB7to8DL_DLL_Reg_27312.3643236F_FC70_11D3_A536_0090278A1BB8.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/Extensions/Community/VB_Debug_Registration_x86.8E110D54_B611_4106_AA24_D1D63302A114.pkgdef
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Community\VB_Debug_Registration_x86.8E110D54_B611_4106_AA24_D1D63302A114.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/Extensions/Community/VB_Install_Dir_Registry_Entry_1882.3643236F_FC70_11D3_A536_0090278A1BB8.pkgdef
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Community\VB_Install_Dir_Registry_Entry_1882.3643236F_FC70_11D3_A536_0090278A1BB8.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/Extensions/Community/VB_Project_Package_745_____x86.3643236F_FC70_11D3_A536_0090278A1BB8.pkgdef
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Community\VB_Project_Package_745_____x86.3643236F_FC70_11D3_A536_0090278A1BB8.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/Extensions/Community/VB_Project_Reg_VS_26699.3643236F_FC70_11D3_A536_0090278A1BB8.pkgdef
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Community\VB_Project_Reg_VS_26699.3643236F_FC70_11D3_A536_0090278A1BB8.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/Extensions/Community/VB_Project_Reg_VS_26699b.3643236F_FC70_11D3_A536_0090278A1BB8.pkgdef
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Community\VB_Project_Reg_VS_26699b.3643236F_FC70_11D3_A536_0090278A1BB8.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:00] Processing file /Contents/Common7/IDE/Extensions/Community/VB_Project_Reg_VS_26704.3643236F_FC70_11D3_A536_0090278A1BB8.pkgdef
+[3474:0009][2026-05-10T01:46:00] D:\Program Files (x86)\Microsoft Visual Studio\2022\BuildTools\Common7\IDE\Extensions\Community\VB_Project_Reg_VS_26704.3643236F_FC70_11D3_A536_0090278A1BB8.pkgdef file deleted.
+[3474:0009][2026-05-10T01:46:00] Started: Deleting empty directories
+[3474:0009][2026-05-10T01:46:00] Completed: Deleting empty directories
+[3474:0009][2026-05-10T01:46:00] Package executed successfully. Return code: 0
